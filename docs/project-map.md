@@ -9,7 +9,8 @@ This file is a navigation index, not a status log.
 | Contribution workflow | [CONTRIBUTING.md](../CONTRIBUTING.md) |
 | Human-readable subject roadmaps | [subjects/](../subjects/) |
 | Machine-readable subjects | [data/subjects.json](../data/subjects.json) |
-| Machine-readable resources | [data/resources.json](../data/resources.json) |
+| Global bibliographic resource identities | [data/resources.json](../data/resources.json) |
+| Subject-specific roadmap placements | [data/placements.json](../data/placements.json) |
 | Data contracts | [schemas/](../schemas/) |
 | Automated validation | [scripts/validate_registry.py](../scripts/validate_registry.py) |
 | Visual conventions | [docs/visual-style.md](visual-style.md) |
