@@ -231,10 +231,10 @@
       "publisher_url": "https://www.routledge.com/Cell-Signaling-2nd-edition-Principles-and-Mechanisms/Lim-Mayer/p/book/9780367279424",
       "purchase_url": "https://www.routledge.com/Cell-Signaling-2nd-edition-Principles-and-Mechanisms/Lim-Mayer/p/book/9780367279424",
       "cover": {
-        "url": "https://dynamic.indigoimages.ca/v1/books/books/0367279371/1.jpg",
-        "source": "Retailer cover fallback; bibliographic authority remains CRC Press/Routledge",
-        "expected_sha256": "744941cd3ff1a279443454636d9f54cc85619d14bd1dfdba977845de32f0d175",
-        "visual_reviewed_on": "2026-09-25",
+        "url": "https://images.routledge.com/common/jackets/crclarge/978036727/9780367279370.jpg",
+        "source": "Official Routledge / CRC Press cover image, paperback ISBN 9780367279370",
+        "expected_sha256": "942ba4b1814a527613380cabdca973e25325097c1d1f1a02e52d4b44142887b0",
+        "visual_reviewed_on": "2026-09-26",
         "visual_review_status": "title_and_edition_checked",
         "source_url": "https://www.routledge.com/Cell-Signaling-2nd-edition-Principles-and-Mechanisms/Lim-Mayer/p/book/9780367279424"
       },
@@ -901,11 +901,11 @@
       "publisher_url": "https://wileycatalog.com/wp-content/uploads/2023/04/full-3.pdf",
       "purchase_url": "https://bookshop.org/p/books/genetic-theory-and-analysis-finding-meaning-in-a-genome-r-scott-hawley/18519287",
       "cover": {
-        "url": "https://dynamic.indigoimages.ca/v1/books/books/1118086929/1.jpg",
-        "source": "Indigo retailer; title and second edition visually checked",
+        "url": "https://media.wiley.com/product_data/coverImage300/29/11180869/1118086929.jpg",
+        "source": "Official Wiley cover image",
         "image_isbn": "9781118086926",
-        "expected_sha256": "8db6c1ba722ecfbe7368f7dbd6a127b4e40e6220f1ce106a0905f61120ff673e",
-        "visual_reviewed_on": "2026-09-25",
+        "expected_sha256": "9308a88a9f8c17418c412ab21f6ed7cf9f05260bf6a5294267e26c9fb9d432b5",
+        "visual_reviewed_on": "2026-09-26",
         "visual_review_status": "title_and_edition_checked",
         "source_url": "https://wileycatalog.com/wp-content/uploads/2023/04/full-3.pdf"
       },
@@ -1237,11 +1237,11 @@
       "publisher_url": "https://www.educate.elsevier.com/book/details/9780128132883",
       "purchase_url": "https://www.educate.elsevier.com/book/details/9780128132883",
       "cover": {
-        "url": "https://dynamic.indigoimages.ca/v1/books/books/0128132884/1.jpg",
-        "source": "Indigo retailer; Clark/Pazdernik/McGehee third edition visually checked",
+        "url": "https://ars.els-cdn.com/content/image/3-s2.0-C20150062293-cov200h.gif",
+        "source": "Official Elsevier cover image",
         "image_isbn": "9780128132883",
-        "expected_sha256": "38e526b1b45f2a7d45a49599a1429123a140df4d3dea64f5846186148ecfd727",
-        "visual_reviewed_on": "2026-09-25",
+        "expected_sha256": "a05c17eef2e8b6fd836e4cc82d8afc3564bedc3cc132163b9a499d8ffa04884a",
+        "visual_reviewed_on": "2026-09-26",
         "visual_review_status": "title_and_edition_checked",
         "source_url": "https://www.educate.elsevier.com/book/details/9780128132883"
       },
