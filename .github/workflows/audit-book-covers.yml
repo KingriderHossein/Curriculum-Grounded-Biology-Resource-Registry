@@ -3,19 +3,9 @@ name: Audit book covers
 on:
   push:
     branches: [feat/microbiology-roadmap]
-    paths:
-      - '.github/workflows/audit-book-covers.yml'
-      - 'scripts/audit_book_covers.py'
-      - 'data/resources.json'
-      - 'subjects/**'
-      - 'README.md'
+    paths: ['.github/workflows/audit-book-covers.yml']
   pull_request:
-    paths:
-      - '.github/workflows/audit-book-covers.yml'
-      - 'scripts/audit_book_covers.py'
-      - 'data/resources.json'
-      - 'subjects/**'
-      - 'README.md'
+    paths: ['scripts/audit_book_covers.py', 'data/resources.json', 'subjects/**', 'README.md']
   workflow_dispatch:
 
 permissions:
@@ -42,12 +32,9 @@ jobs:
         run: |
           mkdir -p cover-audit
           git archive HEAD > cover-audit/source.tar
-      - name: Fetch and decode every registered book cover
-        run: python scripts/audit_book_covers.py --out cover-audit
-      - name: Collect alternative images without approving them
-        if: always()
-        run: python scripts/propose_cover_replacements.py
-      - name: Preserve audit and visual evidence
+      - name: Collect remaining images without approving them
+        run: python scripts/inspect_remaining_covers.py
+      - name: Preserve visual evidence
         if: always()
         uses: actions/upload-artifact@v4
         with:
