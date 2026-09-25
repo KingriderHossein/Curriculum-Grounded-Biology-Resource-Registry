@@ -55,7 +55,7 @@
 - **قدم بعدی:** پس از یک دور کامل، برای تحلیل ژنتیکی عمیق‌تر از ⁦Introduction to Genetic Analysis⁩ استفاده کنید.
 - **مشخصات:** ⁦Benjamin A. Pierce⁩ · ⁦Macmillan Learning⁩ · ⁦2024⁩ · ⁦7th Edition⁩ · ⁦ISBN: 9781319546700⁩
 
-[صفحه رسمی / خرید](https://www.macmillanlearning.com/ed/uk/product/Genetics-A-Conceptual-Approach-Update--7th-edition/p/1319546706)
+[صفحه رسمی ناشر و خرید](https://www.macmillanlearning.com/ed/uk/product/Genetics-A-Conceptual-Approach-Update--7th-edition/p/1319546706)
 
 ---
 
@@ -74,7 +74,7 @@
 - **قدم بعدی:** برای نگاه پیشرفته‌تر به منطق آزمایش ژنتیکی، جهش، مکمل‌سازی و اپیستازی به ⁦Genetic Theory and Analysis⁩ بروید.
 - **مشخصات:** ⁦Anthony J. F. Griffiths⁩, ⁦John Doebley⁩, ⁦Catherine Peichel⁩, ⁦David A. Wassarman⁩ · ⁦Macmillan Learning⁩ · ⁦2025⁩ · ⁦12th Edition⁩ · ⁦ISBN: 9781319589943⁩
 
-[صفحه رسمی / خرید](https://www.macmillanlearning.com/ed/uk/product/Introduction-to-Genetic-Analysis-Digital-Update--12th-edition/p/1319589944)
+[صفحه رسمی ناشر و خرید](https://www.macmillanlearning.com/ed/uk/product/Introduction-to-Genetic-Analysis-Digital-Update--12th-edition/p/1319589944)
 
 ---
 
@@ -93,7 +93,7 @@
 - **قدم بعدی:** پس از آن، بر اساس موضوع مورد علاقه وارد یکی از شاخه‌های تخصصی این صفحه شوید.
 - **مشخصات:** ⁦Danny E. Miller⁩, ⁦Angela L. Miller⁩, ⁦R. Scott Hawley⁩ · ⁦Wiley⁩ · ⁦2023⁩ · ⁦2nd Edition⁩ · ⁦ISBN: 9781118086926⁩
 
-[صفحه رسمی / خرید](https://bookshop.org/p/books/genetic-theory-and-analysis-finding-meaning-in-a-genome-r-scott-hawley/18519287)
+[اطلاعات رسمی ناشر](https://wileycatalog.com/wp-content/uploads/2023/04/full-3.pdf) · [خرید](https://bookshop.org/p/books/genetic-theory-and-analysis-finding-meaning-in-a-genome-r-scott-hawley/18519287)
 
 ---
 
