@@ -75,6 +75,11 @@ A subject is considered meaningfully implemented when:
 
 Curriculum mappings may later answer which part of a roadmap corresponds to a named course or degree. They are secondary navigation metadata, not the scientific backbone.
 
-## Current pilot
+## Reference implementations
 
-**Subject: Cell Biology / زیست‌شناسی سلولی**
+The current reference-quality subjects are:
+
+- **Cell Biology / زیست‌شناسی سلولی**
+- **Biochemistry / بیوشیمی**
+
+New subjects should reuse this architecture instead of introducing a parallel resource model.
