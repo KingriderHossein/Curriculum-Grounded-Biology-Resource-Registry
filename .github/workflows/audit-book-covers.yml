@@ -2,10 +2,22 @@ name: Audit book covers
 
 on:
   push:
-    branches: [feat/microbiology-roadmap]
-    paths: ['.github/workflows/audit-book-covers.yml']
+    branches: [main, feat/microbiology-roadmap]
+    paths:
+      - '.github/workflows/audit-book-covers.yml'
+      - 'scripts/audit*cover*.py'
+      - 'data/resources.json'
+      - 'data/placements.json'
+      - 'subjects/**'
+      - 'README.md'
   pull_request:
-    paths: ['scripts/audit_book_covers.py', 'data/resources.json', 'subjects/**', 'README.md']
+    paths:
+      - '.github/workflows/audit-book-covers.yml'
+      - 'scripts/audit*cover*.py'
+      - 'data/resources.json'
+      - 'data/placements.json'
+      - 'subjects/**'
+      - 'README.md'
   workflow_dispatch:
 
 permissions:
@@ -18,7 +30,7 @@ concurrency:
 jobs:
   covers:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
         with:
@@ -26,15 +38,22 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Install image decoders
-        run: python -m pip install 'Pillow==11.3.0' 'CairoSVG==2.8.2'
-      - name: Export exact public source snapshot
+      - name: Install image and browser test tools
+        run: |
+          python -m pip install 'Pillow==11.3.0' 'CairoSVG==2.8.2' 'playwright==1.55.0'
+          python -m playwright install --with-deps chromium
+      - name: Export exact source for evidence review
         run: |
           mkdir -p cover-audit
           git archive HEAD > cover-audit/source.tar
-      - name: Collect remaining images without approving them
-        run: python scripts/inspect_remaining_covers.py
-      - name: Preserve visual evidence
+      - name: Validate registry relationships
+        run: python scripts/validate_registry.py
+      - name: Fetch, decode and compare reviewed cover bytes
+        run: python scripts/audit_book_covers.py --out cover-audit
+      - name: Verify covers on real GitHub desktop and mobile pages
+        if: always()
+        run: python scripts/audit_rendered_covers.py --out cover-audit/browser
+      - name: Preserve image and browser evidence
         if: always()
         uses: actions/upload-artifact@v4
         with:
