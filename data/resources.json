@@ -16,8 +16,8 @@
       "publisher_url": "https://wwnorton.co.uk/books/9781324033394-essential-cell-biology-c7a43b27-8186-4ee2-b83f-e60dd511e7ac",
       "purchase_url": "https://wwnorton.co.uk/books/9781324033394-essential-cell-biology-c7a43b27-8186-4ee2-b83f-e60dd511e7ac",
       "cover": {
-        "url": "https://covers.openlibrary.org/b/isbn/9781324033394-L.jpg?default=false",
-        "source": "Open Library ISBN cover service"
+        "url": "https://cdn2.wwnorton.com/wwnproducts/COLLEG/4/9/9781324033394/9781324033394_198.jpg",
+        "source": "Official publisher cover image"
       },
       "coverage_topic_ids": ["CB01","CB02","CB03","CB04","CB05","CB06","CB07","CB08","CB09","CB10","CB11","CB12"],
       "selection_rationale": "Current published edition suitable for a first undergraduate cell-biology course; strong visual and pedagogical fit.",
@@ -39,8 +39,8 @@
       "publisher_url": "https://www.oup.com.au/books/higher-education/biological-sciences/9780197583722",
       "purchase_url": "https://www.oup.com.au/books/higher-education/biological-sciences/9780197583722",
       "cover": {
-        "url": "https://covers.openlibrary.org/b/isbn/9780197583722-L.jpg?default=false",
-        "source": "Open Library ISBN cover service"
+        "url": "https://fdslive.oup.com/covers/anz/desktop/medium/9780197583722.jpg",
+        "source": "Official publisher cover image"
       },
       "coverage_topic_ids": ["CB01","CB02","CB03","CB04","CB05","CB06","CB07","CB08","CB09","CB10","CB11","CB12"],
       "selection_rationale": "Undergraduate-focused text whose subcellular structure/function chapters align closely with the official syllabus.",
@@ -62,8 +62,8 @@
       "publisher_url": "https://wwnorton.co.uk/books/9780393884852-molecular-biology-of-the-cell",
       "purchase_url": "https://wwnorton.co.uk/books/9780393884852-molecular-biology-of-the-cell",
       "cover": {
-        "url": "https://covers.openlibrary.org/b/isbn/9780393884852-L.jpg?default=false",
-        "source": "Open Library ISBN cover service"
+        "url": "https://cdn2.wwnorton.com/wwnproducts/COLLEG/2/5/9780393884852/9780393884852_198.jpg",
+        "source": "Official publisher cover image"
       },
       "coverage_topic_ids": ["CB01","CB02","CB03","CB04","CB05","CB06","CB07","CB08","CB09","CB10","CB11","CB12"],
       "selection_rationale": "Comprehensive mechanistic reference for deeper study after the core undergraduate text.",
