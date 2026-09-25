@@ -18,8 +18,9 @@ Every mature subject roadmap should distinguish:
 
 1. **Foundation** — prerequisites and first exposure;
 2. **Core** — the main textbook/resource sequence for learning the subject properly;
-3. **Advanced** — deeper mechanistic or research-level references;
-4. **Specialized branches** — subdomains that diverge inside the subject and need their own references.
+3. **Intermediate** — a stronger second pass and broader reference layer;
+4. **Advanced** — deeper mechanistic or research-level references;
+5. **Specialized branches** — subdomains that diverge inside the subject and need their own references.
 
 A learner should be able to see not only *what to read*, but *in what order* and *why*.
 
@@ -62,7 +63,7 @@ For each resource, the project should answer:
 A subject is considered meaningfully implemented when:
 
 1. its prerequisite/foundation layer is identified;
-2. a coherent Core → Advanced sequence exists;
+2. a coherent Core → Intermediate → Advanced sequence exists;
 3. major specialized branches are separated;
 4. resources are mapped to stages and concept areas;
 5. bibliographic metadata and authoritative URLs are verified;
@@ -72,13 +73,7 @@ A subject is considered meaningfully implemented when:
 
 ## Optional curriculum layer
 
-Curriculum mappings may later answer questions such as:
-
-- Which subjects are expected in a particular B.Sc. program?
-- Which part of this roadmap corresponds to a named university course?
-- Where does a curriculum stop relative to the full subject roadmap?
-
-They are secondary navigation metadata, not the scientific backbone.
+Curriculum mappings may later answer which part of a roadmap corresponds to a named course or degree. They are secondary navigation metadata, not the scientific backbone.
 
 ## Current pilot
 
