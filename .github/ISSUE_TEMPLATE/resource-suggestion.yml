@@ -1,13 +1,13 @@
 name: Resource suggestion
-description: Propose a theory-only scientific resource for an existing course.
+description: Propose a theory-only scientific resource for a subject roadmap.
 title: "[Resource] "
 labels: []
 body:
   - type: input
-    id: course
+    id: subject
     attributes:
-      label: Course ID
-      placeholder: MSRT-BSC-ANIMAL-CELL-BIOLOGY-1400
+      label: Subject ID
+      placeholder: CELL-BIOLOGY
     validations:
       required: true
 
@@ -19,10 +19,24 @@ body:
       required: true
 
   - type: dropdown
+    id: stage
+    attributes:
+      label: Learning stage
+      options:
+        - Foundation
+        - Core
+        - Intermediate
+        - Advanced
+        - Specialized
+    validations:
+      required: true
+
+  - type: dropdown
     id: type
     attributes:
       label: Resource type
       options:
+        - Foundation textbook
         - Core textbook
         - Reference textbook
         - Advanced textbook
@@ -50,15 +64,15 @@ body:
   - type: textarea
     id: coverage
     attributes:
-      label: Syllabus topic IDs covered
-      placeholder: CB04, CB06
+      label: Concept IDs / specialized branch
+      placeholder: CB04 / organelle-biology
     validations:
       required: true
 
   - type: textarea
     id: rationale
     attributes:
-      label: Why should this source be included?
+      label: Why does this source belong at this stage?
     validations:
       required: true
 
@@ -67,5 +81,5 @@ body:
     attributes:
       label: Scope confirmation
       options:
-        - label: This is a theory-only resource and is not a protocol, laboratory manual, SOP, or hands-on training guide.
+        - label: This is theory-only and is not a protocol, laboratory manual, SOP, or hands-on training guide.
           required: true
