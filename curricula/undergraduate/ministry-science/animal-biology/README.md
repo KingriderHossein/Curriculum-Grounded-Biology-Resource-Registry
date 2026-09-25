@@ -8,7 +8,7 @@
 
 ## Curriculum provenance
 
-The pilot syllabus is taken from the **MSRT 1400 revised B.Sc. Animal Biology curriculum** as indexed in a mirror of the approved document.
+The pilot syllabus is taken from the **MSRT 1400 revised B.Sc. Animal Biology curriculum**, approved in session 156 on **1400/02/05** and amended on **1401/08/10**, as indexed in a mirror of the approved document.
 
 Current indexed mirror:
 
