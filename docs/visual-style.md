@@ -1,37 +1,55 @@
-# Visual Style
+# سبک بصری و نوشتاری
 
-## Design principles
+## هدف
 
-- clean academic layout;
-- high information density without visual clutter;
-- consistent book-cover sizing;
-- restrained use of badges;
-- bilingual labels only where they improve navigation;
-- no decorative graphics that obscure source quality.
+صفحات `subjects/` برای **دانشجو** نوشته می‌شوند. فایل‌های `data/` و `schemas/` محل جزئیات فنی Registry هستند.
 
-## Book cards
+## زبان
 
-Recommended cover width in Markdown: **140–160 px**.
+- زبان پیش‌فرض صفحات دانشجویی فارسی است.
+- عنوان رسمی کتاب، مقاله، ژورنال و شناسه‌هایی مانند ISBN و DOI به زبان اصلی حفظ می‌شوند.
+- تا جای ممکن توضیح‌ها، عنوان بخش‌ها و راهنمای مطالعه فارسی باشند.
+- از ترجمه‌سازی اجباری نام کتاب یا مقاله خودداری شود.
 
-Each card should show:
+## راست‌به‌چپ و چپ‌به‌راست
 
-1. cover;
-2. title;
-3. edition and year;
-4. role;
-5. official publisher/purchase link.
+- جمله‌های فارسی باید با متن فارسی آغاز شوند تا جهت نمایش پایدار بماند.
+- هر عبارت انگلیسی داخل جمله فارسی با Unicode BiDi isolation، ترجیحاً LRI/PDI، ایزوله شود.
+- عنوان مستقل انگلیسی می‌تواند در خط جداگانه نمایش داده شود.
+- از شروع جمله با یک عبارت انگلیسی و ادامه فارسی بدون isolation پرهیز شود.
+- در کارت‌های HTML، متن فارسی با `dir="rtl"` و اطلاعات کتاب‌شناختی انگلیسی در صورت نیاز با `dir="ltr"` نمایش داده شود.
 
-## Cover fallback
+نمونه درست:
 
-A broken/missing cover must never remove or invalidate the scientific record. Bibliographic metadata is primary.
+`کتاب ⁦Molecular Biology of the Cell⁩ برای مطالعه پیشرفته پیشنهاد می‌شود.`
 
-## Color semantics
+## صفحه دانشجو چه چیزی نشان می‌دهد؟
 
-Use badges sparingly:
+برای هر منبع این پنج سؤال باید سریع پاسخ داده شوند:
 
-- green: verified / core;
-- blue: reference / structured data;
-- amber: pilot / provisional;
-- purple: contribution/community.
+1. جایگاه این منبع در مسیر چیست؟
+2. برای چه دانشجویی مناسب است؟
+3. چرا این منبع انتخاب شده است؟
+4. چگونه باید از آن استفاده کرد؟
+5. قدم بعدی پس از آن چیست؟
 
-Do not encode scientific quality only by color.
+## اطلاعاتی که در نمای اصلی کم‌رنگ یا حذف می‌شوند
+
+- شناسه‌های داخلی Concept مانند `CB01`؛
+- وضعیت‌های فنی Registry؛
+- جزئیات معماری Curriculum/Mapping؛
+- تاریخ‌های نگهداری و verification؛
+- توضیح‌های مخصوص توسعه‌دهندگان.
+
+این اطلاعات در داده ماشینی یا مستندات پروژه باقی می‌مانند.
+
+## اطلاعات کتاب‌شناختی
+
+سال، ویرایش، نویسنده، ISBN/DOI و لینک رسمی حذف نمی‌شوند، چون برای تشخیص نسخه دقیق و دسترسی به منبع مفیدند؛ اما پس از راهنمای مطالعه نمایش داده می‌شوند.
+
+## جلد کتاب
+
+- اندازه پیشنهادی جلد: 140 تا 160 پیکسل؛
+- منبع رسمی ناشر ترجیح دارد؛
+- نبود جلد نباید اعتبار علمی رکورد را تغییر دهد؛
+- جلد برای تشخیص بصری است، نه معیار اعتبار علمی.
