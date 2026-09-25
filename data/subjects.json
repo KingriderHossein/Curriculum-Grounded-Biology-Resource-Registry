@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.7.0",
+  "schema_version": "0.8.0",
   "subjects": [
     {
       "id": "CELL-BIOLOGY",
@@ -556,6 +556,115 @@
           "id": "antimicrobial-resistance",
           "label": "Antimicrobial resistance",
           "fa_label": "مقاومت ضدمیکروبی"
+        }
+      ],
+      "status": "complete",
+      "completion_criteria": {
+        "general_roadmap_resources": 4,
+        "specialized_branches_required": 9,
+        "student_guidance_required": true,
+        "theory_only": true
+      },
+      "completed_on": "2026-09-26"
+    },
+    {
+      "id": "EVOLUTIONARY-BIOLOGY",
+      "fa_name": "زیست‌شناسی تکاملی",
+      "en_name": "Evolutionary Biology",
+      "scope": "theoretical",
+      "roadmap_stages": [
+        "foundation",
+        "core",
+        "intermediate",
+        "advanced",
+        "specialized"
+      ],
+      "concepts": [
+        {
+          "id": "EV01",
+          "label": "Evidence, history and logic of evolutionary biology"
+        },
+        {
+          "id": "EV02",
+          "label": "Natural selection, adaptation and fitness"
+        },
+        {
+          "id": "EV03",
+          "label": "Mutation, drift, migration and population-genetic change"
+        },
+        {
+          "id": "EV04",
+          "label": "Quantitative traits and adaptive evolution"
+        },
+        {
+          "id": "EV05",
+          "label": "Molecular evolution and genomic innovation"
+        },
+        {
+          "id": "EV06",
+          "label": "Phylogenetics, common ancestry and comparative methods"
+        },
+        {
+          "id": "EV07",
+          "label": "Species concepts, reproductive isolation and speciation"
+        },
+        {
+          "id": "EV08",
+          "label": "Macroevolution, diversification and extinction"
+        },
+        {
+          "id": "EV09",
+          "label": "Evolution of development and phenotypic innovation"
+        },
+        {
+          "id": "EV10",
+          "label": "Coevolution, species interactions and antagonistic evolution"
+        },
+        {
+          "id": "EV11",
+          "label": "Human evolution, archaic admixture and ancient genomics"
+        },
+        {
+          "id": "EV12",
+          "label": "Sexual selection, social evolution and life-history evolution"
+        }
+      ],
+      "branches": [
+        {
+          "id": "selection-adaptation",
+          "label": "Natural selection & adaptation"
+        },
+        {
+          "id": "population-genetics",
+          "label": "Population genetics"
+        },
+        {
+          "id": "molecular-evolution",
+          "label": "Molecular evolution"
+        },
+        {
+          "id": "phylogenetics-tree-thinking",
+          "label": "Phylogenetics & tree thinking"
+        },
+        {
+          "id": "speciation",
+          "label": "Speciation"
+        },
+        {
+          "id": "macroevolution-diversification",
+          "label": "Macroevolution & diversification"
+        },
+        {
+          "id": "evo-devo",
+          "label": "Evolutionary developmental biology"
+        },
+        {
+          "id": "coevolution-host-parasite",
+          "label": "Coevolution & host–parasite evolution"
+        },
+        {
+          "id": "human-evolution-ancient-genomics",
+          "label": "Human evolution & ancient genomics"
         }
       ],
       "status": "complete",

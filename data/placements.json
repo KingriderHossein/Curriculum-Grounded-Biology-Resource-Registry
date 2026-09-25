@@ -2520,6 +2520,509 @@
         "antimicrobial-resistance"
       ],
       "branch_role": "current_update"
+    },
+    {
+      "id": "EVOLUTIONARY-BIOLOGY::OPENSTAX-BIOLOGY2E-2018",
+      "resource_id": "OPENSTAX-BIOLOGY2E-2018",
+      "subject_id": "EVOLUTIONARY-BIOLOGY",
+      "learning_stage": "foundation",
+      "role": "foundation",
+      "coverage_concept_ids": [
+        "EV01",
+        "EV02",
+        "EV03",
+        "EV06",
+        "EV07"
+      ],
+      "selection_rationale": "یک منبع آزاد برای مرور پیش‌نیازهای زیست‌شناسی عمومی است و اجازه می‌دهد قبل از ورود به کتاب تخصصی، زبان و منطق پایه تکامل را ترمیم کنید.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که هنوز انتخاب طبیعی، شواهد تکامل، وراثت جمعیتی یا درخت‌های تبارزایی را در حد پایه منسجم نمی‌داند.",
+        "why": "یک منبع آزاد برای مرور پیش‌نیازهای زیست‌شناسی عمومی است و اجازه می‌دهد قبل از ورود به کتاب تخصصی، زبان و منطق پایه تکامل را ترمیم کنید.",
+        "how_to_use": "کل کتاب لازم نیست؛ فصل‌های مربوط به تکامل، ژنتیک جمعیت، منشأ گونه‌ها و فیلوژنی را هدفمند بخوانید.",
+        "next_step": "پس از این مرور وارد کتاب ⁦Evolution⁩ شوید."
+      }
+    },
+    {
+      "id": "EVOLUTIONARY-BIOLOGY::BOOK-EVOLUTION5-2023",
+      "resource_id": "BOOK-EVOLUTION5-2023",
+      "subject_id": "EVOLUTIONARY-BIOLOGY",
+      "learning_stage": "core",
+      "role": "core",
+      "coverage_concept_ids": [
+        "EV01",
+        "EV02",
+        "EV03",
+        "EV04",
+        "EV05",
+        "EV06",
+        "EV07",
+        "EV08",
+        "EV09",
+        "EV10",
+        "EV11",
+        "EV12"
+      ],
+      "selection_rationale": "یکی از جامع‌ترین متون کارشناسی تکامل است و از انتخاب طبیعی و ژنتیک جمعیت تا گونه‌زایی، ژنوم، تکوین، اکولوژی تکاملی، ماکروتکامل و تکامل انسان را در یک مسیر واحد پوشش می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد زیست‌شناسی تکاملی را برای نخستین بار به‌صورت دانشگاهی، منسجم و مبتنی بر شواهد یاد بگیرد.",
+        "why": "یکی از جامع‌ترین متون کارشناسی تکامل است و از انتخاب طبیعی و ژنتیک جمعیت تا گونه‌زایی، ژنوم، تکوین، اکولوژی تکاملی، ماکروتکامل و تکامل انسان را در یک مسیر واحد پوشش می‌دهد.",
+        "how_to_use": "به‌عنوان منبع اصلی و به‌ترتیب فصل‌ها مطالعه شود؛ برای هر مفهوم بین مدل نظری، داده تجربی و استنتاج تکاملی تمایز قائل شوید.",
+        "next_step": "پس از یک دور کامل، برای مثال‌های روایی‌تر و اتصال بهتر به تاریخ طبیعی از ⁦Evolution: Making Sense of Life⁩ استفاده کنید."
+      }
+    },
+    {
+      "id": "EVOLUTIONARY-BIOLOGY::BOOK-EVOLUTION-MAKING-SENSE4-2025",
+      "resource_id": "BOOK-EVOLUTION-MAKING-SENSE4-2025",
+      "subject_id": "EVOLUTIONARY-BIOLOGY",
+      "learning_stage": "intermediate",
+      "role": "reference",
+      "coverage_concept_ids": [
+        "EV01",
+        "EV02",
+        "EV03",
+        "EV04",
+        "EV05",
+        "EV06",
+        "EV07",
+        "EV08",
+        "EV09",
+        "EV10",
+        "EV11",
+        "EV12"
+      ],
+      "selection_rationale": "ویرایش جدید ۲۰۲۵ دامنه‌ای از ویروس‌ها و ژن‌ها تا رفتار، گونه‌زایی، ماکروتکامل، تکامل انسان و پزشکی تکاملی را با مثال‌های معاصر پوشش می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مبانی را می‌داند و می‌خواهد همان مفاهیم را با مثال‌های جدید، تاریخ طبیعی، داده‌های تجربی و روایت‌های قابل‌فهم‌تر مرور کند.",
+        "why": "ویرایش جدید ۲۰۲۵ دامنه‌ای از ویروس‌ها و ژن‌ها تا رفتار، گونه‌زایی، ماکروتکامل، تکامل انسان و پزشکی تکاملی را با مثال‌های معاصر پوشش می‌دهد.",
+        "how_to_use": "به‌عنوان مرور دوم یا مرجع موضوعی استفاده شود؛ فصل‌های مرتبط با نقاط ضعف یا شاخه تخصصی انتخاب شوند.",
+        "next_step": "برای تمرکز بیشتر بر منطق استنتاج و تحلیل مسئله‌های تکاملی به ⁦Evolutionary Analysis⁩ بروید."
+      }
+    },
+    {
+      "id": "EVOLUTIONARY-BIOLOGY::BOOK-EVOLUTIONARY-ANALYSIS5-2021",
+      "resource_id": "BOOK-EVOLUTIONARY-ANALYSIS5-2021",
+      "subject_id": "EVOLUTIONARY-BIOLOGY",
+      "learning_stage": "advanced",
+      "role": "advanced",
+      "coverage_concept_ids": [
+        "EV01",
+        "EV02",
+        "EV03",
+        "EV04",
+        "EV05",
+        "EV06",
+        "EV07",
+        "EV08",
+        "EV09",
+        "EV10",
+        "EV11",
+        "EV12"
+      ],
+      "selection_rationale": "کتاب مباحث را حول پرسش‌های علمی و شواهد سازمان می‌دهد و در ژنتیک جمعیت، سازگاری، فیلوژنی، گونه‌زایی، تاریخ حیات و تکامل انسان عمق تحلیلی بیشتری ایجاد می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد نظریه تکامل را از طریق سؤال، داده و تحلیل پژوهش‌های کلاسیک و جدید دنبال کند.",
+        "why": "کتاب مباحث را حول پرسش‌های علمی و شواهد سازمان می‌دهد و در ژنتیک جمعیت، سازگاری، فیلوژنی، گونه‌زایی، تاریخ حیات و تکامل انسان عمق تحلیلی بیشتری ایجاد می‌کند.",
+        "how_to_use": "پس از یک کتاب عمومی مطالعه شود؛ هر فصل را با این سؤال بخوانید که کدام داده میان توضیح‌های تکاملی رقیب تمایز ایجاد می‌کند.",
+        "next_step": "سپس بر اساس موضوع پژوهشی وارد یکی از شاخه‌های تخصصی شوید."
+      }
+    },
+    {
+      "id": "EVOLUTIONARY-BIOLOGY::REVIEW-EXPERIMENTAL-EVOLUTION-2026",
+      "resource_id": "REVIEW-EXPERIMENTAL-EVOLUTION-2026",
+      "subject_id": "EVOLUTIONARY-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "EV02",
+        "EV03",
+        "EV05"
+      ],
+      "selection_rationale": "مرور جدیدی از ⁦experimental evolution⁩ است و نشان می‌دهد دستکاری مولکولی چگونه امکان آزمون دقیق‌تر علیت، ⁦fitness landscape⁩ و مسیرهای سازگاری را فراهم می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که انتخاب طبیعی و ⁦fitness⁩ را می‌داند و می‌خواهد مشاهده مستقیم سازگاری و تغییر تکاملی را در سامانه‌های تجربی بفهمد.",
+        "why": "مرور جدیدی از ⁦experimental evolution⁩ است و نشان می‌دهد دستکاری مولکولی چگونه امکان آزمون دقیق‌تر علیت، ⁦fitness landscape⁩ و مسیرهای سازگاری را فراهم می‌کند.",
+        "how_to_use": "تمرکز را بر سؤال‌های نظری و نوع استنتاج تکاملی بگذارید، نه جزئیات تکنیکی دستکاری آزمایشگاهی.",
+        "next_step": "برای دید محیطی‌تر از سازگاری، مرور سازگاری با عوامل اقلیمی را بخوانید."
+      },
+      "branch_ids": [
+        "selection-adaptation"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "EVOLUTIONARY-BIOLOGY::REVIEW-CLIMATE-ADAPTATION-2025",
+      "resource_id": "REVIEW-CLIMATE-ADAPTATION-2025",
+      "subject_id": "EVOLUTIONARY-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "EV02",
+        "EV04"
+      ],
+      "selection_rationale": "سازوکارهای ژنتیکی و مولکولی سازگاری اقلیمی را با ⁦selection⁩، ⁦standing variation⁩ و تغییر دامنه در گیاهان یکپارچه می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد سازگاری را در پیوند مستقیم با گرما، سرما، خشکی و تغییر دامنه پراکنش مطالعه کند.",
+        "why": "سازوکارهای ژنتیکی و مولکولی سازگاری اقلیمی را با ⁦selection⁩، ⁦standing variation⁩ و تغییر دامنه در گیاهان یکپارچه می‌کند.",
+        "how_to_use": "مثال‌ها را بر اساس نوع فشار انتخابی، منبع ⁦variation⁩ و پیامد فنوتیپی دسته‌بندی کنید.",
+        "next_step": "برای تعمیم این منطق به تاریخچه جمعیت و ⁦selection⁩ در ژنوم، وارد شاخه ژنتیک جمعیت شوید."
+      },
+      "branch_ids": [
+        "selection-adaptation"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "EVOLUTIONARY-BIOLOGY::REVIEW-ARG-2025",
+      "resource_id": "REVIEW-ARG-2025",
+      "subject_id": "EVOLUTIONARY-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "EV03",
+        "EV06",
+        "EV11"
+      ],
+      "selection_rationale": "⁦ancestral recombination graph⁩ را به‌عنوان نمایش تاریخچه تبارهای ژنومی معرفی می‌کند و آن را به اندازه جمعیت، مهاجرت، ⁦admixture⁩، جهش و انتخاب پیوند می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که ⁦drift⁩، ⁦recombination⁩ و ⁦coalescent⁩ را می‌داند و می‌خواهد تاریخچه ژنتیکی جمعیت را در یک چارچوب واحد بفهمد.",
+        "why": "⁦ancestral recombination graph⁩ را به‌عنوان نمایش تاریخچه تبارهای ژنومی معرفی می‌کند و آن را به اندازه جمعیت، مهاجرت، ⁦admixture⁩، جهش و انتخاب پیوند می‌دهد.",
+        "how_to_use": "ابتدا تفاوت یک ⁦tree⁩ محلی با ⁦ARG⁩ را روشن کنید و سپس ببینید هر فرایند جمعیتی چه اثری بر گراف تبار دارد.",
+        "next_step": "برای دید مکمل از تغییر نرخ نوترکیبی در مقیاس ژنوم، مرور بعدی را بخوانید."
+      },
+      "branch_ids": [
+        "population-genetics"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "EVOLUTIONARY-BIOLOGY::REVIEW-RECOMBINATION-RATES-2021",
+      "resource_id": "REVIEW-RECOMBINATION-RATES-2021",
+      "subject_id": "EVOLUTIONARY-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "EV03",
+        "EV04"
+      ],
+      "selection_rationale": "تنوع و تکامل نرخ نوترکیبی را به ⁦selection⁩، معماری ژنوم و ⁦variation⁩ قابل انتقال در جمعیت‌ها متصل می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد نوترکیبی را نه فقط به‌عنوان فرایند میوزی، بلکه به‌عنوان پارامتر تکاملی متغیر بین جنس‌ها، افراد و گونه‌ها بفهمد.",
+        "why": "تنوع و تکامل نرخ نوترکیبی را به ⁦selection⁩، معماری ژنوم و ⁦variation⁩ قابل انتقال در جمعیت‌ها متصل می‌کند.",
+        "how_to_use": "عوامل ژنتیکی، محیطی و انتخابی تغییر نرخ ⁦recombination⁩ را جدا یادداشت کنید و اثر هرکدام بر ⁦linkage⁩ را دنبال کنید.",
+        "next_step": "برای تکامل در سطح ژن و ژنوم، به شاخه ⁦molecular evolution⁩ بروید."
+      },
+      "branch_ids": [
+        "population-genetics"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "EVOLUTIONARY-BIOLOGY::REVIEW-DE-NOVO-GENES-2026",
+      "resource_id": "REVIEW-DE-NOVO-GENES-2026",
+      "subject_id": "EVOLUTIONARY-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "EV05"
+      ],
+      "selection_rationale": "مرور به‌روزی از ⁦de novo gene birth⁩، تثبیت عملکرد و محدودیت‌های تشخیص ژن‌های جدید ارائه می‌کند و منبع مهمی برای فهم نوآوری مولکولی است.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که ⁦duplication⁩ و ⁦mutation⁩ را می‌شناسد و می‌خواهد بداند ژن‌های کاملاً جدید چگونه می‌توانند از توالی‌های غیرکدکننده پدید آیند.",
+        "why": "مرور به‌روزی از ⁦de novo gene birth⁩، تثبیت عملکرد و محدودیت‌های تشخیص ژن‌های جدید ارائه می‌کند و منبع مهمی برای فهم نوآوری مولکولی است.",
+        "how_to_use": "مراحل تولد ژن، ⁦expression⁩ اولیه، کسب ساختار/عملکرد و سرنوشت انتخابی را به‌ترتیب دنبال کنید.",
+        "next_step": "برای تکامل لایه‌های تنظیمی به مرور ⁦evolutionary foundations of transcriptional regulation⁩ بروید."
+      },
+      "branch_ids": [
+        "molecular-evolution"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "EVOLUTIONARY-BIOLOGY::REVIEW-EVOLUTION-TRANSCRIPTION-2025",
+      "resource_id": "REVIEW-EVOLUTION-TRANSCRIPTION-2025",
+      "subject_id": "EVOLUTIONARY-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "EV05",
+        "EV09"
+      ],
+      "selection_rationale": "منشأ و حفاظت ⁦transcription factor⁩ها، عناصر تنظیمی و ⁦RNA⁩های تنظیمی را در گذار از اجداد تک‌سلولی به جانوران بررسی می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بداند شبکه‌های تنظیم ژن و ⁦enhancer⁩ها در مسیر تکامل جانوران چگونه تغییر کرده‌اند.",
+        "why": "منشأ و حفاظت ⁦transcription factor⁩ها، عناصر تنظیمی و ⁦RNA⁩های تنظیمی را در گذار از اجداد تک‌سلولی به جانوران بررسی می‌کند.",
+        "how_to_use": "میان نوآوری واقعی، ⁦co-option⁩ و حفاظت اجزای قدیمی تمایز بگذارید.",
+        "next_step": "برای مقایسه ژن‌ها و صفات میان گونه‌ها، وارد شاخه ⁦phylogenetics⁩ شوید."
+      },
+      "branch_ids": [
+        "molecular-evolution"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "EVOLUTIONARY-BIOLOGY::REVIEW-PHYLOGENETIC-TREE-BUILDING-2020",
+      "resource_id": "REVIEW-PHYLOGENETIC-TREE-BUILDING-2020",
+      "subject_id": "EVOLUTIONARY-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "EV06"
+      ],
+      "selection_rationale": "خطاهای سیستماتیک، ⁦orthology⁩، ⁦alignment⁩، مدل جایگزینی و ناسازگاری ⁦gene tree⁩ و ⁦species tree⁩ را در چارچوب ⁦phylogenomics⁩ جمع‌بندی می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مفهوم درخت تکاملی را می‌داند و می‌خواهد منطق ساخت و ارزیابی درخت از داده‌های ژنومی را بفهمد.",
+        "why": "خطاهای سیستماتیک، ⁦orthology⁩، ⁦alignment⁩، مدل جایگزینی و ناسازگاری ⁦gene tree⁩ و ⁦species tree⁩ را در چارچوب ⁦phylogenomics⁩ جمع‌بندی می‌کند.",
+        "how_to_use": "مسیر استنتاج را از انتخاب داده تا مدل و ⁦tree inference⁩ دنبال کنید؛ هدف فهم منطق است، نه آموزش نرم‌افزار.",
+        "next_step": "برای استفاده از درخت در آزمون فرضیه‌های مقایسه‌ای، مرور ⁦comparative genomics⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "phylogenetics-tree-thinking"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "EVOLUTIONARY-BIOLOGY::REVIEW-PHYLO-COMPARATIVE-GENOMICS-2025",
+      "resource_id": "REVIEW-PHYLO-COMPARATIVE-GENOMICS-2025",
+      "subject_id": "EVOLUTIONARY-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "EV05",
+        "EV06"
+      ],
+      "selection_rationale": "نشان می‌دهد گونه‌ها نقاط داده مستقل نیستند و چگونه کنترل ⁦ancestry⁩ مشترک می‌تواند نتیجه مطالعات ⁦comparative genomics⁩ را تغییر دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد از ⁦phylogeny⁩ برای مقایسه ژنوم‌ها و آزمون فرضیه‌های علّی استفاده کند.",
+        "why": "نشان می‌دهد گونه‌ها نقاط داده مستقل نیستند و چگونه کنترل ⁦ancestry⁩ مشترک می‌تواند نتیجه مطالعات ⁦comparative genomics⁩ را تغییر دهد.",
+        "how_to_use": "مثال‌ها را با سؤال «اگر ⁦phylogeny⁩ را نادیده بگیریم چه نتیجه غلطی می‌گیریم؟» مطالعه کنید.",
+        "next_step": "برای کاربرد در مرزبندی گونه‌ها و ⁦speciation⁩ به شاخه بعدی بروید."
+      },
+      "branch_ids": [
+        "phylogenetics-tree-thinking"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "EVOLUTIONARY-BIOLOGY::REVIEW-GENOMICS-ORIGIN-SPECIES-2014",
+      "resource_id": "REVIEW-GENOMICS-ORIGIN-SPECIES-2014",
+      "subject_id": "EVOLUTIONARY-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "EV07"
+      ],
+      "selection_rationale": "یک مرور کلاسیک و جامع درباره واگرایی ژنومی، ⁦gene flow⁩، ⁦islands of divergence⁩ و معماری ژنتیکی موانع تولیدمثلی است.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مفهوم ⁦reproductive isolation⁩ را می‌داند و می‌خواهد پایه ⁦genomics of speciation⁩ را منسجم بفهمد.",
+        "why": "یک مرور کلاسیک و جامع درباره واگرایی ژنومی، ⁦gene flow⁩، ⁦islands of divergence⁩ و معماری ژنتیکی موانع تولیدمثلی است.",
+        "how_to_use": "آن را به‌عنوان چارچوب پایه بخوانید و مفاهیم قدیمی را با یافته‌های جدیدتر شاخه مقایسه کنید.",
+        "next_step": "برای مسئله عملی‌ترِ اینکه مرز گونه دقیقاً چگونه تعریف می‌شود، مرور ۲۰۲۵ ⁦species delimitation⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "speciation"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "EVOLUTIONARY-BIOLOGY::REVIEW-SPECIES-DELIMITATION-2025",
+      "resource_id": "REVIEW-SPECIES-DELIMITATION-2025",
+      "subject_id": "EVOLUTIONARY-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "EV06",
+        "EV07"
+      ],
+      "selection_rationale": "دید جدیدی از ⁦species delimitation⁩ در عصر ⁦genomics⁩ ارائه می‌کند و محدودیت‌های تعریف گونه تنها بر اساس یک نوع داده را نشان می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بداند داده‌های ژنومی چگونه در تعریف مرز گونه‌ها، ⁦gene flow⁩ و ⁦lineage divergence⁩ استفاده می‌شوند.",
+        "why": "دید جدیدی از ⁦species delimitation⁩ در عصر ⁦genomics⁩ ارائه می‌کند و محدودیت‌های تعریف گونه تنها بر اساس یک نوع داده را نشان می‌دهد.",
+        "how_to_use": "میان ⁦species concept⁩، ⁦evidence⁩ و ⁦model inference⁩ تمایز قائل شوید و هر روش را بر اساس فرض‌هایش ارزیابی کنید.",
+        "next_step": "پس از گونه‌زایی، برای نرخ‌های ⁦speciation⁩ و ⁦extinction⁩ در مقیاس درخت حیات به ⁦macroevolution⁩ بروید."
+      },
+      "branch_ids": [
+        "speciation"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "EVOLUTIONARY-BIOLOGY::REVIEW-PHYLOGENETIC-DIVERSIFICATION-2024",
+      "resource_id": "REVIEW-PHYLOGENETIC-DIVERSIFICATION-2024",
+      "subject_id": "EVOLUTIONARY-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "EV06",
+        "EV08"
+      ],
+      "selection_rationale": "ابزار مفهومی و مدل‌های جدید برآورد نرخ ⁦diversification⁩ را مرور می‌کند و نشان می‌دهد انتخاب مدل چگونه نتیجه ماکروتکاملی را تغییر می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد ⁦diversification⁩ را به‌صورت تعادل میان ⁦speciation⁩ و ⁦extinction⁩ در مقیاس ⁦phylogeny⁩ مطالعه کند.",
+        "why": "ابزار مفهومی و مدل‌های جدید برآورد نرخ ⁦diversification⁩ را مرور می‌کند و نشان می‌دهد انتخاب مدل چگونه نتیجه ماکروتکاملی را تغییر می‌دهد.",
+        "how_to_use": "ابتدا مفهوم ⁦birth–death⁩ را مرور کنید و سپس تفاوت مدل‌های ثابت و ⁦lineage-dependent⁩ را دنبال کنید.",
+        "next_step": "برای نقش تعاملات زیستی در الگوهای ماکروتکاملی، مرور بعدی را بخوانید."
+      },
+      "branch_ids": [
+        "macroevolution-diversification"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "EVOLUTIONARY-BIOLOGY::REVIEW-ECO-INTERACTIONS-MACROEVOLUTION-2020",
+      "resource_id": "REVIEW-ECO-INTERACTIONS-MACROEVOLUTION-2020",
+      "subject_id": "EVOLUTIONARY-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "EV08",
+        "EV10"
+      ],
+      "selection_rationale": "پل مفهومی میان ⁦ecology⁩ و ⁦macroevolution⁩ می‌سازد و نشان می‌دهد تعامل گونه‌ها می‌تواند مسیرهای بلندمدت تکامل را شکل دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد ارتباط ⁦mutualism⁩، ⁦competition⁩، ⁦predation⁩ و ⁦parasitism⁩ را با ⁦diversification⁩ و ⁦trait evolution⁩ در زمان عمیق بفهمد.",
+        "why": "پل مفهومی میان ⁦ecology⁩ و ⁦macroevolution⁩ می‌سازد و نشان می‌دهد تعامل گونه‌ها می‌تواند مسیرهای بلندمدت تکامل را شکل دهد.",
+        "how_to_use": "مثال‌ها را بر اساس نوع ⁦interaction⁩ و پیامد آن بر ⁦speciation⁩، ⁦extinction⁩ یا ⁦trait evolution⁩ دسته‌بندی کنید.",
+        "next_step": "برای یکی از مهم‌ترین مثال‌های این تعاملات، شاخه ⁦coevolution⁩ و ⁦host–parasite⁩ را دنبال کنید."
+      },
+      "branch_ids": [
+        "macroevolution-diversification"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "EVOLUTIONARY-BIOLOGY::REVIEW-PHENOTYPIC-EVOLUTION-EVODEVO-2026",
+      "resource_id": "REVIEW-PHENOTYPIC-EVOLUTION-EVODEVO-2026",
+      "subject_id": "EVOLUTIONARY-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "EV05",
+        "EV09"
+      ],
+      "selection_rationale": "مرور بسیار جدیدی است که ⁦evo-devo⁩ و ⁦evolutionary biochemistry⁩ را با مفاهیمی مانند ⁦pleiotropy⁩، ⁦epistasis⁩، ⁦contingency⁩ و ⁦system drift⁩ پیوند می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد مسیر ⁦genotype⁩ تا ⁦phenotype⁩ را از سطح پروتئین تا ⁦development⁩ و شکل بدن در تکامل یکپارچه ببیند.",
+        "why": "مرور بسیار جدیدی است که ⁦evo-devo⁩ و ⁦evolutionary biochemistry⁩ را با مفاهیمی مانند ⁦pleiotropy⁩، ⁦epistasis⁩، ⁦contingency⁩ و ⁦system drift⁩ پیوند می‌دهد.",
+        "how_to_use": "برای هر مثال زنجیره تغییر ژنتیکی ← تغییر مولکولی ← تغییر ⁦developmental outcome⁩ ← ⁦phenotype⁩ را بازسازی کنید.",
+        "next_step": "برای نقش محیط و ⁦plasticity⁩ در ⁦evolution of development⁩، مرور ⁦Eco-Evo-Devo⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "evo-devo"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "EVOLUTIONARY-BIOLOGY::REVIEW-ECO-EVO-DEVO-2015",
+      "resource_id": "REVIEW-ECO-EVO-DEVO-2015",
+      "subject_id": "EVOLUTIONARY-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "EV09",
+        "EV10"
+      ],
+      "selection_rationale": "چارچوب ⁦Eco-Evo-Devo⁩ را معرفی می‌کند و نقش ⁦developmental plasticity⁩، ⁦symbiosis⁩ و ⁦genetic accommodation⁩ را در ایجاد ⁦variation⁩ توضیح می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد ⁦development⁩ را در تعامل با محیط، ⁦symbiosis⁩ و ⁦plasticity⁩ به‌عنوان بخشی از فرایند تکاملی ببیند.",
+        "why": "چارچوب ⁦Eco-Evo-Devo⁩ را معرفی می‌کند و نقش ⁦developmental plasticity⁩، ⁦symbiosis⁩ و ⁦genetic accommodation⁩ را در ایجاد ⁦variation⁩ توضیح می‌دهد.",
+        "how_to_use": "این متن قدیمی‌تر را به‌عنوان چارچوب مفهومی بخوانید و آن را با مرور مکانیزمی ۲۰۲۶ مقایسه کنید.",
+        "next_step": "برای ⁦interactions⁩ تکاملی مستقیم میان گونه‌ها به شاخه ⁦coevolution⁩ بروید."
+      },
+      "branch_ids": [
+        "evo-devo"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "EVOLUTIONARY-BIOLOGY::REVIEW-PARASITISM-CONSEQUENCES-2026",
+      "resource_id": "REVIEW-PARASITISM-CONSEQUENCES-2026",
+      "subject_id": "EVOLUTIONARY-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "EV02",
+        "EV10"
+      ],
+      "selection_rationale": "مرور ۲۰۲۶ نشان می‌دهد ⁦parasitism⁩ چگونه ⁦selection⁩، ⁦population dynamics⁩ و ⁦interactions⁩ را در چند مقیاس تغییر می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد اثر ⁦parasites⁩ را از ⁦fitness⁩ فردی تا جمعیت، جامعه و ⁦ecosystem⁩ در یک چارچوب ⁦eco-evolutionary⁩ ببیند.",
+        "why": "مرور ۲۰۲۶ نشان می‌دهد ⁦parasitism⁩ چگونه ⁦selection⁩، ⁦population dynamics⁩ و ⁦interactions⁩ را در چند مقیاس تغییر می‌دهد.",
+        "how_to_use": "برای هر مثال مسیر ⁦parasite pressure⁩ ← ⁦selection on host/parasite⁩ ← ⁦population/community consequence⁩ را دنبال کنید.",
+        "next_step": "برای اثر این تعاملات بر ⁦speciation⁩ و ⁦diversification⁩ میزبان، ⁦Perspective⁩ بعدی را بخوانید."
+      },
+      "branch_ids": [
+        "coevolution-host-parasite"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "EVOLUTIONARY-BIOLOGY::REVIEW-PARASITISM-HOST-DIVERSIFICATION-2025",
+      "resource_id": "REVIEW-PARASITISM-HOST-DIVERSIFICATION-2025",
+      "subject_id": "EVOLUTIONARY-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "EV07",
+        "EV08",
+        "EV10"
+      ],
+      "selection_rationale": "⁦Perspective⁩ جدیدی است که اثر ⁦parasitism⁩ بر ⁦divergence⁩، ⁦reproductive isolation⁩ و ⁦host diversification⁩ را از ⁦micro⁩ تا ⁦macroevolution⁩ متصل می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بداند ⁦parasites⁩ فقط موجب ⁦adaptation⁩ موضعی نیستند و چگونه ممکن است مسیر ⁦speciation⁩ و ⁦extinction⁩ میزبان را تغییر دهند.",
+        "why": "⁦Perspective⁩ جدیدی است که اثر ⁦parasitism⁩ بر ⁦divergence⁩، ⁦reproductive isolation⁩ و ⁦host diversification⁩ را از ⁦micro⁩ تا ⁦macroevolution⁩ متصل می‌کند.",
+        "how_to_use": "فرضیه‌های پیشنهادی را به شواهد موجود و شکاف‌های تجربی متصل کنید؛ آن را به‌عنوان دیدگاه تحلیلی بخوانید نه حقیقت نهایی.",
+        "next_step": "برای نمونه انسانی ⁦coevolution⁩ و ⁦selection⁩ می‌توان به شاخه تکامل انسان و ⁦ancient genomics⁩ رفت."
+      },
+      "branch_ids": [
+        "coevolution-host-parasite"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "EVOLUTIONARY-BIOLOGY::REVIEW-HUMAN-SPECIFIC-GENETICS-2023",
+      "resource_id": "REVIEW-HUMAN-SPECIFIC-GENETICS-2023",
+      "subject_id": "EVOLUTIONARY-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "EV05",
+        "EV09",
+        "EV11"
+      ],
+      "selection_rationale": "ژنوم‌های انسان مدرن، انسان‌های باستانی و ⁦great apes⁩ را با مدل‌های سلولی جدید پیوند می‌دهد تا ⁦candidate changes⁩ انسانی ارزیابی شوند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد تفاوت‌های ژنتیکی انسان با دیگر نخستی‌ها و ⁦archaic hominin⁩ها را به ⁦trait⁩های انسانی متصل کند.",
+        "why": "ژنوم‌های انسان مدرن، انسان‌های باستانی و ⁦great apes⁩ را با مدل‌های سلولی جدید پیوند می‌دهد تا ⁦candidate changes⁩ انسانی ارزیابی شوند.",
+        "how_to_use": "میان ⁦human-specific sequence change⁩ و اثبات اثر علّی آن بر ⁦phenotype⁩ تمایز قائل شوید.",
+        "next_step": "برای تکامل اخیر جمعیت‌های انسانی و نقش ⁦ancient DNA⁩ در تشخیص ⁦selection⁩، مرور ۲۰۲۶ را بخوانید."
+      },
+      "branch_ids": [
+        "human-evolution-ancient-genomics"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "EVOLUTIONARY-BIOLOGY::REVIEW-HUMAN-SELECTION-2026",
+      "resource_id": "REVIEW-HUMAN-SELECTION-2026",
+      "subject_id": "EVOLUTIONARY-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "EV02",
+        "EV03",
+        "EV11"
+      ],
+      "selection_rationale": "مرور بسیار جدیدی است که ⁦selection scan⁩ها، ⁦ancestral recombination graph⁩ و ⁦ancient DNA⁩ را برای بازسازی انتخاب در تاریخ اخیر انسان یکپارچه می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد اثر ⁦natural selection⁩ بر تنوع ژنتیکی انسان در حدود ده هزار سال اخیر را با داده‌های ⁦modern⁩ و ⁦ancient genome⁩ بفهمد.",
+        "why": "مرور بسیار جدیدی است که ⁦selection scan⁩ها، ⁦ancestral recombination graph⁩ و ⁦ancient DNA⁩ را برای بازسازی انتخاب در تاریخ اخیر انسان یکپارچه می‌کند.",
+        "how_to_use": "ابتدا تفاوت ⁦selection signal⁩ و ⁦demographic confounding⁩ را روشن کنید و سپس نقش داده‌های ⁦ancient DNA⁩ را در مشاهده مستقیم تغییر ⁦allele frequency⁩ دنبال کنید.",
+        "next_step": "برای مطالعه عمیق‌تر می‌توان وارد ⁦archaic introgression⁩، ⁦paleogenomics⁩ و ⁦gene–culture coevolution⁩ شد."
+      },
+      "branch_ids": [
+        "human-evolution-ancient-genomics"
+      ],
+      "branch_role": "current_update"
     }
   ]
 }
