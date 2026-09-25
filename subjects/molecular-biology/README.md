@@ -43,7 +43,7 @@
 ## مرحله اصلی — یادگیری منسجم زیست‌شناسی مولکولی
 
 <p align="center">
-  <img src="https://dynamic.indigoimages.ca/v1/books/books/0128132884/1.jpg" width="155" alt="Molecular Biology cover">
+  <img src="https://ars.els-cdn.com/content/image/3-s2.0-C20150062293-cov200h.gif" width="155" alt="Molecular Biology cover">
 </p>
 
 ### کتاب ⁦Molecular Biology⁩ — ویرایش سوم
