@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.4.0",
+  "schema_version": "0.5.0",
   "placements": [
     {
       "id": "CELL-BIOLOGY::OPENSTAX-BIOLOGY2E-2018",
@@ -2003,6 +2003,523 @@
         "evolution-gene-regulation"
       ],
       "branch_role": "complementary_reference"
+    },
+    {
+      "id": "MICROBIOLOGY::OPENSTAX-MICROBIOLOGY-2016",
+      "resource_id": "OPENSTAX-MICROBIOLOGY-2016",
+      "subject_id": "MICROBIOLOGY",
+      "learning_stage": "foundation",
+      "role": "foundation",
+      "coverage_concept_ids": [
+        "MC01",
+        "MC02",
+        "MC03",
+        "MC04",
+        "MC05",
+        "MC06",
+        "MC07",
+        "MC09",
+        "MC10",
+        "MC11"
+      ],
+      "selection_rationale": "یک کتاب دانشگاهی آزاد است که دامنه وسیعی از ساختمان سلول میکروبی تا رشد، متابولیسم، ژنتیک، بیماری و اکولوژی را در سطح مقدماتی پوشش می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد قبل از کتاب اصلی، مفاهیم پایه میکروبیولوژی را با یک منبع آزاد و قابل‌فهم مرور کند.",
+        "why": "یک کتاب دانشگاهی آزاد است که دامنه وسیعی از ساختمان سلول میکروبی تا رشد، متابولیسم، ژنتیک، بیماری و اکولوژی را در سطح مقدماتی پوشش می‌دهد.",
+        "how_to_use": "کل کتاب لازم نیست؛ بخش‌های مربوط به تنوع میکروبی، ساختمان سلول، رشد، متابولیسم، ژنتیک و اکولوژی را هدفمند بخوانید و مباحث آزمایشگاهی را وارد این نقشه‌راه نکنید.",
+        "next_step": "پس از این مرور وارد ⁦Prescott⁩'⁦s Microbiology⁩ شوید."
+      }
+    },
+    {
+      "id": "MICROBIOLOGY::BOOK-PRESCOTT-MICROBIOLOGY12-2026",
+      "resource_id": "BOOK-PRESCOTT-MICROBIOLOGY12-2026",
+      "subject_id": "MICROBIOLOGY",
+      "learning_stage": "core",
+      "role": "core",
+      "coverage_concept_ids": [
+        "MC01",
+        "MC02",
+        "MC03",
+        "MC04",
+        "MC05",
+        "MC06",
+        "MC07",
+        "MC08",
+        "MC09",
+        "MC10",
+        "MC11",
+        "MC12"
+      ],
+      "selection_rationale": "نسخه ۲۰۲۶ یک مسیر مدرن از ساختار و عملکرد باکتری و آرکی تا متابولیسم، ژنتیک، ویروس‌ها، اکولوژی، میکروبیوم و بیماری فراهم می‌کند و برای ساخت ستون فقرات درس مناسب است.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد میکروبیولوژی را برای نخستین بار به‌صورت منسجم، گسترده و با نگاه تکاملی یاد بگیرد.",
+        "why": "نسخه ۲۰۲۶ یک مسیر مدرن از ساختار و عملکرد باکتری و آرکی تا متابولیسم، ژنتیک، ویروس‌ها، اکولوژی، میکروبیوم و بیماری فراهم می‌کند و برای ساخت ستون فقرات درس مناسب است.",
+        "how_to_use": "به‌عنوان منبع اصلی و به‌ترتیب بخش‌های مفهومی مطالعه شود؛ بین ساختمان سلول، فیزیولوژی، متابولیسم، ژنتیک و محیط ارتباط برقرار کنید و بخش‌های عملی را کنار بگذارید.",
+        "next_step": "پس از یک دور کامل، برای مرور پژوهش‌محورتر از ⁦Microbiology⁩: ⁦An Evolving Science⁩ استفاده کنید."
+      }
+    },
+    {
+      "id": "MICROBIOLOGY::BOOK-MICROBIOLOGY-EVOLVING6-2023",
+      "resource_id": "BOOK-MICROBIOLOGY-EVOLVING6-2023",
+      "subject_id": "MICROBIOLOGY",
+      "learning_stage": "intermediate",
+      "role": "reference",
+      "coverage_concept_ids": [
+        "MC01",
+        "MC02",
+        "MC03",
+        "MC04",
+        "MC05",
+        "MC06",
+        "MC07",
+        "MC08",
+        "MC09",
+        "MC10",
+        "MC11",
+        "MC12"
+      ],
+      "selection_rationale": "این کتاب علاوه بر پوشش جامع، پژوهش‌های جدید و دو محور میکروبیوم و پیامدهای جهانی میکروارگانیسم‌ها را به آموزش مفاهیم متصل می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مبانی میکروبیولوژی را می‌داند و می‌خواهد همان مفاهیم را با مثال‌های پژوهشی جدیدتر، میکروبیوم و اثرات جهانی عمیق‌تر کند.",
+        "why": "این کتاب علاوه بر پوشش جامع، پژوهش‌های جدید و دو محور میکروبیوم و پیامدهای جهانی میکروارگانیسم‌ها را به آموزش مفاهیم متصل می‌کند.",
+        "how_to_use": "به‌عنوان مرور دوم یا مرجع موضوعی استفاده شود؛ فصل‌هایی را انتخاب کنید که در آن‌ها به عمق بیشتری در تکامل، اکولوژی، میکروبیوم یا سازوکارهای سلولی نیاز دارید.",
+        "next_step": "برای مرجع جامع‌تر و جزئیات بیشتر به ⁦Brock Biology of Microorganisms⁩ بروید."
+      }
+    },
+    {
+      "id": "MICROBIOLOGY::BOOK-BROCK-MICROORGANISMS16-2021",
+      "resource_id": "BOOK-BROCK-MICROORGANISMS16-2021",
+      "subject_id": "MICROBIOLOGY",
+      "learning_stage": "advanced",
+      "role": "advanced",
+      "coverage_concept_ids": [
+        "MC01",
+        "MC02",
+        "MC03",
+        "MC04",
+        "MC05",
+        "MC06",
+        "MC07",
+        "MC08",
+        "MC09",
+        "MC10",
+        "MC11",
+        "MC12"
+      ],
+      "selection_rationale": "فهرست مطالب ناشر، ساختار، فیزیولوژی، ژنتیک، تنوع و اکولوژی میکروبی را در یک مرجع گسترده گرد هم می‌آورد. این کتاب می‌تواند مرجع موضوعی یا کتاب اصلی یک درس دانشگاهی باشد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته یا تحصیلات تکمیلی که به یک مرجع جامع برای فیزیولوژی، تنوع، متابولیسم، ژنتیک و اکولوژی میکروارگانیسم‌ها نیاز دارد.",
+        "why": "فهرست مطالب ناشر، ساختار، فیزیولوژی، ژنتیک، تنوع و اکولوژی میکروبی را در یک مرجع گسترده گرد هم می‌آورد. این کتاب می‌تواند مرجع موضوعی یا کتاب اصلی یک درس دانشگاهی باشد.",
+        "how_to_use": "پس از مرور پیش‌نیازها، بخش مرتبط با موضوع را انتخاب کنید. خواندن همه کتاب‌های این نقشه‌راه پیش از استفاده از این مرجع الزامی نیست.",
+        "next_step": "از این مرحله وارد یکی از ۹ شاخه تخصصی شوید."
+      }
+    },
+    {
+      "id": "MICROBIOLOGY::REVIEW-TERRABACTERIA-ENVELOPE-2025",
+      "resource_id": "REVIEW-TERRABACTERIA-ENVELOPE-2025",
+      "subject_id": "MICROBIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "MC01",
+        "MC02",
+        "MC12"
+      ],
+      "selection_rationale": "مرور ⁦Terrabacteria⁩ نشان می‌دهد معماری پوشش سلولی بسیار متنوع‌تر از مدل کلاسیک ⁦monoderm/diderm⁩ است و تکامل غشای خارجی را به تنوع سلولی باکتری‌ها پیوند می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که تقسیم کلاسیک گرم‌مثبت و گرم‌منفی را می‌داند و می‌خواهد تنوع واقعی پوشش سلولی باکتری‌ها را فراتر از این دوگانه بفهمد.",
+        "why": "مرور ⁦Terrabacteria⁩ نشان می‌دهد معماری پوشش سلولی بسیار متنوع‌تر از مدل کلاسیک ⁦monoderm/diderm⁩ است و تکامل غشای خارجی را به تنوع سلولی باکتری‌ها پیوند می‌دهد.",
+        "how_to_use": "ابتدا معماری‌های ⁦monoderm⁩ و ⁦diderm⁩ را مرور کنید و سپس استثناها، سامانه‌های ساخت غشای خارجی و سناریوهای تکاملی را مقایسه کنید.",
+        "next_step": "برای لایه‌های سطحی خارج از پوشش سلولی کلاسیک، مرور ⁦S-layer⁩ها را بخوانید."
+      },
+      "branch_ids": [
+        "cell-envelope-surface"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "MICROBIOLOGY::REVIEW-MICROBIAL-SLAYERS-2026",
+      "resource_id": "REVIEW-MICROBIAL-SLAYERS-2026",
+      "subject_id": "MICROBIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "MC02",
+        "MC03",
+        "MC12"
+      ],
+      "selection_rationale": "یک مرور جدید ۲۰۲۶ است که تنوع ساختاری ⁦S-layer⁩ها را به حفاظت سلول، شکل، تعامل با محیط و عملکردهای فیزیولوژیک متصل می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد ساختار، مونتاژ و نقش‌های فیزیولوژیک ⁦S-layer⁩ها را در باکتری‌ها و آرکی‌ها بفهمد.",
+        "why": "یک مرور جدید ۲۰۲۶ است که تنوع ساختاری ⁦S-layer⁩ها را به حفاظت سلول، شکل، تعامل با محیط و عملکردهای فیزیولوژیک متصل می‌کند.",
+        "how_to_use": "پس از آشنایی با پوشش سلولی مطالعه شود؛ معماری شبکه پروتئینی، اتصال آن به سطح سلول و تفاوت نقش‌ها در باکتری و آرکی را دنبال کنید.",
+        "next_step": "برای ادامه می‌توان وارد ⁦capsule⁩، ⁦outer membrane⁩ و ⁦cell-surface appendage⁩ها شد."
+      },
+      "branch_ids": [
+        "cell-envelope-surface"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "MICROBIOLOGY::REVIEW-BACTERIAL-CHEMOTAXIS-2024",
+      "resource_id": "REVIEW-BACTERIAL-CHEMOTAXIS-2024",
+      "subject_id": "MICROBIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "MC03"
+      ],
+      "selection_rationale": "مدل کلاسیک ⁦E. coli⁩ را با سامانه‌های متنوع‌تر شیمی‌گرایی مقایسه می‌کند و نشان می‌دهد معماری، گیرنده‌ها و اجزای این سامانه میان باکتری‌ها یکسان نیست.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که حرکت و شیمی‌گرایی باکتریایی را در حد کتاب می‌داند و می‌خواهد معماری و تنوع سامانه‌های حسگری را عمیق‌تر بفهمد.",
+        "why": "مدل کلاسیک ⁦E. coli⁩ را با سامانه‌های متنوع‌تر شیمی‌گرایی مقایسه می‌کند و نشان می‌دهد معماری، گیرنده‌ها و اجزای این سامانه میان باکتری‌ها یکسان نیست.",
+        "how_to_use": "ابتدا مسیر ⁦canonical⁩ شیمی‌گرایی را رسم کنید و سپس هر سامانه غیرکلاسیک را بر اساس ⁦receptor⁩، ⁦kinase⁩ و آرایش فضایی با آن مقایسه کنید.",
+        "next_step": "برای پیوند حسگری با موتور حرکتی و سازگاری میزبان، مرور تاژک‌ها در ⁦Helicobacter⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "sensing-motility-physiology"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "MICROBIOLOGY::REVIEW-HELICOBACTER-FLAGELLA-2026",
+      "resource_id": "REVIEW-HELICOBACTER-FLAGELLA-2026",
+      "subject_id": "MICROBIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "MC03",
+        "MC10"
+      ],
+      "selection_rationale": "مرور سپتامبر ۲۰۲۶ روی تاژک‌ها در ⁦Helicobacter⁩ نشان می‌دهد ساختار حرکتی می‌تواند هم‌زمان در حسگری، استقرار میکروبی و گذار ⁦motile–sessile⁩ نقش داشته باشد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد ⁦flagellum⁩ را نه فقط موتور حرکت، بلکه سامانه‌ای برای حس مکانیکی، تنظیم و تغییر حالت رفتاری ببیند.",
+        "why": "مرور سپتامبر ۲۰۲۶ روی تاژک‌ها در ⁦Helicobacter⁩ نشان می‌دهد ساختار حرکتی می‌تواند هم‌زمان در حسگری، استقرار میکروبی و گذار ⁦motile–sessile⁩ نقش داشته باشد.",
+        "how_to_use": "بعد از شیمی‌گرایی بخوانید؛ ساختار موتور، تنظیم ژن‌های ⁦flagellar⁩ و نقش‌های حسی را از هم جدا و سپس به هم متصل کنید.",
+        "next_step": "برای رفتارهای جمعی‌تر می‌توان وارد ⁦quorum⁩ حسگری و ⁦biofilm physiology⁩ شد."
+      },
+      "branch_ids": [
+        "sensing-motility-physiology"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "MICROBIOLOGY::REVIEW-COORDINATION-MICROBIAL-METABOLISM-2014",
+      "resource_id": "REVIEW-COORDINATION-MICROBIAL-METABOLISM-2014",
+      "subject_id": "MICROBIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "MC04"
+      ],
+      "selection_rationale": "چارچوبی روشن از تنظیم موضعی و سراسری متابولیسم، نقش متابولیتهای کلیدی و منطق بازخورد ارائه می‌کند و برای فهم تصمیم‌گیری متابولیک هنوز مرجع مفهومی قوی است.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مسیرهای متابولیک را می‌داند و می‌خواهد بفهمد یک میکروب چگونه ⁦uptake⁩، تولید انرژی، ⁦biosynthesis⁩ و رشد را هماهنگ می‌کند.",
+        "why": "چارچوبی روشن از تنظیم موضعی و سراسری متابولیسم، نقش متابولیتهای کلیدی و منطق بازخورد ارائه می‌کند و برای فهم تصمیم‌گیری متابولیک هنوز مرجع مفهومی قوی است.",
+        "how_to_use": "به‌جای حفظ مسیرها، شبکه تنظیمی را دنبال کنید: چه چیزی وضعیت مواد غذایی را حس می‌کند، چه متابولیتای ⁦signal⁩ می‌شود و کدام ⁦flux⁩ تغییر می‌کند.",
+        "next_step": "برای دید تکاملی و اکولوژیک از ⁦secondary⁩ متابولیسم، مرور ⁦Actinomycetota⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "microbial-metabolism-regulation"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "MICROBIOLOGY::REVIEW-ACTINOMYCETOTA-METABOLITES-2025",
+      "resource_id": "REVIEW-ACTINOMYCETOTA-METABOLITES-2025",
+      "subject_id": "MICROBIOLOGY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "MC04",
+        "MC07",
+        "MC08"
+      ],
+      "selection_rationale": "تولید فراورده طبیعیها را از سطح مسیر متابولیک به ریخت‌شناسی، رقابت، همکاری و فشارهای تکاملی در ⁦Actinomycetota⁩ متصل می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بداند چرا برخی میکروب‌ها هزینه ژنومی و انرژی زیادی برای تولید طیف بزرگی از متابولیتهای تخصصی می‌پردازند.",
+        "why": "تولید فراورده طبیعیها را از سطح مسیر متابولیک به ریخت‌شناسی، رقابت، همکاری و فشارهای تکاملی در ⁦Actinomycetota⁩ متصل می‌کند.",
+        "how_to_use": "پس از متابولیسم مرکزی بخوانید و تفاوت ⁦primary⁩ و ⁦specialized⁩ متابولیسم را با توجه به هزینه، مزیت اکولوژیک و سازمان ژنومی تحلیل کنید.",
+        "next_step": "برای تعامل متابولیتی بین گونه‌ها، شاخه ⁦microbial⁩ اکولوژی & ⁦community interactions⁩ را دنبال کنید."
+      },
+      "branch_ids": [
+        "microbial-metabolism-regulation"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "MICROBIOLOGY::REVIEW-HGT-ADAPTATION-2022",
+      "resource_id": "REVIEW-HGT-ADAPTATION-2022",
+      "subject_id": "MICROBIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "MC05",
+        "MC11"
+      ],
+      "selection_rationale": "انتقال افقی ژن را به انتخاب طبیعی، جاروب انتخابی ژنی، اکولوژی و تغییر سریع ژنوم‌های باکتریایی پیوند می‌دهد و تفاوت انتقال خنثی و انتقال سازگارانه را روشن می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که ⁦transformation⁩، ⁦transduction⁩ و ⁦conjugation⁩ را می‌داند و می‌خواهد نقش انتقال افقی ژن در سازگاری باکتری‌ها را بفهمد.",
+        "why": "انتقال افقی ژن را به انتخاب طبیعی، جاروب انتخابی ژنی، اکولوژی و تغییر سریع ژنوم‌های باکتریایی پیوند می‌دهد و تفاوت انتقال خنثی و انتقال سازگارانه را روشن می‌کند.",
+        "how_to_use": "ابتدا سه مسیر کلاسیک انتقال ژن را مرور کنید و سپس مقاله را با سؤال «کدام ⁦transfer⁩ واقعاً ⁦adaptive⁩ است؟» بخوانید.",
+        "next_step": "برای دید گسترده‌تر از انواع عنصر ژنتیکی متحرک و رابطه آن‌ها با یکدیگر، مرور ۲۰۲۵ را بخوانید."
+      },
+      "branch_ids": [
+        "microbial-genetics-mge"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "MICROBIOLOGY::REVIEW-BACTERIAL-MGE-2025",
+      "resource_id": "REVIEW-BACTERIAL-MGE-2025",
+      "subject_id": "MICROBIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "MC05",
+        "MC11"
+      ],
+      "selection_rationale": "مرور ۲۰۲۵ نشان می‌دهد عنصر ژنتیکی متحرکها واحدهای مستقل و جدا نیستند و میان آن‌ها تعامل، ادغام و تاریخچه تکاملی مشترک وجود دارد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد پلاسمید، فاژ، ⁦ICE⁩ و دیگر عناصر متحرک را به‌عنوان یک اکوسیستم ژنتیکی مرتبط بفهمد.",
+        "why": "مرور ۲۰۲۵ نشان می‌دهد عنصر ژنتیکی متحرکها واحدهای مستقل و جدا نیستند و میان آن‌ها تعامل، ادغام و تاریخچه تکاملی مشترک وجود دارد.",
+        "how_to_use": "برای هر ⁦MGE⁩ ابتدا شیوه انتقال و ⁦replication⁩ را مشخص کنید و سپس ⁦interaction⁩ آن با عناصر دیگر و ژنوم میزبان را دنبال کنید.",
+        "next_step": "برای کاربردهای خاص‌تر می‌توان به دفاع ضد فاژ، ⁦CRISPR⁩ و انتقال ژن‌های مقاومت وارد شد."
+      },
+      "branch_ids": [
+        "microbial-genetics-mge"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "MICROBIOLOGY::REVIEW-EARLY-MICROBIAL-LIFE-2024",
+      "resource_id": "REVIEW-EARLY-MICROBIAL-LIFE-2024",
+      "subject_id": "MICROBIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "MC01",
+        "MC04",
+        "MC12"
+      ],
+      "selection_rationale": "حیات میکروبی اولیه را با ترکیب شواهد ژنتیکی، متابولیک و دیرینه‌زیستی بررسی می‌کند و چارچوب خوبی برای منشأ نوآوری‌های سلولی و متابولیک می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد تکامل میکروبی را در مقیاس میلیاردها سال و در ارتباط با تغییر محیط زمین و متابولیسم‌های باستانی بفهمد.",
+        "why": "حیات میکروبی اولیه را با ترکیب شواهد ژنتیکی، متابولیک و دیرینه‌زیستی بررسی می‌کند و چارچوب خوبی برای منشأ نوآوری‌های سلولی و متابولیک می‌دهد.",
+        "how_to_use": "یک ⁦timeline⁩ از رخدادهای محیطی و نوآوری‌های متابولیک بسازید و دقت کنید کدام نتیجه از داده‌های مولکولی و کدام از شواهد زمین‌شناسی می‌آید.",
+        "next_step": "برای یکی از مهم‌ترین گروه‌های آرکی مرتبط با منشأ یوکاریوت‌ها، مرور ⁦Asgard archaea⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "diversity-archaea-early-evolution"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "MICROBIOLOGY::REVIEW-ASGARD-ARCHAEA-2026",
+      "resource_id": "REVIEW-ASGARD-ARCHAEA-2026",
+      "subject_id": "MICROBIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "MC01",
+        "MC03",
+        "MC04",
+        "MC12"
+      ],
+      "selection_rationale": "مرور ۲۰۲۶ تنوع ژنومی، نمایندگان کشت‌شده، ویژگی‌های سلولی و شواهد مربوط به نقش ⁦Asgard archaea⁩ در منشأ یوکاریوت‌ها را یکپارچه می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد تنوع، متابولیسم، ⁦cell biology⁩ و جایگاه تکاملی ⁦Asgard archaea⁩ را با داده‌های جدید بفهمد.",
+        "why": "مرور ۲۰۲۶ تنوع ژنومی، نمایندگان کشت‌شده، ویژگی‌های سلولی و شواهد مربوط به نقش ⁦Asgard archaea⁩ در منشأ یوکاریوت‌ها را یکپارچه می‌کند.",
+        "how_to_use": "ابتدا جایگاه ⁦phylogenetic⁩ و تنوع متابولیک را بخوانید و سپس ویژگی‌های ⁦cell biology⁩ و ⁦eukaryotic signature protein⁩ها را بررسی کنید.",
+        "next_step": "برای ادامه می‌توان به ⁦archaeal cell biology⁩، ⁦syntrophy⁩ و نظریه‌های ⁦eukaryogenesis⁩ وارد شد."
+      },
+      "branch_ids": [
+        "diversity-archaea-early-evolution"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "MICROBIOLOGY::REVIEW-SOIL-MICROBIAL-COMMUNITIES-2024",
+      "resource_id": "REVIEW-SOIL-MICROBIAL-COMMUNITIES-2024",
+      "subject_id": "MICROBIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "MC07",
+        "MC08"
+      ],
+      "selection_rationale": "خاک را به‌عنوان مدل نشان می‌دهد که ⁦pH⁩، ساختار فیزیکی، مواد آلی و مواد معدنی چگونه میکروبیوم را شکل می‌دهند و خود میکروب‌ها نیز ویژگی‌های خاک را تغییر می‌دهند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد رابطه دوطرفه میان محیط فیزیکی–شیمیایی و ساختار جامعه میکروبی را در یک اکوسیستم واقعی بفهمد.",
+        "why": "خاک را به‌عنوان مدل نشان می‌دهد که ⁦pH⁩، ساختار فیزیکی، مواد آلی و مواد معدنی چگونه میکروبیوم را شکل می‌دهند و خود میکروب‌ها نیز ویژگی‌های خاک را تغییر می‌دهند.",
+        "how_to_use": "رابطه‌ها را یک‌طرفه نبینید؛ برای هر ⁦property⁩ محیطی هم اثر آن بر ⁦community⁩ و هم بازخورد جامعه میکروبی را ثبت کنید.",
+        "next_step": "برای فهم ⁦interaction⁩های مستقیم و تبادل متابولیت میان اعضای جامعه، مدل ⁦corrinoid⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "microbial-ecology-communities"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "MICROBIOLOGY::REVIEW-CORRINOID-COMMUNITIES-2025",
+      "resource_id": "REVIEW-CORRINOID-COMMUNITIES-2025",
+      "subject_id": "MICROBIOLOGY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "MC04",
+        "MC07",
+        "MC08"
+      ],
+      "selection_rationale": "⁦corrinoid⁩ها را به‌عنوان یک مدل تجربی–مفهومی برای تغذیه متقابل، وابستگی و تکامل تعاملات میکروبی در چند مقیاس بررسی می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد تعاملات جامعه میکروبی را از سطح مولکول و متابولیت تا ساختار جامعه و اکوسیستم دنبال کند.",
+        "why": "⁦corrinoid⁩ها را به‌عنوان یک مدل تجربی–مفهومی برای تغذیه متقابل، وابستگی و تکامل تعاملات میکروبی در چند مقیاس بررسی می‌کند.",
+        "how_to_use": "روی منطق ⁦exchange⁩ و وابستگی تمرکز کنید: چه ⁦organism⁩ی ⁦corrinoid⁩ می‌سازد، چه کسی مصرف می‌کند و این تبادل چگونه ⁦fitness⁩ و ⁦community structure⁩ را تغییر می‌دهد.",
+        "next_step": "برای تعامل ⁦community⁩ با میزبان جانوری، وارد شاخه ⁦host–microbe⁩ & میکروبیوم شوید."
+      },
+      "branch_ids": [
+        "microbial-ecology-communities"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "MICROBIOLOGY::REVIEW-HOST-MICROBIOME-GENOMICS-2026",
+      "resource_id": "REVIEW-HOST-MICROBIOME-GENOMICS-2026",
+      "subject_id": "MICROBIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "MC05",
+        "MC09"
+      ],
+      "selection_rationale": "مرور جامعی از اثر ژنوتیپ میزبان بر میکروبیوم و اثر میکروبیوم بر فنوتیپ میزبان ارائه می‌کند و طراحی مطالعات این تعامل را از نظر مفهومی نقد می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد تعامل میزبان–میکروبیوم را به‌صورت یک صفت مشترک تحت تأثیر ژنتیک میزبان، تنوع میکروبی و محیط ببیند.",
+        "why": "مرور جامعی از اثر ژنوتیپ میزبان بر میکروبیوم و اثر میکروبیوم بر فنوتیپ میزبان ارائه می‌کند و طراحی مطالعات این تعامل را از نظر مفهومی نقد می‌کند.",
+        "how_to_use": "تمرکز را بر رابطه علت–معلولی و ⁦confounding⁩ بگذارید؛ تکنیک‌های عملی ⁦genomics⁩ هدف این نقشه‌راه نیستند.",
+        "next_step": "برای یک لایه زمانی و فیزیولوژیک جدید، مرور ⁦circadian host–⁩میکروبیوم ⁦symbiosis⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "host-microbiome"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "MICROBIOLOGY::REVIEW-CIRCADIAN-MICROBIOME-2026",
+      "resource_id": "REVIEW-CIRCADIAN-MICROBIOME-2026",
+      "subject_id": "MICROBIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "MC03",
+        "MC04",
+        "MC09"
+      ],
+      "selection_rationale": "مرور ۲۰۲۶ نشان می‌دهد تغذیه، ایمنی و نوسازی بافتی میزبان چگونه ریتم میکروبی ایجاد می‌کنند و متابولیتهای میکروبی چگونه به ساعت زیستی میزبان بازخورد می‌دهند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد تعامل میزبان و میکروبیوم را در بُعد زمان و ریتم شبانه‌روزی بفهمد.",
+        "why": "مرور ۲۰۲۶ نشان می‌دهد تغذیه، ایمنی و نوسازی بافتی میزبان چگونه ریتم میکروبی ایجاد می‌کنند و متابولیتهای میکروبی چگونه به ساعت زیستی میزبان بازخورد می‌دهند.",
+        "how_to_use": "یک حلقه بازخورد میزبان ↔ میکروبیوم رسم کنید و ورودی‌های زمانی، ⁦metabolic output⁩ها و پیامد اختلال ریتم را مشخص کنید.",
+        "next_step": "برای تعامل رقابتی میزبان، ⁦microbiota⁩ و یک ⁦pathogen⁩، شاخه بیماری‌زایی را دنبال کنید."
+      },
+      "branch_ids": [
+        "host-microbiome"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "MICROBIOLOGY::REVIEW-PSEUDOMONAS-2025",
+      "resource_id": "REVIEW-PSEUDOMONAS-2025",
+      "subject_id": "MICROBIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "MC03",
+        "MC05",
+        "MC08",
+        "MC10",
+        "MC11"
+      ],
+      "selection_rationale": "⁦Pseudomonas aeruginosa⁩ نمونه‌ای مناسب برای فهم این است که انعطاف ژنومی و متابولیک چگونه اکولوژی و بیماری‌زایی را به هم متصل می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد یک پاتوژن مدل را از محیط و تکامل تا ⁦quorum⁩ حسگری، ⁦biofilm⁩، بیماری‌زایی و مقاومت به‌صورت یکپارچه مطالعه کند.",
+        "why": "⁦Pseudomonas aeruginosa⁩ نمونه‌ای مناسب برای فهم این است که انعطاف ژنومی و متابولیک چگونه اکولوژی و بیماری‌زایی را به هم متصل می‌کند.",
+        "how_to_use": "مقاله را به چهار لایه تقسیم کنید: اکولوژی/تکامل، ⁦communication/biofilm⁩، بیماری‌زایی و ⁦AMR⁩؛ سپس ارتباط میان این لایه‌ها را پیدا کنید.",
+        "next_step": "برای دیدی که ⁦microbiota⁩، پاسخ میزبان و بازبرنامه‌ریزی متابولیک ⁦pathogen⁩ را هم‌زمان ببیند، مرور ⁦Salmonella⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "pathogenesis-virulence"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "MICROBIOLOGY::REVIEW-SALMONELLA-HOST-MICROBIOTA-2026",
+      "resource_id": "REVIEW-SALMONELLA-HOST-MICROBIOTA-2026",
+      "subject_id": "MICROBIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "MC04",
+        "MC08",
+        "MC09",
+        "MC10"
+      ],
+      "selection_rationale": "مرور ژوئیه ۲۰۲۶ نشان می‌دهد ⁦Salmonella⁩ چگونه بیماری‌زایی، متابولیسم، اکسایش–کاهش و برنامه متابولیسم انرژیهای خود را بر اساس محیط روده و بافت‌های میزبان تنظیم می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد پاتوژنز را حاصل تعامل پویا میان ⁦pathogen⁩، ⁦microbiota⁩، ایمنی و وضعیت متابولیک بافت بداند.",
+        "why": "مرور ژوئیه ۲۰۲۶ نشان می‌دهد ⁦Salmonella⁩ چگونه بیماری‌زایی، متابولیسم، اکسایش–کاهش و برنامه متابولیسم انرژیهای خود را بر اساس محیط روده و بافت‌های میزبان تنظیم می‌کند.",
+        "how_to_use": "مسیر عفونت را به محیط روده و بافت سیستمیک تقسیم کنید و ببینید چه ⁦cue⁩هایی بیان بیماری‌زایی و حالت متابولیک باکتری را تغییر می‌دهند.",
+        "next_step": "برای گسترش به مقاومت درمانی و فشار انتخابی آنتی‌بیوتیک، وارد شاخه ⁦AMR⁩ شوید."
+      },
+      "branch_ids": [
+        "pathogenesis-virulence"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "MICROBIOLOGY::REVIEW-AMR-EVOLUTION-SCALES-2024",
+      "resource_id": "REVIEW-AMR-EVOLUTION-SCALES-2024",
+      "subject_id": "MICROBIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "MC05",
+        "MC11"
+      ],
+      "selection_rationale": "تنوع، انتخاب طبیعی و مقیاس را به هم متصل می‌کند و نشان می‌دهد تکامل مقاومت در پتری‌دیش، یک بیمار و یک جمعیت میزبان لزوماً دینامیک یکسانی ندارد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که سازوکارهای مقاومت را می‌شناسد و می‌خواهد تکامل مقاومت را از سطح جمعیت باکتری در بیمار تا مقیاس جمعیت انسانی بفهمد.",
+        "why": "تنوع، انتخاب طبیعی و مقیاس را به هم متصل می‌کند و نشان می‌دهد تکامل مقاومت در پتری‌دیش، یک بیمار و یک جمعیت میزبان لزوماً دینامیک یکسانی ندارد.",
+        "how_to_use": "برای هر مقیاس مشخص کنید منبع تنوع چیست، فشار انتخابی کجاست و انتقال ⁦strain⁩ یا ⁦gene⁩ چگونه الگو را تغییر می‌دهد.",
+        "next_step": "برای فهم نقش وضعیت فیزیولوژیک سلول در اثر دارو و تکامل مقاومت، مرور متابولیسم–⁦AMR⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "antimicrobial-resistance"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "MICROBIOLOGY::REVIEW-METABOLISM-AMR-2025",
+      "resource_id": "REVIEW-METABOLISM-AMR-2025",
+      "subject_id": "MICROBIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "MC04",
+        "MC11"
+      ],
+      "selection_rationale": "مرور ۲۰۲۵ رابطه دوطرفه متابولیسم با اثربخشی آنتی‌بیوتیک، تحمل و تکامل مقاومت را یکپارچه می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد بفهمد چرا اثر یک آنتی‌بیوتیک فقط به ⁦target⁩ مولکولی وابسته نیست و ⁦state⁩ متابولیک سلول هم نتیجه را تغییر می‌دهد.",
+        "why": "مرور ۲۰۲۵ رابطه دوطرفه متابولیسم با اثربخشی آنتی‌بیوتیک، تحمل و تکامل مقاومت را یکپارچه می‌کند.",
+        "how_to_use": "برای هر مثال مشخص کنید متابولیسم چگونه ⁦uptake⁩، ⁦target activity⁩، ⁦stress response⁩ یا ⁦fitness cost⁩ مقاومت را تغییر می‌دهد.",
+        "next_step": "برای ادامه می‌توان به ⁦persister⁩ها، تحمل، ⁦heteroresistance⁩ و ⁦fitness landscape⁩ مقاومت وارد شد."
+      },
+      "branch_ids": [
+        "antimicrobial-resistance"
+      ],
+      "branch_role": "current_update"
     }
   ]
 }

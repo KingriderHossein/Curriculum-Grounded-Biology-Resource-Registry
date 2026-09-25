@@ -43,7 +43,7 @@
 ## مرحله اصلی — یادگیری منسجم زیست‌شناسی مولکولی
 
 <p align="center">
-  <img src="https://covers.openlibrary.org/b/isbn/9780128132883-L.jpg?default=false" width="155" alt="Molecular Biology cover">
+  <img src="https://ars.els-cdn.com/content/image/3-s2.0-C20150062293-cov200h.gif" width="155" alt="Molecular Biology cover">
 </p>
 
 ### کتاب ⁦Molecular Biology⁩ — ویرایش سوم
@@ -62,7 +62,7 @@
 ## مرحله تکمیلی — تمرکز بیشتر بر ژن و بیان ژن
 
 <p align="center">
-  <img src="https://covers.openlibrary.org/b/isbn/9781284189834-L.jpg?default=false" width="155" alt="Lewin's Essential GENES cover">
+  <img src="https://images.booksense.com/images/130/173/9781284173130.jpg" width="155" alt="Lewin's Essential GENES cover">
 </p>
 
 ### کتاب ⁦Lewin's Essential GENES⁩ — ویرایش چهارم

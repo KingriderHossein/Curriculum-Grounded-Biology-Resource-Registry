@@ -23,6 +23,8 @@
 
 ## مرحله پایه — ترمیم پیش‌نیازها
 
+<p align="center"><img src="https://storage.pardot.com/218812/1766081607A9LlaLN9/biology_book_card_2e.svg" width="155" alt="Biology 2e"></p>
+
 ### کتاب ⁦Biology 2e⁩
 
 - **جایگاه در مسیر:** مرور پیش‌نیاز
@@ -39,7 +41,7 @@
 ## مرحله اصلی — یادگیری منسجم بیوشیمی
 
 <p align="center">
-  <img src="https://covers.openlibrary.org/b/isbn/9781319589967-L.jpg?default=false" width="155" alt="Lehninger Biochemistry Core Concepts and Applications cover">
+  <img src="https://prod-cat-files.macmillan.cloud/MediaResources/Jackets/258W/9781319589967.jpg" width="155" alt="Lehninger Biochemistry Core Concepts and Applications cover">
 </p>
 
 ### کتاب ⁦Lehninger Biochemistry: Core Concepts and Applications⁩ — ویرایش اول
@@ -58,7 +60,7 @@
 ## مرحله تکمیلی — مرور دوم با جزئیات بیشتر
 
 <p align="center">
-  <img src="https://covers.openlibrary.org/b/isbn/9781319498504-L.jpg?default=false" width="155" alt="Biochemistry 10th edition cover">
+  <img src="https://prod-cat-files.macmillan.cloud/MediaResources/Jackets/258W/9781319498504.jpg" width="155" alt="Biochemistry 10th edition cover">
 </p>
 
 ### کتاب ⁦Biochemistry⁩ — ویرایش دهم
@@ -77,7 +79,7 @@
 ## مرحله پیشرفته — مرجع جامع و مکانیزمی
 
 <p align="center">
-  <img src="https://covers.openlibrary.org/b/isbn/9781319381493-L.jpg?default=false" width="155" alt="Lehninger Principles of Biochemistry 8e cover">
+  <img src="https://prod-cat-files.macmillan.cloud/MediaResources/Jackets/258W/9781319381493.jpg" width="155" alt="Lehninger Principles of Biochemistry 8e cover">
 </p>
 
 ### کتاب ⁦Lehninger Principles of Biochemistry⁩ — ویرایش هشتم

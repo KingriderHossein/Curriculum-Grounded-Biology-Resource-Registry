@@ -67,7 +67,7 @@ A subject is considered meaningfully implemented when:
 3. major specialized branches are separated;
 4. resources are mapped to stages and concept areas;
 5. bibliographic metadata and authoritative URLs are verified;
-6. cover presentation is consistent;
+6. cover presentation is consistent, matches the selected book/edition, and successfully renders on the real GitHub page;
 7. theory-only validation passes;
 8. contributors can extend a branch without duplicating the subject.
 
@@ -83,5 +83,6 @@ The current reference-quality subjects are:
 - **Biochemistry / بیوشیمی**
 - **Genetics / ژنتیک**
 - **Molecular Biology / زیست‌شناسی مولکولی**
+- **Microbiology / میکروبیولوژی**
 
 New subjects should reuse this architecture instead of introducing a parallel resource model.

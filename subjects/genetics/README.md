@@ -43,7 +43,7 @@
 ## مرحله اصلی — یادگیری منسجم ژنتیک
 
 <p align="center">
-  <img src="https://covers.openlibrary.org/b/isbn/9781319546700-L.jpg?default=false" width="155" alt="Genetics: A Conceptual Approach, Update cover">
+  <img src="https://prod-cat-files.macmillan.cloud/MediaResources/Jackets/258W/9781319546700.jpg" width="155" alt="Genetics: A Conceptual Approach, Update cover">
 </p>
 
 ### کتاب ⁦Genetics: A Conceptual Approach⁩, ⁦Update⁩ — ⁦7th⁩ ویرایش
@@ -62,7 +62,7 @@
 ## مرحله تکمیلی — تحلیل عمیق‌تر
 
 <p align="center">
-  <img src="https://covers.openlibrary.org/b/isbn/9781319589943-L.jpg?default=false" width="155" alt="Introduction to Genetic Analysis, Digital Update cover">
+  <img src="https://prod-cat-files.macmillan.cloud/MediaResources/Jackets/258W/9781319589943.jpg" width="155" alt="Introduction to Genetic Analysis, Digital Update cover">
 </p>
 
 ### کتاب ⁦Introduction to Genetic Analysis⁩, ⁦Digital Update⁩ — ⁦12th⁩ ویرایش
@@ -81,7 +81,7 @@
 ## مرحله پیشرفته — منطق تحلیل ژنتیکی
 
 <p align="center">
-  <img src="https://covers.openlibrary.org/b/isbn/9781118086926-L.jpg?default=false" width="155" alt="Genetic Theory and Analysis: Finding Meaning in a Genome cover">
+  <img src="https://media.wiley.com/product_data/coverImage300/29/11180869/1118086929.jpg" width="155" alt="Genetic Theory and Analysis: Finding Meaning in a Genome cover">
 </p>
 
 ### کتاب ⁦Genetic Theory and Analysis: Finding Meaning in a Genome⁩ — ⁦2nd⁩ ویرایش

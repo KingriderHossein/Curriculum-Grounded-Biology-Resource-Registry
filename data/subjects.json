@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.6.0",
+  "schema_version": "0.7.0",
   "subjects": [
     {
       "id": "CELL-BIOLOGY",
@@ -448,6 +448,124 @@
         "theory_only": true
       },
       "completed_on": "2026-09-25"
+    },
+    {
+      "id": "MICROBIOLOGY",
+      "fa_name": "میکروبیولوژی",
+      "en_name": "Microbiology",
+      "scope": "theoretical",
+      "roadmap_stages": [
+        "foundation",
+        "core",
+        "intermediate",
+        "advanced",
+        "specialized"
+      ],
+      "concepts": [
+        {
+          "id": "MC01",
+          "label": "Microbial evolution, diversity and classification"
+        },
+        {
+          "id": "MC02",
+          "label": "Bacterial and archaeal cell structure and envelopes"
+        },
+        {
+          "id": "MC03",
+          "label": "Microbial growth, sensing, motility and physiology"
+        },
+        {
+          "id": "MC04",
+          "label": "Microbial metabolism, bioenergetics and regulation"
+        },
+        {
+          "id": "MC05",
+          "label": "Microbial genetics, gene regulation and horizontal gene transfer"
+        },
+        {
+          "id": "MC06",
+          "label": "Viruses and acellular agents"
+        },
+        {
+          "id": "MC07",
+          "label": "Microbial ecology and biogeochemical interactions"
+        },
+        {
+          "id": "MC08",
+          "label": "Microbial communities, biofilms and interspecies interactions"
+        },
+        {
+          "id": "MC09",
+          "label": "Host–microbe and microbiome interactions"
+        },
+        {
+          "id": "MC10",
+          "label": "Microbial pathogenesis and virulence"
+        },
+        {
+          "id": "MC11",
+          "label": "Antimicrobials, resistance and evolutionary responses"
+        },
+        {
+          "id": "MC12",
+          "label": "Archaea and early microbial evolution"
+        }
+      ],
+      "branches": [
+        {
+          "id": "cell-envelope-surface",
+          "label": "Cell envelope & surface architecture",
+          "fa_label": "پوشش سلولی و معماری سطح میکروب"
+        },
+        {
+          "id": "sensing-motility-physiology",
+          "label": "Sensing, motility & microbial physiology",
+          "fa_label": "حسگری، حرکت و فیزیولوژی میکروبی"
+        },
+        {
+          "id": "microbial-metabolism-regulation",
+          "label": "Microbial metabolism & metabolic regulation",
+          "fa_label": "متابولیسم میکروبی و تنظیم آن"
+        },
+        {
+          "id": "microbial-genetics-mge",
+          "label": "Microbial genetics & mobile genetic elements",
+          "fa_label": "ژنتیک میکروبی و عناصر ژنتیکی متحرک"
+        },
+        {
+          "id": "diversity-archaea-early-evolution",
+          "label": "Microbial diversity, archaea & early evolution",
+          "fa_label": "تنوع میکروبی، آرکی‌ها و تکامل اولیه"
+        },
+        {
+          "id": "microbial-ecology-communities",
+          "label": "Microbial ecology & community interactions",
+          "fa_label": "اکولوژی میکروبی و تعاملات جوامع"
+        },
+        {
+          "id": "host-microbiome",
+          "label": "Host–microbe & microbiome interactions",
+          "fa_label": "تعامل میزبان و میکروبیوم"
+        },
+        {
+          "id": "pathogenesis-virulence",
+          "label": "Microbial pathogenesis & virulence",
+          "fa_label": "بیماری‌زایی و تعامل با میزبان"
+        },
+        {
+          "id": "antimicrobial-resistance",
+          "label": "Antimicrobial resistance",
+          "fa_label": "مقاومت ضدمیکروبی"
+        }
+      ],
+      "status": "complete",
+      "completion_criteria": {
+        "general_roadmap_resources": 4,
+        "specialized_branches_required": 9,
+        "student_guidance_required": true,
+        "theory_only": true
+      },
+      "completed_on": "2026-09-26"
     }
   ]
 }

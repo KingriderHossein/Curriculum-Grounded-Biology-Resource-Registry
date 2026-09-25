@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.7.0",
+  "schema_version": "0.8.0",
   "resources": [
     {
       "id": "OPENSTAX-BIOLOGY2E-2018",
@@ -19,7 +19,11 @@
       "verified_on": "2026-09-25",
       "cover": {
         "url": "https://storage.pardot.com/218812/1766081607A9LlaLN9/biology_book_card_2e.svg",
-        "source": "Official OpenStax book card"
+        "source": "Official OpenStax book card",
+        "expected_sha256": "3289bbfbb8a72550c0ffa5dccdb43d7991ca1fd12db652d495b5f4ab7d96bc06",
+        "visual_reviewed_on": "2026-09-25",
+        "visual_review_status": "title_and_edition_checked",
+        "source_url": "https://openstax.org/books/biology-2e/pages/1-introduction"
       }
     },
     {
@@ -44,7 +48,11 @@
       "purchase_url": "https://wwnorton.co.uk/books/9781324033394-essential-cell-biology-c7a43b27-8186-4ee2-b83f-e60dd511e7ac",
       "cover": {
         "url": "https://cdn2.wwnorton.com/wwnproducts/COLLEG/4/9/9781324033394/9781324033394_198.jpg",
-        "source": "Official publisher cover image"
+        "source": "Official publisher cover image",
+        "expected_sha256": "60e8746c33cd04fa7e854518830f49551b09985a1334c09db18667d30d0a6de3",
+        "visual_reviewed_on": "2026-09-25",
+        "visual_review_status": "title_and_edition_checked",
+        "source_url": "https://wwnorton.co.uk/books/9781324033394-essential-cell-biology-c7a43b27-8186-4ee2-b83f-e60dd511e7ac"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-25"
@@ -66,7 +74,11 @@
       "purchase_url": "https://www.oup.com.au/books/higher-education/biological-sciences/9780197583722",
       "cover": {
         "url": "https://fdslive.oup.com/covers/anz/desktop/medium/9780197583722.jpg",
-        "source": "Official publisher cover image"
+        "source": "Official publisher cover image",
+        "expected_sha256": "ea258cff125dd35b21afbdf96fe8e528a1a3a04de05adfc95cbc02c84f6a41de",
+        "visual_reviewed_on": "2026-09-25",
+        "visual_review_status": "title_and_edition_checked",
+        "source_url": "https://www.oup.com.au/books/higher-education/biological-sciences/9780197583722"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-25"
@@ -93,7 +105,11 @@
       "purchase_url": "https://wwnorton.co.uk/books/9780393884852-molecular-biology-of-the-cell",
       "cover": {
         "url": "https://cdn2.wwnorton.com/wwnproducts/COLLEG/2/5/9780393884852/9780393884852_198.jpg",
-        "source": "Official publisher cover image"
+        "source": "Official publisher cover image",
+        "expected_sha256": "84179ec3ef90b2c6a160732fe25d1bebc58ad4a4e0f15e0fada25cf6d7e8fd44",
+        "visual_reviewed_on": "2026-09-25",
+        "visual_review_status": "title_and_edition_checked",
+        "source_url": "https://wwnorton.co.uk/books/9780393884852-molecular-biology-of-the-cell"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-25"
@@ -214,8 +230,12 @@
       "publisher_url": "https://www.routledge.com/Cell-Signaling-2nd-edition-Principles-and-Mechanisms/Lim-Mayer/p/book/9780367279424",
       "purchase_url": "https://www.routledge.com/Cell-Signaling-2nd-edition-Principles-and-Mechanisms/Lim-Mayer/p/book/9780367279424",
       "cover": {
-        "url": "https://dynamic.indigoimages.ca/v1/books/books/0367279371/1.jpg",
-        "source": "Retailer cover fallback; bibliographic authority remains CRC Press/Routledge"
+        "url": "https://images.routledge.com/common/jackets/crclarge/978036727/9780367279370.jpg",
+        "source": "Official Routledge / CRC Press cover image, paperback ISBN 9780367279370",
+        "expected_sha256": "942ba4b1814a527613380cabdca973e25325097c1d1f1a02e52d4b44142887b0",
+        "visual_reviewed_on": "2026-09-26",
+        "visual_review_status": "title_and_edition_checked",
+        "source_url": "https://www.routledge.com/Cell-Signaling-2nd-edition-Principles-and-Mechanisms/Lim-Mayer/p/book/9780367279424"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-25"
@@ -423,8 +443,13 @@
       "publisher_url": "https://www.macmillanlearning.com/ed/au/product/Lehninger-Biochemistry-Core-Concepts-and-Applications--1st-edition/p/1319589960",
       "purchase_url": "https://www.macmillanlearning.com/ed/au/product/Lehninger-Biochemistry-Core-Concepts-and-Applications--1st-edition/p/1319589960",
       "cover": {
-        "url": "https://covers.openlibrary.org/b/isbn/9781319589967-L.jpg?default=false",
-        "source": "Open Library ISBN cover fallback; bibliographic authority Macmillan Learning"
+        "url": "https://prod-cat-files.macmillan.cloud/MediaResources/Jackets/258W/9781319589967.jpg",
+        "source": "Macmillan Learning, exact ISBN",
+        "image_isbn": "9781319589967",
+        "expected_sha256": "3a39c652911a1207c855c4e42a3ca4a53ca183aed0cf6147c1299dd5e5c6d680",
+        "visual_reviewed_on": "2026-09-25",
+        "visual_review_status": "title_and_edition_checked",
+        "source_url": "https://www.macmillanlearning.com/ed/au/product/Lehninger-Biochemistry-Core-Concepts-and-Applications--1st-edition/p/1319589960"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-25"
@@ -448,8 +473,13 @@
       "publisher_url": "https://www.macmillanlearning.com/ed/uk/product/Biochemistry--10th-edition/p/1319498507",
       "purchase_url": "https://www.macmillanlearning.com/ed/uk/product/Biochemistry--10th-edition/p/1319498507",
       "cover": {
-        "url": "https://covers.openlibrary.org/b/isbn/9781319498504-L.jpg?default=false",
-        "source": "Open Library ISBN cover fallback; bibliographic authority Macmillan Learning"
+        "url": "https://prod-cat-files.macmillan.cloud/MediaResources/Jackets/258W/9781319498504.jpg",
+        "source": "Macmillan Learning, exact ISBN",
+        "image_isbn": "9781319498504",
+        "expected_sha256": "0785a69e038451c7e6acc40f47e65d9f7a2f7358f41b80330a64ff1692a2d6d5",
+        "visual_reviewed_on": "2026-09-25",
+        "visual_review_status": "title_and_edition_checked",
+        "source_url": "https://www.macmillanlearning.com/ed/uk/product/Biochemistry--10th-edition/p/1319498507"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-25"
@@ -471,8 +501,13 @@
       "publisher_url": "https://www.macmillanlearning.com/ed/uk/product/Lehninger-Principles-of-Biochemistry--8th-edition/p/1319381499",
       "purchase_url": "https://www.macmillanlearning.com/ed/uk/product/Lehninger-Principles-of-Biochemistry--8th-edition/p/1319381499",
       "cover": {
-        "url": "https://covers.openlibrary.org/b/isbn/9781319381493-L.jpg?default=false",
-        "source": "Open Library ISBN cover fallback; bibliographic authority Macmillan Learning"
+        "url": "https://prod-cat-files.macmillan.cloud/MediaResources/Jackets/258W/9781319381493.jpg",
+        "source": "Macmillan Learning, exact ISBN",
+        "image_isbn": "9781319381493",
+        "expected_sha256": "b0afe2bff603fdef1803d691b74d62a983809afa745f61fb4b92b892cb77a925",
+        "visual_reviewed_on": "2026-09-25",
+        "visual_review_status": "title_and_edition_checked",
+        "source_url": "https://www.macmillanlearning.com/ed/uk/product/Lehninger-Principles-of-Biochemistry--8th-edition/p/1319381499"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-25"
@@ -808,8 +843,13 @@
       "publisher_url": "https://www.macmillanlearning.com/ed/uk/product/Genetics-A-Conceptual-Approach-Update--7th-edition/p/1319546706",
       "purchase_url": "https://www.macmillanlearning.com/ed/uk/product/Genetics-A-Conceptual-Approach-Update--7th-edition/p/1319546706",
       "cover": {
-        "url": "https://covers.openlibrary.org/b/isbn/9781319546700-L.jpg?default=false",
-        "source": "Open Library ISBN cover fallback; bibliographic authority Macmillan Learning"
+        "url": "https://prod-cat-files.macmillan.cloud/MediaResources/Jackets/258W/9781319546700.jpg",
+        "source": "Macmillan Learning, exact ISBN",
+        "image_isbn": "9781319546700",
+        "expected_sha256": "5055198bd8ac62a5c4bf654a9715f217c224c6690e52cb7d099f45da946f31f8",
+        "visual_reviewed_on": "2026-09-25",
+        "visual_review_status": "title_and_edition_checked",
+        "source_url": "https://www.macmillanlearning.com/ed/uk/product/Genetics-A-Conceptual-Approach-Update--7th-edition/p/1319546706"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-25"
@@ -832,8 +872,13 @@
       "publisher_url": "https://www.macmillanlearning.com/ed/uk/product/Introduction-to-Genetic-Analysis-Digital-Update--12th-edition/p/1319589944",
       "purchase_url": "https://www.macmillanlearning.com/ed/uk/product/Introduction-to-Genetic-Analysis-Digital-Update--12th-edition/p/1319589944",
       "cover": {
-        "url": "https://covers.openlibrary.org/b/isbn/9781319589943-L.jpg?default=false",
-        "source": "Open Library ISBN cover fallback; bibliographic authority Macmillan Learning"
+        "url": "https://prod-cat-files.macmillan.cloud/MediaResources/Jackets/258W/9781319589943.jpg",
+        "source": "Macmillan Learning, exact ISBN",
+        "image_isbn": "9781319589943",
+        "expected_sha256": "ff0db1b4dff0c7a37a6d2427c85473688474388897dbcbf39e20c5e08b5215a9",
+        "visual_reviewed_on": "2026-09-25",
+        "visual_review_status": "title_and_edition_checked",
+        "source_url": "https://www.macmillanlearning.com/ed/uk/product/Introduction-to-Genetic-Analysis-Digital-Update--12th-edition/p/1319589944"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-25"
@@ -855,8 +900,13 @@
       "publisher_url": "https://wileycatalog.com/wp-content/uploads/2023/04/full-3.pdf",
       "purchase_url": "https://bookshop.org/p/books/genetic-theory-and-analysis-finding-meaning-in-a-genome-r-scott-hawley/18519287",
       "cover": {
-        "url": "https://covers.openlibrary.org/b/isbn/9781118086926-L.jpg?default=false",
-        "source": "Open Library ISBN cover fallback; bibliographic authority Wiley"
+        "url": "https://media.wiley.com/product_data/coverImage300/29/11180869/1118086929.jpg",
+        "source": "Official Wiley cover image",
+        "image_isbn": "9781118086926",
+        "expected_sha256": "9308a88a9f8c17418c412ab21f6ed7cf9f05260bf6a5294267e26c9fb9d432b5",
+        "visual_reviewed_on": "2026-09-26",
+        "visual_review_status": "title_and_edition_checked",
+        "source_url": "https://wileycatalog.com/wp-content/uploads/2023/04/full-3.pdf"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-25"
@@ -1186,8 +1236,13 @@
       "publisher_url": "https://www.educate.elsevier.com/book/details/9780128132883",
       "purchase_url": "https://www.educate.elsevier.com/book/details/9780128132883",
       "cover": {
-        "url": "https://covers.openlibrary.org/b/isbn/9780128132883-L.jpg?default=false",
-        "source": "Open Library ISBN cover fallback; bibliographic authority Elsevier"
+        "url": "https://ars.els-cdn.com/content/image/3-s2.0-C20150062293-cov200h.gif",
+        "source": "Official Elsevier cover image",
+        "image_isbn": "9780128132883",
+        "expected_sha256": "a05c17eef2e8b6fd836e4cc82d8afc3564bedc3cc132163b9a499d8ffa04884a",
+        "visual_reviewed_on": "2026-09-26",
+        "visual_review_status": "title_and_edition_checked",
+        "source_url": "https://www.educate.elsevier.com/book/details/9780128132883"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-25"
@@ -1209,8 +1264,14 @@
       "publisher_url": "https://samples.jblearning.com/9781284173130/9781284189834_FMxx_Secured.pdf",
       "purchase_url": "https://www.bookstores.com/books/lewin%27s-essential-genes-jocelyn-e-krebs/9781284189834",
       "cover": {
-        "url": "https://covers.openlibrary.org/b/isbn/9781284189834-L.jpg?default=false",
-        "source": "Open Library ISBN cover fallback; publisher front matter confirms paperback ISBN"
+        "url": "https://images.booksense.com/images/130/173/9781284173130.jpg",
+        "source": "MIT Press Bookstore image service; fourth-edition package cover",
+        "image_isbn": "9781284173130",
+        "expected_sha256": "dbe0274c1b6cf0b51e9572e99e0afa884330e7ac81b2f2eae7ba213af87348bc",
+        "visual_reviewed_on": "2026-09-25",
+        "visual_review_status": "title_and_edition_checked",
+        "source_url": "https://mitpressbookstore.mit.edu/book/9781284173130",
+        "variant_note": "Same fourth edition; image shows the companion-website package ISBN 9781284173130, not the standalone print ISBN 9781284189834."
       },
       "verification_status": "verified",
       "verified_on": "2026-09-25"
@@ -1462,6 +1523,635 @@
       "publisher_url": "https://www.nature.com/articles/s41576-025-00864-9",
       "verification_status": "verified",
       "verified_on": "2026-09-25"
+    },
+    {
+      "id": "OPENSTAX-MICROBIOLOGY-2016",
+      "resource_type": "open_academic_resource",
+      "theory_only": true,
+      "title": "Microbiology",
+      "authors": [
+        "Nina Parker",
+        "Mark Schneegurt",
+        "Anh-Hue Thi Tu",
+        "Brian M. Forster",
+        "Philip Lister"
+      ],
+      "published_year": 2016,
+      "publisher": "OpenStax",
+      "isbn": "9781938168147",
+      "publisher_url": "https://openstax.org/books/microbiology/pages/1-introduction",
+      "access_url": "https://openstax.org/books/microbiology/pages/1-introduction",
+      "cover": {
+        "url": "https://storage.pardot.com/218812/1766081609HKLHNnmZ/microbiology.svg",
+        "source": "Official OpenStax book card",
+        "expected_sha256": "f388f2841c405e2b3e0bc9e2791469fb4f363411e9d1c4d1f885596acc4e74d7",
+        "visual_reviewed_on": "2026-09-25",
+        "visual_review_status": "title_and_edition_checked",
+        "source_url": "https://openstax.org/books/microbiology/pages/1-introduction"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-25",
+      "verification_evidence": {
+        "checked_on": "2026-09-25",
+        "scope": "publisher bibliographic metadata and abstract/TOC; not a full-text quality certification",
+        "sources": [
+          "https://openstax.org/books/microbiology/pages/1-introduction"
+        ]
+      }
+    },
+    {
+      "id": "BOOK-PRESCOTT-MICROBIOLOGY12-2026",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Prescott's Microbiology",
+      "authors": [
+        "Joanne M. Willey",
+        "Kathleen M. Sandman",
+        "Sarah N. Salm",
+        "Nathan W. Rigel"
+      ],
+      "edition": "2026 Release, International Student Edition",
+      "published_year": 2026,
+      "publisher": "McGraw Hill",
+      "isbn": "9781265827175",
+      "publisher_url": "https://www.mheducation.co.uk/prescott-s-microbiology-2026-release-ise-9781265827175-emea-group",
+      "purchase_url": "https://www.mheducation.co.uk/prescott-s-microbiology-2026-release-ise-9781265827175-emea-group",
+      "cover": {
+        "url": "https://www.mheducation.com/cover-images/Jpeg_400-high/1265827176.jpeg",
+        "source": "McGraw Hill; 2026 international release cover",
+        "image_isbn": "9781265827175",
+        "expected_sha256": "0bd1859d868837e0b7a6f60d62789430ad4c4c65482f95ef0e5d14a0a5436c1e",
+        "visual_reviewed_on": "2026-09-25",
+        "visual_review_status": "title_and_edition_checked",
+        "source_url": "https://www.mheducation.co.uk/prescott-s-microbiology-2026-release-ise-9781265827175-emea-group"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-25",
+      "bibliographic_note": "2026 ISE authors checked against the publisher cover and the National Diet Library record. The commercial page retained the older three-author listing at review time; no stock guarantee is made.",
+      "metadata_sources": [
+        "https://www.mheducation.co.uk/prescott-s-microbiology-2026-release-ise-9781265827175-emea-group",
+        "https://ndlsearch.ndl.go.jp/en/books/R100000136-I1970589942157279361"
+      ],
+      "verification_evidence": {
+        "checked_on": "2026-09-25",
+        "scope": "publisher bibliographic metadata and abstract/TOC; not a full-text quality certification",
+        "sources": [
+          "https://www.mheducation.co.uk/prescott-s-microbiology-2026-release-ise-9781265827175-emea-group",
+          "https://ndlsearch.ndl.go.jp/en/books/R100000136-I1970589942157279361"
+        ]
+      }
+    },
+    {
+      "id": "BOOK-MICROBIOLOGY-EVOLVING6-2023",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Microbiology: An Evolving Science",
+      "authors": [
+        "Joan L. Slonczewski",
+        "John W. Foster",
+        "Erik R. Zinser"
+      ],
+      "edition": "6th International Student Edition",
+      "published_year": 2023,
+      "publisher": "W. W. Norton & Company",
+      "isbn": "9781324033561",
+      "publisher_url": "https://wwnorton.co.uk/books/9781324033561-microbiology-5b2083ea-63b8-46f8-a651-f96b4c2badee",
+      "purchase_url": "https://wwnorton.co.uk/books/9781324033561-microbiology-5b2083ea-63b8-46f8-a651-f96b4c2badee",
+      "cover": {
+        "url": "https://cdn2.wwnorton.com/wwnproducts/COLLEG/1/6/9781324033561/9781324033561_198.jpg",
+        "source": "W. W. Norton, exact ISBN",
+        "image_isbn": "9781324033561",
+        "expected_sha256": "3164b65fe4e85d4e34e60cef78e67242217a0e37b69778348713c559af934f91",
+        "visual_reviewed_on": "2026-09-25",
+        "visual_review_status": "title_and_edition_checked",
+        "source_url": "https://wwnorton.co.uk/books/9781324033561-microbiology-5b2083ea-63b8-46f8-a651-f96b4c2badee"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-25",
+      "verification_evidence": {
+        "checked_on": "2026-09-25",
+        "scope": "publisher bibliographic metadata and abstract/TOC; not a full-text quality certification",
+        "sources": [
+          "https://wwnorton.co.uk/books/9781324033561-microbiology-5b2083ea-63b8-46f8-a651-f96b4c2badee"
+        ]
+      }
+    },
+    {
+      "id": "BOOK-BROCK-MICROORGANISMS16-2021",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Brock Biology of Microorganisms, Global Edition",
+      "authors": [
+        "Michael T. Madigan",
+        "Kelly S. Bender",
+        "Daniel H. Buckley",
+        "W. Matthew Sattley",
+        "David A. Stahl"
+      ],
+      "edition": "16th Edition",
+      "published_year": 2021,
+      "publisher": "Pearson",
+      "isbn": "9781292404790",
+      "publisher_url": "https://www.pearson.com/en-gb/subject-catalog/p/brock-biology-of-microorganisms-global-edition/P200000004789/9781292404790",
+      "purchase_url": "https://www.pearson.com/en-gb/subject-catalog/p/brock-biology-of-microorganisms-global-edition/P200000004789/9781292404790",
+      "cover": {
+        "url": "https://www.pearson.com/store/pmccommercewebservices/v2/medias/size-W370-A1030-00-25-75-A103000257574-A103000257574-Lrg.jpg?context=bWFzdGVyfGltYWdlc3wyMzg3MnxpbWFnZS9qcGVnfHN5cy1tYXN0ZXIvaW1hZ2VzL2g3Mi9oN2QvMTU0NDE0MzAxNTExOTgvc2l6ZV9XMzcwXy9BMTAzMC8wMC8yNS83NS9BMTAzMDAwMjU3NTc0L0ExMDMwMDAyNTc1NzRfTHJnLmpwZ3wzOTdjOTEzMWE5ZjVjY2MyZWEzNjUzYmY1YTk1Nzk2YjU0NTFjOWIzYTVmZWIzMjNjYmI3ZTYwYjgwN2RjZDA4&imwidth=3840",
+        "source": "Pearson product page, global sixteenth edition",
+        "image_isbn": "9781292404790",
+        "expected_sha256": "c6b724a938755dc86b718a2776b1a0e8b1c6fecb7606e00a50da21999e49ccc4",
+        "visual_reviewed_on": "2026-09-25",
+        "visual_review_status": "title_and_edition_checked",
+        "source_url": "https://www.pearson.com/en-gb/subject-catalog/p/brock-biology-of-microorganisms-global-edition/P200000004789/9781292404790"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-25",
+      "bibliographic_note": "Exact print ISBN 9781292404790 is listed as published in 2021; the publisher page header 2024 refers to later digital products. The legacy resource ID is retained for stable links.",
+      "verification_evidence": {
+        "checked_on": "2026-09-25",
+        "scope": "publisher bibliographic metadata and abstract/TOC; not a full-text quality certification",
+        "sources": [
+          "https://www.pearson.com/en-gb/subject-catalog/p/brock-biology-of-microorganisms-global-edition/P200000004789/9781292404790"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-TERRABACTERIA-ENVELOPE-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Terrabacteria: redefining bacterial envelope diversity, biogenesis and evolution",
+      "authors": [
+        "Basile Beaud Benyahia",
+        "Najwa Taib",
+        "Christophe Beloin",
+        "Simonetta Gribaldo"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Microbiology",
+      "doi": "10.1038/s41579-024-01088-0",
+      "publisher_url": "https://www.nature.com/articles/s41579-024-01088-0",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25",
+      "verification_evidence": {
+        "checked_on": "2026-09-25",
+        "scope": "publisher bibliographic metadata and abstract/TOC; not a full-text quality certification",
+        "sources": [
+          "https://www.nature.com/articles/s41579-024-01088-0"
+        ]
+      },
+      "publication_status": "published"
+    },
+    {
+      "id": "REVIEW-MICROBIAL-SLAYERS-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Assembly, architecture and functional roles of microbial surface layers",
+      "authors": [
+        "Buse Isbilir",
+        "Andriko von Kügelgen",
+        "Vikram Alva",
+        "Tanmay A. M. Bharat"
+      ],
+      "published_year": 2026,
+      "journal": "Nature Reviews Microbiology",
+      "doi": "10.1038/s41579-025-01258-8",
+      "publisher_url": "https://www.nature.com/articles/s41579-025-01258-8",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25",
+      "verification_evidence": {
+        "checked_on": "2026-09-25",
+        "scope": "publisher bibliographic metadata and abstract/TOC; not a full-text quality certification",
+        "sources": [
+          "https://www.nature.com/articles/s41579-025-01258-8"
+        ]
+      },
+      "publication_status": "published"
+    },
+    {
+      "id": "REVIEW-BACTERIAL-CHEMOTAXIS-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Unpacking Alternative Features of the Bacterial Chemotaxis System",
+      "authors": [
+        "A. R. Muok",
+        "F. A. Olsthoorn",
+        "A. Briegel"
+      ],
+      "published_year": 2024,
+      "journal": "Annual Review of Microbiology",
+      "doi": "10.1146/annurev-micro-032421-110850",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-micro-032421-110850",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25",
+      "verification_evidence": {
+        "checked_on": "2026-09-25",
+        "scope": "publisher bibliographic metadata and abstract/TOC; not a full-text quality certification",
+        "sources": [
+          "https://www.annualreviews.org/content/journals/10.1146/annurev-micro-032421-110850"
+        ]
+      },
+      "publication_status": "published",
+      "access_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-micro-032421-110850",
+      "access_status": "open_access",
+      "license": "CC BY 4.0 (article text; inspect third-party credits)"
+    },
+    {
+      "id": "REVIEW-HELICOBACTER-FLAGELLA-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "From Swimming to Sensing: The Multifunctional Flagella of Helicobacter",
+      "authors": [
+        "Jiunn N. C. Fong",
+        "Eric H. L. Huang",
+        "Ana I. Ponce",
+        "Xiaolin Liu",
+        "Karen M. Ottemann"
+      ],
+      "published_year": 2026,
+      "journal": "Annual Review of Microbiology",
+      "doi": "10.1146/annurev-micro-042924-021000",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-micro-042924-021000",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25",
+      "verification_evidence": {
+        "checked_on": "2026-09-25",
+        "scope": "publisher bibliographic metadata and abstract/TOC; not a full-text quality certification",
+        "sources": [
+          "https://www.annualreviews.org/content/journals/10.1146/annurev-micro-042924-021000"
+        ]
+      },
+      "publication_status": "peer_reviewed_advance_online"
+    },
+    {
+      "id": "REVIEW-COORDINATION-MICROBIAL-METABOLISM-2014",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Coordination of microbial metabolism",
+      "authors": [
+        "Victor Chubukov",
+        "Luca Gerosa",
+        "Karl Kochanowski",
+        "Uwe Sauer"
+      ],
+      "published_year": 2014,
+      "journal": "Nature Reviews Microbiology",
+      "doi": "10.1038/nrmicro3238",
+      "publisher_url": "https://www.nature.com/articles/nrmicro3238",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25",
+      "verification_evidence": {
+        "checked_on": "2026-09-25",
+        "scope": "publisher bibliographic metadata and abstract/TOC; not a full-text quality certification",
+        "sources": [
+          "https://www.nature.com/articles/nrmicro3238"
+        ]
+      },
+      "publication_status": "published"
+    },
+    {
+      "id": "REVIEW-ACTINOMYCETOTA-METABOLITES-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Why Do Filamentous Actinomycetota Produce Such a Vast Array of Specialized Metabolites?",
+      "authors": [
+        "Luis M. Cantu Morin",
+        "Kilian Dekoninck",
+        "Varun Sridhar",
+        "Saoirse Disney-McKeethen",
+        "Theresa Proctor",
+        "Ashley Y. Eng",
+        "Matthew F. Traxler"
+      ],
+      "published_year": 2025,
+      "journal": "Annual Review of Microbiology",
+      "doi": "10.1146/annurev-micro-060424-051257",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-micro-060424-051257",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25",
+      "verification_evidence": {
+        "checked_on": "2026-09-25",
+        "scope": "publisher bibliographic metadata and abstract/TOC; not a full-text quality certification",
+        "sources": [
+          "https://www.annualreviews.org/content/journals/10.1146/annurev-micro-060424-051257"
+        ]
+      },
+      "publication_status": "published",
+      "access_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-micro-060424-051257",
+      "access_status": "open_access",
+      "license": "CC BY 4.0 (article text; inspect third-party credits)"
+    },
+    {
+      "id": "REVIEW-HGT-ADAPTATION-2022",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Horizontal gene transfer and adaptive evolution in bacteria",
+      "authors": [
+        "Brian J. Arnold",
+        "I-Ting Huang",
+        "William P. Hanage"
+      ],
+      "published_year": 2022,
+      "journal": "Nature Reviews Microbiology",
+      "doi": "10.1038/s41579-021-00650-4",
+      "publisher_url": "https://www.nature.com/articles/s41579-021-00650-4",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25",
+      "verification_evidence": {
+        "checked_on": "2026-09-25",
+        "scope": "publisher bibliographic metadata and abstract/TOC; not a full-text quality certification",
+        "sources": [
+          "https://www.nature.com/articles/s41579-021-00650-4"
+        ]
+      },
+      "publication_status": "published"
+    },
+    {
+      "id": "REVIEW-BACTERIAL-MGE-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Interactions and evolutionary relationships among bacterial mobile genetic elements",
+      "authors": [
+        "Andrew S. Lang",
+        "Alison Buchan",
+        "Vincent Burrus"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Microbiology",
+      "doi": "10.1038/s41579-025-01157-y",
+      "publisher_url": "https://www.nature.com/articles/s41579-025-01157-y",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25",
+      "verification_evidence": {
+        "checked_on": "2026-09-25",
+        "scope": "publisher bibliographic metadata and abstract/TOC; not a full-text quality certification",
+        "sources": [
+          "https://www.nature.com/articles/s41579-025-01157-y"
+        ]
+      },
+      "publication_status": "published"
+    },
+    {
+      "id": "REVIEW-ASGARD-ARCHAEA-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Diversity, ecology, cell biology and evolution of the Asgard archaea",
+      "authors": [
+        "Kassiani Panagiotou",
+        "Patricia Geesink",
+        "Stephan Köstlbacher",
+        "Gerben H. de Zwaan",
+        "Thijs J. G. Ettema"
+      ],
+      "published_year": 2026,
+      "journal": "Nature Reviews Microbiology",
+      "doi": "10.1038/s41579-026-01288-w",
+      "publisher_url": "https://www.nature.com/articles/s41579-026-01288-w",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25",
+      "verification_evidence": {
+        "checked_on": "2026-09-25",
+        "scope": "publisher bibliographic metadata and abstract/TOC; not a full-text quality certification",
+        "sources": [
+          "https://www.nature.com/articles/s41579-026-01288-w"
+        ]
+      },
+      "publication_status": "published"
+    },
+    {
+      "id": "REVIEW-EARLY-MICROBIAL-LIFE-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Reconstructing Early Microbial Life",
+      "authors": [
+        "Betül Kaçar"
+      ],
+      "published_year": 2024,
+      "journal": "Annual Review of Microbiology",
+      "doi": "10.1146/annurev-micro-041522-103400",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-micro-041522-103400",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25",
+      "verification_evidence": {
+        "checked_on": "2026-09-25",
+        "scope": "publisher bibliographic metadata and abstract/TOC; not a full-text quality certification",
+        "sources": [
+          "https://www.annualreviews.org/content/journals/10.1146/annurev-micro-041522-103400"
+        ]
+      },
+      "publication_status": "published",
+      "access_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-micro-041522-103400",
+      "access_status": "open_access",
+      "license": "CC BY 4.0 (article text; inspect third-party credits)"
+    },
+    {
+      "id": "REVIEW-SOIL-MICROBIAL-COMMUNITIES-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "The interplay between microbial communities and soil properties",
+      "authors": [
+        "Laurent Philippot",
+        "Claire Chenu",
+        "Andreas Kappler",
+        "Matthias C. Rillig",
+        "Noah Fierer"
+      ],
+      "published_year": 2024,
+      "journal": "Nature Reviews Microbiology",
+      "doi": "10.1038/s41579-023-00980-5",
+      "publisher_url": "https://www.nature.com/articles/s41579-023-00980-5",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25",
+      "verification_evidence": {
+        "checked_on": "2026-09-25",
+        "scope": "publisher bibliographic metadata and abstract/TOC; not a full-text quality certification",
+        "sources": [
+          "https://www.nature.com/articles/s41579-023-00980-5"
+        ]
+      },
+      "publication_status": "published"
+    },
+    {
+      "id": "REVIEW-CORRINOID-COMMUNITIES-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "The Corrinoid Model for Dissecting Microbial Community Interactions Across Scales",
+      "authors": [
+        "Zoila I. Alvarez-Aponte",
+        "Rebecca R. Procknow",
+        "Michiko E. Taga"
+      ],
+      "published_year": 2025,
+      "journal": "Annual Review of Microbiology",
+      "doi": "10.1146/annurev-micro-051024-044734",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-micro-051024-044734",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25",
+      "verification_evidence": {
+        "checked_on": "2026-09-25",
+        "scope": "publisher bibliographic metadata and abstract/TOC; not a full-text quality certification",
+        "sources": [
+          "https://www.annualreviews.org/content/journals/10.1146/annurev-micro-051024-044734"
+        ]
+      },
+      "publication_status": "published",
+      "access_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-micro-051024-044734",
+      "access_status": "open_access",
+      "license": "CC BY 4.0 (article text; inspect third-party credits)"
+    },
+    {
+      "id": "REVIEW-HOST-MICROBIOME-GENOMICS-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Genomics of host–microbiome interactions in humans",
+      "authors": [
+        "Pamela Ferretti",
+        "Kelsey Johnson",
+        "Sambhawa Priya",
+        "Ran Blekhman"
+      ],
+      "published_year": 2026,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/s41576-025-00849-8",
+      "publisher_url": "https://www.nature.com/articles/s41576-025-00849-8",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25",
+      "verification_evidence": {
+        "checked_on": "2026-09-25",
+        "scope": "publisher bibliographic metadata and abstract/TOC; not a full-text quality certification",
+        "sources": [
+          "https://www.nature.com/articles/s41576-025-00849-8"
+        ]
+      },
+      "publication_status": "published"
+    },
+    {
+      "id": "REVIEW-CIRCADIAN-MICROBIOME-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Circadian Control of Host–Microbiome Symbioses",
+      "authors": [
+        "Talia Akoh-Arrey",
+        "Urbashi Basu",
+        "John F. Brooks II"
+      ],
+      "published_year": 2026,
+      "journal": "Annual Review of Microbiology",
+      "doi": "10.1146/annurev-micro-042424-091144",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-micro-042424-091144",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25",
+      "verification_evidence": {
+        "checked_on": "2026-09-25",
+        "scope": "publisher bibliographic metadata and abstract/TOC; not a full-text quality certification",
+        "sources": [
+          "https://www.annualreviews.org/content/journals/10.1146/annurev-micro-042424-091144"
+        ]
+      },
+      "publication_status": "peer_reviewed_advance_online"
+    },
+    {
+      "id": "REVIEW-SALMONELLA-HOST-MICROBIOTA-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Host–microbiota–pathogen interactions drive Salmonella enterica serovar Typhimurium pathogenesis",
+      "authors": [
+        "Andrés Vázquez-Torres"
+      ],
+      "published_year": 2026,
+      "journal": "Nature Reviews Microbiology",
+      "doi": "10.1038/s41579-026-01348-1",
+      "publisher_url": "https://www.nature.com/articles/s41579-026-01348-1",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25",
+      "verification_evidence": {
+        "checked_on": "2026-09-25",
+        "scope": "publisher bibliographic metadata and abstract/TOC; not a full-text quality certification",
+        "sources": [
+          "https://www.nature.com/articles/s41579-026-01348-1"
+        ]
+      },
+      "publication_status": "published"
+    },
+    {
+      "id": "REVIEW-PSEUDOMONAS-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Pseudomonas aeruginosa: ecology, evolution, pathogenesis and antimicrobial susceptibility",
+      "authors": [
+        "Morgana Letizia",
+        "Stephen P. Diggle",
+        "Marvin Whiteley"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Microbiology",
+      "doi": "10.1038/s41579-025-01193-8",
+      "publisher_url": "https://www.nature.com/articles/s41579-025-01193-8",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25",
+      "verification_evidence": {
+        "checked_on": "2026-09-25",
+        "scope": "publisher bibliographic metadata and abstract/TOC; not a full-text quality certification",
+        "sources": [
+          "https://www.nature.com/articles/s41579-025-01193-8"
+        ]
+      },
+      "publication_status": "published"
+    },
+    {
+      "id": "REVIEW-AMR-EVOLUTION-SCALES-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "From Petri Dishes to Patients to Populations: Scales and Evolutionary Mechanisms Driving Antibiotic Resistance",
+      "authors": [
+        "Célia Souque",
+        "Indra González Ojeda",
+        "Michael Baym"
+      ],
+      "published_year": 2024,
+      "journal": "Annual Review of Microbiology",
+      "doi": "10.1146/annurev-micro-041522-102707",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-micro-041522-102707",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25",
+      "verification_evidence": {
+        "checked_on": "2026-09-25",
+        "scope": "publisher bibliographic metadata and abstract/TOC; not a full-text quality certification",
+        "sources": [
+          "https://www.annualreviews.org/content/journals/10.1146/annurev-micro-041522-102707"
+        ]
+      },
+      "publication_status": "published",
+      "access_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-micro-041522-102707",
+      "access_status": "open_access",
+      "license": "CC BY 4.0 (article text; inspect third-party credits)"
+    },
+    {
+      "id": "REVIEW-METABOLISM-AMR-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "The role of bacterial metabolism in antimicrobial resistance",
+      "authors": [
+        "Mehrose Ahmad",
+        "Sai Varun Aduru",
+        "Robert P. Smith",
+        "Zirui Zhao",
+        "Allison J. Lopatkin"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Microbiology",
+      "doi": "10.1038/s41579-025-01155-0",
+      "publisher_url": "https://www.nature.com/articles/s41579-025-01155-0",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25",
+      "verification_evidence": {
+        "checked_on": "2026-09-25",
+        "scope": "publisher bibliographic metadata and abstract/TOC; not a full-text quality certification",
+        "sources": [
+          "https://www.nature.com/articles/s41579-025-01155-0"
+        ]
+      },
+      "publication_status": "published",
+      "access_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12173792/",
+      "access_status": "free_author_manuscript"
     }
   ]
 }
