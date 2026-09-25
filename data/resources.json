@@ -2170,7 +2170,11 @@
       "purchase_url": "https://www.oup.com.au/books/higher-education/biological-sciences/9780197619629",
       "cover": {
         "url": "https://fdslive.oup.com/covers/anz/desktop/medium/9780197619629.jpg",
-        "source": "Oxford University Press cover asset; pending CI visual review"
+        "source": "Official Oxford University Press cover image",
+        "expected_sha256": "d61974b7baee24b2aeca88a28260ea03d1e25b8a4ea1d5abac086e6ecc0193f2",
+        "visual_reviewed_on": "2026-09-26",
+        "visual_review_status": "title_and_edition_checked",
+        "source_url": "https://www.oup.com.au/books/higher-education/biological-sciences/9780197619629"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-26"
@@ -2192,7 +2196,11 @@
       "purchase_url": "https://www.macmillanlearning.com/ed/au/product/Evolution--4th-edition/p/1319615708",
       "cover": {
         "url": "https://covers.vitalsource.com/vbid/9781319616557/width/200",
-        "source": "VitalSource cover fallback for the 4th International Edition; Macmillan Learning is bibliographic authority; pending CI visual review"
+        "source": "VitalSource cover fallback for the 4th International Edition; Macmillan Learning is bibliographic authority",
+        "expected_sha256": "5bf546f52e64afd5e5c95764d9738c2630126aaa855968d296f165b0d903193a",
+        "visual_reviewed_on": "2026-09-26",
+        "visual_review_status": "title_and_edition_checked",
+        "source_url": "https://www.macmillanlearning.com/ed/au/product/Evolution--4th-edition/p/1319615708"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-26"
@@ -2214,7 +2222,11 @@
       "purchase_url": "https://www.pearson.com/en-us/subject-catalog/p/evolutionary-analysis/P200000006896/9780137521029",
       "cover": {
         "url": "https://covers.vitalsource.com/vbid/9780137521029/width/200",
-        "source": "VitalSource cover fallback; Pearson is bibliographic authority; pending CI visual review"
+        "source": "VitalSource cover fallback; Pearson is bibliographic authority",
+        "expected_sha256": "e20d3a80df111e9f10746c33fb6fe926277d3850c4d1372f0b57c542680c2a03",
+        "visual_reviewed_on": "2026-09-26",
+        "visual_review_status": "title_and_edition_checked",
+        "source_url": "https://www.pearson.com/en-us/subject-catalog/p/evolutionary-analysis/P200000006896/9780137521029"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-26"
