@@ -9,15 +9,38 @@
       "role": "foundation",
       "theory_only": true,
       "title": "Biology 2e",
-      "authors": ["Mary Ann Clark", "Matthew Douglas", "Jung Choi"],
+      "authors": [
+        "Mary Ann Clark",
+        "Matthew Douglas",
+        "Jung Choi"
+      ],
       "published_year": 2018,
       "publisher": "OpenStax",
       "publisher_url": "https://openstax.org/books/biology-2e/pages/1-introduction",
       "access_url": "https://openstax.org/books/biology-2e/pages/1-introduction",
-      "coverage_concept_ids": ["CB01","CB02","CB03","CB06","CB07","CB08","CB09","CB11"],
+      "coverage_concept_ids": [
+        "CB01",
+        "CB02",
+        "CB03",
+        "CB06",
+        "CB07",
+        "CB08",
+        "CB09",
+        "CB11"
+      ],
       "selection_rationale": "Free prerequisite-level coverage for cell structure, membranes, signaling and cell reproduction before a dedicated Cell Biology text.",
       "verification_status": "verified",
-      "verified_on": "2026-09-25"
+      "verified_on": "2026-09-25",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که هنوز در ساختار سلول، غشا، پیام‌رسانی سلولی یا چرخه سلولی پایه محکمی ندارد.",
+        "why": "رایگان، دانشگاهی و مناسب برای مرور پیش‌نیازها پیش از ورود به یک کتاب تخصصی زیست‌شناسی سلولی.",
+        "how_to_use": "کل کتاب لازم نیست؛ فصل‌های 4، 5، 9 و 10 به‌صورت هدفمند مطالعه شوند.",
+        "next_step": "پس از تسلط بر این مباحث، وارد Essential Cell Biology شوید."
+      },
+      "cover": {
+        "url": "https://storage.pardot.com/218812/1766081607A9LlaLN9/biology_book_card_2e.svg",
+        "source": "Official OpenStax book card"
+      }
     },
     {
       "id": "BOOK-ECB6-2023",
@@ -27,7 +50,15 @@
       "role": "core",
       "theory_only": true,
       "title": "Essential Cell Biology",
-      "authors": ["Bruce Alberts", "Rebecca Heald", "Karen Hopkin", "Alexander Johnson", "David Morgan", "Keith Roberts", "Peter Walter"],
+      "authors": [
+        "Bruce Alberts",
+        "Rebecca Heald",
+        "Karen Hopkin",
+        "Alexander Johnson",
+        "David Morgan",
+        "Keith Roberts",
+        "Peter Walter"
+      ],
       "edition": "6th International Student Edition",
       "published_year": 2023,
       "publisher": "W. W. Norton & Company",
@@ -38,10 +69,28 @@
         "url": "https://cdn2.wwnorton.com/wwnproducts/COLLEG/4/9/9781324033394/9781324033394_198.jpg",
         "source": "Official publisher cover image"
       },
-      "coverage_concept_ids": ["CB01","CB02","CB03","CB04","CB05","CB06","CB07","CB08","CB09","CB10","CB11"],
+      "coverage_concept_ids": [
+        "CB01",
+        "CB02",
+        "CB03",
+        "CB04",
+        "CB05",
+        "CB06",
+        "CB07",
+        "CB08",
+        "CB09",
+        "CB10",
+        "CB11"
+      ],
       "selection_rationale": "Current first-course Cell Biology text with a strong pedagogical fit for a complete Core pass.",
       "verification_status": "verified",
-      "verified_on": "2026-09-25"
+      "verified_on": "2026-09-25",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد زیست‌شناسی سلولی را برای نخستین بار به‌صورت منسجم و دانشگاهی یاد بگیرد.",
+        "why": "برای یک درس نخست زیست‌شناسی سلولی طراحی شده و تعادل خوبی میان عمق علمی، تصویرسازی و توضیح مفهومی دارد.",
+        "how_to_use": "به‌عنوان منبع اصلی، فصل‌ها را به‌ترتیب مطالعه کنید و روی ارتباط ساختار سلول، عملکرد و تنظیم فرایندها تمرکز داشته باشید.",
+        "next_step": "پس از یک دور کامل، برای عمق بیشتر به The Cell: A Molecular Approach یا مستقیماً به شاخه تخصصی مورد علاقه بروید."
+      }
     },
     {
       "id": "BOOK-CELL9-2022",
@@ -51,7 +100,10 @@
       "role": "reference",
       "theory_only": true,
       "title": "The Cell: A Molecular Approach",
-      "authors": ["Geoffrey M. Cooper", "Kenneth W. Adams"],
+      "authors": [
+        "Geoffrey M. Cooper",
+        "Kenneth W. Adams"
+      ],
       "edition": "9th Edition",
       "published_year": 2022,
       "publisher": "Oxford University Press",
@@ -62,10 +114,28 @@
         "url": "https://fdslive.oup.com/covers/anz/desktop/medium/9780197583722.jpg",
         "source": "Official publisher cover image"
       },
-      "coverage_concept_ids": ["CB01","CB02","CB03","CB04","CB05","CB06","CB07","CB08","CB09","CB10","CB11"],
+      "coverage_concept_ids": [
+        "CB01",
+        "CB02",
+        "CB03",
+        "CB04",
+        "CB05",
+        "CB06",
+        "CB07",
+        "CB08",
+        "CB09",
+        "CB10",
+        "CB11"
+      ],
       "selection_rationale": "Broad undergraduate reference for a second pass with stronger molecular depth.",
       "verification_status": "verified",
-      "verified_on": "2026-09-25"
+      "verified_on": "2026-09-25",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مبانی را می‌داند و می‌خواهد همان مفاهیم را با جزئیات مولکولی و ارتباطات بیشتری مرور کند.",
+        "why": "یک مرجع کارشناسی گسترده است که میان کتاب مقدماتی و منابع سنگین پیشرفته قرار می‌گیرد.",
+        "how_to_use": "لازم نیست الزاماً از ابتدا تا انتها خوانده شود؛ می‌توان فصل‌های مرتبط با نقاط ضعف یا شاخه مورد نظر را انتخاب کرد.",
+        "next_step": "برای مطالعه عمیق‌تر و مکانیزمی‌تر به Molecular Biology of the Cell یا منابع تخصصی هر شاخه بروید."
+      }
     },
     {
       "id": "BOOK-MBOC7-2022",
@@ -75,7 +145,15 @@
       "role": "advanced",
       "theory_only": true,
       "title": "Molecular Biology of the Cell",
-      "authors": ["Bruce Alberts", "Rebecca Heald", "Alexander Johnson", "David Morgan", "Martin Raff", "Keith Roberts", "Peter Walter"],
+      "authors": [
+        "Bruce Alberts",
+        "Rebecca Heald",
+        "Alexander Johnson",
+        "David Morgan",
+        "Martin Raff",
+        "Keith Roberts",
+        "Peter Walter"
+      ],
       "edition": "7th Edition",
       "published_year": 2022,
       "publisher": "W. W. Norton & Company",
@@ -86,10 +164,28 @@
         "url": "https://cdn2.wwnorton.com/wwnproducts/COLLEG/2/5/9780393884852/9780393884852_198.jpg",
         "source": "Official publisher cover image"
       },
-      "coverage_concept_ids": ["CB01","CB02","CB03","CB04","CB05","CB06","CB07","CB08","CB09","CB10","CB11"],
+      "coverage_concept_ids": [
+        "CB01",
+        "CB02",
+        "CB03",
+        "CB04",
+        "CB05",
+        "CB06",
+        "CB07",
+        "CB08",
+        "CB09",
+        "CB10",
+        "CB11"
+      ],
       "selection_rationale": "Deep mechanistic reference and bridge from textbook learning to specialized review literature.",
       "verification_status": "verified",
-      "verified_on": "2026-09-25"
+      "verified_on": "2026-09-25",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته، دانشجوی تحصیلات تکمیلی یا کسی که می‌خواهد از سطح درسی به ادبیات پژوهشی نزدیک شود.",
+        "why": "مرجع جامع و مکانیزمی زیست‌شناسی سلولی است و برای اتصال مفاهیم مختلف در سطح عمیق مناسب است.",
+        "how_to_use": "به‌عنوان کتاب آغازین توصیه نمی‌شود؛ پس از یادگیری Core، فصل‌های مرتبط با موضوع پژوهشی یا شاخه تخصصی انتخاب شوند.",
+        "next_step": "پس از هر بخش، به Reviewهای جدید همان شاخه و سپس در صورت نیاز به مقالات پژوهشی اصلی بروید."
+      }
     },
     {
       "id": "REVIEW-ORG-CONTACTS-2025",
@@ -99,16 +195,31 @@
       "role": "advanced_update",
       "theory_only": true,
       "title": "Key challenges and recommendations for defining organelle membrane contact sites",
-      "authors": ["Tito Calì", "Emmanuelle M. Bayer", "Emily R. Eden", "et al."],
+      "authors": [
+        "Tito Calì",
+        "Emmanuelle M. Bayer",
+        "Emily R. Eden",
+        "et al."
+      ],
       "published_year": 2025,
       "journal": "Nature Reviews Molecular Cell Biology",
       "doi": "10.1038/s41580-025-00864-x",
       "publisher_url": "https://www.nature.com/articles/s41580-025-00864-x",
-      "branch_ids": ["organelle-biology"],
-      "coverage_concept_ids": ["CB04"],
+      "branch_ids": [
+        "organelle-biology"
+      ],
+      "coverage_concept_ids": [
+        "CB04"
+      ],
       "selection_rationale": "Recent expert synthesis of organelle membrane contact sites and inter-organelle communication.",
       "verification_status": "verified",
-      "verified_on": "2026-09-25"
+      "verified_on": "2026-09-25",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که مبانی اندامک‌ها و انتقال درون‌سلولی را می‌داند و می‌خواهد با مفهوم ارتباط مستقیم میان اندامک‌ها آشنا شود.",
+        "why": "یک مرور جدید و تخصصی درباره membrane contact sites و ارتباط عملکردی اندامک‌ها ارائه می‌کند.",
+        "how_to_use": "پس از مطالعه مباحث اندامک‌ها در یک کتاب پیشرفته خوانده شود؛ هدف، فهم چارچوب مفهومی و چالش‌های فعلی حوزه است.",
+        "next_step": "در صورت نیاز پژوهشی، از منابع ارجاع‌شده در Review برای ورود به مقالات اصلی استفاده کنید."
+      }
     },
     {
       "id": "REVIEW-NPC-2025",
@@ -118,16 +229,30 @@
       "role": "advanced_update",
       "theory_only": true,
       "title": "Structure, function and assembly of nuclear pore complexes",
-      "authors": ["Stefan Petrovic", "George W. Mobbs", "André Hoelz"],
+      "authors": [
+        "Stefan Petrovic",
+        "George W. Mobbs",
+        "André Hoelz"
+      ],
       "published_year": 2025,
       "journal": "Nature Reviews Molecular Cell Biology",
       "doi": "10.1038/s41580-025-00881-w",
       "publisher_url": "https://www.nature.com/articles/s41580-025-00881-w",
-      "branch_ids": ["nucleus-transport"],
-      "coverage_concept_ids": ["CB05"],
+      "branch_ids": [
+        "nucleus-transport"
+      ],
+      "coverage_concept_ids": [
+        "CB05"
+      ],
       "selection_rationale": "Recent structural and mechanistic synthesis of nuclear pore architecture and nucleocytoplasmic transport.",
       "verification_status": "verified",
-      "verified_on": "2026-09-25"
+      "verified_on": "2026-09-25",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که ساختار هسته و انتقال هسته‌ای را می‌داند و می‌خواهد وارد معماری و عملکرد کمپلکس منفذ هسته‌ای شود.",
+        "why": "مروری جدید بر ساختار، عملکرد، انتخاب‌پذیری و مونتاژ nuclear pore complex ارائه می‌دهد.",
+        "how_to_use": "پس از مطالعه فصل هسته و انتقال هسته‌ای در منبع پیشرفته خوانده شود؛ ابتدا شکل‌ها و مدل کلی، سپس جزئیات مولکولی مطالعه شوند.",
+        "next_step": "برای پروژه‌های مرتبط با انتقال هسته‌ای یا ساختار NPC، به مقالات اصلی ارجاع‌شده در Review بروید."
+      }
     }
   ]
 }
