@@ -1,22 +1,25 @@
 # Contributing
 
-Contributions are welcome, but this is a curated scientific registry rather than an unrestricted link list.
+Contributions are welcome, but this is a curated scientific roadmap rather than an unrestricted link list.
 
 ## Before opening a PR
 
 Confirm that the proposed resource:
 
-1. belongs to an existing theoretical course or comes with a justified course proposal;
-2. maps to one or more syllabus topic IDs;
-3. is theory-only;
-4. has stable bibliographic metadata;
-5. has an authoritative source URL;
-6. does not duplicate an existing edition/resource.
+1. belongs to an existing Subject or comes with a justified Subject proposal;
+2. has a clear learning stage;
+3. maps to one or more concept IDs;
+4. maps to a specialized branch when appropriate;
+5. is theory-only;
+6. has stable bibliographic metadata;
+7. has an authoritative source URL;
+8. does not duplicate an existing edition/resource.
 
 ## Adding a book
 
 Provide:
 
+- Subject ID;
 - title;
 - authors/editors;
 - edition;
@@ -26,43 +29,38 @@ Provide:
 - official publisher URL;
 - official purchase URL when available;
 - cover URL;
-- resource role;
-- mapped syllabus topics;
-- a concise selection rationale.
+- learning stage;
+- concept coverage;
+- branch mapping when specialized;
+- concise selection rationale;
+- what should be read before/after it when relevant.
 
 ## Adding a review article
 
 Provide:
 
+- Subject ID;
 - title;
 - authors;
 - journal;
 - year;
 - DOI and/or PMID;
-- publisher/journal URL;
-- mapped syllabus topics;
-- why the review adds current value beyond the textbook.
+- journal URL;
+- learning stage;
+- concept/branch mapping;
+- why it adds value beyond the broad textbooks.
 
 ## Theory-only rule
 
-Do **not** submit:
+Do **not** submit protocols, laboratory manuals, practical technique tutorials, SOPs, wet-lab workflows or instrument training.
 
-- protocols;
-- laboratory manuals;
-- practical technique tutorials;
-- SOPs;
-- wet-lab workflows;
-- instrument training.
-
-Conceptual discussion of experimental methods is acceptable only when it is part of a theoretical syllabus.
-
-## Review standard
+## Review question
 
 A maintainer should be able to answer:
 
-> Why this source, for this topic, at this degree level?
+> Why this source, at this learning stage, for this concept or branch?
 
-If the answer is not visible from the record and evidence, the contribution is not ready.
+If that is not clear from the record, the contribution is not ready.
 
 ## Data validation
 
@@ -71,5 +69,3 @@ Run:
 ```bash
 python scripts/validate_registry.py
 ```
-
-A PR should keep the registry validator green.
