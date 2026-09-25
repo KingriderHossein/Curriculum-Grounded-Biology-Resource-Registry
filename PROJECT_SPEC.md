@@ -2,30 +2,39 @@
 
 ## Purpose
 
-Build a maintainable, community-expandable registry that maps Iranian university biology curricula to high-quality **theoretical** learning resources.
+Build a maintainable, community-expandable registry of high-quality **theoretical biology learning roadmaps**, organized by scientific subject rather than by university major.
 
-## Primary users
+## Primary object
 
-- undergraduate and graduate biology students;
-- instructors and curriculum reviewers;
-- contributors curating evidence-backed learning resources.
+The authoritative project model is:
 
-## Core model
+`Subject → Learning stage → Concept area → Resource`
 
-`Curriculum → Theoretical Course → Syllabus Topic → Resource`
+A subject exists once. Degrees, majors, countries, universities and curricula may optionally map to that subject, but they never duplicate or own the subject.
 
-Shared courses are represented once and can later be linked from multiple curricula.
+## Learning stages
+
+Every mature subject roadmap should distinguish:
+
+1. **Foundation** — prerequisites and first exposure;
+2. **Core** — the main textbook/resource sequence for learning the subject properly;
+3. **Intermediate** — a stronger second pass and broader reference layer;
+4. **Advanced** — deeper mechanistic or research-level references;
+5. **Specialized branches** — subdomains that diverge inside the subject and need their own references.
+
+A learner should be able to see not only *what to read*, but *in what order* and *why*.
 
 ## In scope
 
-- official or institutionally published curricula;
-- theoretical courses and theoretical portions that can be clearly separated;
-- current textbook editions;
-- authoritative reference textbooks;
-- recent peer-reviewed reviews when they materially update a syllabus topic;
-- stable publisher/journal links;
-- purchase links when an official publisher/store page is available;
-- book-cover thumbnails for navigation and visual recognition.
+- theoretical textbooks;
+- authoritative reference books;
+- open academic textbooks/resources;
+- recent high-quality review articles for fast-moving areas;
+- subject-specific handbooks when conceptually oriented;
+- official publisher/journal links;
+- purchase links when available;
+- book-cover thumbnails for recognition and navigation;
+- optional curriculum mappings.
 
 ## Out of scope
 
@@ -35,28 +44,37 @@ Shared courses are represented once and can later be linked from multiple curric
 - wet-lab tutorials;
 - hands-on technique training;
 - instrument-operation guides;
-- practical-course resource lists;
-- exam-prep books as primary scientific references.
+- practical-course resource lists.
 
-A theoretical explanation of a method may be included only when that concept is part of the official theoretical syllabus. The registry must not turn it into procedural training.
+## Resource-selection goal
 
-## Success criteria
+The registry is not a bibliography dump.
 
-A course is considered implemented when:
+For each resource, the project should answer:
 
-1. its curriculum identity and provenance are recorded;
-2. theoretical syllabus topics are structured and uniquely identified;
-3. at least one strong course-level textbook is mapped to the syllabus;
-4. resource bibliographic metadata and authoritative URLs are verified;
-5. book covers are displayed consistently;
-6. data validation passes;
-7. a contributor can propose a new resource without needing project-owner context.
+- At what learning stage is it useful?
+- Which concept areas does it cover?
+- Is it broad or specialized?
+- Why is it preferred at that stage?
+- What should a learner read before or after it?
+
+## Success criteria for a subject
+
+A subject is considered meaningfully implemented when:
+
+1. its prerequisite/foundation layer is identified;
+2. a coherent Core → Intermediate → Advanced sequence exists;
+3. major specialized branches are separated;
+4. resources are mapped to stages and concept areas;
+5. bibliographic metadata and authoritative URLs are verified;
+6. cover presentation is consistent;
+7. theory-only validation passes;
+8. contributors can extend a branch without duplicating the subject.
+
+## Optional curriculum layer
+
+Curriculum mappings may later answer which part of a roadmap corresponds to a named course or degree. They are secondary navigation metadata, not the scientific backbone.
 
 ## Current pilot
 
-- Degree: B.Sc.
-- Field: Animal Biology
-- Authority: Ministry of Science, Research and Technology (MSRT)
-- Curriculum revision: 1400
-- Course: Cell Biology / زیست‌شناسی سلولی
-- Scope: theory only
+**Subject: Cell Biology / زیست‌شناسی سلولی**

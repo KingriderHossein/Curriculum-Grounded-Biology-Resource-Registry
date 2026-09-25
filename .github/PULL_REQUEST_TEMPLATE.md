@@ -1,11 +1,12 @@
 ## What changed?
 
-<!-- Briefly describe the curriculum/course/resource change. -->
+<!-- Briefly describe the Subject / roadmap / resource change. -->
 
 ## Evidence
 
-- Course ID:
-- Syllabus topic IDs:
+- Subject ID:
+- Learning stage:
+- Concept IDs / branch:
 - ISBN / DOI / PMID:
 - Authoritative source URL:
 
@@ -17,6 +18,6 @@
 - [ ] Publisher/journal metadata was verified
 - [ ] `python scripts/validate_registry.py` passes
 
-## Resource-role rationale
+## Placement rationale
 
-<!-- Why is this Core, Reference, or Advanced Update? -->
+<!-- Why does this resource belong at this exact roadmap stage? -->

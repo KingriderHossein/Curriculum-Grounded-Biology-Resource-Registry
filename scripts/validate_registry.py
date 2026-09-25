@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Registry integrity validator.
+"""Subject/resource registry integrity validator.
 
-Version: 0.1.0
+Version: 0.2.0
 Uses only the Python standard library.
 """
 
@@ -12,10 +12,11 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
-COURSES_PATH = ROOT / "data" / "courses.json"
+SUBJECTS_PATH = ROOT / "data" / "subjects.json"
 RESOURCES_PATH = ROOT / "data" / "resources.json"
 
 ALLOWED_TYPES = {
+    "foundation_textbook",
     "core_textbook",
     "reference_textbook",
     "advanced_textbook",
@@ -23,6 +24,8 @@ ALLOWED_TYPES = {
     "authoritative_reference",
     "open_academic_resource",
 }
+
+ALLOWED_STAGES = {"foundation", "core", "intermediate", "advanced", "specialized"}
 
 DISALLOWED_TYPES = {
     "laboratory_manual",
@@ -46,63 +49,73 @@ def require_https(value: str, label: str) -> None:
 
 
 def main() -> None:
-    course_data = load_json(COURSES_PATH)
-    resource_data = load_json(RESOURCES_PATH)
+    subjects = load_json(SUBJECTS_PATH).get("subjects", [])
+    resources = load_json(RESOURCES_PATH).get("resources", [])
 
-    courses = course_data.get("courses", [])
-    resources = resource_data.get("resources", [])
-
-    course_ids = [course["id"] for course in courses]
-    if len(course_ids) != len(set(course_ids)):
-        raise ValueError("Duplicate course IDs found.")
+    subject_ids = [subject["id"] for subject in subjects]
+    if len(subject_ids) != len(set(subject_ids)):
+        raise ValueError("Duplicate subject IDs found.")
 
     resource_ids = [resource["id"] for resource in resources]
     if len(resource_ids) != len(set(resource_ids)):
         raise ValueError("Duplicate resource IDs found.")
 
-    course_topics: dict[str, set[str]] = {}
+    subject_concepts: dict[str, set[str]] = {}
+    subject_branches: dict[str, set[str]] = {}
 
-    for course in courses:
-        if course.get("delivery") != "theoretical":
-            raise ValueError(f"Course {course['id']} is not theory-only.")
+    for subject in subjects:
+        sid = subject["id"]
+        if subject.get("scope") != "theoretical":
+            raise ValueError(f"Subject {sid} is not theory-only.")
 
-        topic_ids = [topic["id"] for topic in course.get("topics", [])]
-        if len(topic_ids) != len(set(topic_ids)):
-            raise ValueError(f"Duplicate topic IDs in course {course['id']}.")
+        stages = set(subject.get("roadmap_stages", []))
+        if not stages or not stages <= ALLOWED_STAGES:
+            raise ValueError(f"Subject {sid} has invalid roadmap stages.")
 
-        if not topic_ids:
-            raise ValueError(f"Course {course['id']} has no syllabus topics.")
+        concept_ids = [item["id"] for item in subject.get("concepts", [])]
+        branch_ids = [item["id"] for item in subject.get("branches", [])]
 
-        course_topics[course["id"]] = set(topic_ids)
+        if not concept_ids:
+            raise ValueError(f"Subject {sid} has no concepts.")
+        if len(concept_ids) != len(set(concept_ids)):
+            raise ValueError(f"Duplicate concept IDs in {sid}.")
+        if len(branch_ids) != len(set(branch_ids)):
+            raise ValueError(f"Duplicate branch IDs in {sid}.")
 
-        source = course.get("curriculum_source", {})
-        require_https(source.get("url", ""), f"{course['id']} curriculum source")
+        subject_concepts[sid] = set(concept_ids)
+        subject_branches[sid] = set(branch_ids)
 
     for resource in resources:
         rid = resource["id"]
-        cid = resource["course_id"]
+        sid = resource["subject_id"]
 
-        if cid not in course_topics:
-            raise ValueError(f"{rid} references unknown course {cid}.")
+        if sid not in subject_concepts:
+            raise ValueError(f"{rid} references unknown subject {sid}.")
 
         rtype = resource.get("resource_type")
         if rtype in DISALLOWED_TYPES or rtype not in ALLOWED_TYPES:
             raise ValueError(f"{rid} has unsupported resource_type {rtype!r}.")
+
+        if resource.get("learning_stage") not in ALLOWED_STAGES:
+            raise ValueError(f"{rid} has invalid learning_stage.")
 
         if resource.get("theory_only") is not True:
             raise ValueError(f"{rid} violates the theory-only rule.")
 
         require_https(resource.get("publisher_url", ""), f"{rid} publisher_url")
 
-        coverage = set(resource.get("coverage_topic_ids", []))
+        coverage = set(resource.get("coverage_concept_ids", []))
         if not coverage:
-            raise ValueError(f"{rid} has no syllabus coverage.")
+            raise ValueError(f"{rid} has no concept coverage.")
 
-        unknown_topics = coverage - course_topics[cid]
-        if unknown_topics:
-            raise ValueError(
-                f"{rid} references unknown topics: {sorted(unknown_topics)}"
-            )
+        unknown_concepts = coverage - subject_concepts[sid]
+        if unknown_concepts:
+            raise ValueError(f"{rid} references unknown concepts: {sorted(unknown_concepts)}")
+
+        branches = set(resource.get("branch_ids", []))
+        unknown_branches = branches - subject_branches[sid]
+        if unknown_branches:
+            raise ValueError(f"{rid} references unknown branches: {sorted(unknown_branches)}")
 
         if rtype.endswith("textbook"):
             if not resource.get("isbn"):
@@ -119,7 +132,7 @@ def main() -> None:
             raise ValueError(f"{rid} review article is missing DOI.")
 
     print(
-        f"Registry validation passed: {len(courses)} course(s), "
+        f"Registry validation passed: {len(subjects)} subject(s), "
         f"{len(resources)} resource(s)."
     )
 

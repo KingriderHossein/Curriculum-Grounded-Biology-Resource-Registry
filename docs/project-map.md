@@ -4,17 +4,17 @@ This file is a navigation index, not a status log.
 
 | Truth | Authoritative location |
 |---|---|
-| Project purpose, scope, non-goals | [PROJECT_SPEC.md](../PROJECT_SPEC.md) |
-| Scientific/resource selection rules | [METHODOLOGY.md](../METHODOLOGY.md) |
+| Project purpose and subject-centered model | [PROJECT_SPEC.md](../PROJECT_SPEC.md) |
+| Resource-selection and roadmap rules | [METHODOLOGY.md](../METHODOLOGY.md) |
 | Contribution workflow | [CONTRIBUTING.md](../CONTRIBUTING.md) |
-| Human-readable course pages | [courses/](../courses/) |
-| Curriculum navigation | [curricula/](../curricula/) |
-| Machine-readable course data | [data/courses.json](../data/courses.json) |
-| Machine-readable resource data | [data/resources.json](../data/resources.json) |
+| Human-readable subject roadmaps | [subjects/](../subjects/) |
+| Machine-readable subjects | [data/subjects.json](../data/subjects.json) |
+| Machine-readable resources | [data/resources.json](../data/resources.json) |
 | Data contracts | [schemas/](../schemas/) |
 | Automated validation | [scripts/validate_registry.py](../scripts/validate_registry.py) |
 | Visual conventions | [docs/visual-style.md](visual-style.md) |
+| Optional curriculum mappings | `mappings/` when useful |
 
 ## Current implemented slice
 
-B.Sc. Animal Biology → Cell Biology (theory-only pilot).
+Cell Biology: Foundation → Core → Intermediate → Advanced → specialized branches.

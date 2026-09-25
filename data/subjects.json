@@ -1,0 +1,36 @@
+{
+  "schema_version": "0.2.0",
+  "subjects": [
+    {
+      "id": "CELL-BIOLOGY",
+      "fa_name": "زیست‌شناسی سلولی",
+      "en_name": "Cell Biology",
+      "scope": "theoretical",
+      "roadmap_stages": ["foundation", "core", "intermediate", "advanced", "specialized"],
+      "concepts": [
+        {"id": "CB01", "label": "Cell theory, organization and evolution"},
+        {"id": "CB02", "label": "Plasma membrane and transport"},
+        {"id": "CB03", "label": "Endomembrane system and vesicular trafficking"},
+        {"id": "CB04", "label": "Organelle biology and inter-organelle communication"},
+        {"id": "CB05", "label": "Nucleus and nucleocytoplasmic transport"},
+        {"id": "CB06", "label": "Cell signaling"},
+        {"id": "CB07", "label": "Cell cycle, mitosis and division"},
+        {"id": "CB08", "label": "Cytoskeleton and cell mechanics"},
+        {"id": "CB09", "label": "Cell adhesion, junctions and extracellular matrix"},
+        {"id": "CB10", "label": "Cell death and autophagy"},
+        {"id": "CB11", "label": "Plant-cell-specific structures"}
+      ],
+      "branches": [
+        {"id": "membranes-transport", "label": "Membranes & transport"},
+        {"id": "organelle-biology", "label": "Organelle biology & trafficking"},
+        {"id": "nucleus-transport", "label": "Nucleus & nucleocytoplasmic transport"},
+        {"id": "cell-signaling", "label": "Cell signaling"},
+        {"id": "cytoskeleton-mechanics", "label": "Cytoskeleton & cell mechanics"},
+        {"id": "cell-cycle", "label": "Cell cycle & division"},
+        {"id": "cell-death-autophagy", "label": "Cell death & autophagy"},
+        {"id": "adhesion-ecm", "label": "Cell adhesion & extracellular matrix"},
+        {"id": "plant-cell-structures", "label": "Plant-cell structures"}
+      ]
+    }
+  ]
+}
