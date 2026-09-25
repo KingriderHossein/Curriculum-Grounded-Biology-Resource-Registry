@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.1.0",
+  "schema_version": "0.2.0",
   "placements": [
     {
       "id": "CELL-BIOLOGY::OPENSTAX-BIOLOGY2E-2018",
@@ -485,6 +485,500 @@
         "how_to_use": "بعد از مطالعه دیواره سلولی خوانده شود؛ ابتدا معماری plasmodesmata و سپس تنظیم permeability و پاسخ به فشار مطالعه شود.",
         "next_step": "برای تخصص عمیق‌تر در زیست‌شناسی سلول گیاهی، می‌توان به منابع مستقل درباره chloroplast dynamics و plant endomembrane systems رفت."
       }
+    },
+    {
+      "id": "BIOCHEMISTRY::OPENSTAX-BIOLOGY2E-2018",
+      "resource_id": "OPENSTAX-BIOLOGY2E-2018",
+      "subject_id": "BIOCHEMISTRY",
+      "learning_stage": "foundation",
+      "role": "foundation",
+      "coverage_concept_ids": [
+        "BC01",
+        "BC02",
+        "BC03",
+        "BC04",
+        "BC05",
+        "BC06",
+        "BC07",
+        "BC08"
+      ],
+      "selection_rationale": "یک منبع آزاد و دانشگاهی برای مرور پیش‌نیازهای شیمیایی و زیستی است و اجازه می‌دهد قبل از ورود به کتاب تخصصی، پایه‌ها را سریع ترمیم کنید.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که در شیمی زیستی پایه، ماکرومولکول‌ها، آنزیم‌ها یا مفهوم متابولیسم هنوز شکاف دارد.",
+        "why": "یک منبع آزاد و دانشگاهی برای مرور پیش‌نیازهای شیمیایی و زیستی است و اجازه می‌دهد قبل از ورود به کتاب تخصصی، پایه‌ها را سریع ترمیم کنید.",
+        "how_to_use": "کل کتاب لازم نیست؛ فصل‌های شیمی حیات، ماکرومولکول‌ها، متابولیسم و تنفس سلولی را هدفمند بخوانید.",
+        "next_step": "پس از این مرور وارد ⁦Lehninger Biochemistry: Core Concepts and Applications⁩ شوید."
+      }
+    },
+    {
+      "id": "BIOCHEMISTRY::BOOK-LEHNINGER-CORE-1E-2025",
+      "resource_id": "BOOK-LEHNINGER-CORE-1E-2025",
+      "subject_id": "BIOCHEMISTRY",
+      "learning_stage": "core",
+      "role": "core",
+      "coverage_concept_ids": [
+        "BC01",
+        "BC02",
+        "BC03",
+        "BC04",
+        "BC05",
+        "BC06",
+        "BC07",
+        "BC08",
+        "BC09",
+        "BC10",
+        "BC11",
+        "BC12"
+      ],
+      "selection_rationale": "نسخه‌ای جدید و فشرده از سنت آموزشی Lehninger است که برای تسلط بر مفاهیم کلیدی و آماده‌شدن برای مطالعه پیشرفته طراحی شده است.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بیوشیمی را برای نخستین بار به‌صورت منسجم، مفهومی و بدون ورود زودهنگام به حجم سنگین جزئیات یاد بگیرد.",
+        "why": "نسخه‌ای جدید و فشرده از سنت آموزشی Lehninger است که برای تسلط بر مفاهیم کلیدی و آماده‌شدن برای مطالعه پیشرفته طراحی شده است.",
+        "how_to_use": "به‌عنوان منبع اصلی از ابتدا و به‌ترتیب فصل‌ها مطالعه شود؛ هم‌زمان یک نقشه از ارتباط ساختار مولکول‌ها، انرژی و مسیرهای متابولیک بسازید.",
+        "next_step": "پس از یک دور کامل، برای عمق بیشتر از ⁦Biochemistry 10e⁩ استفاده کنید."
+      }
+    },
+    {
+      "id": "BIOCHEMISTRY::BOOK-BIOCHEMISTRY10-2023",
+      "resource_id": "BOOK-BIOCHEMISTRY10-2023",
+      "subject_id": "BIOCHEMISTRY",
+      "learning_stage": "intermediate",
+      "role": "reference",
+      "coverage_concept_ids": [
+        "BC01",
+        "BC02",
+        "BC03",
+        "BC04",
+        "BC05",
+        "BC06",
+        "BC07",
+        "BC08",
+        "BC09",
+        "BC10",
+        "BC11",
+        "BC12"
+      ],
+      "selection_rationale": "مرجع جامع کارشناسی است که ساختار، آنزیم‌ها، متابولیسم و تنظیم را با تأکید بر ارتباط فیزیولوژیک و پزشکی پوشش می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مبانی بیوشیمی را می‌داند و به یک مرور دوم با جزئیات بیشتر، مثال‌های فیزیولوژیک و حل مسئله نیاز دارد.",
+        "why": "مرجع جامع کارشناسی است که ساختار، آنزیم‌ها، متابولیسم و تنظیم را با تأکید بر ارتباط فیزیولوژیک و پزشکی پوشش می‌دهد.",
+        "how_to_use": "لازم نیست حتماً خطی خوانده شود؛ فصل‌های مرتبط با نقاط ضعف یا شاخه تخصصی انتخاب و همراه با مسئله‌ها مرور شوند.",
+        "next_step": "برای مرجع عمیق‌تر به ⁦Lehninger Principles of Biochemistry 8e⁩ یا مستقیماً به شاخه تخصصی موردنظر بروید."
+      }
+    },
+    {
+      "id": "BIOCHEMISTRY::BOOK-LEHNINGER8-2021",
+      "resource_id": "BOOK-LEHNINGER8-2021",
+      "subject_id": "BIOCHEMISTRY",
+      "learning_stage": "advanced",
+      "role": "advanced",
+      "coverage_concept_ids": [
+        "BC01",
+        "BC02",
+        "BC03",
+        "BC04",
+        "BC05",
+        "BC06",
+        "BC07",
+        "BC08",
+        "BC09",
+        "BC10",
+        "BC11",
+        "BC12"
+      ],
+      "selection_rationale": "یک مرجع کلاسیک و عمیق است که اصول بنیادی را با جزئیات مکانیزمی و پژوهش‌های جدید پیوند می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته و تحصیلات تکمیلی که به مرجع جامع و مکانیزمی برای ساختار، آنزیم‌شناسی، زیست‌انرژی و متابولیسم نیاز دارد.",
+        "why": "یک مرجع کلاسیک و عمیق است که اصول بنیادی را با جزئیات مکانیزمی و پژوهش‌های جدید پیوند می‌دهد.",
+        "how_to_use": "به‌عنوان کتاب شروع توصیه نمی‌شود؛ پس از یادگیری مسیر اصلی، فصل‌های مرتبط با موضوع پژوهشی یا شاخه تخصصی انتخاب شوند.",
+        "next_step": "پس از هر فصل تخصصی، وارد مقاله‌های مروری منتخب همان شاخه شوید."
+      }
+    },
+    {
+      "id": "BIOCHEMISTRY::REVIEW-PROTEIN-MISFOLDING-2023",
+      "resource_id": "REVIEW-PROTEIN-MISFOLDING-2023",
+      "subject_id": "BIOCHEMISTRY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "BC02"
+      ],
+      "selection_rationale": "چارچوب مکانیزمی مناسبی برای تاخوردگی، بدتاخوردگی، آمیلوئید و تجمع پروتئین فراهم می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که ساختار و تاخوردگی پروتئین را می‌داند و می‌خواهد بفهمد چرا برخی پروتئین‌ها بدتا می‌خورند و تجمع پیدا می‌کنند.",
+        "why": "چارچوب مکانیزمی مناسبی برای تاخوردگی، بدتاخوردگی، آمیلوئید و تجمع پروتئین فراهم می‌کند.",
+        "how_to_use": "پس از فصل ساختار و تاخوردگی پروتئین بخوانید؛ ابتدا نیروهای تعیین‌کننده ساختار و سپس مسیرهای تجمع را دنبال کنید.",
+        "next_step": "برای دید سلولی‌ترِ پروتئوستاز، به مرور شبکه ⁦Hsp70⁩ بروید."
+      },
+      "branch_ids": [
+        "protein-folding-proteostasis"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "BIOCHEMISTRY::REVIEW-HSP70-2026",
+      "resource_id": "REVIEW-HSP70-2026",
+      "subject_id": "BIOCHEMISTRY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "BC02"
+      ],
+      "selection_rationale": "مروری بسیار جدید بر چرخه ⁦Hsp70⁩، پروتئین‌های ⁦J-domain⁩ و عوامل تبادل نوکلئوتید و تصمیم بین تاخوردگی و تخریب است.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد نقش شپرون‌ها و به‌ویژه شبکه ⁦Hsp70⁩ را در کنترل کیفیت پروتئین بفهمد.",
+        "why": "مروری بسیار جدید بر چرخه ⁦Hsp70⁩، پروتئین‌های ⁦J-domain⁩ و عوامل تبادل نوکلئوتید و تصمیم بین تاخوردگی و تخریب است.",
+        "how_to_use": "پس از درک بدتاخوردگی و تجمع پروتئین مطالعه شود؛ چرخه شپرون و سرنوشت substrateها را به‌صورت یک شبکه ببینید.",
+        "next_step": "برای پژوهش تخصصی می‌توان به پاسخ پروتئین‌های بدتاخورده و سامانه‌های تخریب پروتئین رفت."
+      },
+      "branch_ids": [
+        "protein-folding-proteostasis"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "BIOCHEMISTRY::CHAPTER-ENZYME-KINETICS-2024",
+      "resource_id": "CHAPTER-ENZYME-KINETICS-2024",
+      "subject_id": "BIOCHEMISTRY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "BC03"
+      ],
+      "selection_rationale": "فصل آموزشی مستقلی است که از مفاهیم کاتالیز و کمپلکس آنزیم–سوبسترا تا ⁦Michaelis–Menten⁩، حالت پایا، مهار و پارامترهای سینتیکی پیش می‌رود.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد سینتیک آنزیمی را فراتر از حفظ معادله‌ها و به‌صورت مرحله‌به‌مرحله یاد بگیرد.",
+        "why": "فصل آموزشی مستقلی است که از مفاهیم کاتالیز و کمپلکس آنزیم–سوبسترا تا ⁦Michaelis–Menten⁩، حالت پایا، مهار و پارامترهای سینتیکی پیش می‌رود.",
+        "how_to_use": "معادله‌ها را همراه با معنای فیزیکی پارامترها بخوانید و برای هر مدل مشخص کنید چه فرض‌هایی پشت آن است.",
+        "next_step": "پس از مبانی کمی، Review مربوط به پویایی ساختاری آنزیم‌ها را بخوانید."
+      },
+      "branch_ids": [
+        "enzymology-kinetics"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "BIOCHEMISTRY::REVIEW-ENZYME-LOOP-DYNAMICS-2023",
+      "resource_id": "REVIEW-ENZYME-LOOP-DYNAMICS-2023",
+      "subject_id": "BIOCHEMISTRY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "BC03"
+      ],
+      "selection_rationale": "نشان می‌دهد پویایی لوپ‌های پروتئینی چگونه انتخاب‌پذیری، turnover و تکامل فعالیت آنزیم را شکل می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که سینتیک و کاتالیز را می‌داند و می‌خواهد رابطه حرکت ساختاری پروتئین با فعالیت آنزیمی را بفهمد.",
+        "why": "نشان می‌دهد پویایی لوپ‌های پروتئینی چگونه انتخاب‌پذیری، turnover و تکامل فعالیت آنزیم را شکل می‌دهد.",
+        "how_to_use": "بعد از مبانی سینتیک خوانده شود؛ مثال‌ها را به‌عنوان پل میان ساختار سه‌بعدی و رفتار کاتالیتیک دنبال کنید.",
+        "next_step": "برای ادامه می‌توان وارد مباحث آلستری، طراحی آنزیم و تکامل مولکولی آنزیم‌ها شد."
+      },
+      "branch_ids": [
+        "enzymology-kinetics"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "BIOCHEMISTRY::REVIEW-MITO-RESPIRATORY-CHAIN-2022",
+      "resource_id": "REVIEW-MITO-RESPIRATORY-CHAIN-2022",
+      "subject_id": "BIOCHEMISTRY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "BC07"
+      ],
+      "selection_rationale": "مرور جامعی از کمپلکس‌های زنجیره تنفسی، انتقال الکترون، گرادیان پروتون و سازمان سوپرکمپلکس‌ها ارائه می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که اکسایش–کاهش و فسفریلاسیون اکسیداتیو را می‌داند و می‌خواهد زنجیره تنفسی میتوکندری را ساختاری و مکانیزمی بفهمد.",
+        "why": "مرور جامعی از کمپلکس‌های زنجیره تنفسی، انتقال الکترون، گرادیان پروتون و سازمان سوپرکمپلکس‌ها ارائه می‌کند.",
+        "how_to_use": "پس از فصل زیست‌انرژی بخوانید؛ مسیر الکترون را از donorها تا اکسیژن و هم‌زمان coupling با انتقال پروتون دنبال کنید.",
+        "next_step": "برای مقایسه زیست‌انرژی در سامانه‌های فتوسنتزی، مرور زنجیره انتقال الکترون فتوسنتزی را بخوانید."
+      },
+      "branch_ids": [
+        "bioenergetics-redox"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "BIOCHEMISTRY::REVIEW-PHOTOSYNTHETIC-ETC-2025",
+      "resource_id": "REVIEW-PHOTOSYNTHETIC-ETC-2025",
+      "subject_id": "BIOCHEMISTRY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "BC07"
+      ],
+      "selection_rationale": "مروری جدید بر ساختار، مونتاژ، تنظیم و حفاظت نوری زنجیره انتقال الکترون فتوسنتزی است.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد اصول انتقال الکترون و تولید ATP را در کلروپلاست و فتوسنتز با میتوکندری مقایسه کند.",
+        "why": "مروری جدید بر ساختار، مونتاژ، تنظیم و حفاظت نوری زنجیره انتقال الکترون فتوسنتزی است.",
+        "how_to_use": "پس از زنجیره تنفسی میتوکندری مطالعه شود و شباهت‌ها و تفاوت‌های ایجاد گرادیان پروتون و تولید ATP مقایسه شوند.",
+        "next_step": "برای عمق بیشتر وارد تنظیم فتوسنتز، چرخه کالوین یا فتوپروتکشن شوید."
+      },
+      "branch_ids": [
+        "bioenergetics-redox"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "BIOCHEMISTRY::REVIEW-GLYCOGEN-2024",
+      "resource_id": "REVIEW-GLYCOGEN-2024",
+      "subject_id": "BIOCHEMISTRY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "BC08"
+      ],
+      "selection_rationale": "ساختار گلیکوژن، شاخه‌زایی، سنتز، تجزیه و ارتباط نقص این فرایندها با بیماری‌های ذخیره‌ای را یکجا مرور می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مسیرهای گلوکز را می‌داند و می‌خواهد متابولیسم و ساختمان گلیکوژن را عمیق‌تر بفهمد.",
+        "why": "ساختار گلیکوژن، شاخه‌زایی، سنتز، تجزیه و ارتباط نقص این فرایندها با بیماری‌های ذخیره‌ای را یکجا مرور می‌کند.",
+        "how_to_use": "بعد از گلیکولیز و تنظیم قند خون مطالعه شود؛ ساختار گرانول را با آنزیم‌های سنتز و تجزیه مرتبط کنید.",
+        "next_step": "برای دید فیزیولوژیک‌تر به تنظیم متابولیسم گلوکز کبدی بروید."
+      },
+      "branch_ids": [
+        "carbohydrate-metabolism"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "BIOCHEMISTRY::REVIEW-HEPATIC-GLUCOSE-2024",
+      "resource_id": "REVIEW-HEPATIC-GLUCOSE-2024",
+      "subject_id": "BIOCHEMISTRY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "BC08",
+        "BC12"
+      ],
+      "selection_rationale": "نقش کبد، انسولین، گلوکاگون، دسترسی سوبسترا و مقاومت به انسولین را در تنظیم تولید و ذخیره گلوکز یکپارچه می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد گلیکولیز، گلوکونئوژنز و گلیکوژن را در چارچوب هموستاز گلوکز کبد ببیند.",
+        "why": "نقش کبد، انسولین، گلوکاگون، دسترسی سوبسترا و مقاومت به انسولین را در تنظیم تولید و ذخیره گلوکز یکپارچه می‌کند.",
+        "how_to_use": "ابتدا بخش فیزیولوژی طبیعی را بخوانید و بخش بیماری را به‌عنوان نمونه بازآرایی متابولیک بررسی کنید.",
+        "next_step": "پس از این مرحله می‌توان به تنظیم کل‌بدنی متابولیسم و حسگرهای انرژی مانند AMPK رفت."
+      },
+      "branch_ids": [
+        "carbohydrate-metabolism"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "BIOCHEMISTRY::REVIEW-LIPID-DROPLETS-2024",
+      "resource_id": "REVIEW-LIPID-DROPLETS-2024",
+      "subject_id": "BIOCHEMISTRY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "BC09"
+      ],
+      "selection_rationale": "تولید، ذخیره، بسیج و انتقال لیپیدها را با مفهوم lipid flux و جلوگیری از lipotoxicity پیوند می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که β-اکسیداسیون و سنتز اسیدهای چرب را می‌داند و می‌خواهد جریان لیپید درون سلول و نقش قطرات چربی را بفهمد.",
+        "why": "تولید، ذخیره، بسیج و انتقال لیپیدها را با مفهوم lipid flux و جلوگیری از lipotoxicity پیوند می‌دهد.",
+        "how_to_use": "پس از متابولیسم اسیدهای چرب مطالعه شود؛ تشکیل و turnover قطرات چربی را در ارتباط با ER و تماس‌های اندامکی دنبال کنید.",
+        "next_step": "برای گسترش تنوع شیمیایی لیپیدها، مرور متابولیسم اسفنگولیپید را بخوانید."
+      },
+      "branch_ids": [
+        "lipid-metabolism"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "BIOCHEMISTRY::REVIEW-SPHINGOLIPID-HOMEOSTASIS-2024",
+      "resource_id": "REVIEW-SPHINGOLIPID-HOMEOSTASIS-2024",
+      "subject_id": "BIOCHEMISTRY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "BC05",
+        "BC09"
+      ],
+      "selection_rationale": "مرور جامعی از بیوسنتز، توزیع اندامکی، پیام‌رسانی و هموستاز اسفنگولیپیدها ارائه می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد یک خانواده مهم لیپیدی را از مسیرهای ساخت و تجزیه تا سیگنالینگ و تنظیم سیستمیک دنبال کند.",
+        "why": "مرور جامعی از بیوسنتز، توزیع اندامکی، پیام‌رسانی و هموستاز اسفنگولیپیدها ارائه می‌کند.",
+        "how_to_use": "پس از اصول متابولیسم لیپید بخوانید؛ ابتدا نقشه مسیرهای اسفنگولیپید و سپس تنظیم بین اندامک‌ها و بافت‌ها را دنبال کنید.",
+        "next_step": "برای تخصص بیشتر می‌توان به لیپیدومیکس یا مسیرهای خاص sphingosine-1-phosphate رفت."
+      },
+      "branch_ids": [
+        "lipid-metabolism"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "BIOCHEMISTRY::REVIEW-AMINO-ACID-KIDNEY-2024",
+      "resource_id": "REVIEW-AMINO-ACID-KIDNEY-2024",
+      "subject_id": "BIOCHEMISTRY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "BC10",
+        "BC12"
+      ],
+      "selection_rationale": "نقش کلیه در سنتز، بازجذب، تجزیه و دفع اسیدهای آمینه و ارتباط آن با گلوکونئوژنز، تعادل اسید–باز و چرخه اوره را یکپارچه می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مسیرهای تجزیه اسیدهای آمینه را می‌داند و می‌خواهد متابولیسم نیتروژن را در سطح اندام و هموستاز بدن ببیند.",
+        "why": "نقش کلیه در سنتز، بازجذب، تجزیه و دفع اسیدهای آمینه و ارتباط آن با گلوکونئوژنز، تعادل اسید–باز و چرخه اوره را یکپارچه می‌کند.",
+        "how_to_use": "پس از فصل متابولیسم اسیدهای آمینه بخوانید؛ مسیر هر اسید آمینه را نه جداگانه، بلکه در ارتباط با تبادل بین اندام‌ها ببینید.",
+        "next_step": "برای تمرکز بر دفع نهایی نیتروژن و آمونیاک، Review مربوط به سنتز اوره را بخوانید."
+      },
+      "branch_ids": [
+        "amino-acid-nitrogen"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "BIOCHEMISTRY::REVIEW-UREA-SYNTHESIS-2025",
+      "resource_id": "REVIEW-UREA-SYNTHESIS-2025",
+      "subject_id": "BIOCHEMISTRY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "BC10"
+      ],
+      "selection_rationale": "سنتز اوره را به‌عنوان عملکرد مرکزی کبد در حذف نیتروژن و کنترل آمونیاک بررسی می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که چرخه اوره را می‌داند و می‌خواهد اهمیت کمی و فیزیولوژیک آن را در تعادل نیتروژن و دفع آمونیاک بفهمد.",
+        "why": "سنتز اوره را به‌عنوان عملکرد مرکزی کبد در حذف نیتروژن و کنترل آمونیاک بررسی می‌کند.",
+        "how_to_use": "پس از یادگیری واکنش‌های چرخه اوره مطالعه شود؛ تمرکز را از حفظ آنزیم‌ها به جریان نیتروژن و ظرفیت کبد منتقل کنید.",
+        "next_step": "برای ادامه می‌توان به اختلالات چرخه اوره، آمونیاک و تبادل نیتروژن میان بافت‌ها رفت."
+      },
+      "branch_ids": [
+        "amino-acid-nitrogen"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "BIOCHEMISTRY::REVIEW-NUCLEOTIDE-CONTROL-2026",
+      "resource_id": "REVIEW-NUCLEOTIDE-CONTROL-2026",
+      "subject_id": "BIOCHEMISTRY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "BC06",
+        "BC11",
+        "BC12"
+      ],
+      "selection_rationale": "یکی از جدیدترین مرورهای جامع درباره de novo، salvage، بازخورد، سازمان فضایی آنزیم‌ها و اتصال متابولیسم نوکلئوتید به سیگنالینگ است.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مسیرهای پورین و پیریمیدین را می‌داند و می‌خواهد منطق تنظیم پویای poolهای نوکلئوتیدی را بفهمد.",
+        "why": "یکی از جدیدترین مرورهای جامع درباره de novo، salvage، بازخورد، سازمان فضایی آنزیم‌ها و اتصال متابولیسم نوکلئوتید به سیگنالینگ است.",
+        "how_to_use": "ابتدا نقشه de novo و salvage و سپس لایه‌های تنظیم کوتاه‌مدت، رونویسی و سازمان فضایی را دنبال کنید.",
+        "next_step": "برای یک نمونه اندامکی، متابولیسم نوکلئوتیدهای میتوکندری را مطالعه کنید."
+      },
+      "branch_ids": [
+        "nucleotide-metabolism"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "BIOCHEMISTRY::REVIEW-MITO-NUCLEOTIDES-2025",
+      "resource_id": "REVIEW-MITO-NUCLEOTIDES-2025",
+      "subject_id": "BIOCHEMISTRY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "BC06",
+        "BC11"
+      ],
+      "selection_rationale": "متابولیسم و انتقال نوکلئوتیدهای میتوکندری را با de novo، salvage و هموستاز نوکلئوتیدی سلول پیوند می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بفهمد میتوکندری چگونه نوکلئوتیدهای لازم برای DNA، RNA، انرژی و واکنش‌های آنزیمی خود را تأمین می‌کند.",
+        "why": "متابولیسم و انتقال نوکلئوتیدهای میتوکندری را با de novo، salvage و هموستاز نوکلئوتیدی سلول پیوند می‌دهد.",
+        "how_to_use": "پس از مرور عمومی نوکلئوتیدها بخوانید؛ تفکیک pool سیتوزولی و میتوکندری و مکانیسم‌های انتقال را دنبال کنید.",
+        "next_step": "در صورت علاقه می‌توان به one-carbon metabolism و بیماری‌های mtDNA وارد شد."
+      },
+      "branch_ids": [
+        "nucleotide-metabolism"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "BIOCHEMISTRY::REVIEW-AMPK-2026",
+      "resource_id": "REVIEW-AMPK-2026",
+      "subject_id": "BIOCHEMISTRY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "BC07",
+        "BC12"
+      ],
+      "selection_rationale": "مروری بسیار جدید بر ⁦AMPK⁩ به‌عنوان حسگر انرژی و یکپارچه‌کننده جریان متابولیک در بافت‌ها و شرایط مختلف است.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مسیرهای اصلی متابولیسم را می‌داند و می‌خواهد بفهمد سلول چگونه وضعیت انرژی و مواد مغذی را حس و پاسخ متابولیک را هماهنگ می‌کند.",
+        "why": "مروری بسیار جدید بر ⁦AMPK⁩ به‌عنوان حسگر انرژی و یکپارچه‌کننده جریان متابولیک در بافت‌ها و شرایط مختلف است.",
+        "how_to_use": "پس از مطالعه تنظیم متابولیسم بخوانید؛ محرک‌های ⁦AMPK⁩، substrateها و اثر آن بر مسیرهای تولید و مصرف انرژی را نقشه‌برداری کنید.",
+        "next_step": "برای دید گسترده‌تر از اینکه خود متابولیت‌ها چگونه پیام‌رسان هستند، Review بعدی را بخوانید."
+      },
+      "branch_ids": [
+        "metabolic-integration"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "BIOCHEMISTRY::REVIEW-METABOLITE-SIGNALLING-2023",
+      "resource_id": "REVIEW-METABOLITE-SIGNALLING-2023",
+      "subject_id": "BIOCHEMISTRY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "BC12"
+      ],
+      "selection_rationale": "نشان می‌دهد متابولیت‌ها علاوه بر substrate و محصول، می‌توانند سیگنال‌هایی برای رشد، تمایز، ایمنی و تنظیم متابولیسم باشند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد از نگاه کلاسیک «متابولیت به‌عنوان سوخت» عبور کند و نقش تنظیمی متابولیت‌ها را بفهمد.",
+        "why": "نشان می‌دهد متابولیت‌ها علاوه بر substrate و محصول، می‌توانند سیگنال‌هایی برای رشد، تمایز، ایمنی و تنظیم متابولیسم باشند.",
+        "how_to_use": "پس از مسیرهای اصلی متابولیک بخوانید؛ برای هر متابولیت مشخص کنید روی کدام پروتئین یا سامانه تنظیمی اثر می‌گذارد.",
+        "next_step": "این دید برای ورود به متابولومیکس، اپی‌ژنتیک متابولیک و زیست‌شناسی سامانه‌ای بسیار مفید است."
+      },
+      "branch_ids": [
+        "metabolic-integration"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "BIOCHEMISTRY::REVIEW-GLYCOCODE-2024",
+      "resource_id": "REVIEW-GLYCOCODE-2024",
+      "subject_id": "BIOCHEMISTRY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "BC04"
+      ],
+      "selection_rationale": "glycosyltransferaseها را به‌عنوان «نویسنده» و glycan-binding proteinها را به‌عنوان «خواننده» glycocode در یک چارچوب مفهومی توضیح می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که ساختار کربوهیدرات‌ها را می‌داند و می‌خواهد بفهمد گلیکان‌ها چگونه اطلاعات زیستی و شناسایی سلولی را رمزگذاری می‌کنند.",
+        "why": "glycosyltransferaseها را به‌عنوان «نویسنده» و glycan-binding proteinها را به‌عنوان «خواننده» glycocode در یک چارچوب مفهومی توضیح می‌دهد.",
+        "how_to_use": "پس از مبانی کربوهیدرات و glycoconjugateها مطالعه شود؛ ابتدا انواع glycan و سپس نویسنده‌ها و خواننده‌ها را دنبال کنید.",
+        "next_step": "برای یک مسیر مشخص و جدیدتر، به ⁦N-glycosylation⁩ و کنترل کیفیت پروتئین در ⁦ER⁩ بروید."
+      },
+      "branch_ids": [
+        "glycobiology"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "BIOCHEMISTRY::REVIEW-N-GLYCAN-ER-2025",
+      "resource_id": "REVIEW-N-GLYCAN-ER-2025",
+      "subject_id": "BIOCHEMISTRY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "BC02",
+        "BC04"
+      ],
+      "selection_rationale": "مروری جدید بر انتقال و پردازش ⁦N-glycan⁩، oligosaccharyltransferaseها و چرخه‌های lectin-chaperone در ⁦ER⁩ است.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد نقش ⁦N-glycan⁩ها را در بلوغ، تاخوردگی و کنترل کیفیت پروتئین‌های مسیر ترشحی بفهمد.",
+        "why": "مروری جدید بر انتقال و پردازش ⁦N-glycan⁩، oligosaccharyltransferaseها و چرخه‌های lectin-chaperone در ⁦ER⁩ است.",
+        "how_to_use": "پس از glycobiology عمومی و مبانی تاخوردگی پروتئین بخوانید و glycan را به‌عنوان برچسب وضعیت بلوغ پروتئین دنبال کنید.",
+        "next_step": "برای ادامه می‌توان به glycoproteostasis، بیماری‌های glycosylation یا glycomics وارد شد."
+      },
+      "branch_ids": [
+        "glycobiology"
+      ],
+      "branch_role": "current_update"
     }
   ]
 }
