@@ -1,0 +1,54 @@
+name: Probe replacement book covers
+
+on:
+  pull_request:
+    paths:
+      - '.github/workflows/cover-source-probe.yml'
+  push:
+    branches: [feat/microbiology-roadmap]
+    paths:
+      - '.github/workflows/cover-source-probe.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install 'Pillow==11.3.0'
+      - name: Fetch and fingerprint candidates
+        run: |
+          python - <<'PY'
+          import hashlib, io, json, urllib.request
+          from PIL import Image
+          urls = {
+            "cell-signaling": "https://images.routledge.com/common/jackets/crclarge/978036727/9780367279370.jpg",
+            "genetic-theory": "https://media.wiley.com/product_data/coverImage300/29/11180869/1118086929.jpg",
+            "molecular-biology": "https://ars.els-cdn.com/content/image/3-s2.0-C20150062293-cov200h.gif",
+            "genetic-theory-booksense": "https://images.booksense.com/images/926/086/9781118086926.jpg",
+            "molecular-biology-booksense": "https://images.booksense.com/images/883/132/9780128132883.jpg"
+          }
+          for label, url in urls.items():
+              row={"label":label,"url":url}
+              try:
+                  req=urllib.request.Request(url,headers={"User-Agent":"BiologyResourceRegistry-CoverProbe/1.0","Accept":"image/*"})
+                  with urllib.request.urlopen(req,timeout=25) as response:
+                      data=response.read(8*1024*1024)
+                      im=Image.open(io.BytesIO(data)); im.load()
+                      row.update(
+                          status="ok",
+                          final_url=response.geturl(),
+                          content_type=response.headers.get("Content-Type",""),
+                          bytes=len(data),
+                          dimensions=list(im.size),
+                          sha256=hashlib.sha256(data).hexdigest()
+                      )
+              except Exception as exc:
+                  row.update(status="failed",error=f"{type(exc).__name__}: {exc}")
+              print(json.dumps(row),flush=True)
+          PY
