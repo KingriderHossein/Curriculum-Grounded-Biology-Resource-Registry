@@ -62,7 +62,7 @@
 ## مرحله تکمیلی — مثال‌های جدید و اتصال به تاریخ طبیعی
 
 <p align="center">
-  <img src="https://prod-cat-files.macmillan.cloud/MediaResources/Jackets/258W/9781319245580.jpg" width="155" alt="Evolution: Making Sense of Life cover">
+  <img src="https://covers.vitalsource.com/vbid/9781319616557/width/200" width="155" alt="Evolution: Making Sense of Life cover">
 </p>
 
 ### کتاب ⁦Evolution: Making Sense of Life⁩ — ویرایش چهارم
@@ -72,9 +72,9 @@
 - **چرا این منبع؟** ویرایش جدید ۲۰۲۵ دامنه‌ای از ویروس‌ها و ژن‌ها تا رفتار، گونه‌زایی، ماکروتکامل، تکامل انسان و پزشکی تکاملی را با مثال‌های معاصر پوشش می‌دهد.
 - **چگونه استفاده شود؟** به‌عنوان مرور دوم یا مرجع موضوعی استفاده شود؛ فصل‌های مرتبط با نقاط ضعف یا شاخه تخصصی انتخاب شوند.
 - **قدم بعدی:** برای تمرکز بیشتر بر منطق استنتاج و تحلیل مسئله‌های تکاملی به ⁦Evolutionary Analysis⁩ بروید.
-- **مشخصات:** ⁦Douglas J. Emlen⁩, ⁦Carl Zimmer⁩ · ⁦Macmillan Learning⁩ · ⁦2025⁩ · ویرایش چهارم · ⁦ISBN: 9781319245580⁩
+- **مشخصات:** ⁦Douglas J. Emlen⁩, ⁦Carl Zimmer⁩ · ⁦Macmillan Learning⁩ · ⁦2025⁩ · ویرایش چهارم · ⁦ISBN: 9781319615703⁩
 
-[صفحه رسمی ناشر و خرید](https://www.macmillanlearning.com/college/us/product/Evolution/p/1319245587)
+[صفحه رسمی ناشر و خرید](https://www.macmillanlearning.com/ed/au/product/Evolution--4th-edition/p/1319615708)
 
 ---
 
