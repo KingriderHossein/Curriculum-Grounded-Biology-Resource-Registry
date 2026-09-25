@@ -30,7 +30,7 @@
 - **چرا این منبع؟** منبعی آزاد و دانشگاهی است و اجازه می‌دهد بدون ورود به جزئیات تخصصی، پایه‌های لازم را مرور کنید.
 - **چگونه استفاده شود؟** کل کتاب لازم نیست. فصل‌های مربوط به شیمی حیات، ماکرومولکول‌های زیستی، متابولیسم، تنفس سلولی و در صورت نیاز فتوسنتز را هدفمند بخوانید.
 - **قدم بعدی:** پس از این مرور وارد ⁦Lehninger Biochemistry: Core Concepts and Applications⁩ شوید.
-- **مشخصات:** <span dir="ltr">Mary Ann Clark, Matthew Douglas, Jung Choi · OpenStax · 2018 · دسترسی آزاد</span>
+- **مشخصات:** <⁦span dir⁩="⁦ltr⁩">⁦Mary Ann Clark⁩, ⁦Matthew Douglas⁩, ⁦Jung Choi⁩ · ⁦OpenStax⁩ · ⁦2018⁩ · دسترسی آزاد</⁦span⁩>
 
 [دسترسی رایگان به کتاب](https://openstax.org/books/biology-2e/pages/1-introduction)
 
@@ -49,7 +49,7 @@
 - **چرا این منبع؟** نسخه‌ای جدید و فشرده از سنت آموزشی ⁦Lehninger⁩ است و برای تسلط بر مفاهیم کلیدی و آماده‌شدن برای مطالعه پیشرفته طراحی شده است.
 - **چگونه استفاده شود؟** از ابتدا و به‌ترتیب فصل‌ها مطالعه شود. هم‌زمان یک نقشه از ارتباط **ساختار مولکول‌ها ← انرژی ← آنزیم‌ها ← مسیرهای متابولیک ← تنظیم** بسازید.
 - **قدم بعدی:** پس از یک دور کامل، برای عمق بیشتر از ⁦Biochemistry 10e⁩ استفاده کنید.
-- **مشخصات:** <span dir="ltr">Michael M. Cox, Aaron A. Hoskins, Alain Viel, Judith Simcox · Macmillan Learning · 2025 · ویرایش اول · ISBN: 9781319589967</span>
+- **مشخصات:** <⁦span dir⁩="⁦ltr⁩">⁦Michael M. Cox⁩, ⁦Aaron A. Hoskins⁩, ⁦Alain Viel⁩, ⁦Judith Simcox⁩ · ⁦Macmillan Learning⁩ · ⁦2025⁩ · ویرایش اول · ⁦ISBN: 9781319589967⁩</⁦span⁩>
 
 [صفحه رسمی ناشر و خرید](https://www.macmillanlearning.com/ed/au/product/Lehninger-Biochemistry-Core-Concepts-and-Applications--1st-edition/p/1319589960)
 
@@ -68,7 +68,7 @@
 - **چرا این منبع؟** مرجع جامع کارشناسی است و ساختار پروتئین، آنزیم‌ها، زیست‌انرژی، متابولیسم و تنظیم را با تأکید بر ارتباط فیزیولوژیک پوشش می‌دهد.
 - **چگونه استفاده شود؟** لازم نیست حتماً خطی خوانده شود. فصل‌های مرتبط با نقاط ضعف یا شاخه تخصصی را انتخاب و همراه با مسئله‌ها مرور کنید.
 - **قدم بعدی:** برای مرجع عمیق‌تر به ⁦Lehninger Principles of Biochemistry 8e⁩ یا مستقیماً به شاخه تخصصی موردنظر بروید.
-- **مشخصات:** <span dir="ltr">Jeremy Berg, Gregory Gatto Jr., Justin Hines, John L. Tymoczko, Lubert Stryer · Macmillan Learning · 2023 · ویرایش دهم · ISBN: 9781319498504</span>
+- **مشخصات:** <⁦span dir⁩="⁦ltr⁩">⁦Jeremy Berg⁩, ⁦Gregory Gatto Jr.⁩, ⁦Justin Hines⁩, ⁦John L. Tymoczko⁩, ⁦Lubert Stryer⁩ · ⁦Macmillan Learning⁩ · ⁦2023⁩ · ویرایش دهم · ⁦ISBN: 9781319498504⁩</⁦span⁩>
 
 [صفحه رسمی ناشر و خرید](https://www.macmillanlearning.com/ed/uk/product/Biochemistry--10th-edition/p/1319498507)
 
@@ -87,7 +87,7 @@
 - **چرا این منبع؟** یک مرجع کلاسیک و عمیق است که اصول بنیادی را با جزئیات مکانیزمی و زمینهٔ پژوهشی پیوند می‌دهد.
 - **چگونه استفاده شود؟** به‌عنوان کتاب شروع توصیه نمی‌شود. پس از یادگیری مسیر اصلی، فصل‌های مرتبط با موضوع پژوهشی یا شاخه تخصصی انتخاب شوند.
 - **قدم بعدی:** پس از هر فصل تخصصی، وارد مقاله‌های مروری همان شاخه شوید.
-- **مشخصات:** <span dir="ltr">David L. Nelson, Michael M. Cox, Aaron A. Hoskins · Macmillan Learning · 2021 · ویرایش هشتم · ISBN: 9781319381493</span>
+- **مشخصات:** <⁦span dir⁩="⁦ltr⁩">⁦David L. Nelson⁩, ⁦Michael M. Cox⁩, ⁦Aaron A. Hoskins⁩ · ⁦Macmillan Learning⁩ · ⁦2021⁩ · ویرایش هشتم · ⁦ISBN: 9781319381493⁩</⁦span⁩>
 
 [صفحه رسمی ناشر و خرید](https://www.macmillanlearning.com/ed/uk/product/Lehninger-Principles-of-Biochemistry--8th-edition/p/1319381499)
 
@@ -105,7 +105,7 @@
 | متابولیسم کربوهیدرات | گلیکوژن ← هموستاز گلوکز کبدی |
 | متابولیسم لیپید | قطرات چربی و جریان لیپید ← اسفنگولیپیدها |
 | متابولیسم اسیدهای آمینه و نیتروژن | متابولیسم بین‌اندامی اسیدهای آمینه ← سنتز اوره |
-| متابولیسم نوکلئوتید | تنظیم پویای pool نوکلئوتید ← نوکلئوتیدهای میتوکندری |
+| متابولیسم نوکلئوتید | تنظیم پویای ⁦pool⁩ نوکلئوتید ← نوکلئوتیدهای میتوکندری |
 | یکپارچگی و تنظیم متابولیسم | ⁦AMPK⁩ ← متابولیت‌ها به‌عنوان پیام‌رسان |
 | گلیکوبیولوژی | کد گلیکانی ← بلوغ پروتئین وابسته به ⁦N-glycan⁩ |
 
@@ -120,9 +120,9 @@
 - **چرا این منبع؟** چارچوبی منسجم برای تاخوردگی، بدتاخوردگی، آمیلوئید و تجمع پروتئین فراهم می‌کند.
 - **چگونه استفاده شود؟** پس از فصل ساختار پروتئین بخوانید؛ ابتدا عوامل تعیین‌کننده حالت طبیعی و سپس مسیرهای تجمع را دنبال کنید.
 - **قدم بعدی:** برای دید سلولی‌تر از پروتئوستاز، مرور شبکهٔ ⁦Hsp70⁩ را بخوانید.
-- **مشخصات:** <span dir="ltr">Nikolaos Louros, Joost Schymkowitz, Frederic Rousseau · Nature Reviews Molecular Cell Biology · 2023 · DOI: 10.1038/s41580-023-00647-2</span>
+- **مشخصات:** <⁦span dir⁩="⁦ltr⁩">⁦Nikolaos Louros⁩, ⁦Joost Schymkowitz⁩, ⁦Frederic Rousseau⁩ · ⁦Nature Reviews Molecular Cell Biology⁩ · ⁦2023⁩ · ⁦DOI: 10.1038/s41580-023-00647-2⁩</⁦span⁩>
 
-[صفحه مقاله در Nature](https://www.nature.com/articles/s41580-023-00647-2)
+[صفحه مقاله در ⁦Nature⁩](https://www.nature.com/articles/s41580-023-00647-2)
 
 ### به‌روزرسانی تخصصی — ⁦Mechanisms and regulation of the Hsp70 chaperone network⁩
 
@@ -130,9 +130,9 @@
 - **چرا این منبع؟** یکی از جدیدترین مرورها درباره چرخه ⁦Hsp70⁩، پروتئین‌های ⁦J-domain⁩ و تصمیم میان تاخوردگی و تخریب است.
 - **چگونه استفاده شود؟** پس از درک بدتاخوردگی مطالعه شود؛ شبکه شپرون را به‌عنوان سامانه تعیین سرنوشت پروتئین ببینید.
 - **قدم بعدی:** می‌توان وارد پاسخ پروتئین‌های بدتاخورده و سامانه‌های تخریب پروتئین شد.
-- **مشخصات:** <span dir="ltr">Anne Wentink, Rina Rosenzweig, Harm Kampinga, Bernd Bukau et al. · Nature Reviews Molecular Cell Biology · 2026 · DOI: 10.1038/s41580-025-00890-9</span>
+- **مشخصات:** <⁦span dir⁩="⁦ltr⁩">⁦Anne Wentink⁩, ⁦Rina Rosenzweig⁩, ⁦Harm Kampinga⁩, ⁦Bernd Bukau et al.⁩ · ⁦Nature Reviews Molecular Cell Biology⁩ · ⁦2026⁩ · ⁦DOI: 10.1038/s41580-025-00890-9⁩</⁦span⁩>
 
-[صفحه مقاله در Nature](https://www.nature.com/articles/s41580-025-00890-9)
+[صفحه مقاله در ⁦Nature⁩](https://www.nature.com/articles/s41580-025-00890-9)
 
 </details>
 
@@ -145,9 +145,9 @@
 - **چرا این منبع؟** از کاتالیز و کمپلکس آنزیم–سوبسترا تا معادله ⁦Michaelis–Menten⁩، حالت پایا، مهار و پارامترهای سینتیکی پیش می‌رود.
 - **چگونه استفاده شود؟** معادله‌ها را همراه با معنای فیزیکی پارامترها بخوانید و برای هر مدل، فرض‌های آن را مشخص کنید.
 - **قدم بعدی:** پس از مبانی کمی، مرور مربوط به پویایی ساختاری آنزیم‌ها را بخوانید.
-- **مشخصات:** <span dir="ltr">Ana Malvis Romero, Lorenzo Pesci, Selin Kara, Andreas Liese · Springer · 2024 · DOI: 10.1007/978-3-031-42999-6_4</span>
+- **مشخصات:** <⁦span dir⁩="⁦ltr⁩">⁦Ana Malvis Romero⁩, ⁦Lorenzo Pesci⁩, ⁦Selin Kara⁩, ⁦Andreas Liese⁩ · ⁦Springer⁩ · ⁦2024⁩ · ⁦DOI: 10.1007/978-3-031-42999-6⁩_⁦4⁩</⁦span⁩>
 
-[صفحه رسمی فصل در Springer](https://link.springer.com/chapter/10.1007/978-3-031-42999-6_4)
+[صفحه رسمی فصل در ⁦Springer⁩](https://link.springer.com/chapter/10.1007/978-3-031-42999-6_4)
 
 ### به‌روزرسانی تخصصی — ⁦Loop dynamics and the evolution of enzyme activity⁩
 
@@ -155,34 +155,34 @@
 - **چرا این منبع؟** نشان می‌دهد پویایی لوپ‌های پروتئینی چگونه انتخاب‌پذیری، سرعت و تکامل فعالیت آنزیم را شکل می‌دهد.
 - **چگونه استفاده شود؟** مثال‌ها را به‌عنوان پل میان ساختار سه‌بعدی و رفتار کاتالیتیک دنبال کنید.
 - **قدم بعدی:** برای ادامه می‌توان وارد آلستری، طراحی آنزیم و تکامل مولکولی آنزیم‌ها شد.
-- **مشخصات:** <span dir="ltr">Marina Corbella, Gaspar P. Pinto, Shina C. L. Kamerlin · Nature Reviews Chemistry · 2023 · DOI: 10.1038/s41570-023-00495-w</span>
+- **مشخصات:** <⁦span dir⁩="⁦ltr⁩">⁦Marina Corbella⁩, ⁦Gaspar P. Pinto⁩, ⁦Shina C. L. Kamerlin⁩ · ⁦Nature Reviews Chemistry⁩ · ⁦2023⁩ · ⁦DOI: 10.1038/s41570-023-00495-w⁩</⁦span⁩>
 
-[صفحه مقاله در Nature](https://www.nature.com/articles/s41570-023-00495-w)
+[صفحه مقاله در ⁦Nature⁩](https://www.nature.com/articles/s41570-023-00495-w)
 
 </details>
 
 <details>
 <summary><strong>۳. زیست‌انرژی و اکسایش–کاهش</strong></summary>
 
-### مرجع شاخه — ⁦The assembly, regulation and function of the mitochondrial respiratory chain⁩
+### مرجع شاخه — ⁦The assembly⁩, ⁦regulation and function of the mitochondrial respiratory chain⁩
 
 - **مناسب برای:** دانشجویی که اکسایش–کاهش و فسفریلاسیون اکسیداتیو را می‌داند و می‌خواهد زنجیره تنفسی را ساختاری و مکانیزمی بفهمد.
 - **چرا این منبع؟** کمپلکس‌های زنجیره تنفسی، انتقال الکترون، گرادیان پروتون و سازمان سوپرکمپلکس‌ها را یکپارچه می‌کند.
 - **چگونه استفاده شود؟** مسیر الکترون را از دهنده‌های الکترون تا اکسیژن و هم‌زمان جفت‌شدن آن با انتقال پروتون دنبال کنید.
 - **قدم بعدی:** برای مقایسه، زنجیره انتقال الکترون فتوسنتزی را مطالعه کنید.
-- **مشخصات:** <span dir="ltr">Irene Vercellino, Leonid A. Sazanov · Nature Reviews Molecular Cell Biology · 2022 · DOI: 10.1038/s41580-021-00415-0</span>
+- **مشخصات:** <⁦span dir⁩="⁦ltr⁩">⁦Irene Vercellino⁩, ⁦Leonid A. Sazanov⁩ · ⁦Nature Reviews Molecular Cell Biology⁩ · ⁦2022⁩ · ⁦DOI: 10.1038/s41580-021-00415-0⁩</⁦span⁩>
 
-[صفحه مقاله در Nature](https://www.nature.com/articles/s41580-021-00415-0)
+[صفحه مقاله در ⁦Nature⁩](https://www.nature.com/articles/s41580-021-00415-0)
 
-### مرجع تکمیلی — ⁦Structure, regulation and assembly of the photosynthetic electron transport chain⁩
+### مرجع تکمیلی — ⁦Structure⁩, ⁦regulation and assembly of the photosynthetic electron transport chain⁩
 
 - **مناسب برای:** دانشجویی که می‌خواهد تولید انرژی در کلروپلاست را با میتوکندری مقایسه کند.
 - **چرا این منبع؟** مرور جدیدی از ساختار، مونتاژ، تنظیم، برداشت نور و تولید ⁦ATP/NADPH⁩ در زنجیره فتوسنتزی است.
 - **چگونه استفاده شود؟** بعد از زنجیره تنفسی میتوکندری بخوانید و منطق ایجاد گرادیان پروتون را میان دو سامانه مقایسه کنید.
 - **قدم بعدی:** برای تخصص بیشتر به تنظیم فتوسنتز و چرخه کالوین بروید.
-- **مشخصات:** <span dir="ltr">Matthew P. Johnson · Nature Reviews Molecular Cell Biology · 2025 · DOI: 10.1038/s41580-025-00847-y</span>
+- **مشخصات:** <⁦span dir⁩="⁦ltr⁩">⁦Matthew P. Johnson⁩ · ⁦Nature Reviews Molecular Cell Biology⁩ · ⁦2025⁩ · ⁦DOI: 10.1038/s41580-025-00847-y⁩</⁦span⁩>
 
-[صفحه مقاله در Nature](https://www.nature.com/articles/s41580-025-00847-y)
+[صفحه مقاله در ⁦Nature⁩](https://www.nature.com/articles/s41580-025-00847-y)
 
 </details>
 
@@ -195,9 +195,9 @@
 - **چرا این منبع؟** ساختار گلیکوژن، شاخه‌زایی، سنتز، تجزیه و پیامد اختلال این فرایندها را در یک مرور جمع می‌کند.
 - **چگونه استفاده شود؟** ساختار گرانول را با آنزیم‌های سنتز و تجزیه مرتبط کنید، نه اینکه مسیر را صرفاً حفظ کنید.
 - **قدم بعدی:** برای دید فیزیولوژیک‌تر به تنظیم متابولیسم گلوکز کبدی بروید.
-- **مشخصات:** <span dir="ltr">Galex K. S. Neoh, Xinle Tan, Si Chen, Eugeni Roura, Xin Dong, Robert G. Gilbert · Carbohydrate Polymers · 2024 · DOI: 10.1016/j.carbpol.2024.122631</span>
+- **مشخصات:** <⁦span dir⁩="⁦ltr⁩">⁦Galex K. S. Neoh⁩, ⁦Xinle Tan⁩, ⁦Si Chen⁩, ⁦Eugeni Roura⁩, ⁦Xin Dong⁩, ⁦Robert G. Gilbert⁩ · ⁦Carbohydrate Polymers⁩ · ⁦2024⁩ · ⁦DOI: 10.1016/j.carbpol.2024.122631⁩</⁦span⁩>
 
-[صفحه مقاله در ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0144861724008579)
+[صفحه مقاله در ⁦ScienceDirect⁩](https://www.sciencedirect.com/science/article/pii/S0144861724008579)
 
 ### مرجع تکمیلی — ⁦Hepatic glucose metabolism in the steatotic liver⁩
 
@@ -205,9 +205,9 @@
 - **چرا این منبع؟** نقش کبد، انسولین، گلوکاگون، دسترسی سوبسترا و مقاومت به انسولین را در تنظیم تولید و ذخیره گلوکز یکپارچه می‌کند.
 - **چگونه استفاده شود؟** ابتدا فیزیولوژی طبیعی را بخوانید و بخش بیماری را به‌عنوان نمونه بازآرایی متابولیک ببینید.
 - **قدم بعدی:** سپس وارد تنظیم کل‌بدنی متابولیسم و حسگرهای انرژی مانند ⁦AMPK⁩ شوید.
-- **مشخصات:** <span dir="ltr">Egeria Scoditti, Silvia Sabatini, Fabrizia Carli, Amalia Gastaldelli et al. · Nature Reviews Gastroenterology & Hepatology · 2024 · DOI: 10.1038/s41575-023-00888-8</span>
+- **مشخصات:** <⁦span dir⁩="⁦ltr⁩">⁦Egeria Scoditti⁩, ⁦Silvia Sabatini⁩, ⁦Fabrizia Carli⁩, ⁦Amalia Gastaldelli et al.⁩ · ⁦Nature Reviews Gastroenterology⁩ & ⁦Hepatology⁩ · ⁦2024⁩ · ⁦DOI: 10.1038/s41575-023-00888-8⁩</⁦span⁩>
 
-[صفحه مقاله در Nature](https://www.nature.com/articles/s41575-023-00888-8)
+[صفحه مقاله در ⁦Nature⁩](https://www.nature.com/articles/s41575-023-00888-8)
 
 </details>
 
@@ -220,9 +220,9 @@
 - **چرا این منبع؟** تشکیل، ذخیره، بسیج و انتقال لیپید را با قطرات چربی، تماس اندامکی و پیشگیری از سمیت لیپیدی پیوند می‌دهد.
 - **چگونه استفاده شود؟** چرخه تشکیل و مصرف قطرات چربی را در ارتباط با شبکه آندوپلاسمی و جریان اسید چرب دنبال کنید.
 - **قدم بعدی:** برای گسترش تنوع شیمیایی لیپیدها، مرور اسفنگولیپیدها را بخوانید.
-- **مشخصات:** <span dir="ltr">Alyssa J. Mathiowetz, James A. Olzmann · Nature Cell Biology · 2024 · DOI: 10.1038/s41556-024-01364-4</span>
+- **مشخصات:** <⁦span dir⁩="⁦ltr⁩">⁦Alyssa J. Mathiowetz⁩, ⁦James A. Olzmann⁩ · ⁦Nature Cell Biology⁩ · ⁦2024⁩ · ⁦DOI: 10.1038/s41556-024-01364-4⁩</⁦span⁩>
 
-[صفحه مقاله در Nature](https://www.nature.com/articles/s41556-024-01364-4)
+[صفحه مقاله در ⁦Nature⁩](https://www.nature.com/articles/s41556-024-01364-4)
 
 ### مرجع تکمیلی — ⁦Regulation of cellular and systemic sphingolipid homeostasis⁩
 
@@ -230,9 +230,9 @@
 - **چرا این منبع؟** مسیرهای اسفنگولیپید، توزیع آن‌ها در اندامک‌ها، پیام‌رسانی و هموستاز در سطح سلول و بدن را مرور می‌کند.
 - **چگونه استفاده شود؟** ابتدا نقشه مسیرهای ساخت و تجزیه و سپس ارتباط آن‌ها با اندامک‌ها و بافت‌ها را دنبال کنید.
 - **قدم بعدی:** برای تخصص بیشتر می‌توان به لیپیدومیکس یا مسیر ⁦sphingosine-1-phosphate⁩ رفت.
-- **مشخصات:** <span dir="ltr">Andrew Kuo, Timothy Hla · Nature Reviews Molecular Cell Biology · 2024 · DOI: 10.1038/s41580-024-00742-y</span>
+- **مشخصات:** <⁦span dir⁩="⁦ltr⁩">⁦Andrew Kuo⁩, ⁦Timothy Hla⁩ · ⁦Nature Reviews Molecular Cell Biology⁩ · ⁦2024⁩ · ⁦DOI: 10.1038/s41580-024-00742-y⁩</⁦span⁩>
 
-[صفحه مقاله در Nature](https://www.nature.com/articles/s41580-024-00742-y)
+[صفحه مقاله در ⁦Nature⁩](https://www.nature.com/articles/s41580-024-00742-y)
 
 </details>
 
@@ -245,19 +245,19 @@
 - **چرا این منبع؟** نقش کلیه در سنتز، بازجذب، تجزیه و دفع اسیدهای آمینه و ارتباط آن با گلوکونئوژنز، تعادل اسید–باز و نیتروژن را یکپارچه می‌کند.
 - **چگونه استفاده شود؟** مسیرها را نه جداگانه، بلکه در قالب تبادل متابولیت میان بافت‌ها مطالعه کنید.
 - **قدم بعدی:** برای دفع نهایی نیتروژن و آمونیاک، مرور سنتز اوره را بخوانید.
-- **مشخصات:** <span dir="ltr">Martine G. E. Knol, Vera C. Wulfmeyer, Roman-Ulrich Müller, Markus M. Rinschen et al. · Nature Reviews Nephrology · 2024 · DOI: 10.1038/s41581-024-00872-8</span>
+- **مشخصات:** <⁦span dir⁩="⁦ltr⁩">⁦Martine G. E. Knol⁩, ⁦Vera C. Wulfmeyer⁩, ⁦Roman-Ulrich M⁩ü⁦ller⁩, ⁦Markus M. Rinschen et al.⁩ · ⁦Nature Reviews Nephrology⁩ · ⁦2024⁩ · ⁦DOI: 10.1038/s41581-024-00872-8⁩</⁦span⁩>
 
-[صفحه مقاله در Nature](https://www.nature.com/articles/s41581-024-00872-8)
+[صفحه مقاله در ⁦Nature⁩](https://www.nature.com/articles/s41581-024-00872-8)
 
-### مرجع تکمیلی — ⁦Urea synthesis — the liver workhorse of nitrogen metabolism⁩
+### مرجع تکمیلی — ⁦Urea synthesis⁩ — ⁦the liver workhorse of nitrogen metabolism⁩
 
 - **مناسب برای:** دانشجویی که چرخه اوره را می‌داند و می‌خواهد اهمیت کمی و فیزیولوژیک آن را در تعادل نیتروژن بفهمد.
 - **چرا این منبع؟** سنتز اوره را به‌عنوان عملکرد مرکزی کبد در حذف نیتروژن و کنترل آمونیاک بررسی می‌کند.
 - **چگونه استفاده شود؟** پس از یادگیری واکنش‌های چرخه اوره بخوانید؛ تمرکز را از حفظ آنزیم‌ها به جریان نیتروژن و ظرفیت کبد منتقل کنید.
 - **قدم بعدی:** سپس می‌توان وارد اختلالات چرخه اوره و تبادل نیتروژن میان بافت‌ها شد.
-- **مشخصات:** <span dir="ltr">Hendrik Vilstrup, Peter Lykke Eriksen, Kristoffer Kjærgaard, Michael Sørensen, Karen Louise Thomsen, Peter Ott · Metabolic Brain Disease · 2025 · DOI: 10.1007/s11011-024-01437-1</span>
+- **مشخصات:** <⁦span dir⁩="⁦ltr⁩">⁦Hendrik Vilstrup⁩, ⁦Peter Lykke Eriksen⁩, ⁦Kristoffer Kj⁩æ⁦rgaard⁩, ⁦Michael S⁩ø⁦rensen⁩, ⁦Karen Louise Thomsen⁩, ⁦Peter Ott⁩ · ⁦Metabolic Brain Disease⁩ · ⁦2025⁩ · ⁦DOI: 10.1007/s11011-024-01437-1⁩</⁦span⁩>
 
-[صفحه رسمی مقاله در Springer](https://link.springer.com/article/10.1007/s11011-024-01437-1)
+[صفحه رسمی مقاله در ⁦Springer⁩](https://link.springer.com/article/10.1007/s11011-024-01437-1)
 
 </details>
 
@@ -270,9 +270,9 @@
 - **چرا این منبع؟** مرور بسیار جدیدی از سنتز ⁦de novo⁩، مسیرهای بازیافت، بازخورد، تنظیم رونویسی و سازمان فضایی آنزیم‌های این مسیرها ارائه می‌دهد.
 - **چگونه استفاده شود؟** ابتدا نقشه سنتز و بازیافت و سپس لایه‌های مختلف تنظیم را دنبال کنید.
 - **قدم بعدی:** برای یک نمونه اندامکی، متابولیسم نوکلئوتید در میتوکندری را مطالعه کنید.
-- **مشخصات:** <span dir="ltr">Dohun Kim, Gerta Hoxhaj · Nature Cell Biology · 2026 · DOI: 10.1038/s41556-026-02004-9</span>
+- **مشخصات:** <⁦span dir⁩="⁦ltr⁩">⁦Dohun Kim⁩, ⁦Gerta Hoxhaj⁩ · ⁦Nature Cell Biology⁩ · ⁦2026⁩ · ⁦DOI: 10.1038/s41556-026-02004-9⁩</⁦span⁩>
 
-[صفحه مقاله در Nature](https://www.nature.com/articles/s41556-026-02004-9)
+[صفحه مقاله در ⁦Nature⁩](https://www.nature.com/articles/s41556-026-02004-9)
 
 ### مرجع تکمیلی — ⁦High tide or low tide: the transport and metabolism of mitochondrial nucleotides⁩
 
@@ -280,7 +280,7 @@
 - **چرا این منبع؟** متابولیسم و انتقال نوکلئوتیدهای میتوکندری را با سنتز، بازیافت و هموستاز نوکلئوتیدی کل سلول پیوند می‌دهد.
 - **چگونه استفاده شود؟** تفاوت ذخایر نوکلئوتیدی سیتوزول و میتوکندری و مسیرهای انتقال میان آن‌ها را دنبال کنید.
 - **قدم بعدی:** برای ادامه می‌توان وارد متابولیسم تک‌کربنه و بیماری‌های ⁦mtDNA⁩ شد.
-- **مشخصات:** <span dir="ltr">Thomas MacVicar · Biochemical Journal · 2025 · DOI: 10.1042/BCJ20253237</span>
+- **مشخصات:** <⁦span dir⁩="⁦ltr⁩">⁦Thomas MacVicar⁩ · ⁦Biochemical Journal⁩ · ⁦2025⁩ · ⁦DOI: 10.1042/BCJ20253237⁩</⁦span⁩>
 
 [صفحه رسمی مقاله](https://portlandpress.com/biochemj/article/482/16/1105/236390/High-tide-or-low-tide-the-transport-and-metabolism)
 
@@ -289,15 +289,15 @@
 <details>
 <summary><strong>۸. یکپارچگی و تنظیم متابولیسم</strong></summary>
 
-### مرجع شاخه — ⁦AMPK at the interface of nutrient sensing, metabolic flux and energy homeostasis⁩
+### مرجع شاخه — ⁦AMPK at the interface of nutrient sensing⁩, ⁦metabolic flux and energy homeostasis⁩
 
 - **مناسب برای:** دانشجویی که مسیرهای اصلی متابولیسم را می‌داند و می‌خواهد بفهمد سلول چگونه وضعیت انرژی و مواد مغذی را حس می‌کند.
 - **چرا این منبع؟** مرور بسیار جدیدی بر ⁦AMPK⁩ به‌عنوان حسگر انرژی و یکپارچه‌کننده جریان متابولیک در بافت‌ها و شرایط مختلف است.
 - **چگونه استفاده شود؟** محرک‌های ⁦AMPK⁩، سوبستراها و اثر آن بر مسیرهای تولید و مصرف انرژی را در یک نقشه تنظیمی قرار دهید.
 - **قدم بعدی:** سپس دید خود را با نقش پیام‌رسانی خود متابولیت‌ها گسترش دهید.
-- **مشخصات:** <span dir="ltr">Tyler K. T. Smith, Logan K. Townsend, William J. Smiles, Jonathan S. Oakhill, Morgan D. Fullerton, Gregory R. Steinberg · Nature Metabolism · 2026 · DOI: 10.1038/s42255-025-01442-3</span>
+- **مشخصات:** <⁦span dir⁩="⁦ltr⁩">⁦Tyler K. T. Smith⁩, ⁦Logan K. Townsend⁩, ⁦William J. Smiles⁩, ⁦Jonathan S. Oakhill⁩, ⁦Morgan D. Fullerton⁩, ⁦Gregory R. Steinberg⁩ · ⁦Nature Metabolism⁩ · ⁦2026⁩ · ⁦DOI: 10.1038/s42255-025-01442-3⁩</⁦span⁩>
 
-[صفحه مقاله در Nature](https://www.nature.com/articles/s42255-025-01442-3)
+[صفحه مقاله در ⁦Nature⁩](https://www.nature.com/articles/s42255-025-01442-3)
 
 ### مرجع تکمیلی — ⁦Metabolites as signalling molecules⁩
 
@@ -305,9 +305,9 @@
 - **چرا این منبع؟** نشان می‌دهد متابولیت‌ها می‌توانند رشد، تمایز، ایمنی و تنظیم مسیرهای سلولی را مستقیماً تحت تأثیر قرار دهند.
 - **چگونه استفاده شود؟** برای هر نمونه مشخص کنید متابولیت بر کدام پروتئین یا سامانه تنظیمی اثر می‌گذارد.
 - **قدم بعدی:** این دید پلی مناسب به متابولومیکس، اپی‌ژنتیک متابولیک و زیست‌شناسی سامانه‌ای است.
-- **مشخصات:** <span dir="ltr">Steven Andrew Baker, Jared Rutter · Nature Reviews Molecular Cell Biology · 2023 · DOI: 10.1038/s41580-022-00572-w</span>
+- **مشخصات:** <⁦span dir⁩="⁦ltr⁩">⁦Steven Andrew Baker⁩, ⁦Jared Rutter⁩ · ⁦Nature Reviews Molecular Cell Biology⁩ · ⁦2023⁩ · ⁦DOI: 10.1038/s41580-022-00572-w⁩</⁦span⁩>
 
-[صفحه مقاله در Nature](https://www.nature.com/articles/s41580-022-00572-w)
+[صفحه مقاله در ⁦Nature⁩](https://www.nature.com/articles/s41580-022-00572-w)
 
 </details>
 
@@ -320,7 +320,7 @@
 - **چرا این منبع؟** گلیکوزیل‌ترانسفرازها را به‌عنوان «نویسنده» و پروتئین‌های متصل‌شونده به گلیکان را به‌عنوان «خواننده» در یک چارچوب مفهومی قرار می‌دهد.
 - **چگونه استفاده شود؟** پس از مبانی کربوهیدرات و گلیکوکونژوگه‌ها مطالعه شود؛ ابتدا انواع گلیکان و سپس سازوکار ساخت و شناسایی آن‌ها را دنبال کنید.
 - **قدم بعدی:** برای یک مسیر مشخص‌تر و جدیدتر، به ⁦N-glycosylation⁩ در شبکه آندوپلاسمی بروید.
-- **مشخصات:** <span dir="ltr">Noortje de Haan, Mathias I. Nielsen, Hans H. Wandall · Annual Review of Biochemistry · 2024 · DOI: 10.1146/annurev-biochem-030122-044347</span>
+- **مشخصات:** <⁦span dir⁩="⁦ltr⁩">⁦Noortje de Haan⁩, ⁦Mathias I. Nielsen⁩, ⁦Hans H. Wandall⁩ · ⁦Annual Review of Biochemistry⁩ · ⁦2024⁩ · ⁦DOI: 10.1146/annurev-biochem-030122-044347⁩</⁦span⁩>
 
 [صفحه رسمی مقاله](https://www.annualreviews.org/content/journals/10.1146/annurev-biochem-030122-044347)
 
@@ -330,9 +330,9 @@
 - **چرا این منبع؟** مرور جدیدی از انتقال و پردازش ⁦N-glycan⁩، الیگوساکاریل‌ترانسفرازها و چرخه‌های شپرونی وابسته به لکتین است.
 - **چگونه استفاده شود؟** پس از گلیکوبیولوژی عمومی و مبانی تاخوردگی پروتئین بخوانید و گلیکان را به‌عنوان نشانگر وضعیت بلوغ پروتئین دنبال کنید.
 - **قدم بعدی:** سپس می‌توان وارد گلیکوپروتئوستاز، بیماری‌های گلیکوزیلاسیون یا گلیکومیکس شد.
-- **مشخصات:** <span dir="ltr">Kevin P. Guay, Wen-Chuan Chou, Nathan P. Canniff, Kylie B. Paul, Daniel N. Hebert et al. · Nature Reviews Molecular Cell Biology · 2025 · DOI: 10.1038/s41580-025-00855-y</span>
+- **مشخصات:** <⁦span dir⁩="⁦ltr⁩">⁦Kevin P. Guay⁩, ⁦Wen-Chuan Chou⁩, ⁦Nathan P. Canniff⁩, ⁦Kylie B. Paul⁩, ⁦Daniel N. Hebert et al.⁩ · ⁦Nature Reviews Molecular Cell Biology⁩ · ⁦2025⁩ · ⁦DOI: 10.1038/s41580-025-00855-y⁩</⁦span⁩>
 
-[صفحه مقاله در Nature](https://www.nature.com/articles/s41580-025-00855-y)
+[صفحه مقاله در ⁦Nature⁩](https://www.nature.com/articles/s41580-025-00855-y)
 
 </details>
 
