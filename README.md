@@ -110,7 +110,7 @@
 <a href="https://www.macmillanlearning.com/ed/uk/product/Introduction-to-Genetic-Analysis-Digital-Update--12th-edition/p/1319589944">ناشر / خرید</a>
 </td>
 <td align="center" width="33%">
-<img src="https://dynamic.indigoimages.ca/v1/books/books/1118086929/1.jpg" width="145" alt="Genetic Theory and Analysis 2e cover"><br>
+<img src="https://media.wiley.com/product_data/coverImage300/29/11180869/1118086929.jpg" width="145" alt="Genetic Theory and Analysis 2e cover"><br>
 <b>Genetic Theory and Analysis: Finding Meaning in a Genome</b><br>
 منبع پیشرفته · ویرایش ۲ · ۲۰۲۳<br>
 <a href="https://bookshop.org/p/books/genetic-theory-and-analysis-finding-meaning-in-a-genome-r-scott-hawley/18519287">خرید</a>
