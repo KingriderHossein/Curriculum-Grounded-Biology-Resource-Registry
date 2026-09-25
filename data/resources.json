@@ -25,7 +25,7 @@
       "verified_on": "2026-09-25"
     },
     {
-      "id": "BOOK-CELL9-2023",
+      "id": "BOOK-CELL9-2022",
       "course_id": "MSRT-BSC-ANIMAL-CELL-BIOLOGY-1400",
       "resource_type": "reference_textbook",
       "role": "reference",
@@ -33,7 +33,7 @@
       "title": "The Cell: A Molecular Approach",
       "authors": ["Geoffrey M. Cooper", "Kenneth W. Adams"],
       "edition": "9th Edition",
-      "published_year": 2023,
+      "published_year": 2022,
       "publisher": "Oxford University Press",
       "isbn": "9780197583722",
       "publisher_url": "https://www.oup.com.au/books/higher-education/biological-sciences/9780197583722",
