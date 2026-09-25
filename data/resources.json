@@ -18,13 +18,8 @@
       "verification_status": "verified",
       "verified_on": "2026-09-25",
       "cover": {
-        "url": "https://covers.openlibrary.org/b/isbn/9781947172517-L.jpg?default=false",
-        "source": "Open Library; full second-edition cover",
-        "image_isbn": "9781947172517",
-        "expected_sha256": "b62180a7a3e05fb381f643e9e0d6153bc8de3caa4811beb87b4ad8d6f58ce030",
-        "visual_reviewed_on": "2026-09-25",
-        "visual_review_status": "title_and_edition_checked",
-        "source_url": "https://openstax.org/books/biology-2e/pages/1-introduction"
+        "url": "https://storage.pardot.com/218812/1766081607A9LlaLN9/biology_book_card_2e.svg",
+        "source": "Official OpenStax book card"
       }
     },
     {
@@ -1543,12 +1538,8 @@
       "publisher_url": "https://openstax.org/books/microbiology/pages/1-introduction",
       "access_url": "https://openstax.org/books/microbiology/pages/1-introduction",
       "cover": {
-        "url": "https://covers.openlibrary.org/b/isbn/9781938168147-L.jpg?default=false",
-        "source": "Open Library ISBN cover fallback; bibliographic authority OpenStax",
-        "expected_sha256": "014c3d7cb747d6a477f25da97d173dc5bed774cd3a2cedaf6f4b090155bb3e61",
-        "visual_reviewed_on": "2026-09-25",
-        "visual_review_status": "title_and_edition_checked",
-        "source_url": "https://openstax.org/books/microbiology/pages/1-introduction"
+        "url": "https://storage.pardot.com/218812/1766081609HKLHNnmZ/microbiology.svg",
+        "source": "Official OpenStax book card"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-25",
