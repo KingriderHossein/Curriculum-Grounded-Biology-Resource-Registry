@@ -19,7 +19,11 @@
       "verified_on": "2026-09-25",
       "cover": {
         "url": "https://storage.pardot.com/218812/1766081607A9LlaLN9/biology_book_card_2e.svg",
-        "source": "Official OpenStax book card"
+        "source": "Official OpenStax book card",
+        "expected_sha256": "3289bbfbb8a72550c0ffa5dccdb43d7991ca1fd12db652d495b5f4ab7d96bc06",
+        "visual_reviewed_on": "2026-09-25",
+        "visual_review_status": "title_and_edition_checked",
+        "source_url": "https://openstax.org/books/biology-2e/pages/1-introduction"
       }
     },
     {
@@ -1539,7 +1543,11 @@
       "access_url": "https://openstax.org/books/microbiology/pages/1-introduction",
       "cover": {
         "url": "https://storage.pardot.com/218812/1766081609HKLHNnmZ/microbiology.svg",
-        "source": "Official OpenStax book card"
+        "source": "Official OpenStax book card",
+        "expected_sha256": "f388f2841c405e2b3e0bc9e2791469fb4f363411e9d1c4d1f885596acc4e74d7",
+        "visual_reviewed_on": "2026-09-25",
+        "visual_review_status": "title_and_edition_checked",
+        "source_url": "https://openstax.org/books/microbiology/pages/1-introduction"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-25",
