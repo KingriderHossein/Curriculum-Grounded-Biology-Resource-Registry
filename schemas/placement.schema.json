@@ -1,0 +1,107 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/schemas/placement.schema.json",
+  "title": "Subject Resource Placement Registry",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "placements"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string"
+    },
+    "placements": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "resource_id",
+          "subject_id",
+          "learning_stage",
+          "role",
+          "coverage_concept_ids",
+          "selection_rationale",
+          "student_guidance_fa"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "resource_id": {
+            "type": "string"
+          },
+          "subject_id": {
+            "type": "string"
+          },
+          "learning_stage": {
+            "enum": [
+              "foundation",
+              "core",
+              "intermediate",
+              "advanced",
+              "specialized"
+            ]
+          },
+          "role": {
+            "type": "string",
+            "minLength": 1
+          },
+          "branch_role": {
+            "enum": [
+              "branch_reference",
+              "complementary_reference",
+              "current_update"
+            ]
+          },
+          "branch_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "coverage_concept_ids": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "string"
+            }
+          },
+          "selection_rationale": {
+            "type": "string",
+            "minLength": 1
+          },
+          "student_guidance_fa": {
+            "type": "object",
+            "required": [
+              "best_for",
+              "why",
+              "how_to_use",
+              "next_step"
+            ],
+            "properties": {
+              "best_for": {
+                "type": "string",
+                "minLength": 1
+              },
+              "why": {
+                "type": "string",
+                "minLength": 1
+              },
+              "how_to_use": {
+                "type": "string",
+                "minLength": 1
+              },
+              "next_step": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

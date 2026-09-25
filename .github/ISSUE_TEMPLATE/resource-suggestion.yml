@@ -1,27 +1,53 @@
-name: Resource suggestion
-description: Propose a theory-only scientific resource for a subject roadmap.
+name: پیشنهاد منبع
+description: پیشنهاد یک منبع نظری جدید یا یک جایگاه جدید برای منبع موجود.
 title: "[Resource] "
 labels: []
 body:
   - type: input
-    id: subject
+    id: identifier
     attributes:
-      label: Subject ID
-      placeholder: CELL-BIOLOGY
+      label: ISBN / DOI / PMID
+      description: ابتدا بررسی کنید این شناسه از قبل در data/resources.json وجود دارد یا نه.
     validations:
       required: true
 
   - type: input
     id: title
     attributes:
-      label: Resource title
+      label: عنوان منبع
+    validations:
+      required: true
+
+  - type: dropdown
+    id: identity_status
+    attributes:
+      label: وضعیت منبع در رجیستری
+      options:
+        - این منبع جدید است و باید یک Resource identity ساخته شود
+        - این منبع از قبل وجود دارد و فقط Placement جدید می‌خواهم
+    validations:
+      required: true
+
+  - type: input
+    id: source
+    attributes:
+      label: لینک رسمی ناشر یا ژورنال
+      placeholder: https://...
+    validations:
+      required: true
+
+  - type: input
+    id: subject
+    attributes:
+      label: Subject ID
+      placeholder: BIOCHEMISTRY
     validations:
       required: true
 
   - type: dropdown
     id: stage
     attributes:
-      label: Learning stage
+      label: جایگاه در مسیر یادگیری
       options:
         - Foundation
         - Core
@@ -31,56 +57,26 @@ body:
     validations:
       required: true
 
-  - type: dropdown
-    id: type
-    attributes:
-      label: Resource type
-      options:
-        - Foundation textbook
-        - Core textbook
-        - Reference textbook
-        - Advanced textbook
-        - Review article
-        - Authoritative reference
-        - Open academic resource
-    validations:
-      required: true
-
-  - type: input
-    id: identifier
-    attributes:
-      label: ISBN / DOI / PMID
-    validations:
-      required: true
-
-  - type: input
-    id: source
-    attributes:
-      label: Authoritative source URL
-      placeholder: https://...
-    validations:
-      required: true
-
   - type: textarea
     id: coverage
     attributes:
-      label: Concept IDs / specialized branch
-      placeholder: CB04 / organelle-biology
+      label: Concept IDها / شاخه تخصصی
+      placeholder: BC03 / enzymology-kinetics
     validations:
       required: true
 
   - type: textarea
     id: rationale
     attributes:
-      label: Why does this source belong at this stage?
+      label: چرا این منبع دقیقاً در این جایگاه قرار می‌گیرد؟
     validations:
       required: true
 
   - type: textarea
     id: student_guidance
     attributes:
-      label: Persian student guidance
-      description: Explain who this is for, why it is selected, how to use it, and what comes next.
+      label: راهنمای فارسی دانشجو
+      description: چهار سؤال زیر را پاسخ دهید.
       placeholder: |
         مناسب برای:
         چرا این منبع:
@@ -92,7 +88,7 @@ body:
   - type: checkboxes
     id: scope
     attributes:
-      label: Scope confirmation
+      label: کنترل دامنه
       options:
-        - label: This is theory-only and is not a protocol, laboratory manual, SOP, or hands-on training guide.
+        - label: این منبع نظری است و پروتکل، راهنمای آزمایشگاهی، SOP یا آموزش عملی نیست.
           required: true

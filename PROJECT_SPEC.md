@@ -8,9 +8,9 @@ Build a maintainable, community-expandable registry of high-quality **theoretica
 
 The authoritative project model is:
 
-`Subject → Learning stage → Concept area → Resource`
+`Subject → Learning stage / Concept / Branch → Placement → Resource`
 
-A subject exists once. Degrees, majors, countries, universities and curricula may optionally map to that subject, but they never duplicate or own the subject.
+A subject exists once. A scientific resource also exists once globally. Subject-specific learning stage, concept coverage, branch, rationale and Persian student guidance live in a separate Placement record. Degrees, majors, countries, universities and curricula may optionally map to a subject, but they never duplicate or own the subject.
 
 ## Learning stages
 
@@ -75,6 +75,11 @@ A subject is considered meaningfully implemented when:
 
 Curriculum mappings may later answer which part of a roadmap corresponds to a named course or degree. They are secondary navigation metadata, not the scientific backbone.
 
-## Current pilot
+## Reference implementations
 
-**Subject: Cell Biology / زیست‌شناسی سلولی**
+The current reference-quality subjects are:
+
+- **Cell Biology / زیست‌شناسی سلولی**
+- **Biochemistry / بیوشیمی**
+
+New subjects should reuse this architecture instead of introducing a parallel resource model.

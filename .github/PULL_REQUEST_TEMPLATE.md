@@ -1,23 +1,31 @@
-## What changed?
+## چه چیزی تغییر کرده است؟
 
-<!-- Briefly describe the Subject / roadmap / resource change. -->
+<!-- Subject، Resource identity، Placement یا قواعد Registry را مشخص کنید. -->
 
-## Evidence
+## شواهد
 
 - Subject ID:
-- Learning stage:
-- Concept IDs / branch:
+- Resource ID:
 - ISBN / DOI / PMID:
-- Authoritative source URL:
+- لینک رسمی ناشر یا ژورنال:
+- مرحله یادگیری:
+- Concept IDها / شاخه تخصصی:
 
-## Scope gate
+## کنترل عدم تکرار
 
-- [ ] Theory-only
-- [ ] No protocol / lab manual / SOP / hands-on training added
-- [ ] Existing records were checked for duplication
-- [ ] Publisher/journal metadata was verified
-- [ ] `python scripts/validate_registry.py` passes
+- [ ] ISBN/DOI در `data/resources.json` بررسی شده است.
+- [ ] اگر Resource از قبل وجود داشته، فقط Placement جدید اضافه شده است.
+- [ ] زوج `subject_id + resource_id` تکراری نیست.
 
-## Placement rationale
+## کنترل دامنه و کیفیت
 
-<!-- Why does this resource belong at this exact roadmap stage? -->
+- [ ] فقط منبع نظری
+- [ ] بدون پروتکل، راهنمای آزمایشگاهی، SOP یا آموزش عملی
+- [ ] اطلاعات ناشر/ژورنال بررسی شده است
+- [ ] راهنمای فارسی دانشجو کامل است
+- [ ] متن فارسی/انگلیسی از نظر BiDi بررسی شده است
+- [ ] `python scripts/validate_registry.py` با موفقیت اجرا می‌شود
+
+## دلیل Placement
+
+<!-- چرا این منبع برای این دانشجو، در این مرحله و در این شاخه قرار گرفته است؟ -->

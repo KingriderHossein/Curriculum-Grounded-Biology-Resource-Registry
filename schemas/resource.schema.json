@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://example.org/schemas/resource.schema.json",
-  "title": "Resource Registry",
+  "title": "Global Resource Registry",
   "type": "object",
   "required": [
     "schema_version",
@@ -17,61 +17,78 @@
         "type": "object",
         "required": [
           "id",
-          "subject_id",
           "resource_type",
-          "learning_stage",
-          "role",
           "theory_only",
           "title",
           "published_year",
           "publisher_url",
-          "coverage_concept_ids",
-          "selection_rationale",
           "verification_status",
-          "verified_on",
-          "student_guidance_fa"
+          "verified_on"
         ],
         "properties": {
           "id": {
-            "type": "string"
-          },
-          "subject_id": {
-            "type": "string"
+            "type": "string",
+            "minLength": 1
           },
           "resource_type": {
             "enum": [
-              "foundation_textbook",
-              "core_textbook",
-              "reference_textbook",
-              "advanced_textbook",
+              "textbook",
               "review_article",
-              "authoritative_reference",
-              "open_academic_resource"
-            ]
-          },
-          "learning_stage": {
-            "enum": [
-              "foundation",
-              "core",
-              "intermediate",
-              "advanced",
-              "specialized"
+              "open_academic_resource",
+              "book_chapter",
+              "authoritative_reference"
             ]
           },
           "theory_only": {
             "const": true
           },
-          "coverage_concept_ids": {
+          "title": {
+            "type": "string",
+            "minLength": 1
+          },
+          "authors": {
             "type": "array",
             "minItems": 1,
             "items": {
               "type": "string"
             }
           },
-          "branch_ids": {
-            "type": "array",
-            "items": {
-              "type": "string"
+          "edition": {
+            "type": "string"
+          },
+          "published_year": {
+            "type": "integer"
+          },
+          "publisher": {
+            "type": "string"
+          },
+          "journal": {
+            "type": "string"
+          },
+          "isbn": {
+            "type": "string"
+          },
+          "doi": {
+            "type": "string"
+          },
+          "publisher_url": {
+            "type": "string"
+          },
+          "purchase_url": {
+            "type": "string"
+          },
+          "access_url": {
+            "type": "string"
+          },
+          "cover": {
+            "type": "object",
+            "properties": {
+              "url": {
+                "type": "string"
+              },
+              "source": {
+                "type": "string"
+              }
             }
           },
           "verification_status": {
@@ -82,39 +99,8 @@
               "outdated"
             ]
           },
-          "student_guidance_fa": {
-            "type": "object",
-            "required": [
-              "best_for",
-              "why",
-              "how_to_use",
-              "next_step"
-            ],
-            "properties": {
-              "best_for": {
-                "type": "string",
-                "minLength": 1
-              },
-              "why": {
-                "type": "string",
-                "minLength": 1
-              },
-              "how_to_use": {
-                "type": "string",
-                "minLength": 1
-              },
-              "next_step": {
-                "type": "string",
-                "minLength": 1
-              }
-            }
-          },
-          "branch_role": {
-            "enum": [
-              "branch_reference",
-              "complementary_reference",
-              "current_update"
-            ]
+          "verified_on": {
+            "type": "string"
           }
         }
       }

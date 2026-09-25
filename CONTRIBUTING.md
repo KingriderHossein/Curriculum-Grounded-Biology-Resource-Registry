@@ -1,71 +1,73 @@
-# Contributing
+# راهنمای مشارکت
 
-Contributions are welcome, but this is a curated scientific roadmap rather than an unrestricted link list.
+این پروژه یک نقشه‌راه علمیِ گزینش‌شده است، نه فهرست آزاد لینک‌ها.
 
-## Before opening a PR
+## قبل از ایجاد Pull Request
 
-Confirm that the proposed resource:
+ابتدا ISBN یا DOI را در `data/resources.json` جست‌وجو کنید.
 
-1. belongs to an existing Subject or comes with a justified Subject proposal;
-2. has a clear learning stage;
-3. maps to one or more concept IDs;
-4. maps to a specialized branch when appropriate;
-5. is theory-only;
-6. has stable bibliographic metadata;
-7. has an authoritative source URL;
-8. does not duplicate an existing edition/resource.
+- اگر منبع **از قبل وجود دارد**، آن را دوباره ثبت نکنید؛ فقط یک Placement جدید در `data/placements.json` بسازید.
+- اگر منبع **جدید است**، هویت کتاب‌شناختی آن را یک بار در `data/resources.json` ثبت کنید و سپس Placement مربوط به درس را اضافه کنید.
 
-## Adding a book
+## Resource چیست؟
 
-Provide:
+Resource هویت جهانی کتاب، مقاله یا فصل است و شامل اطلاعاتی مانند این موارد می‌شود:
 
-- Subject ID;
-- title;
-- authors/editors;
-- edition;
-- publication year;
-- publisher;
-- ISBN;
-- official publisher URL;
-- official purchase URL when available;
-- cover URL;
-- learning stage;
-- concept coverage;
-- branch mapping when specialized;
-- concise selection rationale;
-- what should be read before/after it when relevant;
-- Persian student guidance for: who it is for, why it is selected, how to use it, and what to read next.
+- عنوان؛
+- نویسندگان؛
+- ناشر یا ژورنال؛
+- سال؛
+- ویرایش؛
+- ISBN یا DOI؛
+- لینک رسمی؛
+- لینک خرید کتاب در صورت وجود؛
+- جلد کتاب.
 
-## Adding a review article
+این اطلاعات نباید برای هر درس تکرار شوند.
 
-Provide:
+## Placement چیست؟
 
-- Subject ID;
-- title;
-- authors;
-- journal;
-- year;
-- DOI and/or PMID;
-- journal URL;
-- learning stage;
-- concept/branch mapping;
-- why it adds value beyond the broad textbooks.
+Placement مشخص می‌کند یک Resource در **یک درس مشخص** چگونه استفاده می‌شود:
 
-## Theory-only rule
+- Subject ID؛
+- مرحله یادگیری؛
+- مفهوم‌های پوشش‌داده‌شده؛
+- شاخه تخصصی، در صورت نیاز؛
+- دلیل قرارگیری منبع در آن مرحله؛
+- راهنمای فارسی دانشجو:
+  - مناسب برای چه کسی؟
+  - چرا این منبع؟
+  - چگونه استفاده شود؟
+  - قدم بعدی چیست؟
 
-Do **not** submit protocols, laboratory manuals, practical technique tutorials, SOPs, wet-lab workflows or instrument training.
+## معیار پذیرش
 
-## Review question
+هر Placement باید پاسخ روشنی به این سؤال بدهد:
 
-A maintainer should be able to answer:
+> چرا این منبع، برای این دانشجو، در این مرحله و در این شاخه قرار گرفته است؟
 
-> Why this source, at this learning stage, for this concept or branch?
+شهرت کتاب یا تعداد استناد مقاله به‌تنهایی کافی نیست.
 
-If that is not clear from the record, the contribution is not ready.
+## منابع مجاز
 
-## Data validation
+- کتاب نظری دانشگاهی؛
+- کتاب مرجع؛
+- مقاله مروری معتبر؛
+- فصل نظری معتبر؛
+- منبع دانشگاهی آزاد.
 
-Run:
+## خارج از دامنه
+
+- پروتکل؛
+- Laboratory Manual؛
+- SOP؛
+- آموزش wet-lab؛
+- راهنمای کار با دستگاه؛
+- آموزش عملی تکنیک‌ها.
+
+## اعتبارسنجی
+
+پیش از ارسال PR اجرا کنید:
 
 ```bash
 python scripts/validate_registry.py
