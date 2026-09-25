@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.6.0",
+  "schema_version": "0.7.0",
   "resources": [
     {
       "id": "OPENSTAX-BIOLOGY2E-2018",
@@ -1166,6 +1166,300 @@
       "journal": "Nature Reviews Genetics",
       "doi": "10.1038/s41576-025-00829-y",
       "publisher_url": "https://www.nature.com/articles/s41576-025-00829-y",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "BOOK-MOLECULAR-BIOLOGY3-2019",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Molecular Biology",
+      "authors": [
+        "David P. Clark",
+        "Nanette J. Pazdernik",
+        "Michelle R. McGehee"
+      ],
+      "edition": "3rd Edition",
+      "published_year": 2019,
+      "publisher": "Elsevier / Academic Press",
+      "isbn": "9780128132883",
+      "publisher_url": "https://www.educate.elsevier.com/book/details/9780128132883",
+      "purchase_url": "https://www.educate.elsevier.com/book/details/9780128132883",
+      "cover": {
+        "url": "https://covers.openlibrary.org/b/isbn/9780128132883-L.jpg?default=false",
+        "source": "Open Library ISBN cover fallback; bibliographic authority Elsevier"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "BOOK-LEWIN-ESSENTIAL-GENES4-2021",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Lewin's Essential GENES",
+      "authors": [
+        "Jocelyn E. Krebs",
+        "Elliott S. Goldstein",
+        "Stephen T. Kilpatrick"
+      ],
+      "edition": "4th Edition",
+      "published_year": 2021,
+      "publisher": "Jones & Bartlett Learning",
+      "isbn": "9781284189834",
+      "publisher_url": "https://samples.jblearning.com/9781284173130/9781284189834_FMxx_Secured.pdf",
+      "purchase_url": "https://www.bookstores.com/books/lewin%27s-essential-genes-jocelyn-e-krebs/9781284189834",
+      "cover": {
+        "url": "https://covers.openlibrary.org/b/isbn/9781284189834-L.jpg?default=false",
+        "source": "Open Library ISBN cover fallback; publisher front matter confirms paperback ISBN"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-EUKARYOTIC-DNA-REPLICATION-2022",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "The Initiation of Eukaryotic DNA Replication",
+      "authors": [
+        "Alessandro Costa",
+        "John F. X. Diffley"
+      ],
+      "published_year": 2022,
+      "journal": "Annual Review of Biochemistry",
+      "doi": "10.1146/annurev-biochem-072321-110228",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-biochem-072321-110228",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-REPLICATED-CHROMOSOMES-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Organization of replicated chromosomes by DNA loops and sister chromatid cohesion",
+      "authors": [
+        "Fena Ochs",
+        "Daniel W. Gerlich"
+      ],
+      "published_year": 2026,
+      "journal": "Nature Reviews Molecular Cell Biology",
+      "doi": "10.1038/s41580-025-00933-1",
+      "publisher_url": "https://www.nature.com/articles/s41580-025-00933-1",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-POLII-INITIATION-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "The molecular basis of transcription initiation by RNA polymerase II",
+      "authors": [
+        "Xizi Chen",
+        "Yanhui Xu"
+      ],
+      "published_year": 2026,
+      "journal": "Nature Reviews Molecular Cell Biology",
+      "doi": "10.1038/s41580-026-01019-2",
+      "publisher_url": "https://www.nature.com/articles/s41580-026-01019-2",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-COTRANSCRIPTIONAL-REG-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Co-transcriptional gene regulation in eukaryotes and prokaryotes",
+      "authors": [
+        "Morgan Shine",
+        "Jackson Gordon",
+        "Leonard Schärfen",
+        "et al."
+      ],
+      "published_year": 2024,
+      "journal": "Nature Reviews Molecular Cell Biology",
+      "doi": "10.1038/s41580-024-00706-2",
+      "publisher_url": "https://www.nature.com/articles/s41580-024-00706-2",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-POSTTRANSCRIPTIONAL-SPLICING-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "The regulation and function of post-transcriptional RNA splicing",
+      "authors": [
+        "Karine Choquet",
+        "Ines L. Patop",
+        "L. Stirling Churchman"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/s41576-025-00836-z",
+      "publisher_url": "https://www.nature.com/articles/s41576-025-00836-z",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-RNA-PROCESSING-COORDINATION-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Elucidating the coordination of RNA processing using short-read and long-read RNA-sequencing methods",
+      "authors": [
+        "Carlos Alfonso-Gonzalez",
+        "Valérie Hilgers"
+      ],
+      "published_year": 2026,
+      "journal": "Nature Reviews Molecular Cell Biology",
+      "doi": "10.1038/s41580-025-00895-4",
+      "publisher_url": "https://www.nature.com/articles/s41580-025-00895-4",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-TRANSLATION-INITIATION-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "The molecular basis of translation initiation and its regulation in eukaryotes",
+      "authors": [
+        "Jailson Brito Querido",
+        "Irene Díaz-López",
+        "V. Ramakrishnan"
+      ],
+      "published_year": 2024,
+      "journal": "Nature Reviews Molecular Cell Biology",
+      "doi": "10.1038/s41580-023-00624-9",
+      "publisher_url": "https://www.nature.com/articles/s41580-023-00624-9",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-CYTOPLASMIC-TRNA-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "The regulation, function and disease relevance of cytoplasmic tRNAs",
+      "authors": [
+        "Robin E. Stanley",
+        "Todd M. Lowe",
+        "Zoya Ignatova"
+      ],
+      "published_year": 2026,
+      "journal": "Nature Reviews Molecular Cell Biology",
+      "doi": "10.1038/s41580-026-00963-3",
+      "publisher_url": "https://www.nature.com/articles/s41580-026-00963-3",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-TRANSCRIPTION-CONDENSATES-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Transcription regulation by biomolecular condensates",
+      "authors": [
+        "Gaofeng Pei",
+        "Heankel Lyons",
+        "Pilong Li",
+        "Benjamin R. Sabari"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Molecular Cell Biology",
+      "doi": "10.1038/s41580-024-00789-x",
+      "publisher_url": "https://www.nature.com/articles/s41580-024-00789-x",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-DNA-END-RESECTION-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Mechanisms and regulation of DNA end resection in the maintenance of genome stability",
+      "authors": [
+        "Raphael Ceccaldi",
+        "Petr Cejka"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Molecular Cell Biology",
+      "doi": "10.1038/s41580-025-00841-4",
+      "publisher_url": "https://www.nature.com/articles/s41580-025-00841-4",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-SMALL-NCRNA-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "A guide to the biogenesis and functions of endogenous small non-coding RNAs in animals",
+      "authors": [
+        "Karina Jouravleva",
+        "Phillip D. Zamore"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Molecular Cell Biology",
+      "doi": "10.1038/s41580-024-00818-9",
+      "publisher_url": "https://www.nature.com/articles/s41580-024-00818-9",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-LNCRNA-TRANSCRIPTION-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Transcription regulation by long non-coding RNAs: mechanisms and disease relevance",
+      "authors": [
+        "Jorge Ferrer",
+        "Nadya Dimitrova"
+      ],
+      "published_year": 2024,
+      "journal": "Nature Reviews Molecular Cell Biology",
+      "doi": "10.1038/s41580-023-00694-9",
+      "publisher_url": "https://www.nature.com/articles/s41580-023-00694-9",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-STRUCTURAL-VARIANTS-3D-GENOME-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Structural variants in the 3D genome as drivers of disease",
+      "authors": [
+        "Varun K. A. Sreenivasan",
+        "Verónica Yumiceba",
+        "Malte Spielmann"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/s41576-025-00862-x",
+      "publisher_url": "https://www.nature.com/articles/s41576-025-00862-x",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-COHESIN-GENOME-MAINTENANCE-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Folding a broken genome: the versatile roles of cohesin in genome maintenance",
+      "authors": [
+        "Alberto Marin-Gonzalez",
+        "Taekjip Ha"
+      ],
+      "published_year": 2026,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/s41576-026-00988-6",
+      "publisher_url": "https://www.nature.com/articles/s41576-026-00988-6",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-EVOLUTION-TRANSCRIPTION-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "The evolutionary foundations of transcriptional regulation in animals",
+      "authors": [
+        "Maxwell C. Coyle",
+        "Nicole King"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/s41576-025-00864-9",
+      "publisher_url": "https://www.nature.com/articles/s41576-025-00864-9",
       "verification_status": "verified",
       "verified_on": "2026-09-25"
     }
