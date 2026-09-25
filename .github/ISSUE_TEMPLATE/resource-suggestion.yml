@@ -76,6 +76,19 @@ body:
     validations:
       required: true
 
+  - type: textarea
+    id: student_guidance
+    attributes:
+      label: Persian student guidance
+      description: Explain who this is for, why it is selected, how to use it, and what comes next.
+      placeholder: |
+        مناسب برای:
+        چرا این منبع:
+        چگونه استفاده شود:
+        قدم بعدی:
+    validations:
+      required: true
+
   - type: checkboxes
     id: scope
     attributes:
