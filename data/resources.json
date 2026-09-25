@@ -2488,6 +2488,375 @@
       "publisher_url": "https://www.nature.com/articles/s41576-026-01010-9",
       "verification_status": "verified",
       "verified_on": "2026-09-26"
+    },
+    {
+      "id": "BOOK-ECOLOGY-ECONOMY10-2025",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Ecology: The Economy of Nature",
+      "authors": [
+        "Rick Relyea"
+      ],
+      "edition": "10th Edition",
+      "published_year": 2025,
+      "publisher": "Macmillan Learning",
+      "isbn": "9781319589936",
+      "publisher_url": "https://www.macmillanlearning.com/ed/uk/product/Ecology-The-Economy-of-Nature--10th-edition/p/1319589936",
+      "purchase_url": "https://www.macmillanlearning.com/ed/uk/product/Ecology-The-Economy-of-Nature--10th-edition/p/1319589936",
+      "cover": {
+        "url": "https://prod-cat-files.macmillan.cloud/MediaResources/Jackets/258W/9781319589936.jpg",
+        "source": "Official Macmillan Learning cover image; pending CI visual review"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "BOOK-ECOLOGY-CONCEPTS9-2026",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Ecology: Concepts and Applications",
+      "authors": [
+        "Anna A. Sher",
+        "Manuel C. Molles"
+      ],
+      "edition": "9th Edition, 2026 Release",
+      "published_year": 2026,
+      "publisher": "McGraw Hill",
+      "isbn": "9781266301339",
+      "publisher_url": "https://www.mheducation.com/highered/product/ecology-concepts-and-applications-sher.html",
+      "purchase_url": "https://www.mheducation.com/highered/product/ecology-concepts-and-applications-sher.html",
+      "cover": {
+        "url": "https://www.mheducation.com/cover-images/Jpeg_400-high/126630133X.jpeg",
+        "source": "Official McGraw Hill cover image; pending CI visual review"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "BOOK-ECOLOGY-INDIVIDUALS5-2020",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Ecology: From Individuals to Ecosystems",
+      "authors": [
+        "Michael Begon",
+        "Colin R. Townsend"
+      ],
+      "edition": "5th Edition",
+      "published_year": 2020,
+      "publisher": "Wiley",
+      "isbn": "9781119279310",
+      "publisher_url": "https://www.wiley.com/en-us/Ecology%3A+From+Individuals+to+Ecosystems%2C+5th+Edition-p-9781119279310",
+      "purchase_url": "https://www.wiley.com/en-us/Ecology%3A+From+Individuals+to+Ecosystems%2C+5th+Edition-p-9781119279310",
+      "cover": {
+        "url": "https://media.wiley.com/product_data/coverImage300/10/11192793/1119279310.jpg",
+        "source": "Official Wiley cover image; pending CI visual review"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-LONGTERM-POP-DYNAMICS-2019",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "What Have Long-Term Field Studies Taught Us About Population Dynamics?",
+      "authors": [
+        "Beth A. Reinke",
+        "David A. W. Miller",
+        "Fredric J. Janzen"
+      ],
+      "published_year": 2019,
+      "journal": "Annual Review of Ecology, Evolution, and Systematics",
+      "doi": "10.1146/annurev-ecolsys-110218-024717",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-110218-024717",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-MULTIFACTOR-PLANT-DEMOGRAPHY-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Quantifying the Effects of Multiple Environmental Factors on Plant Demography: Prediction and Inference in a Multivariate World",
+      "authors": [
+        "Allison M. Louthan",
+        "William F. Morris"
+      ],
+      "published_year": 2026,
+      "journal": "Annual Review of Ecology, Evolution, and Systematics",
+      "doi": "10.1146/annurev-ecolsys-102924-052521",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-102924-052521",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-EVO-ECO-SPECIES-INTERACTIONS-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "The Evolutionary Ecology of Species Interactions: Shared Mechanisms of Natural Selection and Population Regulation",
+      "authors": [
+        "Mark A. McPeek"
+      ],
+      "published_year": 2025,
+      "journal": "Annual Review of Ecology, Evolution, and Systematics",
+      "doi": "10.1146/annurev-ecolsys-102723-044137",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-102723-044137",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-LOTKA-VOLTERRA-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "One Hundred Years of Lotka–Volterra Models",
+      "authors": [
+        "Stefano Allesina"
+      ],
+      "published_year": 2026,
+      "journal": "Annual Review of Ecology, Evolution, and Systematics",
+      "doi": "10.1146/annurev-ecolsys-102924-040829",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-102924-040829",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-COMMUNITY-THEORY-COMMONS-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Toward a Conceptual Commons for Theory in Community Ecology",
+      "authors": [
+        "Chuliang Song"
+      ],
+      "published_year": 2026,
+      "journal": "Annual Review of Ecology, Evolution, and Systematics",
+      "doi": "10.1146/annurev-ecolsys-102824-121307",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-102824-121307",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-PHENOLOGY-COMMUNITY-ASSEMBLY-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Effects of Phenology on Plant Community Assembly and Structure",
+      "authors": [
+        "Elsa E. Cleland",
+        "E. M. Wolkovich"
+      ],
+      "published_year": 2024,
+      "journal": "Annual Review of Ecology, Evolution, and Systematics",
+      "doi": "10.1146/annurev-ecolsys-102722-011653",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-102722-011653",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-FOODWEB-STRUCTURE-2020",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Resolving Food-Web Structure",
+      "authors": [
+        "Robert M. Pringle",
+        "Matthew C. Hutchinson"
+      ],
+      "published_year": 2020,
+      "journal": "Annual Review of Ecology, Evolution, and Systematics",
+      "doi": "10.1146/annurev-ecolsys-110218-024908",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-110218-024908",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-SPECIES-INTERACTION-NETWORKS-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "A Critical Evaluation of Network Approaches for Studying Species Interactions",
+      "authors": [
+        "Nico Blüthgen",
+        "Michael Staab"
+      ],
+      "published_year": 2024,
+      "journal": "Annual Review of Ecology, Evolution, and Systematics",
+      "doi": "10.1146/annurev-ecolsys-102722-021904",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-102722-021904",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-CARBON-CLIMATE-FEEDBACKS-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Carbon Cycle–Climate Feedbacks in the Post-Paris World",
+      "authors": [
+        "David S. Schimel",
+        "Dustin Carroll"
+      ],
+      "published_year": 2024,
+      "journal": "Annual Review of Earth and Planetary Sciences",
+      "doi": "10.1146/annurev-earth-031621-081700",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-earth-031621-081700",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-FOODWEBS-CARBON-CYCLE-2020",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Food Webs and Ecosystems: Linking Species Interactions to the Carbon Cycle",
+      "authors": [
+        "Oswald J. Schmitz",
+        "Shawn J. Leroux"
+      ],
+      "published_year": 2020,
+      "journal": "Annual Review of Ecology, Evolution, and Systematics",
+      "doi": "10.1146/annurev-ecolsys-011720-104730",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-011720-104730",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-METAPOPULATION-BIOLOGY-2018",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Frontiers in Metapopulation Biology: The Legacy of Ilkka Hanski",
+      "authors": [
+        "Otso Ovaskainen",
+        "Brian Hanski",
+        "Ilkka Saccheri"
+      ],
+      "published_year": 2018,
+      "journal": "Annual Review of Ecology, Evolution, and Systematics",
+      "doi": "10.1146/annurev-ecolsys-110617-062519",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-110617-062519",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-LANDSCAPE-MATRIX-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "The Prominent Role of the Matrix in Ecology, Evolution, and Conservation",
+      "authors": [
+        "Robert J. Fletcher",
+        "Thomas A. H. Smith",
+        "Savannah Troy",
+        "Nicholas Kortessis",
+        "Edgar C. Turner",
+        "Emilio M. Bruna",
+        "Robert D. Holt"
+      ],
+      "published_year": 2024,
+      "journal": "Annual Review of Ecology, Evolution, and Systematics",
+      "doi": "10.1146/annurev-ecolsys-102722-025653",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-102722-025653",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-RANGE-SHIFTS-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Observed and Potential Range Shifts of Native and Nonnative Species with Climate Change",
+      "authors": [
+        "Bethany A. Bradley",
+        "Evelyn M. Beaury",
+        "Belinda Gallardo",
+        "Inés Ibáñez",
+        "Catherine Jarnevich",
+        "Toni Lyn Morelli",
+        "Helen R. Sofaer",
+        "Cascade J. B. Sorte",
+        "Montserrat Vilà"
+      ],
+      "published_year": 2024,
+      "journal": "Annual Review of Ecology, Evolution, and Systematics",
+      "doi": "10.1146/annurev-ecolsys-102722-013135",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-102722-013135",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-GEOGRAPHIC-SPECIES-INTERACTIONS-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Geographic Gradients in Species Interactions: From Latitudinal Patterns to Ecological Mechanisms",
+      "authors": [
+        "Anna L. Hargreaves"
+      ],
+      "published_year": 2024,
+      "journal": "Annual Review of Ecology, Evolution, and Systematics",
+      "doi": "10.1146/annurev-ecolsys-110421-102810",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-110421-102810",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-NOVEL-DISTURBANCE-REGIMES-2023",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Novel Disturbance Regimes and Ecological Responses",
+      "authors": [
+        "Monica G. Turner",
+        "Rupert Seidl"
+      ],
+      "published_year": 2023,
+      "journal": "Annual Review of Ecology, Evolution, and Systematics",
+      "doi": "10.1146/annurev-ecolsys-110421-101120",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-110421-101120",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-SUCCESSION-FEEDBACKS-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Feedback loops drive ecological succession: towards a unified conceptual framework",
+      "authors": [
+        "Michiel van Breugel",
+        "Frans Bongers",
+        "Natalia Norden",
+        "Jorge A. Meave",
+        "Lucy Amissah",
+        "et al."
+      ],
+      "published_year": 2024,
+      "journal": "Biological Reviews",
+      "doi": "10.1111/brv.13051",
+      "publisher_url": "https://onlinelibrary.wiley.com/doi/10.1111/brv.13051",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-CLIMATE-DISTURBANCE-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Climate Change Effects on Interacting Disturbances in Forest Ecosystems",
+      "authors": [
+        "Joan Dudney",
+        "Julie Edwards",
+        "Brian J. Harvey",
+        "Rupert Seidl"
+      ],
+      "published_year": 2025,
+      "journal": "Annual Review of Ecology, Evolution, and Systematics",
+      "doi": "10.1146/annurev-ecolsys-102723-052437",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-102723-052437",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-PLANT-INVASIONS-CLIMATE-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Plant Invasions in a Changing Climate: Reshaping Communities, Ecosystem Functions, and Services",
+      "authors": [
+        "Julie R. Deslippe",
+        "Janelle A. Veenendaal"
+      ],
+      "published_year": 2025,
+      "journal": "Annual Review of Ecology, Evolution, and Systematics",
+      "doi": "10.1146/annurev-ecolsys-102723-040443",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-102723-040443",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
     }
   ]
 }
