@@ -49,11 +49,8 @@ def require_https(value: str, label: str) -> None:
 
 
 def main() -> None:
-    subject_data = load_json(SUBJECTS_PATH)
-    resource_data = load_json(RESOURCES_PATH)
-
-    subjects = subject_data.get("subjects", [])
-    resources = resource_data.get("resources", [])
+    subjects = load_json(SUBJECTS_PATH).get("subjects", [])
+    resources = load_json(RESOURCES_PATH).get("resources", [])
 
     subject_ids = [subject["id"] for subject in subjects]
     if len(subject_ids) != len(set(subject_ids)):
@@ -68,7 +65,6 @@ def main() -> None:
 
     for subject in subjects:
         sid = subject["id"]
-
         if subject.get("scope") != "theoretical":
             raise ValueError(f"Subject {sid} is not theory-only.")
 
