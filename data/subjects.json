@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.3.0",
+  "schema_version": "0.4.0",
   "subjects": [
     {
       "id": "CELL-BIOLOGY",
@@ -105,6 +105,114 @@
         "theory_only": true
       },
       "completed_on": "2026-09-25"
+    },
+    {
+      "id": "BIOCHEMISTRY",
+      "fa_name": "بیوشیمی",
+      "en_name": "Biochemistry",
+      "scope": "theoretical",
+      "roadmap_stages": [
+        "foundation",
+        "core",
+        "intermediate",
+        "advanced",
+        "specialized"
+      ],
+      "concepts": [
+        {
+          "id": "BC01",
+          "label": "Chemical foundations, water, pH, buffers and thermodynamics"
+        },
+        {
+          "id": "BC02",
+          "label": "Amino acids, protein structure and folding"
+        },
+        {
+          "id": "BC03",
+          "label": "Enzymes, catalysis, kinetics and regulation"
+        },
+        {
+          "id": "BC04",
+          "label": "Carbohydrates and glycoconjugates"
+        },
+        {
+          "id": "BC05",
+          "label": "Lipids and membrane biochemistry"
+        },
+        {
+          "id": "BC06",
+          "label": "Nucleotides, cofactors and nucleotide chemistry"
+        },
+        {
+          "id": "BC07",
+          "label": "Bioenergetics, redox chemistry and electron transfer"
+        },
+        {
+          "id": "BC08",
+          "label": "Carbohydrate metabolism"
+        },
+        {
+          "id": "BC09",
+          "label": "Lipid metabolism"
+        },
+        {
+          "id": "BC10",
+          "label": "Amino acid and nitrogen metabolism"
+        },
+        {
+          "id": "BC11",
+          "label": "Nucleotide metabolism"
+        },
+        {
+          "id": "BC12",
+          "label": "Metabolic integration, regulation and signalling"
+        }
+      ],
+      "branches": [
+        {
+          "id": "protein-folding-proteostasis",
+          "label": "Protein folding & proteostasis"
+        },
+        {
+          "id": "enzymology-kinetics",
+          "label": "Enzymology & kinetics"
+        },
+        {
+          "id": "bioenergetics-redox",
+          "label": "Bioenergetics & redox"
+        },
+        {
+          "id": "carbohydrate-metabolism",
+          "label": "Carbohydrate metabolism"
+        },
+        {
+          "id": "lipid-metabolism",
+          "label": "Lipid metabolism"
+        },
+        {
+          "id": "amino-acid-nitrogen",
+          "label": "Amino-acid & nitrogen metabolism"
+        },
+        {
+          "id": "nucleotide-metabolism",
+          "label": "Nucleotide metabolism"
+        },
+        {
+          "id": "metabolic-integration",
+          "label": "Metabolic integration & regulation"
+        },
+        {
+          "id": "glycobiology",
+          "label": "Glycobiology"
+        }
+      ],
+      "status": "in_progress",
+      "completion_criteria": {
+        "general_roadmap_resources": 4,
+        "specialized_branches_required": 9,
+        "student_guidance_required": true,
+        "theory_only": true
+      }
     }
   ]
 }
