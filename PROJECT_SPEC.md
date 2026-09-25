@@ -8,9 +8,9 @@ Build a maintainable, community-expandable registry of high-quality **theoretica
 
 The authoritative project model is:
 
-`Subject → Learning stage → Concept area → Resource`
+`Subject → Learning stage / Concept / Branch → Placement → Resource`
 
-A subject exists once. Degrees, majors, countries, universities and curricula may optionally map to that subject, but they never duplicate or own the subject.
+A subject exists once. A scientific resource also exists once globally. Subject-specific learning stage, concept coverage, branch, rationale and Persian student guidance live in a separate Placement record. Degrees, majors, countries, universities and curricula may optionally map to a subject, but they never duplicate or own the subject.
 
 ## Learning stages
 
