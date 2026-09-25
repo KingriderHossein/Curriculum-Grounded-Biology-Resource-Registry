@@ -14,7 +14,7 @@
 
 ### ⁦Microbiology⁩
 
-<p align="center"><a href="https://openstax.org/books/microbiology/pages/1-introduction"><img src="https://covers.openlibrary.org/b/isbn/9781938168147-L.jpg?default=false" width="155" alt="Microbiology "></a></p>
+<p align="center"><a href="https://openstax.org/books/microbiology/pages/1-introduction"><img src="https://storage.pardot.com/218812/1766081609HKLHNnmZ/microbiology.svg" width="155" alt="Microbiology "></a></p>
 
 **مناسب برای:** دانشجویی که می‌خواهد قبل از کتاب اصلی، مفاهیم پایه میکروبیولوژی را با یک منبع آزاد و قابل‌فهم مرور کند.
 
