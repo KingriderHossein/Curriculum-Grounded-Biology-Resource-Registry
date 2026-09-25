@@ -1,193 +1,168 @@
-<div align="center">
+# زیست‌شناسی سلولی | ⁦Cell Biology⁩
 
-# Cell Biology · زیست‌شناسی سلولی
+این صفحه یک **مسیر یادگیری نظری** برای زیست‌شناسی سلولی است؛ از پیش‌نیازهای پایه تا منابع پیشرفته و شاخه‌های تخصصی.  
+هدف این نیست که فقط فهرستی از کتاب‌ها ارائه شود؛ باید مشخص باشد **از کجا شروع کنید، هر منبع را چرا بخوانید و بعد از آن به کجا بروید**.
 
-**Theory-only learning roadmap: foundations → core → advanced → specialization**
-
-![Roadmap](https://img.shields.io/badge/roadmap-foundation%E2%86%92advanced-7c3aed)
-![Theory](https://img.shields.io/badge/scope-theory--only-2f855a)
-![Status](https://img.shields.io/badge/status-pilot-f59e0b)
-
-</div>
-
-## Roadmap
-
-```text
-Stage 0 — Foundation
-   │
-   │  basic cell structure, membranes, signaling, cell cycle
-   ▼
-Stage 1 — Core
-   │
-   │  complete first pass through modern cell biology
-   ▼
-Stage 2 — Intermediate / Reference
-   │
-   │  stronger molecular detail and broader integration
-   ▼
-Stage 3 — Advanced
-   │
-   │  mechanistic depth and research-level conceptual coverage
-   ▼
-Stage 4 — Specialized branches
-      ├── Membranes & transport
-      ├── Organelle biology & trafficking
-      ├── Nucleus & nucleocytoplasmic transport
-      ├── Cell signaling
-      ├── Cytoskeleton & cell mechanics
-      ├── Cell cycle & division
-      ├── Cell death & autophagy
-      ├── Cell adhesion & extracellular matrix
-      └── Plant-cell structures
-```
-
-## Stage 0 — Foundation
-
-### OpenStax Biology 2e
-
-**Mary Ann Clark, Matthew Douglas, Jung Choi · OpenStax · 2018 · Open access**
-
-Use this when the learner needs a clean prerequisite pass before a dedicated cell-biology textbook.
-
-Recommended entry sequence:
-
-- Chapter 4 — Cell Structure
-- Chapter 5 — Structure and Function of Plasma Membranes
-- Chapter 9 — Cell Communication
-- Chapter 10 — Cell Reproduction
-
-**Role:** Foundation  
-**Access:** Free
-
-[OpenStax Biology 2e](https://openstax.org/books/biology-2e/pages/1-introduction)
+> **دامنه:** فقط منابع نظری. پروتکل، راهنمای آزمایشگاهی، ⁦SOP⁩ و آموزش عملی در این مسیر وارد نمی‌شوند.
 
 ---
 
-## Stage 1 — Core
+## مسیر کلی یادگیری
 
-<table>
-<tr>
-<td width="180" align="center">
-<img src="https://cdn2.wwnorton.com/wwnproducts/COLLEG/4/9/9781324033394/9781324033394_198.jpg" width="155" alt="Essential Cell Biology 6e cover">
-</td>
-<td>
+**پایه ← منبع اصلی ← منبع تکمیلی ← منبع پیشرفته ← شاخه تخصصی**
 
-### Essential Cell Biology — 6th International Student Edition
-
-**Bruce Alberts et al. · W. W. Norton · 2023**  
-ISBN: **9781324033394**
-
-**Why here:** designed for a first course in cell biology; broad enough to establish the full conceptual spine without the density of a research reference.
-
-**Read after:** basic general biology / Stage 0  
-**Read before:** The Cell 9e or Molecular Biology of the Cell 7e
-
-[Publisher & purchase](https://wwnorton.co.uk/books/9781324033394-essential-cell-biology-c7a43b27-8186-4ee2-b83f-e60dd511e7ac)
-
-</td>
-</tr>
-</table>
-
-## Stage 2 — Intermediate / Reference
-
-<table>
-<tr>
-<td width="180" align="center">
-<img src="https://fdslive.oup.com/covers/anz/desktop/medium/9780197583722.jpg" width="155" alt="The Cell A Molecular Approach 9e cover">
-</td>
-<td>
-
-### The Cell: A Molecular Approach — 9th Edition
-
-**Geoffrey M. Cooper, Kenneth W. Adams · Oxford University Press · 2022**  
-ISBN: **9780197583722**
-
-**Why here:** broad undergraduate reference with stronger molecular depth than a first-pass text while remaining more navigable than a definitive advanced reference.
-
-**Read after:** Essential Cell Biology or equivalent  
-**Read before / alongside:** advanced branch reading
-
-[Publisher & purchase](https://www.oup.com.au/books/higher-education/biological-sciences/9780197583722)
-
-</td>
-</tr>
-</table>
-
-## Stage 3 — Advanced
-
-<table>
-<tr>
-<td width="180" align="center">
-<img src="https://cdn2.wwnorton.com/wwnproducts/COLLEG/2/5/9780393884852/9780393884852_198.jpg" width="155" alt="Molecular Biology of the Cell 7e cover">
-</td>
-<td>
-
-### Molecular Biology of the Cell — 7th Edition
-
-**Bruce Alberts et al. · W. W. Norton · 2022**  
-ISBN: **9780393884852**
-
-**Why here:** a deep mechanistic reference for advanced cell biology and a bridge to primary/review literature.
-
-**Read after:** a complete Core pass  
-**Use for:** mechanistic depth, integration across pathways, and preparation for specialized literature
-
-[Publisher & purchase](https://wwnorton.co.uk/books/9780393884852-molecular-biology-of-the-cell)
-
-</td>
-</tr>
-</table>
-
-## Specialized branches
-
-The branch structure prevents a focused subfield from being mixed into the general Core roadmap.
-
-| Branch | What belongs here | Current curated update |
-|---|---|---|
-| **Membranes & transport** | membrane organization, channels, carriers, vesicular/bulk transport | broad textbook coverage |
-| **Organelle biology & trafficking** | ER/Golgi/endosome/lysosome systems, inter-organelle communication, contact sites | Calì et al., 2025 |
-| **Nucleus & nucleocytoplasmic transport** | nuclear organization, NPCs, import/export | Petrovic et al., 2025 |
-| **Cell signaling** | receptors, second messengers, signaling networks | branch scaffolded |
-| **Cytoskeleton & cell mechanics** | actin, microtubules, IFs, motors, mechanics | branch scaffolded |
-| **Cell cycle & division** | cycle control, mitosis, meiosis, cytokinesis | branch scaffolded |
-| **Cell death & autophagy** | apoptosis, regulated cell death, autophagy | branch scaffolded |
-| **Adhesion & extracellular matrix** | junctions, CAMs, ECM, mechanotransduction | branch scaffolded |
-| **Plant-cell structures** | cell wall, chloroplast/plastid-specific organization | branch scaffolded |
-
-### Organelle biology & trafficking — current update
-
-**Calì T, Bayer EM, Eden ER, et al. (2025). _Key challenges and recommendations for defining organelle membrane contact sites_. Nature Reviews Molecular Cell Biology 26:776–796.**
-
-DOI: [10.1038/s41580-025-00864-x](https://doi.org/10.1038/s41580-025-00864-x)
-
-[Journal page](https://www.nature.com/articles/s41580-025-00864-x)
-
-### Nucleus & nucleocytoplasmic transport — current update
-
-**Petrovic S, Mobbs GW, Hoelz A. (2025; issue 2026). _Structure, function and assembly of nuclear pore complexes_. Nature Reviews Molecular Cell Biology 27:35–54.**
-
-DOI: [10.1038/s41580-025-00881-w](https://doi.org/10.1038/s41580-025-00881-w)
-
-[Journal page](https://www.nature.com/articles/s41580-025-00881-w)
-
-## Concept map
-
-| ID | Concept area |
+| وضعیت فعلی شما | نقطه شروع پیشنهادی |
 |---|---|
-| CB01 | Cell theory, organization and evolution |
-| CB02 | Plasma membrane and transport |
-| CB03 | Endomembrane system and vesicular trafficking |
-| CB04 | Organelle biology and inter-organelle communication |
-| CB05 | Nucleus and nucleocytoplasmic transport |
-| CB06 | Cell signaling |
-| CB07 | Cell cycle, mitosis and division |
-| CB08 | Cytoskeleton and cell mechanics |
-| CB09 | Cell adhesion, junctions and extracellular matrix |
-| CB10 | Cell death and autophagy |
-| CB11 | Plant-cell-specific structures |
+| در ساختار سلول، غشا، پیام‌رسانی یا چرخه سلولی ضعف دارید | ⁦OpenStax Biology 2e⁩ |
+| می‌خواهید زیست‌شناسی سلولی را برای اولین بار منسجم یاد بگیرید | ⁦Essential Cell Biology⁩ |
+| مبانی را می‌دانید و جزئیات مولکولی بیشتری می‌خواهید | ⁦The Cell: A Molecular Approach⁩ |
+| برای تحصیلات تکمیلی یا مطالعه عمیق آماده‌اید | ⁦Molecular Biology of the Cell⁩ |
+| یک موضوع مشخص را برای پژوهش دنبال می‌کنید | شاخه تخصصی + مقاله مروری جدید |
 
-## How curricula relate to this page
+---
 
-A university course called “Cell Biology”, “Cellular Biology”, or “Cell and Molecular Biology” may map to part or all of this roadmap. That mapping is secondary. It does **not** create a new copy of the subject or its books.
+## مرحله پایه — مرور پیش‌نیازها
 
-Last resource verification: **2026-09-25**.
+<p align="center">
+  <img src="https://storage.pardot.com/218812/1766081607A9LlaLN9/biology_book_card_2e.svg" width="155" alt="Biology 2e cover">
+</p>
+
+### کتاب ⁦Biology 2e⁩
+
+- **جایگاه در مسیر:** پیش‌نیاز و مرور پایه
+- **مناسب برای:** دانشجویی که هنوز در ساختار سلول، غشا، پیام‌رسانی سلولی یا چرخه سلولی پایه محکمی ندارد.
+- **چرا این منبع؟** رایگان، دانشگاهی و مناسب برای مرور پیش‌نیازها پیش از ورود به یک کتاب تخصصی زیست‌شناسی سلولی.
+- **چگونه استفاده شود؟** لازم نیست کل کتاب را بخوانید. برای این مسیر، فصل‌های زیر کافی‌اند:
+  - فصل ۴: ساختار سلول
+  - فصل ۵: ساختار و عملکرد غشای پلاسمایی
+  - فصل ۹: ارتباط و پیام‌رسانی سلولی
+  - فصل ۱۰: تولیدمثل و چرخه سلولی
+- **قدم بعدی:** پس از تسلط بر این مباحث، وارد کتاب ⁦Essential Cell Biology⁩ شوید.
+- **مشخصات منبع:** Mary Ann Clark, Matthew Douglas, Jung Choi · OpenStax · 2018 · دسترسی آزاد
+
+[دسترسی رایگان به کتاب ⁦Biology 2e⁩](https://openstax.org/books/biology-2e/pages/1-introduction)
+
+---
+
+## مرحله اصلی — یادگیری منسجم زیست‌شناسی سلولی
+
+<p align="center">
+  <img src="https://cdn2.wwnorton.com/wwnproducts/COLLEG/4/9/9781324033394/9781324033394_198.jpg" width="155" alt="Essential Cell Biology 6e cover">
+</p>
+
+### کتاب ⁦Essential Cell Biology⁩ — ویرایش ششم
+
+- **جایگاه در مسیر:** منبع اصلی
+- **مناسب برای:** دانشجویی که می‌خواهد زیست‌شناسی سلولی را برای نخستین بار به‌صورت منسجم و دانشگاهی یاد بگیرد.
+- **چرا این منبع؟** برای یک درس نخست زیست‌شناسی سلولی طراحی شده و میان عمق علمی، تصویرسازی و توضیح مفهومی تعادل خوبی دارد.
+- **چگونه استفاده شود؟** بهتر است به‌عنوان کتاب اصلی و به‌ترتیب فصل‌ها مطالعه شود. تمرکز فقط روی حفظ نام اندامک‌ها نباشد؛ ارتباط میان ساختار، عملکرد و تنظیم فرایندهای سلولی مهم‌تر است.
+- **قدم بعدی:** پس از یک دور کامل، برای عمق بیشتر به ⁦The Cell: A Molecular Approach⁩ بروید یا وارد شاخه تخصصی مورد علاقه شوید.
+- **مشخصات منبع:** Bruce Alberts et al. · W. W. Norton · 2023 · ویرایش ششم بین‌المللی · ISBN: ⁦9781324033394⁩
+
+[صفحه رسمی ناشر و خرید](https://wwnorton.co.uk/books/9781324033394-essential-cell-biology-c7a43b27-8186-4ee2-b83f-e60dd511e7ac)
+
+---
+
+## مرحله تکمیلی — مرور دوم با جزئیات مولکولی بیشتر
+
+<p align="center">
+  <img src="https://fdslive.oup.com/covers/anz/desktop/medium/9780197583722.jpg" width="155" alt="The Cell A Molecular Approach 9e cover">
+</p>
+
+### کتاب ⁦The Cell: A Molecular Approach⁩ — ویرایش نهم
+
+- **جایگاه در مسیر:** منبع تکمیلی و مرجع
+- **مناسب برای:** دانشجویی که مبانی را می‌داند و می‌خواهد همان مفاهیم را با جزئیات مولکولی و ارتباطات بیشتری مرور کند.
+- **چرا این منبع؟** یک مرجع گسترده در سطح کارشناسی است و از نظر عمق میان کتاب مقدماتی و منابع سنگین پیشرفته قرار می‌گیرد.
+- **چگونه استفاده شود؟** الزاماً لازم نیست از ابتدا تا انتها خوانده شود. می‌توانید فصل‌های مرتبط با نقاط ضعف یا شاخه مورد علاقه خود را انتخاب کنید.
+- **قدم بعدی:** برای مطالعه عمیق‌تر و مکانیزمی‌تر به ⁦Molecular Biology of the Cell⁩ یا منابع تخصصی هر شاخه بروید.
+- **مشخصات منبع:** Geoffrey M. Cooper, Kenneth W. Adams · Oxford University Press · 2022 · ویرایش نهم · ISBN: ⁦9780197583722⁩
+
+[صفحه رسمی ناشر و خرید](https://www.oup.com.au/books/higher-education/biological-sciences/9780197583722)
+
+---
+
+## مرحله پیشرفته — ورود به عمق مکانیزمی
+
+<p align="center">
+  <img src="https://cdn2.wwnorton.com/wwnproducts/COLLEG/2/5/9780393884852/9780393884852_198.jpg" width="155" alt="Molecular Biology of the Cell 7e cover">
+</p>
+
+### کتاب ⁦Molecular Biology of the Cell⁩ — ویرایش هفتم
+
+- **جایگاه در مسیر:** منبع پیشرفته
+- **مناسب برای:** دانشجوی پیشرفته، دانشجوی تحصیلات تکمیلی یا کسی که می‌خواهد از سطح درسی به ادبیات پژوهشی نزدیک شود.
+- **چرا این منبع؟** مرجع جامع و مکانیزمی زیست‌شناسی سلولی است و برای اتصال عمیق مفاهیم مختلف به یکدیگر مناسب است.
+- **چگونه استفاده شود؟** به‌عنوان کتاب آغازین توصیه نمی‌شود. پس از یادگیری منبع اصلی، فصل‌های مرتبط با موضوع پژوهشی یا شاخه تخصصی انتخاب شوند.
+- **قدم بعدی:** پس از هر بخش، به مقاله‌های مروری جدید همان شاخه و سپس در صورت نیاز به مقالات پژوهشی اصلی بروید.
+- **مشخصات منبع:** Bruce Alberts et al. · W. W. Norton · 2022 · ویرایش هفتم · ISBN: ⁦9780393884852⁩
+
+[صفحه رسمی ناشر و خرید](https://wwnorton.co.uk/books/9780393884852-molecular-biology-of-the-cell)
+
+---
+
+## شاخه‌های تخصصی زیست‌شناسی سلولی
+
+پس از تسلط بر مسیر عمومی، لازم نیست همه موضوعات را با یک عمق دنبال کنید. از این مرحله می‌توانید بر اساس علاقه پژوهشی یا نیاز درسی وارد یکی از شاخه‌ها شوید.
+
+| شاخه | محور اصلی |
+|---|---|
+| غشا و انتقال | سازمان غشا، کانال‌ها، ناقل‌ها و انتقال مواد |
+| زیست‌شناسی اندامک‌ها و انتقال درون‌سلولی | شبکه آندوپلاسمی، گلژی، اندوزوم، لیزوزوم، انتقال وزیکولی و ارتباط میان اندامک‌ها |
+| هسته و انتقال هسته‌ای | سازمان هسته، منفذ هسته‌ای و ورود و خروج مولکول‌ها |
+| پیام‌رسانی سلولی | گیرنده‌ها، پیام‌رسان‌های دوم و شبکه‌های سیگنال‌دهی |
+| اسکلت سلولی و مکانیک سلول | اکتین، میکروتوبول، رشته‌های میانی، موتورهای مولکولی و نیروهای سلولی |
+| چرخه و تقسیم سلولی | کنترل چرخه سلولی، میتوز، میوز و سیتوکینز |
+| مرگ سلولی و اتوفاژی | آپوپتوز، انواع مرگ تنظیم‌شده و اتوفاژی |
+| چسبندگی و ماتریکس خارج‌سلولی | اتصالات سلولی، مولکول‌های چسبندگی، ماتریکس و مکانوتراکنش |
+| ساختارهای اختصاصی سلول گیاهی | دیواره سلولی، پلاستیدها و سازمان اختصاصی سلول گیاهی |
+
+---
+
+## منبع تخصصی — زیست‌شناسی اندامک‌ها و انتقال درون‌سلولی
+
+### مقاله مروری ⁦Key challenges and recommendations for defining organelle membrane contact sites⁩
+
+- **جایگاه در مسیر:** مطالعه تخصصی پس از مرحله پیشرفته
+- **مناسب برای:** دانشجوی پیشرفته‌ای که مبانی اندامک‌ها و انتقال درون‌سلولی را می‌داند و می‌خواهد با ارتباط مستقیم میان اندامک‌ها آشنا شود.
+- **چرا این منبع؟** یک مرور جدید درباره ⁦membrane contact sites⁩ و ارتباط عملکردی اندامک‌ها ارائه می‌کند.
+- **چگونه استفاده شود؟** پس از مطالعه مباحث اندامک‌ها در یک کتاب پیشرفته خوانده شود. ابتدا شکل‌ها و چارچوب مفهومی مقاله را بفهمید و سپس وارد جزئیات شوید.
+- **قدم بعدی:** اگر موضوع پژوهشی شما به ارتباط اندامک‌ها مربوط است، از منابع ارجاع‌شده در این Review برای ورود به مقالات اصلی استفاده کنید.
+- **مشخصات منبع:** Calì T, Bayer EM, Eden ER, et al. · Nature Reviews Molecular Cell Biology · 2025 · DOI: ⁦10.1038/s41580-025-00864-x⁩
+
+[صفحه مقاله در Nature](https://www.nature.com/articles/s41580-025-00864-x)
+
+---
+
+## منبع تخصصی — هسته و انتقال هسته‌ای
+
+### مقاله مروری ⁦Structure, function and assembly of nuclear pore complexes⁩
+
+- **جایگاه در مسیر:** مطالعه تخصصی پس از مرحله پیشرفته
+- **مناسب برای:** دانشجوی پیشرفته‌ای که ساختار هسته و انتقال هسته‌ای را می‌داند و می‌خواهد وارد معماری و عملکرد کمپلکس منفذ هسته‌ای شود.
+- **چرا این منبع؟** مروری جدید بر ساختار، عملکرد، انتخاب‌پذیری و مونتاژ ⁦nuclear pore complex⁩ ارائه می‌کند.
+- **چگونه استفاده شود؟** پس از مطالعه فصل هسته و انتقال هسته‌ای در یک منبع پیشرفته خوانده شود. ابتدا شکل‌ها و مدل کلی، سپس جزئیات مولکولی مطالعه شوند.
+- **قدم بعدی:** برای پروژه‌های مرتبط با انتقال هسته‌ای یا ساختار ⁦NPC⁩، به مقالات اصلی ارجاع‌شده در Review بروید.
+- **مشخصات منبع:** Stefan Petrovic, George W. Mobbs, André Hoelz · Nature Reviews Molecular Cell Biology · 2025 · DOI: ⁦10.1038/s41580-025-00881-w⁩
+
+[صفحه مقاله در Nature](https://www.nature.com/articles/s41580-025-00881-w)
+
+---
+
+## موضوعات اصلی این مسیر
+
+این Roadmap در نهایت باید منابع معتبر برای همه این محورهای نظری فراهم کند:
+
+- سازمان، منشأ و تکامل سلول
+- غشای پلاسمایی و انتقال مواد
+- سامانه غشایی داخلی و انتقال وزیکولی
+- اندامک‌ها و ارتباط میان آن‌ها
+- هسته و انتقال هسته‌ای
+- پیام‌رسانی سلولی
+- چرخه و تقسیم سلولی
+- اسکلت سلولی و مکانیک سلول
+- چسبندگی سلولی و ماتریکس خارج‌سلولی
+- مرگ سلولی و اتوفاژی
+- ساختارهای اختصاصی سلول گیاهی
+
+شناسه‌های داخلی، وضعیت‌های فنی Registry و نگاشت‌های دانشگاهی در فایل‌های داده نگهداری می‌شوند و عمداً در نمای اصلی دانشجو نمایش داده نمی‌شوند.
