@@ -102,6 +102,17 @@ def main() -> None:
         if resource.get("theory_only") is not True:
             raise ValueError(f"{rid} violates the theory-only rule.")
 
+        guidance = resource.get("student_guidance_fa", {})
+        required_guidance = {"best_for", "why", "how_to_use", "next_step"}
+        missing_guidance = [
+            field for field in required_guidance
+            if not isinstance(guidance.get(field), str) or not guidance.get(field).strip()
+        ]
+        if missing_guidance:
+            raise ValueError(
+                f"{rid} is missing Persian student guidance fields: {sorted(missing_guidance)}"
+            )
+
         require_https(resource.get("publisher_url", ""), f"{rid} publisher_url")
 
         coverage = set(resource.get("coverage_concept_ids", []))
