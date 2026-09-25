@@ -1,0 +1,41 @@
+{
+  "schema_version": "0.1.0",
+  "courses": [
+    {
+      "id": "MSRT-BSC-ANIMAL-CELL-BIOLOGY-1400",
+      "fa_name": "زیست‌شناسی سلولی",
+      "en_name": "Cell Biology",
+      "degree": "BSc",
+      "field": "Animal Biology",
+      "authority": "MSRT",
+      "curriculum_revision": "1400",
+      "approved_on_jalali": "1400-02-05",
+      "approved_session": 156,
+      "amended_on_jalali": "1401-08-10",
+      "credits": 3,
+      "hours": 48,
+      "delivery": "theoretical",
+      "prerequisites": ["Structural Biochemistry"],
+      "curriculum_source": {
+        "label": "MSRT revised B.Sc. Animal Biology curriculum (1400)",
+        "url": "https://www.scribd.com/document/919239906/",
+        "source_tier": "approved-document-mirror",
+        "verification_status": "provisional-host-provenance"
+      },
+      "topics": [
+        {"id": "CB01", "label": "Chemical basis of life, cell origins/evolution, concepts and history of cell biology"},
+        {"id": "CB02", "label": "Cell theory, cellular organization, prokaryotes/eukaryotes, multicellularity, organelle evolution, conceptual study methods"},
+        {"id": "CB03", "label": "Biological membranes and transmembrane transport"},
+        {"id": "CB04", "label": "Endomembrane organelles and transport vesicles"},
+        {"id": "CB05", "label": "Endocytosis, exocytosis, phagocytosis and autophagy"},
+        {"id": "CB06", "label": "Mitochondria: origin, structure, function, protein import and genome"},
+        {"id": "CB07", "label": "Plastids/chloroplasts: origin, structure, function, protein import and genome"},
+        {"id": "CB08", "label": "Nucleus/nucleolus and nucleocytoplasmic transport"},
+        {"id": "CB09", "label": "Mitosis, meiosis, cytokinesis and cell-cycle overview"},
+        {"id": "CB10", "label": "Cytoskeleton"},
+        {"id": "CB11", "label": "Extracellular matrix, adhesion molecules and cell junctions"},
+        {"id": "CB12", "label": "Plant cell wall"}
+      ]
+    }
+  ]
+}
