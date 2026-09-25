@@ -36,7 +36,7 @@ MSRT revised curriculum (1400), 3 theoretical credits / 48 hours.
 <td align="center" width="33%">
 <img src="https://covers.openlibrary.org/b/isbn/9780197583722-L.jpg?default=false" width="145" alt="The Cell A Molecular Approach 9e cover"><br>
 <b>The Cell: A Molecular Approach</b><br>
-9th Edition · 2022/2023<br>
+9th Edition · 2022<br>
 <a href="https://www.oup.com.au/books/higher-education/biological-sciences/9780197583722">Publisher / Purchase</a>
 </td>
 <td align="center" width="33%">
