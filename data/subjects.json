@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.5.0",
+  "schema_version": "0.6.0",
   "subjects": [
     {
       "id": "CELL-BIOLOGY",
@@ -325,6 +325,119 @@
         {
           "id": "transposable-elements-genome-dynamics",
           "label": "Transposable elements & genome dynamics"
+        }
+      ],
+      "status": "complete",
+      "completion_criteria": {
+        "general_roadmap_resources": 4,
+        "specialized_branches_required": 9,
+        "student_guidance_required": true,
+        "theory_only": true
+      },
+      "completed_on": "2026-09-25"
+    },
+    {
+      "id": "MOLECULAR-BIOLOGY",
+      "fa_name": "زیست‌شناسی مولکولی",
+      "en_name": "Molecular Biology",
+      "scope": "theoretical",
+      "roadmap_stages": [
+        "foundation",
+        "core",
+        "intermediate",
+        "advanced",
+        "specialized"
+      ],
+      "concepts": [
+        {
+          "id": "MB01",
+          "label": "DNA structure, genome organization and molecular information flow"
+        },
+        {
+          "id": "MB02",
+          "label": "DNA replication and chromosome duplication"
+        },
+        {
+          "id": "MB03",
+          "label": "Transcription and RNA polymerases"
+        },
+        {
+          "id": "MB04",
+          "label": "RNA processing, maturation and quality control"
+        },
+        {
+          "id": "MB05",
+          "label": "Translation and ribosome function"
+        },
+        {
+          "id": "MB06",
+          "label": "Gene regulation and regulatory DNA"
+        },
+        {
+          "id": "MB07",
+          "label": "Chromatin and epigenetic regulation"
+        },
+        {
+          "id": "MB08",
+          "label": "DNA damage, repair and genome stability"
+        },
+        {
+          "id": "MB09",
+          "label": "Non-coding RNA and post-transcriptional regulation"
+        },
+        {
+          "id": "MB10",
+          "label": "Genome organization and 3D chromatin architecture"
+        },
+        {
+          "id": "MB11",
+          "label": "Recombination and chromosome maintenance"
+        },
+        {
+          "id": "MB12",
+          "label": "Molecular evolution of genes and regulatory systems"
+        },
+        {
+          "id": "MB13",
+          "label": "Molecular gene expression in prokaryotes and eukaryotes"
+        }
+      ],
+      "branches": [
+        {
+          "id": "dna-replication-chromosome-maintenance",
+          "label": "DNA replication & chromosome maintenance"
+        },
+        {
+          "id": "transcription-rna-polymerases",
+          "label": "Transcription & RNA polymerases"
+        },
+        {
+          "id": "rna-processing-biology",
+          "label": "RNA processing & RNA biology"
+        },
+        {
+          "id": "translation-ribosome",
+          "label": "Translation & ribosome biology"
+        },
+        {
+          "id": "gene-regulation-chromatin",
+          "label": "Gene regulation & chromatin"
+        },
+        {
+          "id": "dna-repair-genome-stability",
+          "label": "DNA repair & genome stability"
+        },
+        {
+          "id": "rna-regulation-ncrna",
+          "label": "RNA regulation & non-coding RNA"
+        },
+        {
+          "id": "genome-organization-3d",
+          "label": "Genome organization & 3D genome"
+        },
+        {
+          "id": "evolution-gene-regulation",
+          "label": "Molecular evolution of gene regulation"
         }
       ],
       "status": "complete",

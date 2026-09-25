@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.3.0",
+  "schema_version": "0.4.0",
   "placements": [
     {
       "id": "CELL-BIOLOGY::OPENSTAX-BIOLOGY2E-2018",
@@ -1488,6 +1488,521 @@
         "transposable-elements-genome-dynamics"
       ],
       "branch_role": "current_update"
+    },
+    {
+      "id": "MOLECULAR-BIOLOGY::OPENSTAX-BIOLOGY2E-2018",
+      "resource_id": "OPENSTAX-BIOLOGY2E-2018",
+      "subject_id": "MOLECULAR-BIOLOGY",
+      "learning_stage": "foundation",
+      "role": "foundation",
+      "coverage_concept_ids": [
+        "MB01",
+        "MB02",
+        "MB03",
+        "MB04",
+        "MB05",
+        "MB06",
+        "MB13"
+      ],
+      "selection_rationale": "یک منبع آزاد و دانشگاهی برای مرور سریع مفاهیم لازم پیش از ورود به یک کتاب تخصصی زیست‌شناسی مولکولی است.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که هنوز در ساختار ⁦DNA⁩، همانندسازی، رونویسی، ترجمه یا تنظیم بیان ژن پایه محکمی ندارد.",
+        "why": "یک منبع آزاد و دانشگاهی برای مرور سریع مفاهیم لازم پیش از ورود به یک کتاب تخصصی زیست‌شناسی مولکولی است.",
+        "how_to_use": "کل کتاب لازم نیست؛ فصل‌های مربوط به ساختار ⁦DNA⁩، همانندسازی، ارتباط ژن و پروتئین و تنظیم بیان ژن را هدفمند بخوانید.",
+        "next_step": "پس از تثبیت این مفاهیم، وارد کتاب ⁦Molecular Biology⁩ شوید."
+      }
+    },
+    {
+      "id": "MOLECULAR-BIOLOGY::BOOK-MOLECULAR-BIOLOGY3-2019",
+      "resource_id": "BOOK-MOLECULAR-BIOLOGY3-2019",
+      "subject_id": "MOLECULAR-BIOLOGY",
+      "learning_stage": "core",
+      "role": "core",
+      "coverage_concept_ids": [
+        "MB01",
+        "MB02",
+        "MB03",
+        "MB04",
+        "MB05",
+        "MB06",
+        "MB07",
+        "MB08",
+        "MB09",
+        "MB10",
+        "MB11",
+        "MB12",
+        "MB13"
+      ],
+      "selection_rationale": "برای درس دانشگاهی زیست‌شناسی مولکولی طراحی شده و مسیر مفاهیم پایه را با موضوعات جدیدتری مانند ⁦RNA⁩های غیرکدکننده، دفاع ژنوم و اپی‌ژنتیک پیوند می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد زیست‌شناسی مولکولی را برای نخستین بار به‌صورت منسجم از ⁦DNA⁩ تا ⁦RNA⁩، پروتئین و تنظیم ژن یاد بگیرد.",
+        "why": "برای درس دانشگاهی زیست‌شناسی مولکولی طراحی شده و مسیر مفاهیم پایه را با موضوعات جدیدتری مانند ⁦RNA⁩های غیرکدکننده، دفاع ژنوم و اپی‌ژنتیک پیوند می‌دهد.",
+        "how_to_use": "به‌عنوان منبع اصلی و به‌ترتیب فصل‌ها مطالعه شود؛ محور یادداشت‌برداری را جریان اطلاعات ژنتیکی و نقاط تنظیم آن قرار دهید.",
+        "next_step": "برای مرور متمرکزتر بر ژن، کروموزوم، بیان و تنظیم، ⁦Lewin's Essential GENES⁩ را بخوانید."
+      }
+    },
+    {
+      "id": "MOLECULAR-BIOLOGY::BOOK-LEWIN-ESSENTIAL-GENES4-2021",
+      "resource_id": "BOOK-LEWIN-ESSENTIAL-GENES4-2021",
+      "subject_id": "MOLECULAR-BIOLOGY",
+      "learning_stage": "intermediate",
+      "role": "reference",
+      "coverage_concept_ids": [
+        "MB01",
+        "MB02",
+        "MB03",
+        "MB04",
+        "MB05",
+        "MB06",
+        "MB07",
+        "MB09",
+        "MB11",
+        "MB12",
+        "MB13"
+      ],
+      "selection_rationale": "یک متن یک‌ترمی برای زیست‌شناسی مولکولی و ژنتیک مولکولی است که ژن‌ها و کروموزوم‌ها، همانندسازی و نوترکیبی، بیان ژن و تنظیم ژن را به‌صورت منسجم سازمان می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مبانی را می‌داند و می‌خواهد ژن و ژنوم را با تمرکز بیشتر بر همانندسازی، بیان و تنظیم مولکولی مرور کند.",
+        "why": "یک متن یک‌ترمی برای زیست‌شناسی مولکولی و ژنتیک مولکولی است که ژن‌ها و کروموزوم‌ها، همانندسازی و نوترکیبی، بیان ژن و تنظیم ژن را به‌صورت منسجم سازمان می‌دهد.",
+        "how_to_use": "پس از کتاب اصلی، به‌صورت مرور دوم یا مرجع موضوعی استفاده شود؛ فصل‌ها را بر اساس ضعف مفهومی یا شاخه تخصصی انتخاب کنید.",
+        "next_step": "برای اتصال این سازوکارها به سازمان سلول و ماشین‌های مولکولی پیچیده‌تر، ⁦Molecular Biology of the Cell⁩ را به‌عنوان مرجع پیشرفته استفاده کنید."
+      }
+    },
+    {
+      "id": "MOLECULAR-BIOLOGY::BOOK-MBOC7-2022",
+      "resource_id": "BOOK-MBOC7-2022",
+      "subject_id": "MOLECULAR-BIOLOGY",
+      "learning_stage": "advanced",
+      "role": "advanced",
+      "coverage_concept_ids": [
+        "MB01",
+        "MB02",
+        "MB03",
+        "MB04",
+        "MB05",
+        "MB06",
+        "MB07",
+        "MB08",
+        "MB09",
+        "MB10",
+        "MB11",
+        "MB13"
+      ],
+      "selection_rationale": "مرجع مکانیزمی جامعی است که زیست‌شناسی مولکولی را از سطح مولکول منفرد به ماشین‌های مولکولی، کروماتین، هسته و رفتار سلول متصل می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته یا تحصیلات تکمیلی که می‌خواهد سازوکارهای مولکولی بیان ژن، همانندسازی، ترمیم و سازمان ژنوم را در زمینه سلولی عمیق‌تر بفهمد.",
+        "why": "مرجع مکانیزمی جامعی است که زیست‌شناسی مولکولی را از سطح مولکول منفرد به ماشین‌های مولکولی، کروماتین، هسته و رفتار سلول متصل می‌کند.",
+        "how_to_use": "به‌عنوان کتاب شروع توصیه نمی‌شود؛ فصل‌های مرتبط با موضوع پژوهشی را پس از مسیر اصلی مطالعه کنید و شکل‌های مکانیزمی را دقیق تحلیل کنید.",
+        "next_step": "پس از هر موضوع، وارد مرورهای تخصصی همان شاخه شوید."
+      }
+    },
+    {
+      "id": "MOLECULAR-BIOLOGY::REVIEW-EUKARYOTIC-DNA-REPLICATION-2022",
+      "resource_id": "REVIEW-EUKARYOTIC-DNA-REPLICATION-2022",
+      "subject_id": "MOLECULAR-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "MB02",
+        "MB11"
+      ],
+      "selection_rationale": "مراحل بارگذاری و فعال‌سازی هلیکاز همانندسازی و کنترل شروع ⁦replication origin⁩ها را از دید ژنتیکی، بیوشیمیایی و ساختاری یکپارچه می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که اصول همانندسازی ⁦DNA⁩ را می‌داند و می‌خواهد آغاز همانندسازی یوکاریوتی را در سطح ماشین مولکولی بفهمد.",
+        "why": "مراحل بارگذاری و فعال‌سازی هلیکاز همانندسازی و کنترل شروع ⁦replication origin⁩ها را از دید ژنتیکی، بیوشیمیایی و ساختاری یکپارچه می‌کند.",
+        "how_to_use": "پس از مرور ⁦fork⁩ همانندسازی بخوانید؛ ⁦licensing⁩، بارگذاری ⁦MCM⁩ و فعال‌شدن هلیکاز را به‌ترتیب زمانی روی یک نمودار قرار دهید.",
+        "next_step": "برای فهم سرنوشت کروموزوم بعد از همانندسازی، مرور ⁦cohesion⁩ و حلقه‌های ⁦DNA⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "dna-replication-chromosome-maintenance"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "MOLECULAR-BIOLOGY::REVIEW-REPLICATED-CHROMOSOMES-2026",
+      "resource_id": "REVIEW-REPLICATED-CHROMOSOMES-2026",
+      "subject_id": "MOLECULAR-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "MB02",
+        "MB10",
+        "MB11"
+      ],
+      "selection_rationale": "مروری بسیار جدید است که همانندسازی را به سازمان سه‌بعدی کروموزوم، جدایش کروموزومی و ترمیم ⁦DNA⁩ پیوند می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد بداند کروموزوم‌های تازه همانندسازی‌شده چگونه با ⁦cohesin⁩، ⁦loop extrusion⁩ و ⁦sister chromatid cohesion⁩ سازمان می‌یابند.",
+        "why": "مروری بسیار جدید است که همانندسازی را به سازمان سه‌بعدی کروموزوم، جدایش کروموزومی و ترمیم ⁦DNA⁩ پیوند می‌دهد.",
+        "how_to_use": "ابتدا دو نقش ⁦cohesin⁩ در ⁦loop extrusion⁩ و اتصال کروماتیدهای خواهری را از هم جدا کنید و سپس زمان‌بندی ایجاد ⁦cohesion⁩ پس از ⁦replication⁩ را دنبال کنید.",
+        "next_step": "برای توسعه مسیر به سطح معماری ژنوم، شاخه ⁦genome organization⁩ & ⁦3D genome⁩ را ادامه دهید."
+      },
+      "branch_ids": [
+        "dna-replication-chromosome-maintenance"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "MOLECULAR-BIOLOGY::REVIEW-POLII-INITIATION-2026",
+      "resource_id": "REVIEW-POLII-INITIATION-2026",
+      "subject_id": "MOLECULAR-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "MB03",
+        "MB06",
+        "MB07"
+      ],
+      "selection_rationale": "مرور بسیار جدیدی از نقش ⁦TFIID⁩، ⁦Mediator⁩، فاکتورهای عمومی رونویسی و وضعیت نوکلئوزوم در تشکیل کمپلکس آغاز رونویسی ارائه می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که اصول رونویسی یوکاریوتی را می‌داند و می‌خواهد آغاز رونویسی توسط ⁦RNA polymerase II⁩ را در سطح ساختاری و تنظیمی بفهمد.",
+        "why": "مرور بسیار جدیدی از نقش ⁦TFIID⁩، ⁦Mediator⁩، فاکتورهای عمومی رونویسی و وضعیت نوکلئوزوم در تشکیل کمپلکس آغاز رونویسی ارائه می‌کند.",
+        "how_to_use": "ابتدا اجزای ⁦pre-initiation complex⁩ را مشخص کنید و سپس ترتیب ⁦assembly⁩ و نقاط کنترل ⁦promoter recognition⁩ و ⁦opening⁩ را دنبال کنید.",
+        "next_step": "پس از آغاز رونویسی، برای فهم هماهنگی رونویسی با پردازش ⁦RNA⁩ به مرور ⁦co-transcriptional regulation⁩ بروید."
+      },
+      "branch_ids": [
+        "transcription-rna-polymerases"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "MOLECULAR-BIOLOGY::REVIEW-COTRANSCRIPTIONAL-REG-2024",
+      "resource_id": "REVIEW-COTRANSCRIPTIONAL-REG-2024",
+      "subject_id": "MOLECULAR-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "MB03",
+        "MB04",
+        "MB06",
+        "MB13"
+      ],
+      "selection_rationale": "مقایسه می‌کند که در پروکاریوت‌ها و یوکاریوت‌ها ماشین رونویسی چگونه با ⁦splicing⁩، ⁦cleavage⁩، ⁦polyadenylation⁩ و دیگر فرایندهای ⁦RNA⁩ هماهنگ می‌شود.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد رونویسی را نه به‌عنوان فرایندی جدا، بلکه همراه با ⁦folding⁩ و پردازش ⁦RNA⁩ و تنظیم بیان ژن ببیند.",
+        "why": "مقایسه می‌کند که در پروکاریوت‌ها و یوکاریوت‌ها ماشین رونویسی چگونه با ⁦splicing⁩، ⁦cleavage⁩، ⁦polyadenylation⁩ و دیگر فرایندهای ⁦RNA⁩ هماهنگ می‌شود.",
+        "how_to_use": "پس از مبانی ⁦transcription⁩ مطالعه شود؛ برای هر مرحله مشخص کنید چه رویداد پردازشی می‌تواند هم‌زمان با حرکت ⁦RNA polymerase⁩ رخ دهد.",
+        "next_step": "برای تمرکز بیشتر بر بلوغ ⁦RNA⁩، شاخه ⁦RNA processing⁩ & ⁦RNA biology⁩ را دنبال کنید."
+      },
+      "branch_ids": [
+        "transcription-rna-polymerases"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "MOLECULAR-BIOLOGY::REVIEW-POSTTRANSCRIPTIONAL-SPLICING-2025",
+      "resource_id": "REVIEW-POSTTRANSCRIPTIONAL-SPLICING-2025",
+      "subject_id": "MOLECULAR-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "MB04",
+        "MB09"
+      ],
+      "selection_rationale": "تصویر کلاسیکِ صرفاً ⁦co-transcriptional⁩ بودن ⁦splicing⁩ را گسترش می‌دهد و نشان می‌دهد بخش مهمی از ⁦intron⁩ها پس از ⁦termination⁩ و اغلب در ارتباط با ⁦chromatin⁩ حذف می‌شوند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که ⁦spliceosome⁩ و ⁦splicing⁩ را در حد کتاب می‌داند و می‌خواهد زمان‌بندی، تنظیم و پیامدهای ⁦splicing⁩ پس از پایان رونویسی را بفهمد.",
+        "why": "تصویر کلاسیکِ صرفاً ⁦co-transcriptional⁩ بودن ⁦splicing⁩ را گسترش می‌دهد و نشان می‌دهد بخش مهمی از ⁦intron⁩ها پس از ⁦termination⁩ و اغلب در ارتباط با ⁦chromatin⁩ حذف می‌شوند.",
+        "how_to_use": "ابتدا تفاوت ⁦co-transcriptional⁩ و ⁦post-transcriptional splicing⁩ را روشن کنید و سپس عوامل تعیین‌کننده ⁦retention⁩ و حذف ⁦intron⁩ را دنبال کنید.",
+        "next_step": "برای دید یکپارچه‌تر از هماهنگی ⁦TSS⁩، ⁦splicing⁩ و ⁦polyadenylation⁩، مرور بعدی را بخوانید."
+      },
+      "branch_ids": [
+        "rna-processing-biology"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "MOLECULAR-BIOLOGY::REVIEW-RNA-PROCESSING-COORDINATION-2026",
+      "resource_id": "REVIEW-RNA-PROCESSING-COORDINATION-2026",
+      "subject_id": "MOLECULAR-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "MB04",
+        "MB09"
+      ],
+      "selection_rationale": "یک مرور جدید درباره ⁦coordination⁩ رخدادهای پردازش ⁦RNA⁩ و تولید ⁦isoform⁩هاست و نشان می‌دهد انتخاب ⁦TSS⁩، ⁦splice site⁩ و ⁦poly(A) site⁩ مستقل از هم نیستند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد ارتباط میان شروع رونویسی، ⁦splicing⁩ و ⁦polyadenylation⁩ را به‌صورت یک سامانه هماهنگ بفهمد.",
+        "why": "یک مرور جدید درباره ⁦coordination⁩ رخدادهای پردازش ⁦RNA⁩ و تولید ⁦isoform⁩هاست و نشان می‌دهد انتخاب ⁦TSS⁩، ⁦splice site⁩ و ⁦poly(A) site⁩ مستقل از هم نیستند.",
+        "how_to_use": "روی نتیجه زیستی روش‌های ⁦sequencing⁩ تمرکز کنید، نه ⁦workflow⁩ آزمایشگاهی؛ هدف فهم ⁦coupling⁩ و ترتیب پردازش ⁦RNA⁩ است.",
+        "next_step": "پس از این مرحله می‌توان به ⁦RNA quality control⁩، ⁦decay⁩ یا تنظیم اختصاصی ⁦RNA⁩های غیرکدکننده وارد شد."
+      },
+      "branch_ids": [
+        "rna-processing-biology"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "MOLECULAR-BIOLOGY::REVIEW-TRANSLATION-INITIATION-2024",
+      "resource_id": "REVIEW-TRANSLATION-INITIATION-2024",
+      "subject_id": "MOLECULAR-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "MB05",
+        "MB09"
+      ],
+      "selection_rationale": "تشکیل ⁦43S pre-initiation complex⁩، اتصال ⁦eIF4F⁩، ⁦scanning⁩ روی ⁦5⁩′ ⁦UTR⁩، انتخاب ⁦start codon⁩ و تشکیل ⁦80S⁩ را در یک مدل ساختاری منسجم توضیح می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که ساختار ریبوزوم و مراحل ترجمه را می‌داند و می‌خواهد ⁦initiation⁩ یوکاریوتی و کنترل آن را مکانیزمی بفهمد.",
+        "why": "تشکیل ⁦43S pre-initiation complex⁩، اتصال ⁦eIF4F⁩، ⁦scanning⁩ روی ⁦5⁩′ ⁦UTR⁩، انتخاب ⁦start codon⁩ و تشکیل ⁦80S⁩ را در یک مدل ساختاری منسجم توضیح می‌دهد.",
+        "how_to_use": "ترتیب ⁦assembly⁩ فاکتورها را روی ⁦mRNA⁩ رسم کنید و هر ⁦checkpoint⁩ تنظیمی را به تغییر در شروع ترجمه مرتبط کنید.",
+        "next_step": "برای فهم نقش ⁦tRNA⁩ در سرعت ترجمه، کیفیت پروتئین و پاسخ به استرس، مرور ⁦tRNA⁩های سیتوپلاسمی را بخوانید."
+      },
+      "branch_ids": [
+        "translation-ribosome"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "MOLECULAR-BIOLOGY::REVIEW-CYTOPLASMIC-TRNA-2026",
+      "resource_id": "REVIEW-CYTOPLASMIC-TRNA-2026",
+      "subject_id": "MOLECULAR-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "MB04",
+        "MB05",
+        "MB09"
+      ],
+      "selection_rationale": "مرور جدیدی از سازمان ژن‌های ⁦tRNA⁩، بلوغ و کنترل کیفیت، ⁦abundance⁩ بافتی، ⁦translation velocity⁩ و نقش ⁦tRNA⁩ در ⁦surveillance⁩ و ⁦stress signalling⁩ ارائه می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد ⁦tRNA⁩ را فراتر از ⁦adaptor⁩ ترجمه و به‌عنوان لایه تنظیمی در ترجمه، ⁦quality control⁩ و پاسخ استرس بفهمد.",
+        "why": "مرور جدیدی از سازمان ژن‌های ⁦tRNA⁩، بلوغ و کنترل کیفیت، ⁦abundance⁩ بافتی، ⁦translation velocity⁩ و نقش ⁦tRNA⁩ در ⁦surveillance⁩ و ⁦stress signalling⁩ ارائه می‌کند.",
+        "how_to_use": "ابتدا ⁦biogenesis⁩ و ⁦charging⁩ را مرور کنید و سپس اثر تنوع ⁦tRNA⁩ بر ⁦decoding⁩، سرعت ترجمه و ⁦quality control⁩ را دنبال کنید.",
+        "next_step": "برای ادامه می‌توان وارد ⁦ribosome-associated quality control⁩ یا ⁦integrated stress response⁩ شد."
+      },
+      "branch_ids": [
+        "translation-ribosome"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "MOLECULAR-BIOLOGY::REVIEW-DNA-METHYLATION-2025",
+      "resource_id": "REVIEW-DNA-METHYLATION-2025",
+      "subject_id": "MOLECULAR-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "MB06",
+        "MB07"
+      ],
+      "selection_rationale": "الگوهای متیلاسیون، ماشین‌های ایجاد و حذف آن و ارتباط آن با تکوین، پیری و بیماری را در یک چارچوب مولکولی یکپارچه می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که تنظیم بیان ژن و کروماتین را می‌داند و می‌خواهد نقش متیلاسیون ⁦DNA⁩ را به‌عنوان یک لایه پایدار و قابل بازبرنامه‌ریزی تنظیم ژن بفهمد.",
+        "why": "الگوهای متیلاسیون، ماشین‌های ایجاد و حذف آن و ارتباط آن با تکوین، پیری و بیماری را در یک چارچوب مولکولی یکپارچه می‌کند.",
+        "how_to_use": "متیلاسیون را در کنار ⁦nucleosome⁩ و ⁦transcription factor⁩ها ببینید و تفاوت ⁦maintenance⁩ و ⁦de novo methylation⁩ را روشن کنید.",
+        "next_step": "برای یک سازوکار جدیدتر در سازمان ماشین رونویسی، مرور ⁦biomolecular condensates⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "gene-regulation-chromatin"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "MOLECULAR-BIOLOGY::REVIEW-TRANSCRIPTION-CONDENSATES-2025",
+      "resource_id": "REVIEW-TRANSCRIPTION-CONDENSATES-2025",
+      "subject_id": "MOLECULAR-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "MB03",
+        "MB06",
+        "MB07",
+        "MB10"
+      ],
+      "selection_rationale": "مدل ⁦condensate⁩ را به ⁦recruitment⁩ فاکتورهای رونویسی، ⁦RNA polymerase II⁩ و تنظیم ⁦transcriptional bursting⁩ متصل می‌کند و محدودیت‌های این مدل را نیز بررسی می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد بفهمد تجمع پویای پروتئین‌ها و ⁦RNA⁩ چگونه می‌تواند ماشین رونویسی را در فضا متمرکز و تنظیم کند.",
+        "why": "مدل ⁦condensate⁩ را به ⁦recruitment⁩ فاکتورهای رونویسی، ⁦RNA polymerase II⁩ و تنظیم ⁦transcriptional bursting⁩ متصل می‌کند و محدودیت‌های این مدل را نیز بررسی می‌کند.",
+        "how_to_use": "ابتدا آن را کنار مدل کلاسیک ⁦complex-based regulation⁩ مقایسه کنید و سپس شواهد موافق و محدودیت‌های تفسیر ⁦phase separation⁩ را جدا یادداشت کنید.",
+        "next_step": "برای سطح بالاتر سازمان فضایی، وارد شاخه ⁦genome organization⁩ & ⁦3D genome⁩ شوید."
+      },
+      "branch_ids": [
+        "gene-regulation-chromatin"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "MOLECULAR-BIOLOGY::REVIEW-DSB-REPAIR-CHOICE-2026",
+      "resource_id": "REVIEW-DSB-REPAIR-CHOICE-2026",
+      "subject_id": "MOLECULAR-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "MB08",
+        "MB11"
+      ],
+      "selection_rationale": "مرور بسیار جدیدی از عواملی است که شکست ⁦DNA⁩ را به ⁦homologous recombination⁩، ⁦non-homologous end joining⁩ و مسیرهای جایگزین هدایت می‌کنند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مسیرهای اصلی ترمیم شکست دو‌رشته‌ای را می‌داند و می‌خواهد منطق انتخاب میان مسیرهای ترمیم را بفهمد.",
+        "why": "مرور بسیار جدیدی از عواملی است که شکست ⁦DNA⁩ را به ⁦homologous recombination⁩، ⁦non-homologous end joining⁩ و مسیرهای جایگزین هدایت می‌کنند.",
+        "how_to_use": "مسیرهای ترمیم را به‌صورت یک ⁦decision tree⁩ سازمان دهید و برای هر شاخه نقش ⁦cell cycle⁩، ⁦end protection⁩ و ⁦resection⁩ را مشخص کنید.",
+        "next_step": "برای فهم یکی از تصمیم‌های کلیدی این درخت، مرور ⁦DNA end resection⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "dna-repair-genome-stability"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "MOLECULAR-BIOLOGY::REVIEW-DNA-END-RESECTION-2025",
+      "resource_id": "REVIEW-DNA-END-RESECTION-2025",
+      "subject_id": "MOLECULAR-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "MB08",
+        "MB11"
+      ],
+      "selection_rationale": "⁦short-range⁩ و ⁦long-range resection⁩ و نقش ⁦MRE11⁩، ⁦EXO1⁩ و ⁦DNA2⁩ را به ⁦homology-directed repair⁩ و مسیرهای ⁦annealing⁩ پیوند می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد بداند ⁦processing⁩ انتهای شکست چگونه انتخاب مسیر ترمیم و حفظ پایداری ژنوم را تعیین می‌کند.",
+        "why": "⁦short-range⁩ و ⁦long-range resection⁩ و نقش ⁦MRE11⁩، ⁦EXO1⁩ و ⁦DNA2⁩ را به ⁦homology-directed repair⁩ و مسیرهای ⁦annealing⁩ پیوند می‌دهد.",
+        "how_to_use": "ابتدا ورودی و خروجی ⁦resection⁩ را مشخص کنید و سپس ببینید میزان و زمان ⁦resection⁩ چگونه دسترسی مسیرهای مختلف ترمیم را تغییر می‌دهد.",
+        "next_step": "برای اتصال ترمیم به معماری کروموزوم، مرور ⁦cohesin⁩ در شاخه ⁦3D genome⁩ را ادامه دهید."
+      },
+      "branch_ids": [
+        "dna-repair-genome-stability"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "MOLECULAR-BIOLOGY::REVIEW-SMALL-NCRNA-2025",
+      "resource_id": "REVIEW-SMALL-NCRNA-2025",
+      "subject_id": "MOLECULAR-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "MB09",
+        "MB06"
+      ],
+      "selection_rationale": "⁦miRNA⁩، ⁦siRNA⁩ و ⁦piRNA⁩ را از نظر منشأ، پردازش، کمپلکس‌های ⁦effector⁩ و نقش آن‌ها در تنظیم ژن و دفاع ژنومی یکپارچه می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که ⁦RNAi⁩ را در حد پایه می‌داند و می‌خواهد خانواده‌های اصلی ⁦small non-coding RNA⁩ و منطق ⁦biogenesis⁩ و عملکرد آن‌ها را مقایسه کند.",
+        "why": "⁦miRNA⁩، ⁦siRNA⁩ و ⁦piRNA⁩ را از نظر منشأ، پردازش، کمپلکس‌های ⁦effector⁩ و نقش آن‌ها در تنظیم ژن و دفاع ژنومی یکپارچه می‌کند.",
+        "how_to_use": "برای هر کلاس یک جدول از ⁦precursor⁩، آنزیم‌های پردازش، ⁦Argonaute/effector⁩ و نوع ⁦target⁩ بسازید.",
+        "next_step": "برای سوی دیگر ⁦RNA⁩های تنظیمی، مرور ⁦long non-coding RNA⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "rna-regulation-ncrna"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "MOLECULAR-BIOLOGY::REVIEW-LNCRNA-TRANSCRIPTION-2024",
+      "resource_id": "REVIEW-LNCRNA-TRANSCRIPTION-2024",
+      "subject_id": "MOLECULAR-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "MB06",
+        "MB07",
+        "MB09"
+      ],
+      "selection_rationale": "سازوکارهای ⁦cis⁩ و ⁦trans⁩ را با مثال‌هایی مانند ⁦XIST⁩ و ⁦lncRNA⁩های ⁦imprinting⁩ مرور می‌کند و تفاوت نقش ⁦transcript⁩ با فرایند ⁦transcription⁩ را روشن می‌سازد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بفهمد ⁦long non-coding RNA⁩ چگونه می‌تواند رونویسی، کروماتین و تنظیم آلل‌اختصاصی را کنترل کند.",
+        "why": "سازوکارهای ⁦cis⁩ و ⁦trans⁩ را با مثال‌هایی مانند ⁦XIST⁩ و ⁦lncRNA⁩های ⁦imprinting⁩ مرور می‌کند و تفاوت نقش ⁦transcript⁩ با فرایند ⁦transcription⁩ را روشن می‌سازد.",
+        "how_to_use": "برای هر نمونه مشخص کنید اثر از خود ⁦RNA⁩، محل رونویسی، ⁦recruitment⁩ پروتئین یا تغییر ⁦chromatin⁩ ناشی می‌شود.",
+        "next_step": "برای ارتباط ⁦RNA regulation⁩ با ⁦evolution⁩ تنظیم ژن، شاخه ⁦molecular evolution of gene regulation⁩ را دنبال کنید."
+      },
+      "branch_ids": [
+        "rna-regulation-ncrna"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "MOLECULAR-BIOLOGY::REVIEW-STRUCTURAL-VARIANTS-3D-GENOME-2025",
+      "resource_id": "REVIEW-STRUCTURAL-VARIANTS-3D-GENOME-2025",
+      "subject_id": "MOLECULAR-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "MB06",
+        "MB10"
+      ],
+      "selection_rationale": "⁦structural variation⁩ را به شکستن ⁦TAD⁩ها، ⁦rewiring⁩ تماس ⁦enhancer–promoter⁩ و ⁦position effect⁩ در بیماری متصل می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که ⁦TAD⁩، ⁦enhancer⁩ و ⁦promoter⁩ را می‌شناسد و می‌خواهد بفهمد تغییر ساختار کروموزوم چگونه معماری سه‌بعدی و بیان ژن را برهم می‌زند.",
+        "why": "⁦structural variation⁩ را به شکستن ⁦TAD⁩ها، ⁦rewiring⁩ تماس ⁦enhancer–promoter⁩ و ⁦position effect⁩ در بیماری متصل می‌کند.",
+        "how_to_use": "ابتدا سازمان طبیعی ⁦3D genome⁩ را مرور کنید و سپس برای هر نوع ⁦rearrangement⁩ مشخص کنید کدام مرز یا تماس تنظیمی جابه‌جا می‌شود.",
+        "next_step": "برای فهم ماشین اصلی ⁦loop extrusion⁩ و ارتباط آن با ⁦repair⁩، مرور ⁦cohesin⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "genome-organization-3d"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "MOLECULAR-BIOLOGY::REVIEW-COHESIN-GENOME-MAINTENANCE-2026",
+      "resource_id": "REVIEW-COHESIN-GENOME-MAINTENANCE-2026",
+      "subject_id": "MOLECULAR-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "MB08",
+        "MB10",
+        "MB11"
+      ],
+      "selection_rationale": "مرور بسیار جدیدی است که ⁦loop extrusion⁩، ⁦sister chromatid cohesion⁩ و ترمیم شکست ⁦DNA⁩ را در یک چارچوب واحد قرار می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد ⁦cohesin⁩ را هم‌زمان به‌عنوان ماشین سازمان‌دهی سه‌بعدی ژنوم و عامل پایداری ژنوم بفهمد.",
+        "why": "مرور بسیار جدیدی است که ⁦loop extrusion⁩، ⁦sister chromatid cohesion⁩ و ترمیم شکست ⁦DNA⁩ را در یک چارچوب واحد قرار می‌دهد.",
+        "how_to_use": "دو نقش ⁦cohesin⁩ در ⁦interphase⁩ و پس از ⁦replication⁩ را تفکیک کنید و سپس نقاط اتصال آن به ⁦homologous recombination⁩ و ⁦genome folding⁩ را دنبال کنید.",
+        "next_step": "برای مطالعه عمیق‌تر ⁦3D genome⁩ می‌توان به ⁦CTCF⁩، ⁦compartment⁩ها و ⁦enhancer–promoter communication⁩ وارد شد."
+      },
+      "branch_ids": [
+        "genome-organization-3d"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "MOLECULAR-BIOLOGY::REVIEW-EVOLUTION-TRANSCRIPTION-2025",
+      "resource_id": "REVIEW-EVOLUTION-TRANSCRIPTION-2025",
+      "subject_id": "MOLECULAR-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "MB06",
+        "MB09",
+        "MB12"
+      ],
+      "selection_rationale": "بررسی می‌کند کدام اجزای شبکه تنظیم رونویسی پیش از جانوران وجود داشته‌اند و چه تغییراتی با ظهور ⁦multicellularity⁩ و ⁦complexity⁩ همراه شده‌اند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که تنظیم رونویسی را می‌داند و می‌خواهد منشأ تکاملی ⁦transcription factor⁩ها، ⁦enhancer⁩ها و ⁦RNA⁩های تنظیمی جانوران را بفهمد.",
+        "why": "بررسی می‌کند کدام اجزای شبکه تنظیم رونویسی پیش از جانوران وجود داشته‌اند و چه تغییراتی با ظهور ⁦multicellularity⁩ و ⁦complexity⁩ همراه شده‌اند.",
+        "how_to_use": "هر ویژگی تنظیمی را به دو سؤال وصل کنید: منشأ آن چه زمانی بوده و آیا ⁦innovation⁩ واقعی جانوری است یا از اجداد تک‌سلولی به ارث رسیده است.",
+        "next_step": "برای یک سازوکار مهم نوآوری تنظیمی، نقش ⁦transposable element⁩ها در ایجاد عناصر تنظیمی و سازمان ⁦chromatin⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "evolution-gene-regulation"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "MOLECULAR-BIOLOGY::REVIEW-TE-CHROMATIN-2023",
+      "resource_id": "REVIEW-TE-CHROMATIN-2023",
+      "subject_id": "MOLECULAR-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "MB06",
+        "MB07",
+        "MB10",
+        "MB12"
+      ],
+      "selection_rationale": "نشان می‌دهد ⁦transposable element⁩ها فقط عوامل جهش‌زا نیستند و می‌توانند شبکه‌های تنظیمی و سازمان سه‌بعدی ژنوم را بازآرایی کنند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد ببیند عناصر متحرک چگونه در طول تکامل به مواد خام برای ⁦promoter⁩، ⁦enhancer⁩، ⁦silencer⁩ و معماری کروماتین تبدیل می‌شوند.",
+        "why": "نشان می‌دهد ⁦transposable element⁩ها فقط عوامل جهش‌زا نیستند و می‌توانند شبکه‌های تنظیمی و سازمان سه‌بعدی ژنوم را بازآرایی کنند.",
+        "how_to_use": "نمونه‌ها را بر اساس نوع اثر تنظیمی دسته‌بندی کنید و تفاوت ⁦co-option⁩ مفید با فعالیت مخرب عنصر متحرک را حفظ کنید.",
+        "next_step": "برای ادامه می‌توان وارد تکامل ⁦enhancer⁩ها، ⁦gene regulatory network⁩ها و ⁦de novo regulatory elements⁩ شد."
+      },
+      "branch_ids": [
+        "evolution-gene-regulation"
+      ],
+      "branch_role": "complementary_reference"
     }
   ]
 }
