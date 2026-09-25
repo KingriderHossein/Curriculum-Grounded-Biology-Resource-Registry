@@ -1,0 +1,108 @@
+{
+  "schema_version": "0.1.0",
+  "resources": [
+    {
+      "id": "BOOK-ECB6-2023",
+      "course_id": "MSRT-BSC-ANIMAL-CELL-BIOLOGY-1400",
+      "resource_type": "core_textbook",
+      "role": "core",
+      "theory_only": true,
+      "title": "Essential Cell Biology",
+      "authors": ["Bruce Alberts", "Rebecca Heald", "Karen Hopkin", "Alexander Johnson", "David Morgan", "Keith Roberts", "Peter Walter"],
+      "edition": "6th International Student Edition",
+      "published_year": 2023,
+      "publisher": "W. W. Norton & Company",
+      "isbn": "9781324033394",
+      "publisher_url": "https://wwnorton.co.uk/books/9781324033394-essential-cell-biology-c7a43b27-8186-4ee2-b83f-e60dd511e7ac",
+      "purchase_url": "https://wwnorton.co.uk/books/9781324033394-essential-cell-biology-c7a43b27-8186-4ee2-b83f-e60dd511e7ac",
+      "cover": {
+        "url": "https://covers.openlibrary.org/b/isbn/9781324033394-L.jpg?default=false",
+        "source": "Open Library ISBN cover service"
+      },
+      "coverage_topic_ids": ["CB01","CB02","CB03","CB04","CB05","CB06","CB07","CB08","CB09","CB10","CB11","CB12"],
+      "selection_rationale": "Current published edition suitable for a first undergraduate cell-biology course; strong visual and pedagogical fit.",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "BOOK-CELL9-2023",
+      "course_id": "MSRT-BSC-ANIMAL-CELL-BIOLOGY-1400",
+      "resource_type": "reference_textbook",
+      "role": "reference",
+      "theory_only": true,
+      "title": "The Cell: A Molecular Approach",
+      "authors": ["Geoffrey M. Cooper", "Kenneth W. Adams"],
+      "edition": "9th Edition",
+      "published_year": 2023,
+      "publisher": "Oxford University Press",
+      "isbn": "9780197583722",
+      "publisher_url": "https://www.oup.com.au/books/higher-education/biological-sciences/9780197583722",
+      "purchase_url": "https://www.oup.com.au/books/higher-education/biological-sciences/9780197583722",
+      "cover": {
+        "url": "https://covers.openlibrary.org/b/isbn/9780197583722-L.jpg?default=false",
+        "source": "Open Library ISBN cover service"
+      },
+      "coverage_topic_ids": ["CB01","CB02","CB03","CB04","CB05","CB06","CB07","CB08","CB09","CB10","CB11","CB12"],
+      "selection_rationale": "Undergraduate-focused text whose subcellular structure/function chapters align closely with the official syllabus.",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "BOOK-MBOC7-2022",
+      "course_id": "MSRT-BSC-ANIMAL-CELL-BIOLOGY-1400",
+      "resource_type": "advanced_textbook",
+      "role": "reference",
+      "theory_only": true,
+      "title": "Molecular Biology of the Cell",
+      "authors": ["Bruce Alberts", "Rebecca Heald", "Alexander Johnson", "David Morgan", "Martin Raff", "Keith Roberts", "Peter Walter"],
+      "edition": "7th Edition",
+      "published_year": 2022,
+      "publisher": "W. W. Norton & Company",
+      "isbn": "9780393884852",
+      "publisher_url": "https://wwnorton.co.uk/books/9780393884852-molecular-biology-of-the-cell",
+      "purchase_url": "https://wwnorton.co.uk/books/9780393884852-molecular-biology-of-the-cell",
+      "cover": {
+        "url": "https://covers.openlibrary.org/b/isbn/9780393884852-L.jpg?default=false",
+        "source": "Open Library ISBN cover service"
+      },
+      "coverage_topic_ids": ["CB01","CB02","CB03","CB04","CB05","CB06","CB07","CB08","CB09","CB10","CB11","CB12"],
+      "selection_rationale": "Comprehensive mechanistic reference for deeper study after the core undergraduate text.",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-ORG-CONTACTS-2025",
+      "course_id": "MSRT-BSC-ANIMAL-CELL-BIOLOGY-1400",
+      "resource_type": "review_article",
+      "role": "advanced_update",
+      "theory_only": true,
+      "title": "Key challenges and recommendations for defining organelle membrane contact sites",
+      "authors": ["Tito Calì", "Emmanuelle M. Bayer", "Emily R. Eden", "György Hajnóczky", "Benoit Kornmann", "Laura Lackner", "Jen Liou", "Karin Reinisch", "Hyun-Woo Rhee", "Rosario Rizzuto", "Luca Scorrano", "Marisa Brini", "et al."],
+      "published_year": 2025,
+      "journal": "Nature Reviews Molecular Cell Biology",
+      "doi": "10.1038/s41580-025-00864-x",
+      "publisher_url": "https://www.nature.com/articles/s41580-025-00864-x",
+      "coverage_topic_ids": ["CB04","CB06","CB07"],
+      "selection_rationale": "Recent expert synthesis of organelle membrane contact sites and inter-organelle communication.",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-NPC-2025",
+      "course_id": "MSRT-BSC-ANIMAL-CELL-BIOLOGY-1400",
+      "resource_type": "review_article",
+      "role": "advanced_update",
+      "theory_only": true,
+      "title": "Structure, function and assembly of nuclear pore complexes",
+      "authors": ["Stefan Petrovic", "George W. Mobbs", "André Hoelz"],
+      "published_year": 2025,
+      "journal": "Nature Reviews Molecular Cell Biology",
+      "doi": "10.1038/s41580-025-00881-w",
+      "publisher_url": "https://www.nature.com/articles/s41580-025-00881-w",
+      "coverage_topic_ids": ["CB08"],
+      "selection_rationale": "Recent structural and mechanistic synthesis of nuclear pore architecture, assembly and nucleocytoplasmic transport.",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    }
+  ]
+}
