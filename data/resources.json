@@ -2186,13 +2186,13 @@
       ],
       "edition": "4th Edition",
       "published_year": 2025,
-      "publisher": "Macmillan Learning",
-      "isbn": "9781319245580",
-      "publisher_url": "https://www.macmillanlearning.com/college/us/product/Evolution/p/1319245587",
-      "purchase_url": "https://www.macmillanlearning.com/college/us/product/Evolution/p/1319245587",
+      "publisher": "Macmillan Learning / W. H. Freeman & Company",
+      "isbn": "9781319615703",
+      "publisher_url": "https://www.macmillanlearning.com/ed/au/product/Evolution--4th-edition/p/1319615708",
+      "purchase_url": "https://www.macmillanlearning.com/ed/au/product/Evolution--4th-edition/p/1319615708",
       "cover": {
-        "url": "https://prod-cat-files.macmillan.cloud/MediaResources/Jackets/258W/9781319245580.jpg",
-        "source": "Macmillan Learning cover asset; pending CI visual review"
+        "url": "https://covers.vitalsource.com/vbid/9781319616557/width/200",
+        "source": "VitalSource cover fallback for the 4th International Edition; Macmillan Learning is bibliographic authority; pending CI visual review"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-26"
