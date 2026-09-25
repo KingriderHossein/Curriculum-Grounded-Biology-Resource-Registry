@@ -20,3 +20,4 @@ This file is a navigation index, not a status log.
 
 - Cell Biology: Foundation → Core → Intermediate → Advanced → 9 specialized branches.
 - Biochemistry: Foundation → Core → Intermediate → Advanced → 9 specialized branches.
+- Genetics: Foundation → Core → Intermediate → Advanced → 9 specialized branches.
