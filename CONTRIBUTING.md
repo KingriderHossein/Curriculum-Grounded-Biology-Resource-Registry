@@ -1,77 +1,73 @@
-# Contributing
+# راهنمای مشارکت
 
-Contributions are welcome, but this is a curated scientific roadmap rather than an unrestricted link list.
+این پروژه یک نقشه‌راه علمیِ گزینش‌شده است، نه فهرست آزاد لینک‌ها.
 
-## Before opening a PR
+## قبل از ایجاد Pull Request
 
-Before creating anything, check whether the ISBN or DOI already exists in `data/resources.json`.
+ابتدا ISBN یا DOI را در `data/resources.json` جست‌وجو کنید.
 
-- If the resource already exists, add only a new Placement in `data/placements.json`.
-- If it is new, add the bibliographic identity once in `data/resources.json`, then add its Placement.
+- اگر منبع **از قبل وجود دارد**، آن را دوباره ثبت نکنید؛ فقط یک Placement جدید در `data/placements.json` بسازید.
+- اگر منبع **جدید است**، هویت کتاب‌شناختی آن را یک بار در `data/resources.json` ثبت کنید و سپس Placement مربوط به درس را اضافه کنید.
 
-Confirm that each Placement:
+## Resource چیست؟
 
-1. belongs to an existing Subject or comes with a justified Subject proposal;
-2. has a clear learning stage;
-3. maps to one or more concept IDs;
-4. maps to a specialized branch when appropriate;
-5. points to a theory-only resource;
-6. explains why the resource belongs at that exact place in the roadmap;
-7. includes Persian student guidance.
+Resource هویت جهانی کتاب، مقاله یا فصل است و شامل اطلاعاتی مانند این موارد می‌شود:
 
-## Adding a new book identity
+- عنوان؛
+- نویسندگان؛
+- ناشر یا ژورنال؛
+- سال؛
+- ویرایش؛
+- ISBN یا DOI؛
+- لینک رسمی؛
+- لینک خرید کتاب در صورت وجود؛
+- جلد کتاب.
 
-Provide:
-- title;
-- authors/editors;
-- edition;
-- publication year;
-- publisher;
-- ISBN;
-- official publisher URL;
-- official purchase URL when available;
-- cover URL;
-- bibliographic metadata only once in `data/resources.json`.
+این اطلاعات نباید برای هر درس تکرار شوند.
 
-Then create a Placement containing:
+## Placement چیست؟
 
-- Subject ID;
-- learning stage;
-- concept coverage;
-- branch mapping when specialized;
-- concise selection rationale;
-- Persian student guidance for: who it is for, why it is selected, how to use it, and what to read next.
+Placement مشخص می‌کند یک Resource در **یک درس مشخص** چگونه استفاده می‌شود:
 
-## Adding a review article
+- Subject ID؛
+- مرحله یادگیری؛
+- مفهوم‌های پوشش‌داده‌شده؛
+- شاخه تخصصی، در صورت نیاز؛
+- دلیل قرارگیری منبع در آن مرحله؛
+- راهنمای فارسی دانشجو:
+  - مناسب برای چه کسی؟
+  - چرا این منبع؟
+  - چگونه استفاده شود؟
+  - قدم بعدی چیست؟
 
-Provide:
+## معیار پذیرش
 
-- Subject ID;
-- title;
-- authors;
-- journal;
-- year;
-- DOI and/or PMID;
-- journal URL;
-- learning stage;
-- concept/branch mapping;
-- why it adds value beyond the broad textbooks.
+هر Placement باید پاسخ روشنی به این سؤال بدهد:
 
-## Theory-only rule
+> چرا این منبع، برای این دانشجو، در این مرحله و در این شاخه قرار گرفته است؟
 
-Do **not** submit protocols, laboratory manuals, practical technique tutorials, SOPs, wet-lab workflows or instrument training.
+شهرت کتاب یا تعداد استناد مقاله به‌تنهایی کافی نیست.
 
-## Review question
+## منابع مجاز
 
-A maintainer should be able to answer:
+- کتاب نظری دانشگاهی؛
+- کتاب مرجع؛
+- مقاله مروری معتبر؛
+- فصل نظری معتبر؛
+- منبع دانشگاهی آزاد.
 
-> Why this source, at this learning stage, for this concept or branch?
+## خارج از دامنه
 
-If that is not clear from the record, the contribution is not ready.
+- پروتکل؛
+- Laboratory Manual؛
+- SOP؛
+- آموزش wet-lab؛
+- راهنمای کار با دستگاه؛
+- آموزش عملی تکنیک‌ها.
 
-## Data validation
+## اعتبارسنجی
 
-Run:
+پیش از ارسال PR اجرا کنید:
 
 ```bash
 python scripts/validate_registry.py
