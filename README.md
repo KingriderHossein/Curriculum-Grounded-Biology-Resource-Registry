@@ -62,7 +62,7 @@ Advanced · 7e · 2022<br>
 </tr>
 </table>
 
-## What “curriculum-grounded” now means
+## What “curriculum-grounded” means here
 
 Curricula are **optional mappings**, not the project hierarchy. A university or national curriculum may point to one or more Subjects, but it does not own or duplicate them.
 
@@ -82,7 +82,7 @@ data/           machine-readable subject/resource registry
 schemas/        data contracts
 scripts/        validation
 docs/           project map and visual rules
-mappings/       optional curriculum-to-subject mappings (when useful)
+mappings/       optional curriculum-to-subject mappings
 .github/        contribution and CI workflow
 ```
 
