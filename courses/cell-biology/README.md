@@ -41,7 +41,7 @@ The source also mentions methods for studying cells. In this registry they are c
 <table>
 <tr>
 <td width="180" align="center">
-<img src="https://covers.openlibrary.org/b/isbn/9781324033394-L.jpg?default=false" width="155" alt="Essential Cell Biology sixth edition cover">
+<img src="https://cdn2.wwnorton.com/wwnproducts/COLLEG/4/9/9781324033394/9781324033394_198.jpg" width="155" alt="Essential Cell Biology sixth edition cover">
 </td>
 <td>
 
@@ -67,7 +67,7 @@ Why it is here: Norton describes this edition as designed for a first course in 
 <table>
 <tr>
 <td width="180" align="center">
-<img src="https://covers.openlibrary.org/b/isbn/9780197583722-L.jpg?default=false" width="155" alt="The Cell A Molecular Approach ninth edition cover">
+<img src="https://fdslive.oup.com/covers/anz/desktop/medium/9780197583722.jpg" width="155" alt="The Cell A Molecular Approach ninth edition cover">
 </td>
 <td>
 
@@ -88,7 +88,7 @@ OUP positions it as an undergraduate one-semester cell biology text. Part III ma
 </tr>
 <tr>
 <td width="180" align="center">
-<img src="https://covers.openlibrary.org/b/isbn/9780393884852-L.jpg?default=false" width="155" alt="Molecular Biology of the Cell seventh edition cover">
+<img src="https://cdn2.wwnorton.com/wwnproducts/COLLEG/2/5/9780393884852/9780393884852_198.jpg" width="155" alt="Molecular Biology of the Cell seventh edition cover">
 </td>
 <td>
 
