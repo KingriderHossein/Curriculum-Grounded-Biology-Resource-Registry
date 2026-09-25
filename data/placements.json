@@ -1,0 +1,490 @@
+{
+  "schema_version": "0.1.0",
+  "placements": [
+    {
+      "id": "CELL-BIOLOGY::OPENSTAX-BIOLOGY2E-2018",
+      "resource_id": "OPENSTAX-BIOLOGY2E-2018",
+      "subject_id": "CELL-BIOLOGY",
+      "learning_stage": "foundation",
+      "role": "foundation",
+      "coverage_concept_ids": [
+        "CB01",
+        "CB02",
+        "CB03",
+        "CB06",
+        "CB07",
+        "CB08",
+        "CB09",
+        "CB11"
+      ],
+      "selection_rationale": "Free prerequisite-level coverage for cell structure, membranes, signaling and cell reproduction before a dedicated Cell Biology text.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که هنوز در ساختار سلول، غشا، پیام‌رسانی سلولی یا چرخه سلولی پایه محکمی ندارد.",
+        "why": "رایگان، دانشگاهی و مناسب برای مرور پیش‌نیازها پیش از ورود به یک کتاب تخصصی زیست‌شناسی سلولی.",
+        "how_to_use": "کل کتاب لازم نیست؛ فصل‌های 4، 5، 9 و 10 به‌صورت هدفمند مطالعه شوند.",
+        "next_step": "پس از تسلط بر این مباحث، وارد Essential Cell Biology شوید."
+      }
+    },
+    {
+      "id": "CELL-BIOLOGY::BOOK-ECB6-2023",
+      "resource_id": "BOOK-ECB6-2023",
+      "subject_id": "CELL-BIOLOGY",
+      "learning_stage": "core",
+      "role": "core",
+      "coverage_concept_ids": [
+        "CB01",
+        "CB02",
+        "CB03",
+        "CB04",
+        "CB05",
+        "CB06",
+        "CB07",
+        "CB08",
+        "CB09",
+        "CB10",
+        "CB11"
+      ],
+      "selection_rationale": "Current first-course Cell Biology text with a strong pedagogical fit for a complete Core pass.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد زیست‌شناسی سلولی را برای نخستین بار به‌صورت منسجم و دانشگاهی یاد بگیرد.",
+        "why": "برای یک درس نخست زیست‌شناسی سلولی طراحی شده و تعادل خوبی میان عمق علمی، تصویرسازی و توضیح مفهومی دارد.",
+        "how_to_use": "به‌عنوان منبع اصلی، فصل‌ها را به‌ترتیب مطالعه کنید و روی ارتباط ساختار سلول، عملکرد و تنظیم فرایندها تمرکز داشته باشید.",
+        "next_step": "پس از یک دور کامل، برای عمق بیشتر به The Cell: A Molecular Approach یا مستقیماً به شاخه تخصصی مورد علاقه بروید."
+      }
+    },
+    {
+      "id": "CELL-BIOLOGY::BOOK-CELL9-2022",
+      "resource_id": "BOOK-CELL9-2022",
+      "subject_id": "CELL-BIOLOGY",
+      "learning_stage": "intermediate",
+      "role": "reference",
+      "coverage_concept_ids": [
+        "CB01",
+        "CB02",
+        "CB03",
+        "CB04",
+        "CB05",
+        "CB06",
+        "CB07",
+        "CB08",
+        "CB09",
+        "CB10",
+        "CB11"
+      ],
+      "selection_rationale": "Broad undergraduate reference for a second pass with stronger molecular depth.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مبانی را می‌داند و می‌خواهد همان مفاهیم را با جزئیات مولکولی و ارتباطات بیشتری مرور کند.",
+        "why": "یک مرجع کارشناسی گسترده است که میان کتاب مقدماتی و منابع سنگین پیشرفته قرار می‌گیرد.",
+        "how_to_use": "لازم نیست الزاماً از ابتدا تا انتها خوانده شود؛ می‌توان فصل‌های مرتبط با نقاط ضعف یا شاخه مورد نظر را انتخاب کرد.",
+        "next_step": "برای مطالعه عمیق‌تر و مکانیزمی‌تر به Molecular Biology of the Cell یا منابع تخصصی هر شاخه بروید."
+      }
+    },
+    {
+      "id": "CELL-BIOLOGY::BOOK-MBOC7-2022",
+      "resource_id": "BOOK-MBOC7-2022",
+      "subject_id": "CELL-BIOLOGY",
+      "learning_stage": "advanced",
+      "role": "advanced",
+      "coverage_concept_ids": [
+        "CB01",
+        "CB02",
+        "CB03",
+        "CB04",
+        "CB05",
+        "CB06",
+        "CB07",
+        "CB08",
+        "CB09",
+        "CB10",
+        "CB11"
+      ],
+      "selection_rationale": "Deep mechanistic reference and bridge from textbook learning to specialized review literature.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته، دانشجوی تحصیلات تکمیلی یا کسی که می‌خواهد از سطح درسی به ادبیات پژوهشی نزدیک شود.",
+        "why": "مرجع جامع و مکانیزمی زیست‌شناسی سلولی است و برای اتصال مفاهیم مختلف در سطح عمیق مناسب است.",
+        "how_to_use": "به‌عنوان کتاب آغازین توصیه نمی‌شود؛ پس از یادگیری Core، فصل‌های مرتبط با موضوع پژوهشی یا شاخه تخصصی انتخاب شوند.",
+        "next_step": "پس از هر بخش، به Reviewهای جدید همان شاخه و سپس در صورت نیاز به مقالات پژوهشی اصلی بروید."
+      }
+    },
+    {
+      "id": "CELL-BIOLOGY::REVIEW-ORG-CONTACTS-2025",
+      "resource_id": "REVIEW-ORG-CONTACTS-2025",
+      "subject_id": "CELL-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "advanced_update",
+      "branch_ids": [
+        "organelle-biology"
+      ],
+      "coverage_concept_ids": [
+        "CB04"
+      ],
+      "selection_rationale": "Recent expert synthesis of organelle membrane contact sites and inter-organelle communication.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که مبانی اندامک‌ها و انتقال درون‌سلولی را می‌داند و می‌خواهد با مفهوم ارتباط مستقیم میان اندامک‌ها آشنا شود.",
+        "why": "یک مرور جدید و تخصصی درباره membrane contact sites و ارتباط عملکردی اندامک‌ها ارائه می‌کند.",
+        "how_to_use": "پس از مطالعه مباحث اندامک‌ها در یک کتاب پیشرفته خوانده شود؛ هدف، فهم چارچوب مفهومی و چالش‌های فعلی حوزه است.",
+        "next_step": "در صورت نیاز پژوهشی، از منابع ارجاع‌شده در Review برای ورود به مقالات اصلی استفاده کنید."
+      },
+      "branch_role": "current_update"
+    },
+    {
+      "id": "CELL-BIOLOGY::REVIEW-NPC-2025",
+      "resource_id": "REVIEW-NPC-2025",
+      "subject_id": "CELL-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "advanced_update",
+      "branch_ids": [
+        "nucleus-transport"
+      ],
+      "coverage_concept_ids": [
+        "CB05"
+      ],
+      "selection_rationale": "Recent structural and mechanistic synthesis of nuclear pore architecture and nucleocytoplasmic transport.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که ساختار هسته و انتقال هسته‌ای را می‌داند و می‌خواهد وارد معماری و عملکرد کمپلکس منفذ هسته‌ای شود.",
+        "why": "مروری جدید بر ساختار، عملکرد، انتخاب‌پذیری و مونتاژ nuclear pore complex ارائه می‌دهد.",
+        "how_to_use": "پس از مطالعه فصل هسته و انتقال هسته‌ای در منبع پیشرفته خوانده شود؛ ابتدا شکل‌ها و مدل کلی، سپس جزئیات مولکولی مطالعه شوند.",
+        "next_step": "برای پروژه‌های مرتبط با انتقال هسته‌ای یا ساختار NPC، به مقالات اصلی ارجاع‌شده در Review بروید."
+      },
+      "branch_role": "current_update"
+    },
+    {
+      "id": "CELL-BIOLOGY::REVIEW-ABC-TRANSPORTERS-2023",
+      "resource_id": "REVIEW-ABC-TRANSPORTERS-2023",
+      "subject_id": "CELL-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "membranes-transport"
+      ],
+      "coverage_concept_ids": [
+        "CB02"
+      ],
+      "selection_rationale": "Mechanistic and structural review of human ATP-binding cassette membrane transporters, connecting membrane transport to transporter architecture and regulation.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مبانی غشا و انتقال فعال را می‌داند و می‌خواهد ساختار و سازوکار ناقل‌های غشایی را عمیق‌تر بفهمد.",
+        "why": "مروری ساختاری و مکانیزمی بر ناقل‌های ABC انسانی است و پیوند روشنی میان معماری پروتئین غشایی، مصرف ATP و انتقال مواد ایجاد می‌کند.",
+        "how_to_use": "پس از فصل‌های غشا و انتقال در کتاب اصلی خوانده شود؛ ابتدا چرخه انتقال و سپس تفاوت خانواده‌های ناقل‌ها مطالعه شود.",
+        "next_step": "برای گسترش شاخه غشا، سپس مرور مربوط به flippaseها و scramblaseها را بخوانید."
+      }
+    },
+    {
+      "id": "CELL-BIOLOGY::REVIEW-MEMBRANE-ASYMMETRY-2023",
+      "resource_id": "REVIEW-MEMBRANE-ASYMMETRY-2023",
+      "subject_id": "CELL-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "membranes-transport"
+      ],
+      "coverage_concept_ids": [
+        "CB02"
+      ],
+      "selection_rationale": "Complements transporter-focused reading by explaining transbilayer lipid asymmetry and the proteins that actively reorganize membrane phospholipids.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد فراتر از انتقال یون و مولکول، سازمان نامتقارن لیپیدهای غشا را بفهمد.",
+        "why": "نقش flippaseها و scramblaseها را در جابه‌جایی عرضی فسفولیپیدها و حفظ یا تغییر عدم‌تقارن غشا توضیح می‌دهد.",
+        "how_to_use": "بعد از تسلط بر ساختار دولایه لیپیدی و انتقال غشایی مطالعه شود؛ شکل‌های مربوط به توزیع فسفولیپیدها نقطه شروع خوبی هستند.",
+        "next_step": "در صورت علاقه به کانال‌های یونی و مکانوتراکنش، می‌توان به مرورهای تخصصی کانال‌های یونی رفت."
+      }
+    },
+    {
+      "id": "CELL-BIOLOGY::REVIEW-COPII-2025",
+      "resource_id": "REVIEW-COPII-2025",
+      "subject_id": "CELL-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "organelle-biology"
+      ],
+      "coverage_concept_ids": [
+        "CB03",
+        "CB04"
+      ],
+      "selection_rationale": "Current mechanistic review of COPII carrier assembly, cargo recognition and ER-to-Golgi transport in the secretory pathway.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مبانی شبکه آندوپلاسمی، گلژی و انتقال وزیکولی را می‌داند و می‌خواهد مسیر ترشحی را مکانیزمی‌تر دنبال کند.",
+        "why": "مونتاژ پوشش COPII، انتخاب محموله و خروج پروتئین‌ها از ER به گلژی را در یک چارچوب منسجم توضیح می‌دهد.",
+        "how_to_use": "پس از مرور مسیر ترشحی در کتاب پیشرفته خوانده شود؛ ابتدا نقشه کلی ER-to-Golgi و سپس مراحل مونتاژ و انتخاب cargo مطالعه شوند.",
+        "next_step": "بعد از آن، Review مربوط به membrane contact sites دید غیر‌وزیکولی و ارتباط میان اندامک‌ها را تکمیل می‌کند."
+      }
+    },
+    {
+      "id": "CELL-BIOLOGY::REVIEW-NUCLEOCYTOPLASMIC-2026",
+      "resource_id": "REVIEW-NUCLEOCYTOPLASMIC-2026",
+      "subject_id": "CELL-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "nucleus-transport"
+      ],
+      "coverage_concept_ids": [
+        "CB05"
+      ],
+      "selection_rationale": "Broad current review of the nuclear pore complex, transport factors, cargo recognition and selective macromolecular exchange between nucleus and cytoplasm.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که ساختار هسته را می‌داند و می‌خواهد انتقال انتخابی پروتئین‌ها و RNA میان هسته و سیتوپلاسم را به‌صورت یکپارچه بفهمد.",
+        "why": "مرور گسترده‌ای از NPC، عوامل انتقال، شناسایی cargo و منطق انتخاب‌پذیری انتقال هسته‌ای ارائه می‌کند.",
+        "how_to_use": "ابتدا بخش معماری منفذ هسته‌ای و سپس چرخه‌های import/export و نقش karyopherinها مطالعه شوند.",
+        "next_step": "پس از این مرجع، Review تخصصی ساختار و مونتاژ NPC برای عمق ساختاری بیشتر مناسب است."
+      }
+    },
+    {
+      "id": "CELL-BIOLOGY::BOOK-CELL-SIGNALING2-2024",
+      "resource_id": "BOOK-CELL-SIGNALING2-2024",
+      "subject_id": "CELL-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "cell-signaling"
+      ],
+      "coverage_concept_ids": [
+        "CB06"
+      ],
+      "selection_rationale": "Dedicated conceptual textbook for undergraduate and graduate cell signaling, emphasizing reusable design principles rather than memorization of isolated pathways.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که پس از زیست‌شناسی سلولی عمومی می‌خواهد پیام‌رسانی سلولی را به‌عنوان یک حوزه مستقل و منسجم یاد بگیرد.",
+        "why": "به‌جای حفظ کردن مسیرهای متعدد، اصول مشترک تعامل پروتئین‌ها، آنزیم‌های سیگنالینگ، پیام‌رسان‌های دوم و شبکه‌های تصمیم‌گیری سلولی را آموزش می‌دهد.",
+        "how_to_use": "به‌صورت یک کتاب شاخه‌ای از ابتدا مطالعه شود؛ فصل‌های مقدماتی و اصول مشترک را پیش از ورود به مسیرهای اختصاصی کامل کنید.",
+        "next_step": "پس از تسلط بر اصول، Reviewهای جدید مسیرهای مشخص یا پیام‌رسان‌های دوم مانند کلسیم را انتخاب کنید."
+      }
+    },
+    {
+      "id": "CELL-BIOLOGY::REVIEW-MITO-CALCIUM-2025",
+      "resource_id": "REVIEW-MITO-CALCIUM-2025",
+      "subject_id": "CELL-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "cell-signaling"
+      ],
+      "coverage_concept_ids": [
+        "CB04",
+        "CB06"
+      ],
+      "selection_rationale": "Current specialized review showing how mitochondrial calcium handling shapes local and global intracellular calcium signals.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که اصول پیام‌رسانی سلولی و نقش Ca2+ را می‌داند و می‌خواهد ارتباط سیگنالینگ کلسیمی با میتوکندری را دنبال کند.",
+        "why": "نمونه‌ای قوی از اتصال پیام‌رسانی سلولی به عملکرد اندامک‌هاست و منطق سیگنال‌های محلی و سراسری کلسیم را نشان می‌دهد.",
+        "how_to_use": "پس از فصل پیام‌رسان‌های دوم در کتاب Cell Signaling مطالعه شود؛ ابتدا مدل کلی جریان Ca2+ و سپس نقش میتوکندری بررسی شود.",
+        "next_step": "برای پژوهش تخصصی، از منابع مقاله به مسیرهای مولکولی مورد علاقه مانند MCU یا تماس ER–mitochondria وارد شوید."
+      }
+    },
+    {
+      "id": "CELL-BIOLOGY::REVIEW-CYTOSKELETAL-FILAMENTS-2025",
+      "resource_id": "REVIEW-CYTOSKELETAL-FILAMENTS-2025",
+      "subject_id": "CELL-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "cytoskeleton-mechanics"
+      ],
+      "coverage_concept_ids": [
+        "CB08"
+      ],
+      "selection_rationale": "Broad biophysical review comparing the mechanical properties of actin filaments, microtubules and intermediate filaments.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که اجزای اسکلت سلولی را می‌شناسد و می‌خواهد ارتباط ساختار رشته‌ها با خواص مکانیکی آن‌ها را بفهمد.",
+        "why": "سه سامانه اصلی actin، microtubule و intermediate filament را از دید مکانیک و coupling میان ساختار و بیوشیمی مقایسه می‌کند.",
+        "how_to_use": "پس از فصل اسکلت سلولی در MBoC خوانده شود؛ برای هر نوع filament ابتدا معماری و سپس رفتار مکانیکی را دنبال کنید.",
+        "next_step": "برای حرکت مولکولی و انتقال روی microtubuleها، Review مربوط به kinesinها قدم بعدی خوبی است."
+      }
+    },
+    {
+      "id": "CELL-BIOLOGY::REVIEW-KINESIN-2025",
+      "resource_id": "REVIEW-KINESIN-2025",
+      "subject_id": "CELL-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "cytoskeleton-mechanics"
+      ],
+      "coverage_concept_ids": [
+        "CB08"
+      ],
+      "selection_rationale": "Current structural and mechanistic synthesis of kinesin motor function, regulation, cargo binding and motility on microtubules.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که اسکلت سلولی و microtubuleها را می‌داند و می‌خواهد موتورهای مولکولی را مکانیزمی‌تر مطالعه کند.",
+        "why": "چرخه مکانوشیمیایی kinesin، تنظیم حرکت، اتصال cargo و نقش microtubule-associated proteins را به‌روز جمع‌بندی می‌کند.",
+        "how_to_use": "پس از مرور mechanics رشته‌های اسکلت سلولی خوانده شود؛ ابتدا چرخه حرکتی kinesin و سپس تنظیم و cargo recognition مطالعه شوند.",
+        "next_step": "در صورت علاقه به انتقال درون‌سلولی، این شاخه را با منابع organelle trafficking پیوند دهید."
+      }
+    },
+    {
+      "id": "CELL-BIOLOGY::REVIEW-CELL-CYCLE-CONTROL-2022",
+      "resource_id": "REVIEW-CELL-CYCLE-CONTROL-2022",
+      "subject_id": "CELL-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "cell-cycle"
+      ],
+      "coverage_concept_ids": [
+        "CB07"
+      ],
+      "selection_rationale": "Despite its cancer framing, this review provides a broad modern synthesis of conserved cell-cycle control mechanisms, checkpoints and cell-cycle exit.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مراحل چرخه سلولی را می‌داند و می‌خواهد منطق کنترل چرخه، checkpointها و خروج از چرخه را عمیق‌تر بفهمد.",
+        "why": "با وجود تمرکز بر سرطان، بخش اصلی Review سازوکارهای بنیادی و حفاظت‌شده کنترل چرخه سلولی و checkpointهای DNA را توضیح می‌دهد.",
+        "how_to_use": "ابتدا بخش‌های مربوط به تنظیم طبیعی چرخه و checkpointها را بخوانید و سپس بخش سرطان را به‌عنوان نمونه اختلال در این سامانه ببینید.",
+        "next_step": "برای تقسیم کروموزومی در سطح ساختاری‌تر، به منابع kinetochore و spindle checkpoint بروید."
+      }
+    },
+    {
+      "id": "CELL-BIOLOGY::REVIEW-CENTROMERE-KINETOCHORE-2026",
+      "resource_id": "REVIEW-CENTROMERE-KINETOCHORE-2026",
+      "subject_id": "CELL-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "cell-cycle"
+      ],
+      "coverage_concept_ids": [
+        "CB07"
+      ],
+      "selection_rationale": "Very recent structural review of centromeric chromatin and the inner kinetochore, central to accurate chromosome segregation.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که میتوز و اتصال کروموزوم به spindle را می‌داند و می‌خواهد ساختار centromere و kinetochore را به‌روز مطالعه کند.",
+        "why": "یکی از جدیدترین مرورهای ساختاری این حوزه است و معماری centromere، CENP-A و inner kinetochore را با داده‌های جدید تلفیق می‌کند.",
+        "how_to_use": "بعد از تسلط بر مراحل میتوز و مفهوم kinetochore خوانده شود؛ شکل معماری کلی را پیش از جزئیات پروتئینی بررسی کنید.",
+        "next_step": "برای منطق checkpoint تقسیم، Review مربوط به spindle assembly checkpoint مکمل مناسبی است."
+      }
+    },
+    {
+      "id": "CELL-BIOLOGY::REVIEW-CELL-DEATH-2024",
+      "resource_id": "REVIEW-CELL-DEATH-2024",
+      "subject_id": "CELL-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "cell-death-autophagy"
+      ],
+      "coverage_concept_ids": [
+        "CB10"
+      ],
+      "selection_rationale": "Broad guide to major regulated cell-death pathways including apoptosis, necroptosis and pyroptosis.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که apoptosis را در حد کتاب درسی می‌داند و می‌خواهد انواع اصلی مرگ تنظیم‌شده سلولی را مقایسه کند.",
+        "why": "مسیرهای apoptosis، necroptosis و pyroptosis را در یک چارچوب مقایسه‌ای و مکانیزمی جمع می‌کند.",
+        "how_to_use": "با یک جدول شخصی از محرک، مولکول‌های کلیدی و پیامد هر مسیر مطالعه شود تا تفاوت مسیرها روشن بماند.",
+        "next_step": "برای نیمه دیگر این شاخه، یعنی پاکسازی انتخابی اجزای سلول، Review مربوط به selective autophagy را بخوانید."
+      }
+    },
+    {
+      "id": "CELL-BIOLOGY::REVIEW-SELECTIVE-AUTOPHAGY-2023",
+      "resource_id": "REVIEW-SELECTIVE-AUTOPHAGY-2023",
+      "subject_id": "CELL-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "cell-death-autophagy"
+      ],
+      "coverage_concept_ids": [
+        "CB10"
+      ],
+      "selection_rationale": "Comprehensive mechanistic review of selective autophagy and organelle/protein quality-control pathways in mammals.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مفهوم عمومی autophagy را می‌داند و می‌خواهد انواع انتخابی آن مانند mitophagy و lysophagy را بفهمد.",
+        "why": "تفاوت autophagy غیرانتخابی و انتخابی را روشن می‌کند و نقش آن را در کنترل کیفیت اندامک‌ها و پروتئین‌ها توضیح می‌دهد.",
+        "how_to_use": "ابتدا منطق cargo recognition و سپس نمونه‌های selective autophagy را به‌ترتیب مطالعه کنید.",
+        "next_step": "اگر موضوع پژوهشی شما یک اندامک خاص است، به Reviewهای اختصاصی همان نوع autophagy وارد شوید."
+      }
+    },
+    {
+      "id": "CELL-BIOLOGY::REVIEW-ECM-2024",
+      "resource_id": "REVIEW-ECM-2024",
+      "subject_id": "CELL-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "adhesion-ecm"
+      ],
+      "coverage_concept_ids": [
+        "CB09"
+      ],
+      "selection_rationale": "Broad modern review of ECM composition, tissue-specific assembly, secretion and remodeling.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که اتصالات سلولی را می‌شناسد و می‌خواهد ماتریکس خارج‌سلولی را از ترکیب تا مونتاژ و بازآرایی مطالعه کند.",
+        "why": "دید جامعی از matrisome، کلاژن، fibronectin و سازوکارهای تنظیم assembly و remodeling ماتریکس می‌دهد.",
+        "how_to_use": "ابتدا تنوع اجزای ECM و سپس مراحل ترشح، مونتاژ و remodeling را دنبال کنید.",
+        "next_step": "برای اتصال مستقیم این موضوع به مکانیک تماس سلول–سلول، Review مربوط به adherens junctionها را بخوانید."
+      }
+    },
+    {
+      "id": "CELL-BIOLOGY::REVIEW-ADHERENS-2024",
+      "resource_id": "REVIEW-ADHERENS-2024",
+      "subject_id": "CELL-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "adhesion-ecm"
+      ],
+      "coverage_concept_ids": [
+        "CB09"
+      ],
+      "selection_rationale": "Complements ECM reading by linking cadherin-based adherens junctions to cell-cell adhesion and emergent tissue mechanics.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد از مولکول‌های چسبندگی به درک مکانیک بافت و ارتباط سلول–سلول برسد.",
+        "why": "نشان می‌دهد adherens junctionها چگونه از طریق cadherinها، tension و dynamics ویژگی‌های مکانیکی جمعی بافت را تنظیم می‌کنند.",
+        "how_to_use": "پس از مبانی cell junction و ECM مطالعه شود؛ ارتباط میان ساختار junction، نیرو و رفتار جمعی سلول‌ها را دنبال کنید.",
+        "next_step": "برای ورود عمیق‌تر به mechanobiology می‌توان منابع تخصصی force transduction و cytoskeleton را دنبال کرد."
+      }
+    },
+    {
+      "id": "CELL-BIOLOGY::REVIEW-PLANT-CELL-WALL-2024",
+      "resource_id": "REVIEW-PLANT-CELL-WALL-2024",
+      "subject_id": "CELL-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "plant-cell-structures"
+      ],
+      "coverage_concept_ids": [
+        "CB11"
+      ],
+      "selection_rationale": "Broad mechanistic review of plant cell-wall composition, mechanics, growth and regulation.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مبانی سلول گیاهی را می‌داند و می‌خواهد دیواره سلولی را فراتر از فهرست اجزا، از دید ساختار و مکانیک بفهمد.",
+        "why": "سلولز، همی‌سلولز، پکتین و پروتئین‌های دیواره را به فیزیک رشد و تنظیم سلولی متصل می‌کند.",
+        "how_to_use": "ابتدا ترکیب و معماری دیواره و سپس بخش‌های مربوط به wall loosening، pH و تنظیم هورمونی مطالعه شوند.",
+        "next_step": "برای ارتباط مستقیم میان سلول‌های گیاهی، Review مربوط به plasmodesmata مکمل طبیعی این مسیر است."
+      }
+    },
+    {
+      "id": "CELL-BIOLOGY::REVIEW-PLASMODESMATA-2024",
+      "resource_id": "REVIEW-PLASMODESMATA-2024",
+      "subject_id": "CELL-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "plant-cell-structures"
+      ],
+      "coverage_concept_ids": [
+        "CB11"
+      ],
+      "selection_rationale": "Complements cell-wall biology with a current review of plasmodesmata as regulated intercellular channels in plants.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که دیواره سلولی را می‌داند و می‌خواهد نحوه ارتباط مستقیم سلول‌های گیاهی از میان این دیواره را بفهمد.",
+        "why": "plasmodesmata را به‌عنوان کانال‌های پویا و تنظیم‌شونده برای ارتباط بین سلول‌های گیاهی بررسی می‌کند.",
+        "how_to_use": "بعد از مطالعه دیواره سلولی خوانده شود؛ ابتدا معماری plasmodesmata و سپس تنظیم permeability و پاسخ به فشار مطالعه شود.",
+        "next_step": "برای تخصص عمیق‌تر در زیست‌شناسی سلول گیاهی، می‌توان به منابع مستقل درباره chloroplast dynamics و plant endomembrane systems رفت."
+      }
+    }
+  ]
+}
