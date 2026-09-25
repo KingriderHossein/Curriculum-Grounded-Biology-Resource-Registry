@@ -44,6 +44,9 @@ jobs:
           git archive HEAD > cover-audit/source.tar
       - name: Fetch and decode every registered book cover
         run: python scripts/audit_book_covers.py --out cover-audit
+      - name: Collect alternative images without approving them
+        if: always()
+        run: python scripts/propose_cover_replacements.py
       - name: Preserve audit and visual evidence
         if: always()
         uses: actions/upload-artifact@v4
