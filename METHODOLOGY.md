@@ -1,22 +1,25 @@
 # Methodology
 
-## 1. Curriculum first
+## 1. Subject first
 
-Resources are selected only after a course and its syllabus topics are defined.
+The project begins from a scientific subject, not from a national curriculum or major.
 
-Preferred curriculum provenance, in order:
+For each subject:
 
-1. official ministry / curriculum authority;
-2. official university-hosted copy of the approved curriculum;
-3. clearly identifiable mirror of the approved document;
-4. secondary description only as a temporary discovery aid.
+1. define prerequisite knowledge;
+2. define the Core conceptual spine;
+3. define the Advanced layer;
+4. identify specialized branches;
+5. select resources for each stage;
+6. update fast-moving branches with recent peer-reviewed reviews.
 
-Tier 3 material must be marked as provisional provenance until an official host is located. Secondary descriptions are not sufficient to declare a curriculum verified.
+Curricula may be mapped later as optional metadata.
 
 ## 2. Theory-only gate
 
 Allowed resource categories:
 
+- `foundation_textbook`
 - `core_textbook`
 - `reference_textbook`
 - `advanced_textbook`
@@ -33,58 +36,82 @@ Explicitly excluded:
 - practical-course guides
 - wet-lab tutorials
 
-## 3. Resource selection
+A technique may be discussed conceptually only when it is necessary to understand the subject.
 
-A resource is evaluated on:
+## 3. Roadmap placement
+
+Every resource must have a `learning_stage`:
+
+- `foundation`
+- `core`
+- `intermediate`
+- `advanced`
+- `specialized`
+
+A resource may cover several concept areas, but it should have one primary learning role.
+
+## 4. Resource selection
 
 ### Scientific authority
 Publisher/journal reputation, author expertise, peer review where applicable, and bibliographic traceability.
 
-### Curriculum coverage
-The resource must map to explicit syllabus topic IDs. Broad relevance is not enough.
+### Pedagogical fit
+The resource must fit the learner stage. A definitive research reference is not automatically a good first book.
+
+### Concept coverage
+Each resource maps to explicit concept IDs within its Subject.
 
 ### Currency
-Use the latest **published and available** edition when it is scientifically and pedagogically suitable. A forthcoming edition is not treated as the current core edition.
-
-### Pedagogical fit
-A technically excellent research monograph can still be a poor core source for a B.Sc. course. The intended learner level matters.
+Use the latest published and available edition when scientifically and pedagogically suitable. Recent review literature supplements textbooks in rapidly moving areas.
 
 ### Stability and verifiability
-Prefer ISBN, DOI, PMID, official publisher pages, journal pages, and stable metadata.
+Prefer ISBN, DOI, PMID, official publisher pages, journal pages, and stable academic URLs.
 
-## 4. Resource roles
+## 5. Resource roles
 
-- **Core**: best starting source for the course level and syllabus.
-- **Reference**: deeper or more detailed source; useful alongside the core.
-- **Advanced update**: recent peer-reviewed review that updates rapidly moving areas.
+- **Foundation**: prerequisite or first-exposure material.
+- **Core**: the main learning resource for the subject.
+- **Intermediate / Reference**: broad reinforcement or second-pass depth.
+- **Advanced**: deeper mechanistic and research-level coverage.
+- **Specialized**: focused branch-level literature.
 
-No numeric "best book" score is used. The registry records *why* a source fits a role.
+No numeric “best book” score is used. The registry records *why* a source belongs at a particular stage.
 
-## 5. Book-cover policy
+## 6. Specialized branches
+
+A branch belongs inside the parent Subject when it is a specialization of that subject rather than a fully independent discipline.
+
+Example for Cell Biology:
+
+- membranes & transport;
+- organelle biology & trafficking;
+- nucleus & nucleocytoplasmic transport;
+- signaling;
+- cytoskeleton & mechanics;
+- cell cycle;
+- cell death & autophagy;
+- adhesion & extracellular matrix;
+- plant-cell structures.
+
+Each branch can later receive its own Foundation/Core/Advanced references if the literature is deep enough.
+
+## 7. Book-cover policy
 
 Book covers are presentation metadata, not scientific evidence.
 
-For the pilot:
-
-- cover thumbnails are linked from the official publisher's image host when available;
+- use official publisher-hosted cover images when available;
 - publisher pages remain the authoritative bibliographic/purchase source;
-- no full book content is stored;
-- each cover record keeps its source identity;
-- local cover caching may be added later only with a clear source and rights policy.
+- do not store full book content;
+- keep the cover source identity;
+- local cover caching requires a clear rights/source policy.
 
-If a cover fails, the resource record remains valid.
+## 8. Verification states
 
-## 6. Verification states
+- `candidate`
+- `verified`
+- `provisional`
+- `outdated`
 
-- `candidate`: submitted but not reviewed;
-- `verified`: bibliographic identity, source, role, and syllabus mapping checked;
-- `provisional`: usable but one provenance field still needs stronger evidence;
-- `outdated`: superseded or no longer recommended.
+## 9. Audit trail
 
-## 7. Recency policy
-
-"Newest" does not automatically mean "best." For textbooks, the latest available edition is preferred unless there is a documented reason not to use it. For fast-moving topics, recent high-quality review literature supplements the textbook.
-
-## 8. Audit trail
-
-Each record stores a `verified_on` date and source URLs. Changes to edition, role, syllabus mapping, or verification status should be reviewable in Git history.
+Each record stores a verification date and source URLs. Changes to edition, learning stage, concept mapping, branch mapping or verification status remain reviewable in Git history.
