@@ -1,0 +1,71 @@
+name: Resource suggestion
+description: Propose a theory-only scientific resource for an existing course.
+title: "[Resource] "
+labels: []
+body:
+  - type: input
+    id: course
+    attributes:
+      label: Course ID
+      placeholder: MSRT-BSC-ANIMAL-CELL-BIOLOGY-1400
+    validations:
+      required: true
+
+  - type: input
+    id: title
+    attributes:
+      label: Resource title
+    validations:
+      required: true
+
+  - type: dropdown
+    id: type
+    attributes:
+      label: Resource type
+      options:
+        - Core textbook
+        - Reference textbook
+        - Advanced textbook
+        - Review article
+        - Authoritative reference
+        - Open academic resource
+    validations:
+      required: true
+
+  - type: input
+    id: identifier
+    attributes:
+      label: ISBN / DOI / PMID
+    validations:
+      required: true
+
+  - type: input
+    id: source
+    attributes:
+      label: Authoritative source URL
+      placeholder: https://...
+    validations:
+      required: true
+
+  - type: textarea
+    id: coverage
+    attributes:
+      label: Syllabus topic IDs covered
+      placeholder: CB04, CB06
+    validations:
+      required: true
+
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Why should this source be included?
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: scope
+    attributes:
+      label: Scope confirmation
+      options:
+        - label: This is a theory-only resource and is not a protocol, laboratory manual, SOP, or hands-on training guide.
+          required: true
