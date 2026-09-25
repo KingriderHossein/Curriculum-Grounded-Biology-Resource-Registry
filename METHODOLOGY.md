@@ -66,9 +66,10 @@ Book covers are presentation metadata, not scientific evidence.
 
 For the pilot:
 
-- thumbnails are hot-linked by ISBN from Open Library;
+- cover thumbnails are linked from the official publisher's image host when available;
 - publisher pages remain the authoritative bibliographic/purchase source;
 - no full book content is stored;
+- each cover record keeps its source identity;
 - local cover caching may be added later only with a clear source and rights policy.
 
 If a cover fails, the resource record remains valid.
