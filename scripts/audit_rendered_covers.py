@@ -24,7 +24,8 @@ def main() -> int:
     out = Path(args.out).resolve(); out.mkdir(parents=True, exist_ok=True)
     sha = subprocess.check_output(['git', 'rev-parse', 'HEAD'], cwd=ROOT, text=True).strip()
     paths = ['README.md', *[str(p.relative_to(ROOT)) for p in sorted((ROOT/'subjects').glob('*/README.md'))]]
-    cases = [(path, 1440, 1000) for path in paths] + [('subjects/microbiology/README.md', 390, 844)]
+    subject_paths = [path for path in paths if path.startswith('subjects/')]
+    cases = [(path, 1440, 1000) for path in paths] + [(path, 390, 844) for path in subject_paths]
     reports = []
     with sync_playwright() as pw:
         browser = pw.chromium.launch()
@@ -64,7 +65,7 @@ def main() -> int:
                 row['status'] = 'passed' if not row['missing_images'] and all(x['loaded'] for x in rendered) else 'failed'
                 if not expected:
                     row['status'] = 'failed'; row['error'] = 'No expected source images'
-                if path.endswith('microbiology/README.md'):
+                if path.startswith('subjects/'):
                     body.scroll_into_view_if_needed(timeout=15000)
                     page.screenshot(path=str(out/f'{label}-page-top.png'), full_page=False)
                     row['rtl_containers'] = body.locator('[dir=rtl]').count()
