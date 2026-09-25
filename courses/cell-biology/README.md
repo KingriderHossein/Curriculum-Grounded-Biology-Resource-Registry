@@ -36,6 +36,10 @@ The curriculum describes Cell Biology as a 3-credit, 48-hour theoretical course 
 
 The source also mentions methods for studying cells. In this registry they are covered only as **theoretical concepts**, not as practical skills or protocols.
 
+## Curriculum resource lineage
+
+The 1400 curriculum itself recommends earlier editions of **Molecular Biology of the Cell** (6th ed.) and **The Cell: A Molecular Approach** (8th ed.) among its course references. This registry keeps that curriculum lineage but updates those two titles to their current published editions used below. **Essential Cell Biology** is added as the Core textbook because its publisher explicitly positions the current edition for a first undergraduate cell-biology course.
+
 ## Core textbook
 
 <table>
