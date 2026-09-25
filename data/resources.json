@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.4.0",
+  "schema_version": "0.5.0",
   "resources": [
     {
       "id": "OPENSTAX-BIOLOGY2E-2018",
@@ -402,6 +402,394 @@
       "journal": "Annual Review of Plant Biology",
       "doi": "10.1146/annurev-arplant-070623-093110",
       "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-arplant-070623-093110",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "BOOK-LEHNINGER-CORE-1E-2025",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Lehninger Biochemistry: Core Concepts and Applications",
+      "authors": [
+        "Michael M. Cox",
+        "Aaron A. Hoskins",
+        "Alain Viel",
+        "Judith Simcox"
+      ],
+      "edition": "1st Edition",
+      "published_year": 2025,
+      "publisher": "Macmillan Learning",
+      "isbn": "9781319589967",
+      "publisher_url": "https://www.macmillanlearning.com/ed/au/product/Lehninger-Biochemistry-Core-Concepts-and-Applications--1st-edition/p/1319589960",
+      "purchase_url": "https://www.macmillanlearning.com/ed/au/product/Lehninger-Biochemistry-Core-Concepts-and-Applications--1st-edition/p/1319589960",
+      "cover": {
+        "url": "https://covers.openlibrary.org/b/isbn/9781319589967-L.jpg?default=false",
+        "source": "Open Library ISBN cover fallback; bibliographic authority Macmillan Learning"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "BOOK-BIOCHEMISTRY10-2023",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Biochemistry",
+      "authors": [
+        "Jeremy Berg",
+        "Gregory Gatto Jr.",
+        "Justin Hines",
+        "John L. Tymoczko",
+        "Lubert Stryer"
+      ],
+      "edition": "10th Edition",
+      "published_year": 2023,
+      "publisher": "Macmillan Learning",
+      "isbn": "9781319498504",
+      "publisher_url": "https://www.macmillanlearning.com/ed/uk/product/Biochemistry--10th-edition/p/1319498507",
+      "purchase_url": "https://www.macmillanlearning.com/ed/uk/product/Biochemistry--10th-edition/p/1319498507",
+      "cover": {
+        "url": "https://covers.openlibrary.org/b/isbn/9781319498504-L.jpg?default=false",
+        "source": "Open Library ISBN cover fallback; bibliographic authority Macmillan Learning"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "BOOK-LEHNINGER8-2021",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Lehninger Principles of Biochemistry",
+      "authors": [
+        "David L. Nelson",
+        "Michael M. Cox",
+        "Aaron A. Hoskins"
+      ],
+      "edition": "8th Edition",
+      "published_year": 2021,
+      "publisher": "Macmillan Learning",
+      "isbn": "9781319381493",
+      "publisher_url": "https://www.macmillanlearning.com/ed/uk/product/Lehninger-Principles-of-Biochemistry--8th-edition/p/1319381499",
+      "purchase_url": "https://www.macmillanlearning.com/ed/uk/product/Lehninger-Principles-of-Biochemistry--8th-edition/p/1319381499",
+      "cover": {
+        "url": "https://covers.openlibrary.org/b/isbn/9781319381493-L.jpg?default=false",
+        "source": "Open Library ISBN cover fallback; bibliographic authority Macmillan Learning"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-PROTEIN-MISFOLDING-2023",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Mechanisms and pathology of protein misfolding and aggregation",
+      "authors": [
+        "Nikolaos Louros",
+        "Joost Schymkowitz",
+        "Frederic Rousseau"
+      ],
+      "published_year": 2023,
+      "journal": "Nature Reviews Molecular Cell Biology",
+      "doi": "10.1038/s41580-023-00647-2",
+      "publisher_url": "https://www.nature.com/articles/s41580-023-00647-2",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-HSP70-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Mechanisms and regulation of the Hsp70 chaperone network",
+      "authors": [
+        "Anne Wentink",
+        "Rina Rosenzweig",
+        "Harm Kampinga",
+        "Bernd Bukau",
+        "et al."
+      ],
+      "published_year": 2026,
+      "journal": "Nature Reviews Molecular Cell Biology",
+      "doi": "10.1038/s41580-025-00890-9",
+      "publisher_url": "https://www.nature.com/articles/s41580-025-00890-9",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "CHAPTER-ENZYME-KINETICS-2024",
+      "resource_type": "book_chapter",
+      "theory_only": true,
+      "title": "Enzyme Kinetics",
+      "authors": [
+        "Ana Malvis Romero",
+        "Lorenzo Pesci",
+        "Selin Kara",
+        "Andreas Liese"
+      ],
+      "published_year": 2024,
+      "publisher": "Springer",
+      "doi": "10.1007/978-3-031-42999-6_4",
+      "publisher_url": "https://link.springer.com/chapter/10.1007/978-3-031-42999-6_4",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-ENZYME-LOOP-DYNAMICS-2023",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Loop dynamics and the evolution of enzyme activity",
+      "authors": [
+        "Marina Corbella",
+        "Gaspar P. Pinto",
+        "Shina C. L. Kamerlin"
+      ],
+      "published_year": 2023,
+      "journal": "Nature Reviews Chemistry",
+      "doi": "10.1038/s41570-023-00495-w",
+      "publisher_url": "https://www.nature.com/articles/s41570-023-00495-w",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-MITO-RESPIRATORY-CHAIN-2022",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "The assembly, regulation and function of the mitochondrial respiratory chain",
+      "authors": [
+        "Irene Vercellino",
+        "Leonid A. Sazanov"
+      ],
+      "published_year": 2022,
+      "journal": "Nature Reviews Molecular Cell Biology",
+      "doi": "10.1038/s41580-021-00415-0",
+      "publisher_url": "https://www.nature.com/articles/s41580-021-00415-0",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-PHOTOSYNTHETIC-ETC-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Structure, regulation and assembly of the photosynthetic electron transport chain",
+      "authors": [
+        "Matthew P. Johnson"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Molecular Cell Biology",
+      "doi": "10.1038/s41580-025-00847-y",
+      "publisher_url": "https://www.nature.com/articles/s41580-025-00847-y",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-GLYCOGEN-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Glycogen metabolism and structure: A review",
+      "authors": [
+        "Galex K. S. Neoh",
+        "Xinle Tan",
+        "Si Chen",
+        "Eugeni Roura",
+        "Xin Dong",
+        "Robert G. Gilbert"
+      ],
+      "published_year": 2024,
+      "journal": "Carbohydrate Polymers",
+      "doi": "10.1016/j.carbpol.2024.122631",
+      "publisher_url": "https://www.sciencedirect.com/science/article/pii/S0144861724008579",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-HEPATIC-GLUCOSE-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Hepatic glucose metabolism in the steatotic liver",
+      "authors": [
+        "Egeria Scoditti",
+        "Silvia Sabatini",
+        "Fabrizia Carli",
+        "Amalia Gastaldelli",
+        "et al."
+      ],
+      "published_year": 2024,
+      "journal": "Nature Reviews Gastroenterology & Hepatology",
+      "doi": "10.1038/s41575-023-00888-8",
+      "publisher_url": "https://www.nature.com/articles/s41575-023-00888-8",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-LIPID-DROPLETS-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Lipid droplets and cellular lipid flux",
+      "authors": [
+        "Alyssa J. Mathiowetz",
+        "James A. Olzmann"
+      ],
+      "published_year": 2024,
+      "journal": "Nature Cell Biology",
+      "doi": "10.1038/s41556-024-01364-4",
+      "publisher_url": "https://www.nature.com/articles/s41556-024-01364-4",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-SPHINGOLIPID-HOMEOSTASIS-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Regulation of cellular and systemic sphingolipid homeostasis",
+      "authors": [
+        "Andrew Kuo",
+        "Timothy Hla"
+      ],
+      "published_year": 2024,
+      "journal": "Nature Reviews Molecular Cell Biology",
+      "doi": "10.1038/s41580-024-00742-y",
+      "publisher_url": "https://www.nature.com/articles/s41580-024-00742-y",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-AMINO-ACID-KIDNEY-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Amino acid metabolism in kidney health and disease",
+      "authors": [
+        "Martine G. E. Knol",
+        "Vera C. Wulfmeyer",
+        "Roman-Ulrich Müller",
+        "Markus M. Rinschen",
+        "et al."
+      ],
+      "published_year": 2024,
+      "journal": "Nature Reviews Nephrology",
+      "doi": "10.1038/s41581-024-00872-8",
+      "publisher_url": "https://www.nature.com/articles/s41581-024-00872-8",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-UREA-SYNTHESIS-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Down the road towards hepatic encephalopathy. Urea synthesis - the liver workhorse of nitrogen metabolism",
+      "authors": [
+        "Hendrik Vilstrup",
+        "Peter Lykke Eriksen",
+        "Kristoffer Kjærgaard",
+        "Michael Sørensen",
+        "Karen Louise Thomsen",
+        "Peter Ott"
+      ],
+      "published_year": 2025,
+      "journal": "Metabolic Brain Disease",
+      "doi": "10.1007/s11011-024-01437-1",
+      "publisher_url": "https://link.springer.com/article/10.1007/s11011-024-01437-1",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-NUCLEOTIDE-CONTROL-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Dynamic control of nucleotide metabolism in physiology and disease",
+      "authors": [
+        "Dohun Kim",
+        "Gerta Hoxhaj"
+      ],
+      "published_year": 2026,
+      "journal": "Nature Cell Biology",
+      "doi": "10.1038/s41556-026-02004-9",
+      "publisher_url": "https://www.nature.com/articles/s41556-026-02004-9",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-MITO-NUCLEOTIDES-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "High tide or low tide: the transport and metabolism of mitochondrial nucleotides",
+      "authors": [
+        "Thomas MacVicar"
+      ],
+      "published_year": 2025,
+      "journal": "Biochemical Journal",
+      "doi": "10.1042/BCJ20253237",
+      "publisher_url": "https://portlandpress.com/biochemj/article/482/16/1105/236390/High-tide-or-low-tide-the-transport-and-metabolism",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-AMPK-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "AMPK at the interface of nutrient sensing, metabolic flux and energy homeostasis",
+      "authors": [
+        "Tyler K. T. Smith",
+        "Logan K. Townsend",
+        "William J. Smiles",
+        "Jonathan S. Oakhill",
+        "Morgan D. Fullerton",
+        "Gregory R. Steinberg"
+      ],
+      "published_year": 2026,
+      "journal": "Nature Metabolism",
+      "doi": "10.1038/s42255-025-01442-3",
+      "publisher_url": "https://www.nature.com/articles/s42255-025-01442-3",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-METABOLITE-SIGNALLING-2023",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Metabolites as signalling molecules",
+      "authors": [
+        "Steven Andrew Baker",
+        "Jared Rutter"
+      ],
+      "published_year": 2023,
+      "journal": "Nature Reviews Molecular Cell Biology",
+      "doi": "10.1038/s41580-022-00572-w",
+      "publisher_url": "https://www.nature.com/articles/s41580-022-00572-w",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-GLYCOCODE-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Reading and Writing the Human Glycocode",
+      "authors": [
+        "Noortje de Haan",
+        "Mathias I. Nielsen",
+        "Hans H. Wandall"
+      ],
+      "published_year": 2024,
+      "journal": "Annual Review of Biochemistry",
+      "doi": "10.1146/annurev-biochem-030122-044347",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-biochem-030122-044347",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-N-GLYCAN-ER-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "N-glycan-dependent protein maturation and quality control in the ER",
+      "authors": [
+        "Kevin P. Guay",
+        "Wen-Chuan Chou",
+        "Nathan P. Canniff",
+        "Kylie B. Paul",
+        "Daniel N. Hebert",
+        "et al."
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Molecular Cell Biology",
+      "doi": "10.1038/s41580-025-00855-y",
+      "publisher_url": "https://www.nature.com/articles/s41580-025-00855-y",
       "verification_status": "verified",
       "verified_on": "2026-09-25"
     }
