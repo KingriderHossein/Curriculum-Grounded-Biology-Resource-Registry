@@ -34,7 +34,7 @@
 - **چرا این منبع؟** رایگان، دانشگاهی و مناسب برای مرور پیش‌نیازها پیش از ورود به یک کتاب تخصصی زیست‌شناسی سلولی.
 - **چگونه استفاده شود؟** لازم نیست کل کتاب را بخوانید. برای این مسیر، فصل‌های ۴، ۵، ۹ و ۱۰ به‌ترتیب برای ساختار سلول، غشا، پیام‌رسانی و تولیدمثل سلولی کافی‌اند.
 - **قدم بعدی:** پس از تسلط بر این مباحث، وارد کتاب ⁦Essential Cell Biology⁩ شوید.
-- **مشخصات منبع:** Mary Ann Clark, Matthew Douglas, Jung Choi · OpenStax · 2018 · دسترسی آزاد
+- **مشخصات منبع:** ⁦Mary Ann Clark⁩, ⁦Matthew Douglas⁩, ⁦Jung Choi⁩ · ⁦OpenStax⁩ · ⁦2018⁩ · دسترسی آزاد
 
 [دسترسی رایگان به کتاب ⁦Biology 2e⁩](https://openstax.org/books/biology-2e/pages/1-introduction)
 
@@ -53,7 +53,7 @@
 - **چرا این منبع؟** برای یک درس نخست زیست‌شناسی سلولی طراحی شده و میان عمق علمی، تصویرسازی و توضیح مفهومی تعادل خوبی دارد.
 - **چگونه استفاده شود؟** بهتر است به‌عنوان کتاب اصلی و به‌ترتیب فصل‌ها مطالعه شود. تمرکز فقط روی حفظ نام اجزا نباشد؛ ارتباط ساختار، عملکرد و تنظیم فرایندها مهم‌تر است.
 - **قدم بعدی:** پس از یک دور کامل، برای عمق بیشتر به ⁦The Cell: A Molecular Approach⁩ بروید یا وارد شاخه تخصصی مورد علاقه شوید.
-- **مشخصات منبع:** Bruce Alberts et al. · W. W. Norton · 2023 · ویرایش ششم بین‌المللی · ISBN: ⁦9781324033394⁩
+- **مشخصات منبع:** ⁦Bruce Alberts et al.⁩ · ⁦W. W. Norton⁩ · ⁦2023⁩ · ویرایش ششم بین‌المللی · ⁦ISBN: 9781324033394⁩
 
 [صفحه رسمی ناشر و خرید](https://wwnorton.co.uk/books/9781324033394-essential-cell-biology-c7a43b27-8186-4ee2-b83f-e60dd511e7ac)
 
@@ -72,7 +72,7 @@
 - **چرا این منبع؟** یک مرجع گسترده در سطح کارشناسی است و از نظر عمق میان کتاب مقدماتی و منابع سنگین پیشرفته قرار می‌گیرد.
 - **چگونه استفاده شود؟** الزاماً لازم نیست از ابتدا تا انتها خوانده شود. می‌توانید فصل‌های مرتبط با نقاط ضعف یا شاخه مورد علاقه خود را انتخاب کنید.
 - **قدم بعدی:** برای مطالعه عمیق‌تر و مکانیزمی‌تر به ⁦Molecular Biology of the Cell⁩ یا منابع تخصصی هر شاخه بروید.
-- **مشخصات منبع:** Geoffrey M. Cooper, Kenneth W. Adams · Oxford University Press · 2022 · ویرایش نهم · ISBN: ⁦9780197583722⁩
+- **مشخصات منبع:** ⁦Geoffrey M. Cooper⁩, ⁦Kenneth W. Adams⁩ · ⁦Oxford University Press⁩ · ⁦2022⁩ · ویرایش نهم · ⁦ISBN: 9780197583722⁩
 
 [صفحه رسمی ناشر و خرید](https://www.oup.com.au/books/higher-education/biological-sciences/9780197583722)
 
@@ -91,7 +91,7 @@
 - **چرا این منبع؟** مرجع جامع و مکانیزمی زیست‌شناسی سلولی است و برای اتصال عمیق مفاهیم مختلف به یکدیگر مناسب است.
 - **چگونه استفاده شود؟** به‌عنوان کتاب آغازین توصیه نمی‌شود. پس از یادگیری منبع اصلی، فصل‌های مرتبط با موضوع پژوهشی یا شاخه تخصصی انتخاب شوند.
 - **قدم بعدی:** پس از هر بخش، به مقاله‌های مروری جدید همان شاخه و سپس در صورت نیاز به مقالات پژوهشی اصلی بروید.
-- **مشخصات منبع:** Bruce Alberts et al. · W. W. Norton · 2022 · ویرایش هفتم · ISBN: ⁦9780393884852⁩
+- **مشخصات منبع:** ⁦Bruce Alberts et al.⁩ · ⁦W. W. Norton⁩ · ⁦2022⁩ · ویرایش هفتم · ⁦ISBN: 9780393884852⁩
 
 [صفحه رسمی ناشر و خرید](https://wwnorton.co.uk/books/9780393884852-molecular-biology-of-the-cell)
 
@@ -124,7 +124,7 @@
 - **چرا این منبع؟** مروری ساختاری و مکانیزمی بر ناقل‌های ⁦ABC⁩ انسانی است و پیوند روشنی میان معماری پروتئین غشایی، مصرف ⁦ATP⁩ و انتقال مواد ایجاد می‌کند.
 - **چگونه استفاده شود؟** پس از فصل‌های غشا و انتقال در کتاب اصلی خوانده شود؛ ابتدا چرخه انتقال و سپس تفاوت خانواده‌های ناقل‌ها مطالعه شود.
 - **قدم بعدی:** برای تکمیل تصویر غشا، مرور مربوط به ⁦flippase⁩ها و ⁦scramblase⁩ها را بخوانید.
-- **مشخصات:** Amer Alam, Kaspar P. Locher · Annual Review of Biophysics · 2023 · DOI: ⁦10.1146/annurev-biophys-111622-091232⁩
+- **مشخصات:** ⁦Amer Alam⁩, ⁦Kaspar P. Locher⁩ · ⁦Annual Review of Biophysics⁩ · ⁦2023⁩ · ⁦DOI: 10.1146/annurev-biophys-111622-091232⁩
 
 [صفحه رسمی مقاله](https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-111622-091232)
 
@@ -134,9 +134,9 @@
 - **چرا این منبع؟** نقش ⁦flippase⁩ها و ⁦scramblase⁩ها را در جابه‌جایی عرضی فسفولیپیدها و حفظ یا تغییر عدم‌تقارن غشا توضیح می‌دهد.
 - **چگونه استفاده شود؟** بعد از تسلط بر ساختار دولایه لیپیدی و انتقال غشایی مطالعه شود؛ شکل‌های مربوط به توزیع فسفولیپیدها نقطه شروع خوبی هستند.
 - **قدم بعدی:** در صورت علاقه به کانال‌های یونی و مکانوتراکنش، می‌توان به مرورهای تخصصی کانال‌های یونی رفت.
-- **مشخصات:** Takaharu Sakuragi, Shigekazu Nagata · Nature Reviews Molecular Cell Biology · 2023 · DOI: ⁦10.1038/s41580-023-00604-z⁩
+- **مشخصات:** ⁦Takaharu Sakuragi⁩, ⁦Shigekazu Nagata⁩ · ⁦Nature Reviews Molecular Cell Biology⁩ · ⁦2023⁩ · ⁦DOI: 10.1038/s41580-023-00604-z⁩
 
-[صفحه مقاله در Nature](https://www.nature.com/articles/s41580-023-00604-z)
+[صفحه مقاله در ⁦Nature⁩](https://www.nature.com/articles/s41580-023-00604-z)
 
 </details>
 
@@ -149,9 +149,9 @@
 - **چرا این منبع؟** مونتاژ پوشش ⁦COPII⁩، انتخاب محموله و خروج پروتئین‌ها از ⁦ER⁩ به گلژی را در یک چارچوب منسجم توضیح می‌دهد.
 - **چگونه استفاده شود؟** پس از مرور مسیر ترشحی در کتاب پیشرفته خوانده شود؛ ابتدا نقشه کلی ⁦ER-to-Golgi⁩ و سپس مونتاژ و انتخاب محموله مطالعه شوند.
 - **قدم بعدی:** سپس مقاله تماس‌های غشایی، دید غیر‌وزیکولی و ارتباط مستقیم میان اندامک‌ها را تکمیل می‌کند.
-- **مشخصات:** Katie W. Downes, Giulia Zanetti · Nature Reviews Molecular Cell Biology · 2025 · DOI: ⁦10.1038/s41580-025-00839-y⁩
+- **مشخصات:** ⁦Katie W. Downes⁩, ⁦Giulia Zanetti⁩ · ⁦Nature Reviews Molecular Cell Biology⁩ · ⁦2025⁩ · ⁦DOI: 10.1038/s41580-025-00839-y⁩
 
-[صفحه مقاله در Nature](https://www.nature.com/articles/s41580-025-00839-y)
+[صفحه مقاله در ⁦Nature⁩](https://www.nature.com/articles/s41580-025-00839-y)
 
 ### به‌روزرسانی تخصصی — مقاله ⁦Key challenges and recommendations for defining organelle membrane contact sites⁩
 
@@ -159,9 +159,9 @@
 - **چرا این منبع؟** یک مرور جدید درباره ⁦membrane contact sites⁩ و ارتباط عملکردی اندامک‌ها ارائه می‌کند.
 - **چگونه استفاده شود؟** پس از مطالعه مباحث اندامک‌ها در یک کتاب پیشرفته خوانده شود؛ ابتدا شکل‌ها و چارچوب مفهومی و سپس جزئیات مطالعه شوند.
 - **قدم بعدی:** اگر موضوع پژوهشی شما ارتباط اندامک‌هاست، از منابع ارجاع‌شده در مقاله مروری وارد مقالات اصلی شوید.
-- **مشخصات:** Calì T, Bayer EM, Eden ER, et al. · Nature Reviews Molecular Cell Biology · 2025 · DOI: ⁦10.1038/s41580-025-00864-x⁩
+- **مشخصات:** ⁦Cal⁩ì ⁦T⁩, ⁦Bayer EM⁩, ⁦Eden ER⁩, ⁦et al.⁩ · ⁦Nature Reviews Molecular Cell Biology⁩ · ⁦2025⁩ · ⁦DOI: 10.1038/s41580-025-00864-x⁩
 
-[صفحه مقاله در Nature](https://www.nature.com/articles/s41580-025-00864-x)
+[صفحه مقاله در ⁦Nature⁩](https://www.nature.com/articles/s41580-025-00864-x)
 
 </details>
 
@@ -170,23 +170,23 @@
 
 ### مرجع شاخه — مقاله ⁦Nucleocytoplasmic Transport⁩
 
-- **مناسب برای:** دانشجویی که ساختار هسته را می‌داند و می‌خواهد انتقال انتخابی پروتئین‌ها و RNA میان هسته و سیتوپلاسم را یکپارچه بفهمد.
+- **مناسب برای:** دانشجویی که ساختار هسته را می‌داند و می‌خواهد انتقال انتخابی پروتئین‌ها و ⁦RNA⁩ میان هسته و سیتوپلاسم را یکپارچه بفهمد.
 - **چرا این منبع؟** مرور گسترده‌ای از ⁦NPC⁩، عوامل انتقال، شناسایی محموله و منطق انتخاب‌پذیری انتقال هسته‌ای ارائه می‌کند.
 - **چگونه استفاده شود؟** ابتدا معماری منفذ هسته‌ای و سپس چرخه‌های ورود و خروج و نقش ⁦karyopherin⁩ها مطالعه شوند.
 - **قدم بعدی:** پس از آن، مقاله مروری تخصصی ساختار و مونتاژ ⁦NPC⁩ برای عمق ساختاری بیشتر مناسب است.
-- **مشخصات:** George W. Mobbs, Stefan Petrovic, André Hoelz · Annual Review of Biochemistry · 2026 · DOI: ⁦10.1146/annurev-biochem-031622-025802⁩
+- **مشخصات:** ⁦George W. Mobbs⁩, ⁦Stefan Petrovic⁩, ⁦Andr⁩é ⁦Hoelz⁩ · ⁦Annual Review of Biochemistry⁩ · ⁦2026⁩ · ⁦DOI: 10.1146/annurev-biochem-031622-025802⁩
 
 [صفحه رسمی مقاله](https://www.annualreviews.org/content/journals/10.1146/annurev-biochem-031622-025802)
 
-### به‌روزرسانی تخصصی — مقاله ⁦Structure, function and assembly of nuclear pore complexes⁩
+### به‌روزرسانی تخصصی — مقاله ⁦Structure⁩, ⁦function and assembly of nuclear pore complexes⁩
 
 - **مناسب برای:** دانشجوی پیشرفته‌ای که ساختار هسته و انتقال هسته‌ای را می‌داند و می‌خواهد وارد معماری و عملکرد کمپلکس منفذ هسته‌ای شود.
 - **چرا این منبع؟** مروری جدید بر ساختار، عملکرد، انتخاب‌پذیری و مونتاژ ⁦nuclear pore complex⁩ ارائه می‌کند.
 - **چگونه استفاده شود؟** ابتدا شکل‌ها و مدل کلی ⁦NPC⁩ و سپس جزئیات زیرواحدها و عوامل انتقال مطالعه شوند.
 - **قدم بعدی:** برای پروژه‌های مرتبط با انتقال هسته‌ای، از مقالات اصلی ارجاع‌شده در مقاله مروری استفاده کنید.
-- **مشخصات:** Stefan Petrovic, George W. Mobbs, André Hoelz · Nature Reviews Molecular Cell Biology · 2026 · DOI: ⁦10.1038/s41580-025-00881-w⁩
+- **مشخصات:** ⁦Stefan Petrovic⁩, ⁦George W. Mobbs⁩, ⁦Andr⁩é ⁦Hoelz⁩ · ⁦Nature Reviews Molecular Cell Biology⁩ · ⁦2026⁩ · ⁦DOI: 10.1038/s41580-025-00881-w⁩
 
-[صفحه مقاله در Nature](https://www.nature.com/articles/s41580-025-00881-w)
+[صفحه مقاله در ⁦Nature⁩](https://www.nature.com/articles/s41580-025-00881-w)
 
 </details>
 
@@ -203,7 +203,7 @@
 - **چرا این منبع؟** به‌جای حفظ‌کردن مسیرهای متعدد، اصول مشترک تعامل پروتئین‌ها، آنزیم‌های سیگنالینگ، پیام‌رسان‌های دوم و شبکه‌های تصمیم‌گیری سلولی را آموزش می‌دهد.
 - **چگونه استفاده شود؟** به‌صورت یک کتاب شاخه‌ای از ابتدا مطالعه شود؛ فصل‌های اصول مشترک را پیش از ورود به مسیرهای اختصاصی کامل کنید.
 - **قدم بعدی:** پس از تسلط بر اصول، مقاله‌های مروری جدید مسیرهای مشخص یا پیام‌رسان‌های دوم مانند کلسیم را انتخاب کنید.
-- **مشخصات:** Wendell A. Lim, Bruce J. Mayer · CRC Press · 2024 · ویرایش دوم · ISBN: ⁦9780367279370⁩
+- **مشخصات:** ⁦Wendell A. Lim⁩, ⁦Bruce J. Mayer⁩ · ⁦CRC Press⁩ · ⁦2024⁩ · ویرایش دوم · ⁦ISBN: 9780367279370⁩
 
 [صفحه رسمی ناشر و خرید](https://www.routledge.com/Cell-Signaling-2nd-edition-Principles-and-Mechanisms/Lim-Mayer/p/book/9780367279424)
 
@@ -213,9 +213,9 @@
 - **چرا این منبع؟** نمونه‌ای قوی از اتصال پیام‌رسانی سلولی به عملکرد اندامک‌هاست و منطق سیگنال‌های محلی و سراسری کلسیم را نشان می‌دهد.
 - **چگونه استفاده شود؟** پس از فصل پیام‌رسان‌های دوم در کتاب بالا مطالعه شود؛ ابتدا مدل کلی جریان کلسیم و سپس نقش میتوکندری بررسی شود.
 - **قدم بعدی:** برای پژوهش تخصصی، از منابع مقاله به مسیرهای مولکولی مورد علاقه وارد شوید.
-- **مشخصات:** Benjamín Cartes-Saavedra, Arijita Ghosh, György Hajnóczky · Nature Reviews Molecular Cell Biology · 2025 · DOI: ⁦10.1038/s41580-024-00820-1⁩
+- **مشخصات:** ⁦Benjam⁩í⁦n Cartes-Saavedra⁩, ⁦Arijita Ghosh⁩, ⁦Gy⁩ö⁦rgy Hajn⁩ó⁦czky⁩ · ⁦Nature Reviews Molecular Cell Biology⁩ · ⁦2025⁩ · ⁦DOI: 10.1038/s41580-024-00820-1⁩
 
-[صفحه مقاله در Nature](https://www.nature.com/articles/s41580-024-00820-1)
+[صفحه مقاله در ⁦Nature⁩](https://www.nature.com/articles/s41580-024-00820-1)
 
 </details>
 
@@ -228,7 +228,7 @@
 - **چرا این منبع؟** سه سامانه اصلی ⁦actin⁩، ⁦microtubule⁩ و ⁦intermediate filament⁩ را از دید مکانیک و پیوند ساختار و بیوشیمی مقایسه می‌کند.
 - **چگونه استفاده شود؟** پس از فصل اسکلت سلولی در کتاب پیشرفته خوانده شود؛ برای هر نوع رشته ابتدا معماری و سپس رفتار مکانیکی را دنبال کنید.
 - **قدم بعدی:** برای حرکت مولکولی و انتقال روی ⁦microtubule⁩ها، مقاله مروری مربوط به ⁦kinesin⁩ها مناسب است.
-- **مشخصات:** Guillaume Romet-Lemonne, Cécile Leduc, Antoine Jégou, Hugo Wioland · Annual Review of Biophysics · 2025 · DOI: ⁦10.1146/annurev-biophys-030722-120914⁩
+- **مشخصات:** ⁦Guillaume Romet-Lemonne⁩, ⁦C⁩é⁦cile Leduc⁩, ⁦Antoine J⁩é⁦gou⁩, ⁦Hugo Wioland⁩ · ⁦Annual Review of Biophysics⁩ · ⁦2025⁩ · ⁦DOI: 10.1146/annurev-biophys-030722-120914⁩
 
 [صفحه رسمی مقاله](https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-030722-120914)
 
@@ -238,9 +238,9 @@
 - **چرا این منبع؟** چرخه مکانوشیمیایی ⁦kinesin⁩، تنظیم حرکت، اتصال محموله و نقش پروتئین‌های همراه ⁦microtubule⁩ را به‌روز جمع‌بندی می‌کند.
 - **چگونه استفاده شود؟** ابتدا چرخه حرکتی ⁦kinesin⁩ و سپس تنظیم، اتصال محموله و تفاوت اعضای خانواده مطالعه شوند.
 - **قدم بعدی:** در صورت علاقه به انتقال درون‌سلولی، این شاخه را با منابع ⁦organelle trafficking⁩ پیوند دهید.
-- **مشخصات:** Ahmet Yildiz · Nature Reviews Molecular Cell Biology · 2025 · DOI: ⁦10.1038/s41580-024-00780-6⁩
+- **مشخصات:** ⁦Ahmet Yildiz⁩ · ⁦Nature Reviews Molecular Cell Biology⁩ · ⁦2025⁩ · ⁦DOI: 10.1038/s41580-024-00780-6⁩
 
-[صفحه مقاله در Nature](https://www.nature.com/articles/s41580-024-00780-6)
+[صفحه مقاله در ⁦Nature⁩](https://www.nature.com/articles/s41580-024-00780-6)
 
 </details>
 
@@ -253,9 +253,9 @@
 - **چرا این منبع؟** با وجود تمرکز بر سرطان، بخش اصلی آن سازوکارهای بنیادی و حفاظت‌شده کنترل چرخه سلولی و نقاط وارسی آسیب ⁦DNA⁩ را توضیح می‌دهد.
 - **چگونه استفاده شود؟** ابتدا بخش‌های تنظیم طبیعی چرخه و نقاط وارسی چرخه سلولی را بخوانید و سپس سرطان را به‌عنوان نمونه اختلال در این سامانه ببینید.
 - **قدم بعدی:** برای تقسیم کروموزومی در سطح ساختاری‌تر به منبع ⁦centromere⁩ و ⁦kinetochore⁩ بروید.
-- **مشخصات:** Helen K. Matthews, Cosetta Bertoli, Robertus A. M. de Bruin · Nature Reviews Molecular Cell Biology · 2022 · DOI: ⁦10.1038/s41580-021-00404-3⁩
+- **مشخصات:** ⁦Helen K. Matthews⁩, ⁦Cosetta Bertoli⁩, ⁦Robertus A. M. de Bruin⁩ · ⁦Nature Reviews Molecular Cell Biology⁩ · ⁦2022⁩ · ⁦DOI: 10.1038/s41580-021-00404-3⁩
 
-[صفحه مقاله در Nature](https://www.nature.com/articles/s41580-021-00404-3)
+[صفحه مقاله در ⁦Nature⁩](https://www.nature.com/articles/s41580-021-00404-3)
 
 ### به‌روزرسانی تخصصی — مقاله ⁦Structure and function of the centromere and inner kinetochore⁩
 
@@ -263,9 +263,9 @@
 - **چرا این منبع؟** یکی از جدیدترین مرورهای ساختاری حوزه است و معماری ⁦centromere⁩، ⁦CENP-A⁩ و ⁦inner kinetochore⁩ را با داده‌های جدید تلفیق می‌کند.
 - **چگونه استفاده شود؟** پس از تسلط بر میتوز و مفهوم ⁦kinetochore⁩ خوانده شود؛ شکل معماری کلی را پیش از جزئیات پروتئینی بررسی کنید.
 - **قدم بعدی:** برای منطق نقطه وارسی تقسیم، مطالعه تخصصی ⁦spindle assembly checkpoint⁩ مناسب است.
-- **مشخصات:** Rae R. Brown, Pim J. Huis in ’t Veld, Andrea Musacchio, et al. · Nature Reviews Molecular Cell Biology · 2026 · DOI: ⁦10.1038/s41580-026-00989-7⁩
+- **مشخصات:** ⁦Rae R. Brown⁩, ⁦Pim J. Huis in⁩ ’⁦t Veld⁩, ⁦Andrea Musacchio⁩, ⁦et al.⁩ · ⁦Nature Reviews Molecular Cell Biology⁩ · ⁦2026⁩ · ⁦DOI: 10.1038/s41580-026-00989-7⁩
 
-[صفحه مقاله در Nature](https://www.nature.com/articles/s41580-026-00989-7)
+[صفحه مقاله در ⁦Nature⁩](https://www.nature.com/articles/s41580-026-00989-7)
 
 </details>
 
@@ -278,9 +278,9 @@
 - **چرا این منبع؟** مسیرهای ⁦apoptosis⁩، ⁦necroptosis⁩ و ⁦pyroptosis⁩ را در یک چارچوب مقایسه‌ای و مکانیزمی جمع می‌کند.
 - **چگونه استفاده شود؟** با یک جدول شخصی از محرک، مولکول‌های کلیدی و پیامد هر مسیر مطالعه شود تا تفاوت مسیرها روشن بماند.
 - **قدم بعدی:** برای نیمه دیگر شاخه، یعنی پاکسازی انتخابی اجزای سلول، مقاله مروری مربوط به ⁦selective autophagy⁩ را بخوانید.
-- **مشخصات:** Junying Yuan, Dimitry Ofengeim · Nature Reviews Molecular Cell Biology · 2024 · DOI: ⁦10.1038/s41580-023-00689-6⁩
+- **مشخصات:** ⁦Junying Yuan⁩, ⁦Dimitry Ofengeim⁩ · ⁦Nature Reviews Molecular Cell Biology⁩ · ⁦2024⁩ · ⁦DOI: 10.1038/s41580-023-00689-6⁩
 
-[صفحه مقاله در Nature](https://www.nature.com/articles/s41580-023-00689-6)
+[صفحه مقاله در ⁦Nature⁩](https://www.nature.com/articles/s41580-023-00689-6)
 
 ### مرجع تکمیلی — مقاله ⁦The mechanisms and roles of selective autophagy in mammals⁩
 
@@ -288,9 +288,9 @@
 - **چرا این منبع؟** تفاوت ⁦autophagy⁩ غیرانتخابی و انتخابی را روشن می‌کند و نقش آن را در کنترل کیفیت اندامک‌ها و پروتئین‌ها توضیح می‌دهد.
 - **چگونه استفاده شود؟** ابتدا منطق شناسایی محموله و سپس نمونه‌های ⁦selective autophagy⁩ به‌ترتیب مطالعه شوند.
 - **قدم بعدی:** اگر موضوع پژوهشی شما یک اندامک خاص است، به مقاله‌های مروری اختصاصی همان نوع ⁦autophagy⁩ وارد شوید.
-- **مشخصات:** Vargas J.N.S., Hamasaki M., Kawabata T. et al. · Nature Reviews Molecular Cell Biology · 2023 · DOI: ⁦10.1038/s41580-022-00542-2⁩
+- **مشخصات:** ⁦Vargas J.N.S.⁩, ⁦Hamasaki M.⁩, ⁦Kawabata T. et al.⁩ · ⁦Nature Reviews Molecular Cell Biology⁩ · ⁦2023⁩ · ⁦DOI: 10.1038/s41580-022-00542-2⁩
 
-[صفحه مقاله در Nature](https://www.nature.com/articles/s41580-022-00542-2)
+[صفحه مقاله در ⁦Nature⁩](https://www.nature.com/articles/s41580-022-00542-2)
 
 </details>
 
@@ -303,9 +303,9 @@
 - **چرا این منبع؟** دید جامعی از مجموعه پروتئین‌ها و مولکول‌های ماتریکس، کلاژن، ⁦fibronectin⁩ و سازوکارهای تنظیم ⁦assembly⁩ و ⁦remodeling⁩ ماتریکس می‌دهد.
 - **چگونه استفاده شود؟** ابتدا تنوع اجزای ماتریکس خارج‌سلولی و سپس مراحل ترشح، مونتاژ و ⁦remodeling⁩ را دنبال کنید.
 - **قدم بعدی:** برای اتصال این موضوع به مکانیک تماس سلول–سلول، مقاله مروری مربوط به ⁦adherens junction⁩ها را بخوانید.
-- **مشخصات:** Alexandra Naba · Nature Reviews Molecular Cell Biology · 2024 · DOI: ⁦10.1038/s41580-024-00767-3⁩
+- **مشخصات:** ⁦Alexandra Naba⁩ · ⁦Nature Reviews Molecular Cell Biology⁩ · ⁦2024⁩ · ⁦DOI: 10.1038/s41580-024-00767-3⁩
 
-[صفحه مقاله در Nature](https://www.nature.com/articles/s41580-024-00767-3)
+[صفحه مقاله در ⁦Nature⁩](https://www.nature.com/articles/s41580-024-00767-3)
 
 ### مرجع تکمیلی — مقاله ⁦Adherens junctions as molecular regulators of emergent tissue mechanics⁩
 
@@ -313,9 +313,9 @@
 - **چرا این منبع؟** نشان می‌دهد ⁦adherens junction⁩ها چگونه از طریق ⁦cadherin⁩ها، ⁦tension⁩ و ⁦dynamics⁩ ویژگی‌های مکانیکی جمعی بافت را تنظیم می‌کنند.
 - **چگونه استفاده شود؟** پس از مبانی اتصالات سلولی و ماتریکس خارج‌سلولی مطالعه شود؛ ارتباط میان ساختار اتصال، نیرو و رفتار جمعی سلول‌ها را دنبال کنید.
 - **قدم بعدی:** برای ورود عمیق‌تر به ⁦mechanobiology⁩، منابع ⁦force transduction⁩ و ⁦cytoskeleton⁩ را دنبال کنید.
-- **مشخصات:** Otger Campàs, Ivar Noordstra, Alpha S. Yap · Nature Reviews Molecular Cell Biology · 2024 · DOI: ⁦10.1038/s41580-023-00688-7⁩
+- **مشخصات:** ⁦Otger Camp⁩à⁦s⁩, ⁦Ivar Noordstra⁩, ⁦Alpha S. Yap⁩ · ⁦Nature Reviews Molecular Cell Biology⁩ · ⁦2024⁩ · ⁦DOI: 10.1038/s41580-023-00688-7⁩
 
-[صفحه مقاله در Nature](https://www.nature.com/articles/s41580-023-00688-7)
+[صفحه مقاله در ⁦Nature⁩](https://www.nature.com/articles/s41580-023-00688-7)
 
 </details>
 
@@ -328,9 +328,9 @@
 - **چرا این منبع؟** سلولز، همی‌سلولز، پکتین و پروتئین‌های دیواره را به فیزیک رشد و تنظیم سلولی متصل می‌کند.
 - **چگونه استفاده شود؟** ابتدا ترکیب و معماری دیواره و سپس بخش‌های شل‌شدن دیواره، ⁦pH⁩ و تنظیم هورمونی مطالعه شوند.
 - **قدم بعدی:** برای ارتباط مستقیم میان سلول‌های گیاهی، مقاله مروری مربوط به ⁦plasmodesmata⁩ را بخوانید.
-- **مشخصات:** Daniel J. Cosgrove · Nature Reviews Molecular Cell Biology · 2024 · DOI: ⁦10.1038/s41580-023-00691-y⁩
+- **مشخصات:** ⁦Daniel J. Cosgrove⁩ · ⁦Nature Reviews Molecular Cell Biology⁩ · ⁦2024⁩ · ⁦DOI: 10.1038/s41580-023-00691-y⁩
 
-[صفحه مقاله در Nature](https://www.nature.com/articles/s41580-023-00691-y)
+[صفحه مقاله در ⁦Nature⁩](https://www.nature.com/articles/s41580-023-00691-y)
 
 ### مرجع تکمیلی — مقاله ⁦Plasmodesmata: Channels Under Pressure⁩
 
@@ -338,7 +338,7 @@
 - **چرا این منبع؟** ⁦plasmodesmata⁩ را به‌عنوان کانال‌های پویا و تنظیم‌شونده برای ارتباط بین سلول‌های گیاهی بررسی می‌کند.
 - **چگونه استفاده شود؟** بعد از مطالعه دیواره سلولی خوانده شود؛ ابتدا معماری ⁦plasmodesmata⁩ و سپس تنظیم ⁦permeability⁩ و پاسخ به فشار مطالعه شود.
 - **قدم بعدی:** برای تخصص عمیق‌تر در زیست‌شناسی سلول گیاهی، منابع مستقل پویایی کلروپلاست و سامانه‌های غشایی داخلی گیاه مناسب‌اند.
-- **مشخصات:** Emmanuelle M. Bayer, Yoselin Benitez-Alfonso · Annual Review of Plant Biology · 2024 · DOI: ⁦10.1146/annurev-arplant-070623-093110⁩
+- **مشخصات:** ⁦Emmanuelle M. Bayer⁩, ⁦Yoselin Benitez-Alfonso⁩ · ⁦Annual Review of Plant Biology⁩ · ⁦2024⁩ · ⁦DOI: 10.1146/annurev-arplant-070623-093110⁩
 
 [صفحه رسمی مقاله](https://www.annualreviews.org/content/journals/10.1146/annurev-arplant-070623-093110)
 
