@@ -140,6 +140,49 @@
 
 ---
 
+## میکروبیولوژی
+
+مسیر از ساختمان و فیزیولوژی سلول میکروبی تا متابولیسم، ژنتیک، تنوع، اکولوژی، میکروبیوم، بیماری‌زایی و مقاومت ضدمیکروبی ادامه دارد. شاخه‌های تخصصی شامل:
+
+- پوشش سلولی و معماری سطح میکروب؛
+- حسگری، حرکت و فیزیولوژی میکروبی؛
+- متابولیسم میکروبی و تنظیم آن؛
+- ژنتیک میکروبی و عناصر ژنتیکی متحرک؛
+- تنوع میکروبی، آرکی‌ها و تکامل اولیه؛
+- اکولوژی میکروبی و تعاملات جوامع؛
+- تعامل میزبان و میکروبیوم؛
+- بیماری‌زایی و تعامل با میزبان؛
+- مقاومت ضدمیکروبی.
+
+### کتاب‌های اصلی مسیر
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://www.mheducation.com/cover-images/Jpeg_400-high/1265827176.jpeg" width="145" alt="Prescott's Microbiology 2026 Release cover"><br>
+<b>Prescott's Microbiology</b><br>
+منبع اصلی · انتشار بین‌المللی ۲۰۲۶<br>
+<a href="https://www.mheducation.co.uk/prescott-s-microbiology-2026-release-ise-9781265827175-emea-group">ناشر / خرید</a>
+</td>
+<td align="center" width="33%">
+<img src="https://cdn2.wwnorton.com/wwnproducts/COLLEG/1/6/9781324033561/9781324033561_198.jpg" width="145" alt="Microbiology An Evolving Science 6e cover"><br>
+<b>Microbiology: An Evolving Science</b><br>
+منبع تکمیلی · ویرایش ۶ · ۲۰۲۳<br>
+<a href="https://wwnorton.co.uk/books/9781324033561-microbiology-5b2083ea-63b8-46f8-a651-f96b4c2badee">ناشر / خرید</a>
+</td>
+<td align="center" width="33%">
+<img src="https://www.pearson.com/store/pmccommercewebservices/v2/medias/size-W370-A1030-00-25-75-A103000257574-A103000257574-Lrg.jpg?context=bWFzdGVyfGltYWdlc3wyMzg3MnxpbWFnZS9qcGVnfHN5cy1tYXN0ZXIvaW1hZ2VzL2g3Mi9oN2QvMTU0NDE0MzAxNTExOTgvc2l6ZV9XMzcwXy9BMTAzMC8wMC8yNS83NS9BMTAzMDAwMjU3NTc0L0ExMDMwMDAyNTc1NzRfTHJnLmpwZ3wzOTdjOTEzMWE5ZjVjY2MyZWEzNjUzYmY1YTk1Nzk2YjU0NTFjOWIzYTVmZWIzMjNjYmI3ZTYwYjgwN2RjZDA4&amp;imwidth=3840" width="145" alt="Brock Biology of Microorganisms 16e cover"><br>
+<b>Brock Biology of Microorganisms, Global Edition</b><br>
+منبع پیشرفته · ویرایش ۱۶ · ۲۰۲۱<br>
+<a href="https://www.pearson.com/en-gb/subject-catalog/p/brock-biology-of-microorganisms-global-edition/P200000004789/9781292404790">ناشر / خرید</a>
+</td>
+</tr>
+</table>
+
+[مشاهده نقشه‌راه میکروبیولوژی](subjects/microbiology/README.md)
+
+---
+
 ## منطق انتخاب منابع
 
 یک منبع فقط به‌دلیل مشهوربودن، جدیدبودن یا تعداد استناد بالا وارد پروژه نمی‌شود. برای هر جایگاه باید روشن باشد:
