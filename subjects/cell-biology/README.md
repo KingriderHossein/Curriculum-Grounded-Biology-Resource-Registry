@@ -194,7 +194,7 @@
 <summary><strong>۴. پیام‌رسانی سلولی</strong></summary>
 
 <p align="center">
-  <img src="https://dynamic.indigoimages.ca/v1/books/books/0367279371/1.jpg" width="155" alt="Cell Signaling 2nd edition cover">
+  <img src="https://images.routledge.com/common/jackets/crclarge/978036727/9780367279370.jpg" width="155" alt="Cell Signaling 2nd edition cover">
 </p>
 
 ### مرجع شاخه — کتاب ⁦Cell Signaling: Principles and Mechanisms⁩ — ویرایش دوم
