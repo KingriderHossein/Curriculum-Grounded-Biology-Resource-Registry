@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Subject, resource-identity, and roadmap-placement integrity validator.
 
-Version: 0.4.0
+Version: 0.5.0
 Uses only the Python standard library.
 """
 
@@ -181,6 +181,36 @@ def main() -> None:
                 f"Subject {sid} has specialized branches without resources: "
                 f"{sorted(uncovered)}"
             )
+
+        status = subject.get("status")
+        if status not in {"in_progress", "complete_candidate", "complete"}:
+            raise ValueError(f"Subject {sid} has invalid or missing status {status!r}.")
+
+        criteria = subject.get("completion_criteria", {})
+        expected_general = criteria.get("general_roadmap_resources")
+        expected_branches = criteria.get("specialized_branches_required")
+
+        if not isinstance(expected_general, int) or expected_general < 1:
+            raise ValueError(f"Subject {sid} has invalid general_roadmap_resources.")
+        if expected_branches != len(declared_branches):
+            raise ValueError(
+                f"Subject {sid} completion criteria expect {expected_branches} branches "
+                f"but {len(declared_branches)} are declared."
+            )
+
+        general_count = sum(
+            1 for placement in placements
+            if placement["subject_id"] == sid
+            and placement.get("learning_stage") != "specialized"
+        )
+        if status in {"complete_candidate", "complete"} and general_count < expected_general:
+            raise ValueError(
+                f"Subject {sid} has {general_count} general roadmap placements; "
+                f"{expected_general} required for completion."
+            )
+
+        if status == "complete" and not subject.get("completed_on"):
+            raise ValueError(f"Completed subject {sid} is missing completed_on.")
 
     print(
         f"Registry validation passed: {len(subjects)} subject(s), "
