@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Subject/resource registry integrity validator.
+"""Subject, resource-identity, and roadmap-placement integrity validator.
 
-Version: 0.2.0
+Version: 0.4.0
 Uses only the Python standard library.
 """
 
@@ -14,27 +14,18 @@ from urllib.parse import urlparse
 ROOT = Path(__file__).resolve().parents[1]
 SUBJECTS_PATH = ROOT / "data" / "subjects.json"
 RESOURCES_PATH = ROOT / "data" / "resources.json"
+PLACEMENTS_PATH = ROOT / "data" / "placements.json"
 
-ALLOWED_TYPES = {
-    "foundation_textbook",
-    "core_textbook",
-    "reference_textbook",
-    "advanced_textbook",
+ALLOWED_RESOURCE_TYPES = {
+    "textbook",
     "review_article",
-    "authoritative_reference",
     "open_academic_resource",
+    "book_chapter",
+    "authoritative_reference",
 }
 
 ALLOWED_STAGES = {"foundation", "core", "intermediate", "advanced", "specialized"}
-
-DISALLOWED_TYPES = {
-    "laboratory_manual",
-    "protocol",
-    "sop",
-    "hands_on_training",
-    "practical_course",
-    "wet_lab_guide",
-}
+ALLOWED_BRANCH_ROLES = {"branch_reference", "complementary_reference", "current_update"}
 
 
 def load_json(path: Path) -> dict:
@@ -48,17 +39,42 @@ def require_https(value: str, label: str) -> None:
         raise ValueError(f"{label} must be an absolute HTTPS URL: {value!r}")
 
 
+def require_nonempty_string(value: object, label: str) -> None:
+    if not isinstance(value, str) or not value.strip():
+        raise ValueError(f"{label} must be a non-empty string.")
+
+
+def assert_unique(values: list[str], label: str) -> None:
+    seen: set[str] = set()
+    duplicates: set[str] = set()
+    for value in values:
+        if value in seen:
+            duplicates.add(value)
+        seen.add(value)
+    if duplicates:
+        raise ValueError(f"Duplicate {label}: {sorted(duplicates)}")
+
+
 def main() -> None:
     subjects = load_json(SUBJECTS_PATH).get("subjects", [])
     resources = load_json(RESOURCES_PATH).get("resources", [])
+    placements = load_json(PLACEMENTS_PATH).get("placements", [])
 
     subject_ids = [subject["id"] for subject in subjects]
-    if len(subject_ids) != len(set(subject_ids)):
-        raise ValueError("Duplicate subject IDs found.")
-
     resource_ids = [resource["id"] for resource in resources]
-    if len(resource_ids) != len(set(resource_ids)):
-        raise ValueError("Duplicate resource IDs found.")
+    placement_ids = [placement["id"] for placement in placements]
+
+    assert_unique(subject_ids, "subject IDs")
+    assert_unique(resource_ids, "resource IDs")
+    assert_unique(placement_ids, "placement IDs")
+
+    resource_id_set = set(resource_ids)
+    subject_id_set = set(subject_ids)
+
+    dois = [resource["doi"].lower() for resource in resources if resource.get("doi")]
+    isbns = [resource["isbn"].replace("-", "") for resource in resources if resource.get("isbn")]
+    assert_unique(dois, "resource DOIs")
+    assert_unique(isbns, "resource ISBNs")
 
     subject_concepts: dict[str, set[str]] = {}
     subject_branches: dict[str, set[str]] = {}
@@ -77,91 +93,87 @@ def main() -> None:
 
         if not concept_ids:
             raise ValueError(f"Subject {sid} has no concepts.")
-        if len(concept_ids) != len(set(concept_ids)):
-            raise ValueError(f"Duplicate concept IDs in {sid}.")
-        if len(branch_ids) != len(set(branch_ids)):
-            raise ValueError(f"Duplicate branch IDs in {sid}.")
+        assert_unique(concept_ids, f"concept IDs in {sid}")
+        assert_unique(branch_ids, f"branch IDs in {sid}")
 
         subject_concepts[sid] = set(concept_ids)
         subject_branches[sid] = set(branch_ids)
 
     for resource in resources:
         rid = resource["id"]
-        sid = resource["subject_id"]
-
-        if sid not in subject_concepts:
-            raise ValueError(f"{rid} references unknown subject {sid}.")
-
         rtype = resource.get("resource_type")
-        if rtype in DISALLOWED_TYPES or rtype not in ALLOWED_TYPES:
+
+        if rtype not in ALLOWED_RESOURCE_TYPES:
             raise ValueError(f"{rid} has unsupported resource_type {rtype!r}.")
-
-        if resource.get("learning_stage") not in ALLOWED_STAGES:
-            raise ValueError(f"{rid} has invalid learning_stage.")
-
         if resource.get("theory_only") is not True:
             raise ValueError(f"{rid} violates the theory-only rule.")
 
-        guidance = resource.get("student_guidance_fa", {})
-        required_guidance = {"best_for", "why", "how_to_use", "next_step"}
-        missing_guidance = [
-            field for field in required_guidance
-            if not isinstance(guidance.get(field), str) or not guidance.get(field).strip()
-        ]
-        if missing_guidance:
-            raise ValueError(
-                f"{rid} is missing Persian student guidance fields: {sorted(missing_guidance)}"
-            )
-
+        require_nonempty_string(resource.get("title"), f"{rid} title")
         require_https(resource.get("publisher_url", ""), f"{rid} publisher_url")
 
-        coverage = set(resource.get("coverage_concept_ids", []))
-        if not coverage:
-            raise ValueError(f"{rid} has no concept coverage.")
-
-        unknown_concepts = coverage - subject_concepts[sid]
-        if unknown_concepts:
-            raise ValueError(f"{rid} references unknown concepts: {sorted(unknown_concepts)}")
-
-        branches = set(resource.get("branch_ids", []))
-        unknown_branches = branches - subject_branches[sid]
-        if unknown_branches:
-            raise ValueError(f"{rid} references unknown branches: {sorted(unknown_branches)}")
-
-        if resource.get("learning_stage") == "specialized":
-            if not branches:
-                raise ValueError(f"{rid} is specialized but has no branch_ids.")
-            branch_role = resource.get("branch_role")
-            if branch_role not in {
-                "branch_reference",
-                "complementary_reference",
-                "current_update",
-            }:
-                raise ValueError(f"{rid} has invalid or missing branch_role.")
-
-        if rtype.endswith("textbook"):
-            if not resource.get("isbn"):
-                raise ValueError(f"{rid} textbook is missing ISBN.")
-            if not resource.get("edition"):
-                raise ValueError(f"{rid} textbook is missing edition.")
-            if not resource.get("purchase_url"):
-                raise ValueError(f"{rid} textbook is missing purchase_url.")
+        if rtype == "textbook":
+            for field in ("isbn", "edition", "purchase_url"):
+                require_nonempty_string(resource.get(field), f"{rid} {field}")
             require_https(resource["purchase_url"], f"{rid} purchase_url")
             cover = resource.get("cover", {})
             require_https(cover.get("url", ""), f"{rid} cover URL")
 
-        if rtype == "review_article" and not resource.get("doi"):
-            raise ValueError(f"{rid} review article is missing DOI.")
+        if rtype in {"review_article", "book_chapter"}:
+            require_nonempty_string(resource.get("doi"), f"{rid} DOI")
+
+    placement_pairs: list[str] = []
+
+    for placement in placements:
+        pid = placement["id"]
+        rid = placement["resource_id"]
+        sid = placement["subject_id"]
+
+        if rid not in resource_id_set:
+            raise ValueError(f"{pid} references unknown resource {rid}.")
+        if sid not in subject_id_set:
+            raise ValueError(f"{pid} references unknown subject {sid}.")
+
+        placement_pairs.append(f"{sid}::{rid}")
+
+        stage = placement.get("learning_stage")
+        if stage not in ALLOWED_STAGES:
+            raise ValueError(f"{pid} has invalid learning_stage {stage!r}.")
+
+        coverage = set(placement.get("coverage_concept_ids", []))
+        if not coverage:
+            raise ValueError(f"{pid} has no concept coverage.")
+        unknown_concepts = coverage - subject_concepts[sid]
+        if unknown_concepts:
+            raise ValueError(f"{pid} references unknown concepts: {sorted(unknown_concepts)}")
+
+        branches = set(placement.get("branch_ids", []))
+        unknown_branches = branches - subject_branches[sid]
+        if unknown_branches:
+            raise ValueError(f"{pid} references unknown branches: {sorted(unknown_branches)}")
+
+        if stage == "specialized":
+            if not branches:
+                raise ValueError(f"{pid} is specialized but has no branch_ids.")
+            if placement.get("branch_role") not in ALLOWED_BRANCH_ROLES:
+                raise ValueError(f"{pid} has invalid or missing branch_role.")
+
+        guidance = placement.get("student_guidance_fa", {})
+        for field in ("best_for", "why", "how_to_use", "next_step"):
+            require_nonempty_string(guidance.get(field), f"{pid} student_guidance_fa.{field}")
+
+        require_nonempty_string(placement.get("selection_rationale"), f"{pid} selection_rationale")
+
+    assert_unique(placement_pairs, "subject/resource placement pairs")
 
     for subject in subjects:
         sid = subject["id"]
         declared_branches = subject_branches[sid]
         covered_branches = {
             branch
-            for resource in resources
-            if resource["subject_id"] == sid
-            and resource.get("learning_stage") == "specialized"
-            for branch in resource.get("branch_ids", [])
+            for placement in placements
+            if placement["subject_id"] == sid
+            and placement.get("learning_stage") == "specialized"
+            for branch in placement.get("branch_ids", [])
         }
         uncovered = declared_branches - covered_branches
         if uncovered:
@@ -172,7 +184,8 @@ def main() -> None:
 
     print(
         f"Registry validation passed: {len(subjects)} subject(s), "
-        f"{len(resources)} resource(s), all declared branches covered."
+        f"{len(resources)} unique resource(s), {len(placements)} placement(s), "
+        "all declared branches covered."
     )
 
 
