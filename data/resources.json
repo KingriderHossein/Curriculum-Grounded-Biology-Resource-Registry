@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.8.0",
+  "schema_version": "0.9.0",
   "resources": [
     {
       "id": "OPENSTAX-BIOLOGY2E-2018",
@@ -2152,6 +2152,330 @@
       "publication_status": "published",
       "access_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12173792/",
       "access_status": "free_author_manuscript"
+    },
+    {
+      "id": "BOOK-EVOLUTION5-2023",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Evolution",
+      "authors": [
+        "Douglas J. Futuyma",
+        "Mark Kirkpatrick"
+      ],
+      "edition": "5th Edition",
+      "published_year": 2023,
+      "publisher": "Oxford University Press",
+      "isbn": "9780197619629",
+      "publisher_url": "https://www.oup.com.au/books/higher-education/biological-sciences/9780197619629",
+      "purchase_url": "https://www.oup.com.au/books/higher-education/biological-sciences/9780197619629",
+      "cover": {
+        "url": "https://fdslive.oup.com/covers/anz/desktop/medium/9780197619629.jpg",
+        "source": "Oxford University Press cover asset; pending CI visual review"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "BOOK-EVOLUTION-MAKING-SENSE4-2025",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Evolution: Making Sense of Life",
+      "authors": [
+        "Douglas J. Emlen",
+        "Carl Zimmer"
+      ],
+      "edition": "4th Edition",
+      "published_year": 2025,
+      "publisher": "Macmillan Learning",
+      "isbn": "9781319245580",
+      "publisher_url": "https://www.macmillanlearning.com/college/us/product/Evolution/p/1319245587",
+      "purchase_url": "https://www.macmillanlearning.com/college/us/product/Evolution/p/1319245587",
+      "cover": {
+        "url": "https://prod-cat-files.macmillan.cloud/MediaResources/Jackets/258W/9781319245580.jpg",
+        "source": "Macmillan Learning cover asset; pending CI visual review"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "BOOK-EVOLUTIONARY-ANALYSIS5-2021",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Evolutionary Analysis",
+      "authors": [
+        "Jon C. Herron",
+        "Scott Freeman"
+      ],
+      "edition": "5th Edition",
+      "published_year": 2021,
+      "publisher": "Pearson",
+      "isbn": "9780137521029",
+      "publisher_url": "https://www.pearson.com/en-us/subject-catalog/p/evolutionary-analysis/P200000006896/9780137521029",
+      "purchase_url": "https://www.pearson.com/en-us/subject-catalog/p/evolutionary-analysis/P200000006896/9780137521029",
+      "cover": {
+        "url": "https://covers.vitalsource.com/vbid/9780137521029/width/200",
+        "source": "VitalSource cover fallback; Pearson is bibliographic authority; pending CI visual review"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-EXPERIMENTAL-EVOLUTION-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Experimental evolution in an era of molecular manipulation",
+      "authors": [
+        "João A. Ascensão",
+        "Michael M. Desai"
+      ],
+      "published_year": 2026,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/s41576-025-00867-6",
+      "publisher_url": "https://www.nature.com/articles/s41576-025-00867-6",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-CLIMATE-ADAPTATION-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "The Molecular Basis of Adaptation to Climatic Factors and Range Change in Plants",
+      "authors": [
+        "Angela M. Hancock",
+        "Swan Portalier",
+        "Andrea Fulgione",
+        "Markus G. Stetter",
+        "Juliette de Meaux"
+      ],
+      "published_year": 2025,
+      "journal": "Annual Review of Ecology, Evolution, and Systematics",
+      "doi": "10.1146/annurev-ecolsys-102723-053810",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-102723-053810",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-DE-NOVO-GENES-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Emergence and evolution of protein-coding de novo genes",
+      "authors": [
+        "Erich Bornberg-Bauer",
+        "Lars A. Eicholt"
+      ],
+      "published_year": 2026,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/s41576-025-00929-9",
+      "publisher_url": "https://www.nature.com/articles/s41576-025-00929-9",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-PHYLO-COMPARATIVE-GENOMICS-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "A phylogenetic approach to comparative genomics",
+      "authors": [
+        "Anna E. Dewar",
+        "Laurence J. Belcher",
+        "Stuart A. West"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/s41576-024-00803-0",
+      "publisher_url": "https://www.nature.com/articles/s41576-024-00803-0",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-PHYLOGENETIC-TREE-BUILDING-2020",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Phylogenetic tree building in the genomic age",
+      "authors": [
+        "Paschalia Kapli",
+        "Ziheng Yang",
+        "Maximilian J. Telford"
+      ],
+      "published_year": 2020,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/s41576-020-0233-0",
+      "publisher_url": "https://www.nature.com/articles/s41576-020-0233-0",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-SPECIES-DELIMITATION-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "A Genomic Perspective on Species Delimitation",
+      "authors": [
+        "Sonal Singhal",
+        "Adam D. Leaché",
+        "Matthew K. Fujita",
+        "Carlos Daniel Cadena",
+        "Felipe Zapata"
+      ],
+      "published_year": 2025,
+      "journal": "Annual Review of Ecology, Evolution, and Systematics",
+      "doi": "10.1146/annurev-ecolsys-102723-055311",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-102723-055311",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-GENOMICS-ORIGIN-SPECIES-2014",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Genomics and the origin of species",
+      "authors": [
+        "Ole Seehausen",
+        "Roger K. Butlin",
+        "Irene Keller",
+        "Catherine E. Wagner",
+        "et al."
+      ],
+      "published_year": 2014,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/nrg3644",
+      "publisher_url": "https://www.nature.com/articles/nrg3644",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-PHYLOGENETIC-DIVERSIFICATION-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Phylogenetic Insights into Diversification",
+      "authors": [
+        "Hélène Morlon",
+        "Jérémy Andréoletti",
+        "Joëlle Barido-Sottani",
+        "et al."
+      ],
+      "published_year": 2024,
+      "journal": "Annual Review of Ecology, Evolution, and Systematics",
+      "doi": "10.1146/annurev-ecolsys-102722-020508",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-102722-020508",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-ECO-INTERACTIONS-MACROEVOLUTION-2020",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Ecological Interactions and Macroevolution: A New Field with Old Roots",
+      "authors": [
+        "David H. Hembry",
+        "Marjorie G. Weber"
+      ],
+      "published_year": 2020,
+      "journal": "Annual Review of Ecology, Evolution, and Systematics",
+      "doi": "10.1146/annurev-ecolsys-011720-121505",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-011720-121505",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-PHENOTYPIC-EVOLUTION-EVODEVO-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Mechanisms of Phenotypic Evolution from Molecules to Organisms: Integrating Evolutionary Biochemistry and Evolutionary Developmental Biology",
+      "authors": [
+        "Joseph W. Thornton",
+        "et al."
+      ],
+      "published_year": 2026,
+      "journal": "Annual Review of Ecology, Evolution, and Systematics",
+      "doi": "10.1146/annurev-ecolsys-102924-043757",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-102924-043757",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-ECO-EVO-DEVO-2015",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Eco-Evo-Devo: developmental symbiosis and developmental plasticity as evolutionary agents",
+      "authors": [
+        "Scott F. Gilbert",
+        "Thomas C. G. Bosch",
+        "Cristina Ledón-Rettig"
+      ],
+      "published_year": 2015,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/nrg3982",
+      "publisher_url": "https://www.nature.com/articles/nrg3982",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-PARASITISM-CONSEQUENCES-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Ecological and Evolutionary Consequences of Parasitism",
+      "authors": [
+        "Vanessa O. Ezenwa",
+        "Andrew W. Park"
+      ],
+      "published_year": 2026,
+      "journal": "Annual Review of Ecology, Evolution, and Systematics",
+      "doi": "10.1146/annurev-ecolsys-102723-042501",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-102723-042501",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-PARASITISM-HOST-DIVERSIFICATION-2025",
+      "resource_type": "authoritative_reference",
+      "theory_only": true,
+      "title": "Parasitism as a driver of host diversification",
+      "authors": [
+        "Adam Z. Hasik",
+        "Jaakko J. Ilvonen",
+        "Tiziana P. Gobbin",
+        "et al."
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Biodiversity",
+      "doi": "10.1038/s44358-025-00045-w",
+      "publisher_url": "https://www.nature.com/articles/s44358-025-00045-w",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-HUMAN-SPECIFIC-GENETICS-2023",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Human-specific genetics: new tools to explore the molecular and cellular basis of human evolution",
+      "authors": [
+        "Alex A. Pollen",
+        "Umut Kilik",
+        "Craig B. Lowe",
+        "et al."
+      ],
+      "published_year": 2023,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/s41576-022-00568-4",
+      "publisher_url": "https://www.nature.com/articles/s41576-022-00568-4",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-HUMAN-SELECTION-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Genomic insights into natural selection in recent human history",
+      "authors": [
+        "Pontus Skoglund",
+        "Iain Mathieson"
+      ],
+      "published_year": 2026,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/s41576-026-01010-9",
+      "publisher_url": "https://www.nature.com/articles/s41576-026-01010-9",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
     }
   ]
 }
