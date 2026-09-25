@@ -128,6 +128,17 @@ def main() -> None:
         if unknown_branches:
             raise ValueError(f"{rid} references unknown branches: {sorted(unknown_branches)}")
 
+        if resource.get("learning_stage") == "specialized":
+            if not branches:
+                raise ValueError(f"{rid} is specialized but has no branch_ids.")
+            branch_role = resource.get("branch_role")
+            if branch_role not in {
+                "branch_reference",
+                "complementary_reference",
+                "current_update",
+            }:
+                raise ValueError(f"{rid} has invalid or missing branch_role.")
+
         if rtype.endswith("textbook"):
             if not resource.get("isbn"):
                 raise ValueError(f"{rid} textbook is missing ISBN.")
@@ -142,9 +153,26 @@ def main() -> None:
         if rtype == "review_article" and not resource.get("doi"):
             raise ValueError(f"{rid} review article is missing DOI.")
 
+    for subject in subjects:
+        sid = subject["id"]
+        declared_branches = subject_branches[sid]
+        covered_branches = {
+            branch
+            for resource in resources
+            if resource["subject_id"] == sid
+            and resource.get("learning_stage") == "specialized"
+            for branch in resource.get("branch_ids", [])
+        }
+        uncovered = declared_branches - covered_branches
+        if uncovered:
+            raise ValueError(
+                f"Subject {sid} has specialized branches without resources: "
+                f"{sorted(uncovered)}"
+            )
+
     print(
         f"Registry validation passed: {len(subjects)} subject(s), "
-        f"{len(resources)} resource(s)."
+        f"{len(resources)} resource(s), all declared branches covered."
     )
 
 

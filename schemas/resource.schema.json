@@ -108,6 +108,13 @@
                 "minLength": 1
               }
             }
+          },
+          "branch_role": {
+            "enum": [
+              "branch_reference",
+              "complementary_reference",
+              "current_update"
+            ]
           }
         }
       }
