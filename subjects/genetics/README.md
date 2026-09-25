@@ -24,7 +24,7 @@
 ## مرحله پایه — ترمیم پیش‌نیازها
 
 <p align="center">
-  <img src="https://storage.pardot.com/218812/1766081607A9LlaLN9/biology_book_card_2e.svg" width="155" alt="Biology 2e cover">
+  <img src="https://covers.openlibrary.org/b/isbn/9781947172517-L.jpg?default=false" width="155" alt="Biology 2e cover">
 </p>
 
 ### کتاب ⁦Biology 2e⁩
@@ -43,7 +43,7 @@
 ## مرحله اصلی — یادگیری منسجم ژنتیک
 
 <p align="center">
-  <img src="https://covers.openlibrary.org/b/isbn/9781319546700-L.jpg?default=false" width="155" alt="Genetics: A Conceptual Approach, Update cover">
+  <img src="https://prod-cat-files.macmillan.cloud/MediaResources/Jackets/258W/9781319546700.jpg" width="155" alt="Genetics: A Conceptual Approach, Update cover">
 </p>
 
 ### کتاب ⁦Genetics: A Conceptual Approach⁩, ⁦Update⁩ — ⁦7th⁩ ویرایش
@@ -62,7 +62,7 @@
 ## مرحله تکمیلی — تحلیل عمیق‌تر
 
 <p align="center">
-  <img src="https://covers.openlibrary.org/b/isbn/9781319589943-L.jpg?default=false" width="155" alt="Introduction to Genetic Analysis, Digital Update cover">
+  <img src="https://prod-cat-files.macmillan.cloud/MediaResources/Jackets/258W/9781319589943.jpg" width="155" alt="Introduction to Genetic Analysis, Digital Update cover">
 </p>
 
 ### کتاب ⁦Introduction to Genetic Analysis⁩, ⁦Digital Update⁩ — ⁦12th⁩ ویرایش
@@ -81,7 +81,7 @@
 ## مرحله پیشرفته — منطق تحلیل ژنتیکی
 
 <p align="center">
-  <img src="https://covers.openlibrary.org/b/isbn/9781118086926-L.jpg?default=false" width="155" alt="Genetic Theory and Analysis: Finding Meaning in a Genome cover">
+  <img src="https://dynamic.indigoimages.ca/v1/books/books/1118086929/1.jpg" width="155" alt="Genetic Theory and Analysis: Finding Meaning in a Genome cover">
 </p>
 
 ### کتاب ⁦Genetic Theory and Analysis: Finding Meaning in a Genome⁩ — ⁦2nd⁩ ویرایش

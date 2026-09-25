@@ -22,3 +22,6 @@ This file is a navigation index, not a status log.
 - Biochemistry: Foundation → Core → Intermediate → Advanced → 9 specialized branches.
 - Genetics: Foundation → Core → Intermediate → Advanced → 9 specialized branches.
 - Molecular Biology: Foundation → Core → Intermediate → Advanced → 9 specialized branches.
+
+- Microbiology: 4 general placements and 9 selected specialist branches.
+- Book-cover network/decoding audit: `scripts/audit_book_covers.py`; visual review evidence is stored per `cover` record.

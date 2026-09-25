@@ -24,7 +24,7 @@
 ## مرحله پایه — مرور پیش‌نیازها
 
 <p align="center">
-  <img src="https://storage.pardot.com/218812/1766081607A9LlaLN9/biology_book_card_2e.svg" width="155" alt="Biology 2e cover">
+  <img src="https://covers.openlibrary.org/b/isbn/9781947172517-L.jpg?default=false" width="155" alt="Biology 2e cover">
 </p>
 
 ### کتاب ⁦Biology 2e⁩

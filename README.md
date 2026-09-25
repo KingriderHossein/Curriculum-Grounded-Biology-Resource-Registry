@@ -22,6 +22,7 @@
 | [بیوشیمی ⁦Biochemistry⁩](subjects/biochemistry/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
 | [ژنتیک ⁦Genetics⁩](subjects/genetics/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
 | [زیست‌شناسی مولکولی ⁦Molecular Biology⁩](subjects/molecular-biology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
+| [میکروبیولوژی ⁦Microbiology⁩](subjects/microbiology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
 
 > یک منبع علمی ممکن است در چند درس استفاده شود. هویت کتاب یا مقاله فقط **یک بار** در رجیستری ثبت می‌شود و جایگاه آن در هر درس به‌صورت جداگانه تعریف می‌شود.
 
@@ -54,19 +55,19 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://covers.openlibrary.org/b/isbn/9781319589967-L.jpg?default=false" width="145" alt="Lehninger Biochemistry Core Concepts and Applications cover"><br>
+<img src="https://prod-cat-files.macmillan.cloud/MediaResources/Jackets/258W/9781319589967.jpg" width="145" alt="Lehninger Biochemistry Core Concepts and Applications cover"><br>
 <b>Lehninger Biochemistry: Core Concepts and Applications</b><br>
 منبع اصلی · ویرایش ۱ · ۲۰۲۵<br>
 <a href="https://www.macmillanlearning.com/ed/au/product/Lehninger-Biochemistry-Core-Concepts-and-Applications--1st-edition/p/1319589960">ناشر / خرید</a>
 </td>
 <td align="center" width="33%">
-<img src="https://covers.openlibrary.org/b/isbn/9781319498504-L.jpg?default=false" width="145" alt="Biochemistry 10e cover"><br>
+<img src="https://prod-cat-files.macmillan.cloud/MediaResources/Jackets/258W/9781319498504.jpg" width="145" alt="Biochemistry 10e cover"><br>
 <b>Biochemistry</b><br>
 منبع تکمیلی · ویرایش ۱۰ · ۲۰۲۳<br>
 <a href="https://www.macmillanlearning.com/ed/uk/product/Biochemistry--10th-edition/p/1319498507">ناشر / خرید</a>
 </td>
 <td align="center" width="33%">
-<img src="https://covers.openlibrary.org/b/isbn/9781319381493-L.jpg?default=false" width="145" alt="Lehninger Principles of Biochemistry 8e cover"><br>
+<img src="https://prod-cat-files.macmillan.cloud/MediaResources/Jackets/258W/9781319381493.jpg" width="145" alt="Lehninger Principles of Biochemistry 8e cover"><br>
 <b>Lehninger Principles of Biochemistry</b><br>
 منبع پیشرفته · ویرایش ۸ · ۲۰۲۱<br>
 <a href="https://www.macmillanlearning.com/ed/uk/product/Lehninger-Principles-of-Biochemistry--8th-edition/p/1319381499">ناشر / خرید</a>
@@ -97,19 +98,19 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://covers.openlibrary.org/b/isbn/9781319546700-L.jpg?default=false" width="145" alt="Genetics A Conceptual Approach 7e cover"><br>
+<img src="https://prod-cat-files.macmillan.cloud/MediaResources/Jackets/258W/9781319546700.jpg" width="145" alt="Genetics A Conceptual Approach 7e cover"><br>
 <b>Genetics: A Conceptual Approach, Update</b><br>
 منبع اصلی · ویرایش ۷ · ۲۰۲۴<br>
 <a href="https://www.macmillanlearning.com/ed/uk/product/Genetics-A-Conceptual-Approach-Update--7th-edition/p/1319546706">ناشر / خرید</a>
 </td>
 <td align="center" width="33%">
-<img src="https://covers.openlibrary.org/b/isbn/9781319589943-L.jpg?default=false" width="145" alt="Introduction to Genetic Analysis 12e cover"><br>
+<img src="https://prod-cat-files.macmillan.cloud/MediaResources/Jackets/258W/9781319589943.jpg" width="145" alt="Introduction to Genetic Analysis 12e cover"><br>
 <b>Introduction to Genetic Analysis, Digital Update</b><br>
 منبع تکمیلی · ویرایش ۱۲ · ۲۰۲۵<br>
 <a href="https://www.macmillanlearning.com/ed/uk/product/Introduction-to-Genetic-Analysis-Digital-Update--12th-edition/p/1319589944">ناشر / خرید</a>
 </td>
 <td align="center" width="33%">
-<img src="https://covers.openlibrary.org/b/isbn/9781118086926-L.jpg?default=false" width="145" alt="Genetic Theory and Analysis 2e cover"><br>
+<img src="https://dynamic.indigoimages.ca/v1/books/books/1118086929/1.jpg" width="145" alt="Genetic Theory and Analysis 2e cover"><br>
 <b>Genetic Theory and Analysis: Finding Meaning in a Genome</b><br>
 منبع پیشرفته · ویرایش ۲ · ۲۰۲۳<br>
 <a href="https://bookshop.org/p/books/genetic-theory-and-analysis-finding-meaning-in-a-genome-r-scott-hawley/18519287">خرید</a>
