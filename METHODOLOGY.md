@@ -8,10 +8,11 @@ For each subject:
 
 1. define prerequisite knowledge;
 2. define the Core conceptual spine;
-3. define the Advanced layer;
-4. identify specialized branches;
-5. select resources for each stage;
-6. update fast-moving branches with recent peer-reviewed reviews.
+3. define the Intermediate layer;
+4. define the Advanced layer;
+5. identify specialized branches;
+6. select resources for each stage;
+7. update fast-moving branches with recent peer-reviewed reviews.
 
 Curricula may be mapped later as optional metadata.
 
@@ -27,16 +28,7 @@ Allowed resource categories:
 - `authoritative_reference`
 - `open_academic_resource`
 
-Explicitly excluded:
-
-- laboratory manuals
-- protocols
-- SOPs
-- hands-on training
-- practical-course guides
-- wet-lab tutorials
-
-A technique may be discussed conceptually only when it is necessary to understand the subject.
+Explicitly excluded: laboratory manuals, protocols, SOPs, hands-on training, practical-course guides, and wet-lab tutorials.
 
 ## 3. Roadmap placement
 
@@ -81,29 +73,11 @@ No numeric “best book” score is used. The registry records *why* a source be
 
 A branch belongs inside the parent Subject when it is a specialization of that subject rather than a fully independent discipline.
 
-Example for Cell Biology:
-
-- membranes & transport;
-- organelle biology & trafficking;
-- nucleus & nucleocytoplasmic transport;
-- signaling;
-- cytoskeleton & mechanics;
-- cell cycle;
-- cell death & autophagy;
-- adhesion & extracellular matrix;
-- plant-cell structures.
-
-Each branch can later receive its own Foundation/Core/Advanced references if the literature is deep enough.
+For Cell Biology these include membranes, organelle biology, nucleus/transport, signaling, cytoskeleton, cell cycle, cell death/autophagy, adhesion/ECM, and plant-cell structures.
 
 ## 7. Book-cover policy
 
-Book covers are presentation metadata, not scientific evidence.
-
-- use official publisher-hosted cover images when available;
-- publisher pages remain the authoritative bibliographic/purchase source;
-- do not store full book content;
-- keep the cover source identity;
-- local cover caching requires a clear rights/source policy.
+Book covers are presentation metadata, not scientific evidence. Prefer official publisher-hosted cover images; keep publisher pages as the bibliographic/purchase authority; do not store full book content.
 
 ## 8. Verification states
 
