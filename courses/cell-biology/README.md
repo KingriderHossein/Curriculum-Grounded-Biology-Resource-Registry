@@ -73,7 +73,7 @@ Why it is here: Norton describes this edition as designed for a first course in 
 
 ### The Cell: A Molecular Approach — 9th Edition
 
-**Geoffrey M. Cooper, Kenneth W. Adams · Oxford University Press · 2022/2023**  
+**Geoffrey M. Cooper, Kenneth W. Adams · Oxford University Press · 2022**  
 ISBN: **9780197583722**
 
 **Role:** Reference textbook
