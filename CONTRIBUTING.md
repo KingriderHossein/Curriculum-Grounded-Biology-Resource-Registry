@@ -33,7 +33,8 @@ Provide:
 - concept coverage;
 - branch mapping when specialized;
 - concise selection rationale;
-- what should be read before/after it when relevant.
+- what should be read before/after it when relevant;
+- Persian student guidance for: who it is for, why it is selected, how to use it, and what to read next.
 
 ## Adding a review article
 
