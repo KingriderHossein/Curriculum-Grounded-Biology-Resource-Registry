@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.7.0",
+  "schema_version": "0.8.0",
   "resources": [
     {
       "id": "OPENSTAX-BIOLOGY2E-2018",
@@ -1460,6 +1460,419 @@
       "journal": "Nature Reviews Genetics",
       "doi": "10.1038/s41576-025-00864-9",
       "publisher_url": "https://www.nature.com/articles/s41576-025-00864-9",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "OPENSTAX-MICROBIOLOGY-2016",
+      "resource_type": "open_academic_resource",
+      "theory_only": true,
+      "title": "Microbiology",
+      "authors": [
+        "Nina Parker",
+        "Mark Schneegurt",
+        "Anh-Hue Thi Tu",
+        "Brian M. Forster",
+        "Philip Lister"
+      ],
+      "published_year": 2016,
+      "publisher": "OpenStax",
+      "isbn": "9781938168147",
+      "publisher_url": "https://openstax.org/books/microbiology/pages/1-introduction",
+      "access_url": "https://openstax.org/books/microbiology/pages/1-introduction",
+      "cover": {
+        "url": "https://covers.openlibrary.org/b/isbn/9781938168147-L.jpg?default=false",
+        "source": "Open Library ISBN cover fallback; bibliographic authority OpenStax"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "BOOK-PRESCOTT-MICROBIOLOGY12-2026",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Prescott's Microbiology",
+      "authors": [
+        "Joanne Willey",
+        "Kathleen Sandman",
+        "Dorothy Wood"
+      ],
+      "edition": "12th Edition, 2026 Release",
+      "published_year": 2026,
+      "publisher": "McGraw Hill",
+      "isbn": "9781264658626",
+      "publisher_url": "https://www.mheducation.com/highered/product/Prescotts-Microbiology-Willey.html",
+      "purchase_url": "https://www.mheducation.com/highered/product/Prescotts-Microbiology-Willey.html",
+      "cover": {
+        "url": "https://covers.openlibrary.org/b/isbn/9781264658626-L.jpg?default=false",
+        "source": "Open Library ISBN cover fallback; bibliographic authority McGraw Hill"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "BOOK-MICROBIOLOGY-EVOLVING6-2023",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Microbiology: An Evolving Science",
+      "authors": [
+        "Joan L. Slonczewski",
+        "John W. Foster",
+        "Erik R. Zinser"
+      ],
+      "edition": "6th International Student Edition",
+      "published_year": 2023,
+      "publisher": "W. W. Norton & Company",
+      "isbn": "9781324033561",
+      "publisher_url": "https://wwnorton.co.uk/books/9781324033561-microbiology-5b2083ea-63b8-46f8-a651-f96b4c2badee",
+      "purchase_url": "https://wwnorton.co.uk/books/9781324033561-microbiology-5b2083ea-63b8-46f8-a651-f96b4c2badee",
+      "cover": {
+        "url": "https://covers.openlibrary.org/b/isbn/9781324033561-L.jpg?default=false",
+        "source": "Open Library ISBN cover fallback; bibliographic authority W. W. Norton"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "BOOK-BROCK-MICROORGANISMS16-2024",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Brock Biology of Microorganisms, Global Edition",
+      "authors": [
+        "Michael T. Madigan",
+        "Kelly S. Bender",
+        "Daniel H. Buckley",
+        "W. Matthew Sattley",
+        "David A. Stahl"
+      ],
+      "edition": "16th Edition",
+      "published_year": 2024,
+      "publisher": "Pearson",
+      "isbn": "9781292404790",
+      "publisher_url": "https://www.pearson.com/en-gb/subject-catalog/p/brock-biology-of-microorganisms-global-edition/P200000004789/9781292404790",
+      "purchase_url": "https://www.pearson.com/en-gb/subject-catalog/p/brock-biology-of-microorganisms-global-edition/P200000004789/9781292404790",
+      "cover": {
+        "url": "https://covers.openlibrary.org/b/isbn/9781292404790-L.jpg?default=false",
+        "source": "Open Library ISBN cover fallback; bibliographic authority Pearson"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-TERRABACTERIA-ENVELOPE-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Terrabacteria: redefining bacterial envelope diversity, biogenesis and evolution",
+      "authors": [
+        "Basile Beaud Benyahia",
+        "Najwa Taib",
+        "Christophe Beloin",
+        "Simonetta Gribaldo"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Microbiology",
+      "doi": "10.1038/s41579-024-01088-0",
+      "publisher_url": "https://www.nature.com/articles/s41579-024-01088-0",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-MICROBIAL-SLAYERS-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Assembly, architecture and functional roles of microbial surface layers",
+      "authors": [
+        "Buse Isbilir",
+        "Andriko von Kügelgen",
+        "Vikram Alva",
+        "Tanmay A. M. Bharat"
+      ],
+      "published_year": 2026,
+      "journal": "Nature Reviews Microbiology",
+      "doi": "10.1038/s41579-025-01258-8",
+      "publisher_url": "https://www.nature.com/articles/s41579-025-01258-8",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-BACTERIAL-CHEMOTAXIS-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Unpacking Alternative Features of the Bacterial Chemotaxis System",
+      "authors": [
+        "A. R. Muok",
+        "F. A. Olsthoorn",
+        "A. Briegel"
+      ],
+      "published_year": 2024,
+      "journal": "Annual Review of Microbiology",
+      "doi": "10.1146/annurev-micro-032421-110850",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-micro-032421-110850",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-HELICOBACTER-FLAGELLA-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "From Swimming to Sensing: The Multifunctional Flagella of Helicobacter",
+      "authors": [
+        "Jiunn N. C. Fong",
+        "Eric H. L. Huang",
+        "Ana I. Ponce",
+        "Xiaolin Liu",
+        "Karen M. Ottemann"
+      ],
+      "published_year": 2026,
+      "journal": "Annual Review of Microbiology",
+      "doi": "10.1146/annurev-micro-042924-021000",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-micro-042924-021000",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-COORDINATION-MICROBIAL-METABOLISM-2014",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Coordination of microbial metabolism",
+      "authors": [
+        "Victor Chubukov",
+        "Luca Gerosa",
+        "Karl Kochanowski",
+        "Uwe Sauer"
+      ],
+      "published_year": 2014,
+      "journal": "Nature Reviews Microbiology",
+      "doi": "10.1038/nrmicro3238",
+      "publisher_url": "https://www.nature.com/articles/nrmicro3238",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-ACTINOMYCETOTA-METABOLITES-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Why Do Filamentous Actinomycetota Produce Such a Vast Array of Specialized Metabolites?",
+      "authors": [
+        "Luis M. Cantu Morin",
+        "Kilian Dekoninck",
+        "Varun Sridhar",
+        "Saoirse Disney-McKeethen",
+        "Theresa Proctor",
+        "Ashley Y. Eng",
+        "Matthew F. Traxler"
+      ],
+      "published_year": 2025,
+      "journal": "Annual Review of Microbiology",
+      "doi": "10.1146/annurev-micro-060424-051257",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-micro-060424-051257",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-HGT-ADAPTATION-2022",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Horizontal gene transfer and adaptive evolution in bacteria",
+      "authors": [
+        "Brian J. Arnold",
+        "I-Ting Huang",
+        "William P. Hanage"
+      ],
+      "published_year": 2022,
+      "journal": "Nature Reviews Microbiology",
+      "doi": "10.1038/s41579-021-00650-4",
+      "publisher_url": "https://www.nature.com/articles/s41579-021-00650-4",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-BACTERIAL-MGE-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Interactions and evolutionary relationships among bacterial mobile genetic elements",
+      "authors": [
+        "Andrew S. Lang",
+        "Alison Buchan",
+        "Vincent Burrus"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Microbiology",
+      "doi": "10.1038/s41579-025-01157-y",
+      "publisher_url": "https://www.nature.com/articles/s41579-025-01157-y",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-ASGARD-ARCHAEA-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Diversity, ecology, cell biology and evolution of the Asgard archaea",
+      "authors": [
+        "Kassiani Panagiotou",
+        "Patricia Geesink",
+        "Stephan Köstlbacher",
+        "Gerben H. de Zwaan",
+        "Thijs J. G. Ettema"
+      ],
+      "published_year": 2026,
+      "journal": "Nature Reviews Microbiology",
+      "doi": "10.1038/s41579-026-01288-w",
+      "publisher_url": "https://www.nature.com/articles/s41579-026-01288-w",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-EARLY-MICROBIAL-LIFE-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Reconstructing Early Microbial Life",
+      "authors": [
+        "Betül Kaçar"
+      ],
+      "published_year": 2024,
+      "journal": "Annual Review of Microbiology",
+      "doi": "10.1146/annurev-micro-041522-103400",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-micro-041522-103400",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-SOIL-MICROBIAL-COMMUNITIES-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "The interplay between microbial communities and soil properties",
+      "authors": [
+        "Laurent Philippot",
+        "Claire Chenu",
+        "Andreas Kappler",
+        "Matthias C. Rillig",
+        "Noah Fierer"
+      ],
+      "published_year": 2024,
+      "journal": "Nature Reviews Microbiology",
+      "doi": "10.1038/s41579-023-00980-5",
+      "publisher_url": "https://www.nature.com/articles/s41579-023-00980-5",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-CORRINOID-COMMUNITIES-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "The Corrinoid Model for Dissecting Microbial Community Interactions Across Scales",
+      "authors": [
+        "Zoila I. Alvarez-Aponte",
+        "Rebecca R. Procknow",
+        "Michiko E. Taga"
+      ],
+      "published_year": 2025,
+      "journal": "Annual Review of Microbiology",
+      "doi": "10.1146/annurev-micro-051024-044734",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-micro-051024-044734",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-HOST-MICROBIOME-GENOMICS-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Genomics of host–microbiome interactions in humans",
+      "authors": [
+        "Pamela Ferretti",
+        "Kelsey Johnson",
+        "Sambhawa Priya",
+        "Ran Blekhman"
+      ],
+      "published_year": 2026,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/s41576-025-00849-8",
+      "publisher_url": "https://www.nature.com/articles/s41576-025-00849-8",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-CIRCADIAN-MICROBIOME-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Circadian Control of Host–Microbiome Symbioses",
+      "authors": [
+        "Talia Akoh-Arrey",
+        "Urbashi Basu",
+        "John F. Brooks II"
+      ],
+      "published_year": 2026,
+      "journal": "Annual Review of Microbiology",
+      "doi": "10.1146/annurev-micro-042424-091144",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-micro-042424-091144",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-SALMONELLA-HOST-MICROBIOTA-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Host–microbiota–pathogen interactions drive Salmonella enterica serovar Typhimurium pathogenesis",
+      "authors": [
+        "Andrés Vázquez-Torres"
+      ],
+      "published_year": 2026,
+      "journal": "Nature Reviews Microbiology",
+      "doi": "10.1038/s41579-026-01348-1",
+      "publisher_url": "https://www.nature.com/articles/s41579-026-01348-1",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-PSEUDOMONAS-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Pseudomonas aeruginosa: ecology, evolution, pathogenesis and antimicrobial susceptibility",
+      "authors": [
+        "Morgana Letizia",
+        "Stephen P. Diggle",
+        "Marvin Whiteley"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Microbiology",
+      "doi": "10.1038/s41579-025-01193-8",
+      "publisher_url": "https://www.nature.com/articles/s41579-025-01193-8",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-AMR-EVOLUTION-SCALES-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "From Petri Dishes to Patients to Populations: Scales and Evolutionary Mechanisms Driving Antibiotic Resistance",
+      "authors": [
+        "Célia Souque",
+        "Indra González Ojeda",
+        "Michael Baym"
+      ],
+      "published_year": 2024,
+      "journal": "Annual Review of Microbiology",
+      "doi": "10.1146/annurev-micro-041522-102707",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-micro-041522-102707",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-METABOLISM-AMR-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "The role of bacterial metabolism in antimicrobial resistance",
+      "authors": [
+        "Mehrose Ahmad",
+        "Sai Varun Aduru",
+        "Robert P. Smith",
+        "Zirui Zhao",
+        "Allison J. Lopatkin"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Microbiology",
+      "doi": "10.1038/s41579-025-01155-0",
+      "publisher_url": "https://www.nature.com/articles/s41579-025-01155-0",
       "verification_status": "verified",
       "verified_on": "2026-09-25"
     }
