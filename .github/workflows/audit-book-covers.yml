@@ -2,7 +2,7 @@ name: Audit book covers
 
 on:
   push:
-    branches: [main, feat/microbiology-roadmap]
+    branches: [main]
     paths:
       - '.github/workflows/audit-book-covers.yml'
       - 'scripts/audit*cover*.py'
