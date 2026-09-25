@@ -81,7 +81,7 @@
 ## مرحله پیشرفته — منطق تحلیل ژنتیکی
 
 <p align="center">
-  <img src="https://dynamic.indigoimages.ca/v1/books/books/1118086929/1.jpg" width="155" alt="Genetic Theory and Analysis: Finding Meaning in a Genome cover">
+  <img src="https://media.wiley.com/product_data/coverImage300/29/11180869/1118086929.jpg" width="155" alt="Genetic Theory and Analysis: Finding Meaning in a Genome cover">
 </p>
 
 ### کتاب ⁦Genetic Theory and Analysis: Finding Meaning in a Genome⁩ — ⁦2nd⁩ ویرایش
