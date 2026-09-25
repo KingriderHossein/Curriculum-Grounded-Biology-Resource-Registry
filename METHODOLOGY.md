@@ -1,91 +1,128 @@
-# Methodology
+# روش‌شناسی انتخاب و جای‌گذاری منابع
 
-## 1. Subject first
+## ۱. درس، محور اصلی پروژه است
 
-The project begins from a scientific subject, not from a national curriculum or major.
+پروژه از یک **موضوع علمی مستقل** شروع می‌شود، نه از رشته دانشگاهی یا چارت آموزشی یک کشور.
 
-For each subject:
+برای هر درس:
 
-1. define prerequisite knowledge;
-2. define the Core conceptual spine;
-3. define the Intermediate layer;
-4. define the Advanced layer;
-5. identify specialized branches;
-6. select resources for each stage;
-7. update fast-moving branches with recent peer-reviewed reviews.
+1. پیش‌نیازهای مفهومی مشخص می‌شوند؛
+2. مسیر اصلی یادگیری از پایه تا پیشرفته تعریف می‌شود؛
+3. شاخه‌های تخصصی واقعی درس جدا می‌شوند؛
+4. منابع معتبر برای هر مرحله انتخاب می‌شوند؛
+5. شاخه‌های سریع‌التغییر با مقاله‌های مروری جدید به‌روزرسانی می‌شوند.
 
-Curricula may be mapped later as optional metadata.
+چارت‌های آموزشی فقط در صورت نیاز به‌صورت نگاشت ثانویه استفاده می‌شوند.
 
-## 2. Theory-only gate
+## ۲. Resource و Placement از هم جدا هستند
 
-Allowed resource categories:
+**Resource** هویت یکتای یک کتاب، مقاله یا فصل است؛ مانند عنوان، نویسندگان، ISBN/DOI، ناشر و لینک رسمی.
 
-- `foundation_textbook`
-- `core_textbook`
-- `reference_textbook`
-- `advanced_textbook`
-- `review_article`
-- `authoritative_reference`
-- `open_academic_resource`
+**Placement** مشخص می‌کند همان منبع در یک درس مشخص چه نقشی دارد:
 
-Explicitly excluded: laboratory manuals, protocols, SOPs, hands-on training, practical-course guides, and wet-lab tutorials.
+- مرحله یادگیری؛
+- مفهوم‌های پوشش‌داده‌شده؛
+- شاخه تخصصی؛
+- دلیل انتخاب؛
+- راهنمای فارسی دانشجو.
 
-## 3. Roadmap placement
+بنابراین یک ISBN یا DOI در کل پروژه فقط یک بار ثبت می‌شود، حتی اگر در چند درس استفاده شود.
 
-Every resource must have a `learning_stage`:
+## ۳. فقط منابع نظری
 
-- `foundation`
-- `core`
-- `intermediate`
-- `advanced`
-- `specialized`
+انواع اصلی منابع مجاز:
 
-A resource may cover several concept areas, but it should have one primary learning role.
+- کتاب دانشگاهی؛
+- مقاله مروری؛
+- فصل نظری کتاب؛
+- مرجع علمی معتبر؛
+- منبع دانشگاهی آزاد.
 
-## 4. Resource selection
+موارد خارج از دامنه:
 
-### Scientific authority
-Publisher/journal reputation, author expertise, peer review where applicable, and bibliographic traceability.
+- پروتکل؛
+- راهنمای آزمایشگاهی؛
+- ⁦SOP⁩؛
+- آموزش ⁦wet-lab⁩؛
+- راهنمای عملی تکنیک یا دستگاه؛
+- دوره عملی.
 
-### Pedagogical fit
-The resource must fit the learner stage. A definitive research reference is not automatically a good first book.
+اگر یک تکنیک برای فهم یک مفهوم نظری ضروری باشد، فقط **اصل و منطق علمی آن** می‌تواند پوشش داده شود.
 
-### Concept coverage
-Each resource maps to explicit concept IDs within its Subject.
+## ۴. مراحل یادگیری
 
-### Currency
-Use the latest published and available edition when scientifically and pedagogically suitable. Recent review literature supplements textbooks in rapidly moving areas.
+هر Placement یکی از این مراحل را دارد:
 
-### Stability and verifiability
-Prefer ISBN, DOI, PMID, official publisher pages, journal pages, and stable academic URLs.
+- **پایه:** ترمیم پیش‌نیازها؛
+- **اصلی:** منبع نخست برای یادگیری منسجم درس؛
+- **تکمیلی:** مرور دوم و عمق بیشتر؛
+- **پیشرفته:** مرجع عمیق و مکانیزمی؛
+- **تخصصی:** منبع مربوط به یک شاخه مشخص.
 
-## 5. Resource roles
+## ۵. معیارهای انتخاب منبع
 
-- **Foundation**: prerequisite or first-exposure material.
-- **Core**: the main learning resource for the subject.
-- **Intermediate / Reference**: broad reinforcement or second-pass depth.
-- **Advanced**: deeper mechanistic and research-level coverage.
-- **Specialized**: focused branch-level literature.
+### اعتبار علمی
 
-No numeric “best book” score is used. The registry records *why* a source belongs at a particular stage.
+ناشر یا ژورنال، تخصص نویسندگان، داوری علمی و قابلیت ردیابی کتاب‌شناختی بررسی می‌شوند.
 
-## 6. Specialized branches
+### تناسب آموزشی
 
-A branch belongs inside the parent Subject when it is a specialization of that subject rather than a fully independent discipline.
+معتبرترین یا سنگین‌ترین مرجع لزوماً بهترین کتاب برای شروع نیست. منبع باید با مرحله یادگیری دانشجو متناسب باشد.
 
-For Cell Biology these include membranes, organelle biology, nucleus/transport, signaling, cytoskeleton, cell cycle, cell death/autophagy, adhesion/ECM, and plant-cell structures.
+### پوشش مفهومی
 
-## 7. Book-cover policy
+هر Placement باید به مفهوم‌ها یا شاخه‌های مشخصی از درس متصل باشد. «مرتبط بودن کلی» کافی نیست.
 
-Book covers are presentation metadata, not scientific evidence. Prefer official publisher-hosted cover images; keep publisher pages as the bibliographic/purchase authority; do not store full book content.
+### به‌روز بودن
 
-## 8. Verification states
+برای کتاب‌ها، جدیدترین ویرایش **منتشرشده و در دسترس** در صورتی ترجیح دارد که از نظر آموزشی مناسب باشد.  
+در حوزه‌های سریع‌التغییر، کتاب با مقاله‌های مروری جدید و معتبر تکمیل می‌شود.
+
+### قابلیت بررسی
+
+ISBN، DOI، PMID، صفحه رسمی ناشر و صفحه ژورنال نسبت به لینک‌های غیررسمی اولویت دارند.
+
+## ۶. نقش منابع در شاخه‌های تخصصی
+
+در شاخه تخصصی منابع می‌توانند یکی از این نقش‌ها را داشته باشند:
+
+- **مرجع شاخه:** نقطه ورود اصلی به آن حوزه؛
+- **مرجع تکمیلی:** زاویه یا زیرموضوع مهم دیگری را پوشش می‌دهد؛
+- **به‌روزرسانی جدید:** وضعیت جدیدتر و سریع‌التغییر حوزه را نشان می‌دهد.
+
+هدف، جمع‌آوری تعداد زیاد مقاله نیست؛ **حداقل مجموعه‌ای است که یک مسیر علمی قابل‌دفاع بسازد**.
+
+## ۷. راهنمای دانشجو
+
+هر Placement باید چهار سؤال را به فارسی پاسخ دهد:
+
+1. برای چه کسی مناسب است؟
+2. چرا این منبع انتخاب شده است؟
+3. چگونه باید از آن استفاده کرد؟
+4. قدم بعدی چیست؟
+
+این اطلاعات باید به تصمیم‌گیری دانشجو کمک کنند، نه اینکه فقط داده کتاب‌شناختی را تکرار کنند.
+
+## ۸. سیاست جلد کتاب
+
+جلد برای تشخیص بصری است، نه سنجش اعتبار علمی.
+
+- تصویر رسمی ناشر در اولویت است؛
+- اگر در دسترس نباشد، منبع جایگزین معتبر با ذکر منبع استفاده می‌شود؛
+- صفحه ناشر همچنان مرجع اطلاعات کتاب‌شناختی و خرید است؛
+- محتوای کامل کتاب در ریپو ذخیره نمی‌شود.
+
+## ۹. وضعیت تأیید
+
+Resource می‌تواند یکی از این وضعیت‌ها را داشته باشد:
 
 - `candidate`
 - `verified`
 - `provisional`
 - `outdated`
 
-## 9. Audit trail
+این وضعیت در لایه داده نگهداری می‌شود و لازم نیست در صفحه دانشجویی نمایش داده شود.
 
-Each record stores a verification date and source URLs. Changes to edition, learning stage, concept mapping, branch mapping or verification status remain reviewable in Git history.
+## ۱۰. ردپای تغییرات
+
+تغییر ویرایش، DOI/ISBN، جایگاه آموزشی، پوشش مفهومی یا نقش یک منبع باید در تاریخچه Git قابل بررسی باشد.
