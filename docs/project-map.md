@@ -16,6 +16,7 @@ This file is a navigation index, not a status log.
 | Visual conventions | [docs/visual-style.md](visual-style.md) |
 | Optional curriculum mappings | `mappings/` when useful |
 
-## Current implemented slice
+## Current implemented subjects
 
-Cell Biology: Foundation → Core → Intermediate → Advanced → specialized branches.
+- Cell Biology: Foundation → Core → Intermediate → Advanced → 9 specialized branches.
+- Biochemistry: Foundation → Core → Intermediate → Advanced → 9 specialized branches.
