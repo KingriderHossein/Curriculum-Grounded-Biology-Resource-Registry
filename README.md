@@ -28,19 +28,19 @@ MSRT revised curriculum (1400), 3 theoretical credits / 48 hours.
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://covers.openlibrary.org/b/isbn/9781324033394-L.jpg?default=false" width="145" alt="Essential Cell Biology 6e cover"><br>
+<img src="https://cdn2.wwnorton.com/wwnproducts/COLLEG/4/9/9781324033394/9781324033394_198.jpg" width="145" alt="Essential Cell Biology 6e cover"><br>
 <b>Essential Cell Biology</b><br>
 6th International Student Edition · 2023<br>
 <a href="https://wwnorton.co.uk/books/9781324033394-essential-cell-biology-c7a43b27-8186-4ee2-b83f-e60dd511e7ac">Publisher / Purchase</a>
 </td>
 <td align="center" width="33%">
-<img src="https://covers.openlibrary.org/b/isbn/9780197583722-L.jpg?default=false" width="145" alt="The Cell A Molecular Approach 9e cover"><br>
+<img src="https://fdslive.oup.com/covers/anz/desktop/medium/9780197583722.jpg" width="145" alt="The Cell A Molecular Approach 9e cover"><br>
 <b>The Cell: A Molecular Approach</b><br>
 9th Edition · 2022<br>
 <a href="https://www.oup.com.au/books/higher-education/biological-sciences/9780197583722">Publisher / Purchase</a>
 </td>
 <td align="center" width="33%">
-<img src="https://covers.openlibrary.org/b/isbn/9780393884852-L.jpg?default=false" width="145" alt="Molecular Biology of the Cell 7e cover"><br>
+<img src="https://cdn2.wwnorton.com/wwnproducts/COLLEG/2/5/9780393884852/9780393884852_198.jpg" width="145" alt="Molecular Biology of the Cell 7e cover"><br>
 <b>Molecular Biology of the Cell</b><br>
 7th Edition · 2022<br>
 <a href="https://wwnorton.co.uk/books/9780393884852-molecular-biology-of-the-cell">Publisher / Purchase</a>
