@@ -14,75 +14,106 @@
 > محور پروژه **خودِ درس یا موضوع علمی** است، نه رشته، دانشگاه یا چارت آموزشی یک کشور.  
 > هر درس یک نقشه‌راه مستقل دارد: **پایه ← منبع اصلی ← منبع تکمیلی ← پیشرفته ← شاخه‌های تخصصی**.
 
-## درس تکمیل‌شده
+## درس‌های تکمیل‌شده
 
-### [زیست‌شناسی سلولی | ⁦Cell Biology⁩](subjects/cell-biology/README.md)
+| درس | مسیر عمومی | شاخه تخصصی | منابع در مسیر |
+|---|---:|---:|---:|
+| [زیست‌شناسی سلولی ⁦Cell Biology⁩](subjects/cell-biology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
+| [بیوشیمی ⁦Biochemistry⁩](subjects/biochemistry/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
 
-- **مسیر عمومی:** ۴ منبع از پیش‌نیاز تا سطح پیشرفته
-- **شاخه‌های تخصصی:** ۹ شاخه
-- **کل منابع منتخب:** ۲۲ منبع
-- **دامنه:** فقط نظری
-- **وضعیت:** الگوی مرجع برای توسعه درس‌های بعدی
+> یک منبع علمی ممکن است در چند درس استفاده شود. هویت کتاب یا مقاله فقط **یک بار** در رجیستری ثبت می‌شود و جایگاه آن در هر درس به‌صورت جداگانه تعریف می‌شود.
 
-### مسیر کلی
+---
 
-```text
-پایه
-  ↓
-منبع اصلی
-  ↓
-منبع تکمیلی
-  ↓
-منبع پیشرفته
-  ↓
-شاخه تخصصی
-```
+## زیست‌شناسی سلولی
 
-شاخه‌های تخصصی این درس شامل غشا و انتقال، اندامک‌ها، هسته، پیام‌رسانی سلولی، اسکلت سلولی، چرخه سلولی، مرگ سلولی و اتوفاژی، چسبندگی و ماتریکس خارج‌سلولی و ساختارهای اختصاصی سلول گیاهی هستند.
+مسیر از مبانی سلول تا منابع پیشرفته و شاخه‌هایی مانند غشا، اندامک‌ها، هسته، پیام‌رسانی، اسکلت سلولی، چرخه سلولی، مرگ سلولی، چسبندگی و ساختارهای سلول گیاهی ادامه دارد.
+
+[مشاهده نقشه‌راه زیست‌شناسی سلولی](subjects/cell-biology/README.md)
+
+---
+
+## بیوشیمی
+
+مسیر از پیش‌نیازهای شیمی حیات تا بیوشیمی پیشرفته و سپس شاخه‌های زیر ادامه پیدا می‌کند:
+
+- تاخوردگی پروتئین و پروتئوستاز؛
+- آنزیم‌شناسی و سینتیک؛
+- زیست‌انرژی و اکسایش–کاهش؛
+- متابولیسم کربوهیدرات؛
+- متابولیسم لیپید؛
+- متابولیسم اسیدهای آمینه و نیتروژن؛
+- متابولیسم نوکلئوتید؛
+- یکپارچگی و تنظیم متابولیسم؛
+- گلیکوبیولوژی.
 
 ### کتاب‌های اصلی مسیر
 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://cdn2.wwnorton.com/wwnproducts/COLLEG/4/9/9781324033394/9781324033394_198.jpg" width="145" alt="Essential Cell Biology 6e cover"><br>
-<b>Essential Cell Biology</b><br>
-منبع اصلی · ویرایش ۶ · ۲۰۲۳<br>
-<a href="https://wwnorton.co.uk/books/9781324033394-essential-cell-biology-c7a43b27-8186-4ee2-b83f-e60dd511e7ac">ناشر / خرید</a>
+<img src="https://covers.openlibrary.org/b/isbn/9781319589967-L.jpg?default=false" width="145" alt="Lehninger Biochemistry Core Concepts and Applications cover"><br>
+<b>Lehninger Biochemistry: Core Concepts and Applications</b><br>
+منبع اصلی · ویرایش ۱ · ۲۰۲۵<br>
+<a href="https://www.macmillanlearning.com/ed/au/product/Lehninger-Biochemistry-Core-Concepts-and-Applications--1st-edition/p/1319589960">ناشر / خرید</a>
 </td>
 <td align="center" width="33%">
-<img src="https://fdslive.oup.com/covers/anz/desktop/medium/9780197583722.jpg" width="145" alt="The Cell A Molecular Approach 9e cover"><br>
-<b>The Cell: A Molecular Approach</b><br>
-منبع تکمیلی · ویرایش ۹ · ۲۰۲۲<br>
-<a href="https://www.oup.com.au/books/higher-education/biological-sciences/9780197583722">ناشر / خرید</a>
+<img src="https://covers.openlibrary.org/b/isbn/9781319498504-L.jpg?default=false" width="145" alt="Biochemistry 10e cover"><br>
+<b>Biochemistry</b><br>
+منبع تکمیلی · ویرایش ۱۰ · ۲۰۲۳<br>
+<a href="https://www.macmillanlearning.com/ed/uk/product/Biochemistry--10th-edition/p/1319498507">ناشر / خرید</a>
 </td>
 <td align="center" width="33%">
-<img src="https://cdn2.wwnorton.com/wwnproducts/COLLEG/2/5/9780393884852/9780393884852_198.jpg" width="145" alt="Molecular Biology of the Cell 7e cover"><br>
-<b>Molecular Biology of the Cell</b><br>
-منبع پیشرفته · ویرایش ۷ · ۲۰۲۲<br>
-<a href="https://wwnorton.co.uk/books/9780393884852-molecular-biology-of-the-cell">ناشر / خرید</a>
+<img src="https://covers.openlibrary.org/b/isbn/9781319381493-L.jpg?default=false" width="145" alt="Lehninger Principles of Biochemistry 8e cover"><br>
+<b>Lehninger Principles of Biochemistry</b><br>
+منبع پیشرفته · ویرایش ۸ · ۲۰۲۱<br>
+<a href="https://www.macmillanlearning.com/ed/uk/product/Lehninger-Principles-of-Biochemistry--8th-edition/p/1319381499">ناشر / خرید</a>
 </td>
 </tr>
 </table>
 
-## منطق پروژه
+[مشاهده نقشه‌راه بیوشیمی](subjects/biochemistry/README.md)
 
-یک منبع فقط به‌دلیل مشهوربودن وارد پروژه نمی‌شود. برای هر منبع باید روشن باشد:
+---
+
+## منطق انتخاب منابع
+
+یک منبع فقط به‌دلیل مشهوربودن، جدیدبودن یا تعداد استناد بالا وارد پروژه نمی‌شود. برای هر جایگاه باید روشن باشد:
 
 - در چه سطحی از مسیر قرار می‌گیرد؛
 - برای چه دانشجویی مناسب است؛
 - چرا انتخاب شده است؛
 - چگونه باید از آن استفاده کرد؛
 - قدم بعدی پس از آن چیست؛
-- به کدام بخش یا شاخه تخصصی تعلق دارد.
+- به کدام مفهوم یا شاخه تخصصی تعلق دارد.
 
-چارت‌های دانشگاهی در صورت نیاز فقط به‌عنوان **نگاشت اختیاری** استفاده می‌شوند و ساختار علمی پروژه را تعیین نمی‌کنند.
+در موضوعات سریع‌التغییر، کتاب‌های مرجع با مقاله‌های مروری جدید تکمیل می‌شوند.
+
+## مدل داده
+
+```text
+Subject
+   ↓
+Placement
+   ├── مرحله یادگیری
+   ├── مفهوم / شاخه
+   ├── دلیل انتخاب
+   └── راهنمای دانشجو
+   ↓
+Resource
+   └── هویت یکتای کتاب / مقاله / فصل
+```
+
+این مدل باعث می‌شود مثلاً یک کتاب مشترک میان چند درس فقط یک بار با ISBN خود ثبت شود.
 
 ## ساختار ریپو
 
 ```text
 subjects/       صفحات دانشجویی و نقشه‌راه هر درس
-data/           داده ساخت‌یافته درس‌ها و منابع
+data/
+  subjects.json     تعریف درس‌ها و شاخه‌ها
+  resources.json    هویت یکتای منابع
+  placements.json   جایگاه منابع در هر درس
 schemas/        قراردادهای داده
 scripts/        اعتبارسنجی خودکار
 docs/           قواعد علمی و بصری پروژه
