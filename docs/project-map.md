@@ -13,6 +13,7 @@ This file is a navigation index, not a status log.
 | Subject-specific roadmap placements | [data/placements.json](../data/placements.json) |
 | Data contracts | [schemas/](../schemas/) |
 | Automated validation | [scripts/validate_registry.py](../scripts/validate_registry.py) |
+| Book-cover loading/render audit | [scripts/audit_book_covers.py](../scripts/audit_book_covers.py) + [scripts/audit_rendered_covers.py](../scripts/audit_rendered_covers.py) |
 | Visual conventions | [docs/visual-style.md](visual-style.md) |
 | Optional curriculum mappings | `mappings/` when useful |
 
@@ -23,5 +24,4 @@ This file is a navigation index, not a status log.
 - Genetics: Foundation → Core → Intermediate → Advanced → 9 specialized branches.
 - Molecular Biology: Foundation → Core → Intermediate → Advanced → 9 specialized branches.
 
-- Microbiology: 4 general placements and 9 selected specialist branches.
-- Book-cover network/decoding audit: `scripts/audit_book_covers.py`; visual review evidence is stored per `cover` record.
+- Microbiology: Foundation → Core → Intermediate → Advanced → 9 specialized branches.
