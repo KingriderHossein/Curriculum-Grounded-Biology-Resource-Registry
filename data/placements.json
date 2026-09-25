@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.2.0",
+  "schema_version": "0.3.0",
   "placements": [
     {
       "id": "CELL-BIOLOGY::OPENSTAX-BIOLOGY2E-2018",
@@ -977,6 +977,515 @@
       },
       "branch_ids": [
         "glycobiology"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "GENETICS::OPENSTAX-BIOLOGY2E-2018",
+      "resource_id": "OPENSTAX-BIOLOGY2E-2018",
+      "subject_id": "GENETICS",
+      "learning_stage": "foundation",
+      "role": "foundation",
+      "coverage_concept_ids": [
+        "GT01",
+        "GT02",
+        "GT04",
+        "GT06",
+        "GT07"
+      ],
+      "selection_rationale": "یک منبع آزاد و دانشگاهی برای ترمیم پیش‌نیازهای ژنتیک است و اجازه می‌دهد بدون ورود مستقیم به کتاب تخصصی، مفاهیم بنیادی مرور شوند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که در وراثت مندلی، تقسیم سلولی، ساختار ⁦DNA⁩ یا ارتباط ژن با پروتئین هنوز پایه محکمی ندارد.",
+        "why": "یک منبع آزاد و دانشگاهی برای ترمیم پیش‌نیازهای ژنتیک است و اجازه می‌دهد بدون ورود مستقیم به کتاب تخصصی، مفاهیم بنیادی مرور شوند.",
+        "how_to_use": "کل کتاب لازم نیست؛ فصل‌های مربوط به وراثت مندلی، الگوهای وراثت، ساختار و همانندسازی ⁦DNA⁩، ژن و پروتئین و تنظیم بیان ژن را هدفمند بخوانید.",
+        "next_step": "پس از این مرور وارد ⁦Genetics: A Conceptual Approach⁩ شوید."
+      }
+    },
+    {
+      "id": "GENETICS::BOOK-GENETICS-CONCEPTUAL7-2024",
+      "resource_id": "BOOK-GENETICS-CONCEPTUAL7-2024",
+      "subject_id": "GENETICS",
+      "learning_stage": "core",
+      "role": "core",
+      "coverage_concept_ids": [
+        "GT01",
+        "GT02",
+        "GT03",
+        "GT04",
+        "GT05",
+        "GT06",
+        "GT07",
+        "GT08",
+        "GT09",
+        "GT10",
+        "GT11",
+        "GT12",
+        "GT13",
+        "GT14",
+        "GT15"
+      ],
+      "selection_rationale": "کتاب بر ارتباط میان مفاهیم ژنتیک تأکید دارد و از وراثت کلاسیک تا ژنومیک، اپی‌ژنتیک، ژنتیک سرطان، صفات کمی و تکامل را در یک مسیر آموزشی واحد پوشش می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد ژنتیک را برای نخستین بار به‌صورت مفهومی، منسجم و مسئله‌محور یاد بگیرد.",
+        "why": "کتاب بر ارتباط میان مفاهیم ژنتیک تأکید دارد و از وراثت کلاسیک تا ژنومیک، اپی‌ژنتیک، ژنتیک سرطان، صفات کمی و تکامل را در یک مسیر آموزشی واحد پوشش می‌دهد.",
+        "how_to_use": "به‌عنوان منبع اصلی و به‌ترتیب فصل‌ها مطالعه شود؛ در هر فصل علاوه بر متن، مسئله‌های ژنتیکی را حل کنید تا منطق استنتاج تثبیت شود.",
+        "next_step": "پس از یک دور کامل، برای تحلیل ژنتیکی عمیق‌تر از ⁦Introduction to Genetic Analysis⁩ استفاده کنید."
+      }
+    },
+    {
+      "id": "GENETICS::BOOK-INTRO-GENETIC-ANALYSIS12-2025",
+      "resource_id": "BOOK-INTRO-GENETIC-ANALYSIS12-2025",
+      "subject_id": "GENETICS",
+      "learning_stage": "intermediate",
+      "role": "reference",
+      "coverage_concept_ids": [
+        "GT01",
+        "GT02",
+        "GT03",
+        "GT04",
+        "GT05",
+        "GT06",
+        "GT07",
+        "GT08",
+        "GT09",
+        "GT10",
+        "GT11",
+        "GT12",
+        "GT13",
+        "GT14",
+        "GT15"
+      ],
+      "selection_rationale": "یک مرجع جامع و به‌روز است که نقشه‌یابی، ژنتیک باکتری و ویروس، تنظیم ژن، ژنومیک، جهش، عناصر متحرک، ژنتیک جمعیت و صفات پیچیده را پوشش می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مبانی را می‌داند و می‌خواهد ژنتیک را با تأکید بیشتر بر تحلیل، استدلال کمی و ارتباط داده با مدل ژنتیکی مرور کند.",
+        "why": "یک مرجع جامع و به‌روز است که نقشه‌یابی، ژنتیک باکتری و ویروس، تنظیم ژن، ژنومیک، جهش، عناصر متحرک، ژنتیک جمعیت و صفات پیچیده را پوشش می‌دهد.",
+        "how_to_use": "الزاماً لازم نیست خطی خوانده شود؛ فصل‌های مرتبط با نقاط ضعف یا شاخه تخصصی انتخاب شوند و مسئله‌ها برای تقویت استدلال ژنتیکی حل شوند.",
+        "next_step": "برای نگاه پیشرفته‌تر به منطق آزمایش ژنتیکی، جهش، مکمل‌سازی و اپیستازی به ⁦Genetic Theory and Analysis⁩ بروید."
+      }
+    },
+    {
+      "id": "GENETICS::BOOK-GENETIC-THEORY-ANALYSIS2-2023",
+      "resource_id": "BOOK-GENETIC-THEORY-ANALYSIS2-2023",
+      "subject_id": "GENETICS",
+      "learning_stage": "advanced",
+      "role": "advanced",
+      "coverage_concept_ids": [
+        "GT01",
+        "GT02",
+        "GT03",
+        "GT05",
+        "GT07",
+        "GT08",
+        "GT10",
+        "GT15"
+      ],
+      "selection_rationale": "کتاب ژنتیک را حول اصول جهش، مکمل‌سازی، نوترکیبی، تفکیک و تنظیم سازمان می‌دهد و برای پیوند دادن فن استدلال ژنتیکی با ژنوم معاصر مناسب است.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته یا تحصیلات تکمیلی که می‌خواهد از حفظ مفاهیم عبور کند و منطق طراحی و تفسیر تحلیل ژنتیکی را بفهمد.",
+        "why": "کتاب ژنتیک را حول اصول جهش، مکمل‌سازی، نوترکیبی، تفکیک و تنظیم سازمان می‌دهد و برای پیوند دادن فن استدلال ژنتیکی با ژنوم معاصر مناسب است.",
+        "how_to_use": "پس از کتاب عمومی خوانده شود؛ هر فصل را به‌صورت یک نوع سؤال ژنتیکی ببینید و مشخص کنید کدام مشاهده چه مدل یا فرضیه‌ای را رد یا پشتیبانی می‌کند.",
+        "next_step": "پس از آن، بر اساس موضوع مورد علاقه وارد یکی از شاخه‌های تخصصی این صفحه شوید."
+      }
+    },
+    {
+      "id": "GENETICS::REVIEW-MEIOTIC-RECOMBINATION-2024",
+      "resource_id": "REVIEW-MEIOTIC-RECOMBINATION-2024",
+      "subject_id": "GENETICS",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "GT02",
+        "GT03",
+        "GT13"
+      ],
+      "selection_rationale": "مروری به‌روز بر حفاظت و تنوع ماشین مولکولی نوترکیبی میوزی در یوکاریوت‌هاست و پیوند میان شکست دو‌رشته‌ای DNA، ترمیم و کراسینگ‌اور را روشن می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که پیوستگی، کراسینگ‌اور و نقشه ژنتیکی را می‌داند و می‌خواهد سازوکار مولکولی نوترکیبی میوزی را عمیق‌تر بفهمد.",
+        "why": "مروری به‌روز بر حفاظت و تنوع ماشین مولکولی نوترکیبی میوزی در یوکاریوت‌هاست و پیوند میان شکست دو‌رشته‌ای ⁦DNA⁩، ترمیم و کراسینگ‌اور را روشن می‌کند.",
+        "how_to_use": "پس از مبانی نقشه‌یابی ژنتیکی مطالعه شود؛ ابتدا مراحل مشترک نوترکیبی و سپس تفاوت پروتئین‌ها و تنظیم آن در گونه‌های مختلف را دنبال کنید.",
+        "next_step": "برای دید جمعیتی و تکاملی‌تر، منبع مربوط به تغییرات نرخ نوترکیبی در سطح ژنوم را بخوانید."
+      },
+      "branch_ids": [
+        "genetic-mapping-recombination"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "GENETICS::REVIEW-RECOMBINATION-RATES-2021",
+      "resource_id": "REVIEW-RECOMBINATION-RATES-2021",
+      "subject_id": "GENETICS",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "GT03",
+        "GT12",
+        "GT13"
+      ],
+      "selection_rationale": "چارچوبی نظری برای تنوع، انعطاف‌پذیری و تکامل نرخ نوترکیبی در مقیاس ژنوم فراهم می‌کند و دید نقشه‌یابی را به ژنتیک جمعیت و تکامل متصل می‌سازد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بفهمد چرا نرخ نوترکیبی در کروموزوم‌ها، جنس‌ها، افراد و گونه‌ها ثابت نیست.",
+        "why": "چارچوبی نظری برای تنوع، انعطاف‌پذیری و تکامل نرخ نوترکیبی در مقیاس ژنوم فراهم می‌کند و دید نقشه‌یابی را به ژنتیک جمعیت و تکامل متصل می‌سازد.",
+        "how_to_use": "پس از سازوکار میوزی بخوانید؛ عوامل ژنتیکی، محیطی و انتخابی مؤثر بر تعداد و توزیع کراسینگ‌اورها را دسته‌بندی کنید.",
+        "next_step": "برای تحلیل تاریخچه جمعیتی و نوترکیبی در سطح ژنوم، بعدها می‌توانید وارد مبحث ⁦ancestral recombination graph⁩ شوید."
+      },
+      "branch_ids": [
+        "genetic-mapping-recombination"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "GENETICS::REVIEW-DNA-DAMAGE-RARE-MUTATIONS-2024",
+      "resource_id": "REVIEW-DNA-DAMAGE-RARE-MUTATIONS-2024",
+      "subject_id": "GENETICS",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "GT05",
+        "GT08"
+      ],
+      "selection_rationale": "آسیب DNA، فرایندهای جهش‌زا و جهش‌های نادر را در مقیاس ژنوم به یکدیگر متصل می‌کند و نشان می‌دهد الگوی جهش محصول تعامل آسیب، ترمیم و زمینه ژنومی است.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که انواع جهش و ترمیم ⁦DNA⁩ را می‌داند و می‌خواهد رابطه آسیب ⁦DNA⁩ با الگوهای جهش در سراسر ژنوم را بفهمد.",
+        "why": "آسیب ⁦DNA⁩، فرایندهای جهش‌زا و جهش‌های نادر را در مقیاس ژنوم به یکدیگر متصل می‌کند و نشان می‌دهد الگوی جهش محصول تعامل آسیب، ترمیم و زمینه ژنومی است.",
+        "how_to_use": "تمرکز اصلی را بر منطق ایجاد الگوهای جهشی و اثر ساختار کروماتین، همانندسازی و ترمیم بگذارید؛ جزئیات روش‌های اندازه‌گیری در این ⁦Roadmap⁩ هدف اصلی نیست.",
+        "next_step": "برای عمق مکانیزمی‌تر در انتخاب مسیر ترمیم شکست دو‌رشته‌ای، منبع ۲۰۲۶ را بخوانید."
+      },
+      "branch_ids": [
+        "mutation-dna-repair"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "GENETICS::REVIEW-DSB-REPAIR-CHOICE-2026",
+      "resource_id": "REVIEW-DSB-REPAIR-CHOICE-2026",
+      "subject_id": "GENETICS",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "GT05",
+        "GT14"
+      ],
+      "selection_rationale": "یک مرور بسیار جدید درباره تنظیم انتخاب مسیر ترمیم، نقش ⁦BRCA1–BARD1⁩، محور ⁦53BP1⁩ و پیامدهای اختلال این انتخاب برای سرطان است.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد بفهمد سلول چگونه میان ⁦HR⁩ و ⁦NHEJ⁩ برای ترمیم شکست دو‌رشته‌ای انتخاب می‌کند.",
+        "why": "یک مرور بسیار جدید درباره تنظیم انتخاب مسیر ترمیم، نقش ⁦BRCA1–BARD1⁩، محور ⁦53BP1⁩ و پیامدهای اختلال این انتخاب برای سرطان است.",
+        "how_to_use": "پس از شناخت مسیرهای اصلی ترمیم بخوانید؛ عوامل سوق‌دهنده شکست به هر مسیر را در یک نمودار تصمیم سازمان دهید.",
+        "next_step": "برای ارتباط این فرایند با ناپایداری کروموزومی و تکامل سرطان، وارد شاخه ژنتیک سرطان شوید."
+      },
+      "branch_ids": [
+        "mutation-dna-repair"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "GENETICS::REVIEW-DNA-METHYLATION-2025",
+      "resource_id": "REVIEW-DNA-METHYLATION-2025",
+      "subject_id": "GENETICS",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "GT07",
+        "GT10",
+        "GT14"
+      ],
+      "selection_rationale": "مروری مکانیزمی و به‌روز بر الگوهای متیلاسیون در طول زندگی، تعامل آن با سایر لایه‌های تنظیمی و پیامدهای تغییر این الگوها ارائه می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که تنظیم بیان ژن و کروماتین را می‌داند و می‌خواهد نقش متیلاسیون ⁦DNA⁩ را در تکوین، پیری و بیماری بفهمد.",
+        "why": "مروری مکانیزمی و به‌روز بر الگوهای متیلاسیون در طول زندگی، تعامل آن با سایر لایه‌های تنظیمی و پیامدهای تغییر این الگوها ارائه می‌کند.",
+        "how_to_use": "ابتدا ماشین مولکولی متیلاسیون و دمتیلاسیون و سپس بازبرنامه‌ریزی در تکوین و تغییرات سوماتیک را دنبال کنید.",
+        "next_step": "برای دید مکمل از منطق عناصر تنظیمی توالی ⁦DNA⁩ و پیش‌بینی بیان ژن، منبع بعدی را بخوانید."
+      },
+      "branch_ids": [
+        "gene-regulation-epigenetics"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "GENETICS::REVIEW-SEQUENCE-GENE-EXPRESSION-2025",
+      "resource_id": "REVIEW-SEQUENCE-GENE-EXPRESSION-2025",
+      "subject_id": "GENETICS",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "GT07",
+        "GT08"
+      ],
+      "selection_rationale": "مرور می‌کند که مدل‌های sequence-to-expression چگونه قواعد تنظیمی پروموترها، enhancerها و اثر واریانت‌های غیرکدکننده را از توالی استخراج می‌کنند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد ارتباط میان توالی ⁦DNA⁩، عناصر تنظیمی و سطح بیان ژن را در چارچوب مدل‌های جدید بفهمد.",
+        "why": "مرور می‌کند که مدل‌های ⁦sequence-to-expression⁩ چگونه قواعد تنظیمی پروموترها، ⁦enhancer⁩ها و اثر واریانت‌های غیرکدکننده را از توالی استخراج می‌کنند.",
+        "how_to_use": "بر منطق زیستی مدل‌ها، نوع اطلاعاتی که از توالی می‌آموزند و محدودیت تفسیر آن‌ها تمرکز کنید؛ هدف این ⁦Roadmap⁩ آموزش پیاده‌سازی مدل نیست.",
+        "next_step": "اگر علاقه اصلی شما شبکه‌های تنظیمی و تکوین است، شاخه ⁦developmental genetics⁩ را دنبال کنید."
+      },
+      "branch_ids": [
+        "gene-regulation-epigenetics"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "GENETICS::REVIEW-GENETIC-VARIATION-2024",
+      "resource_id": "REVIEW-GENETIC-VARIATION-2024",
+      "subject_id": "GENETICS",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "GT05",
+        "GT08"
+      ],
+      "selection_rationale": "واریانت‌های germline و somatic را در یک چارچوب مقایسه‌ای قرار می‌دهد و تفاوت نرخ، الگو، منشأ و پیامد زیستی آن‌ها را روشن می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد طیف واریانت‌های ژنتیکی را هم میان افراد و هم درون یک فرد در قالب جهش‌های سوماتیک بفهمد.",
+        "why": "واریانت‌های ⁦germline⁩ و ⁦somatic⁩ را در یک چارچوب مقایسه‌ای قرار می‌دهد و تفاوت نرخ، الگو، منشأ و پیامد زیستی آن‌ها را روشن می‌کند.",
+        "how_to_use": "ابتدا دسته‌های واریانت و تفاوت ⁦germline⁩ و ⁦somatic⁩ را مشخص کنید و سپس عوامل ایجادکننده و فشارهای انتخابی را مقایسه کنید.",
+        "next_step": "برای واریانت‌های بزرگ‌تر و پیچیده‌تر، مرور ⁦structural variation⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "genomics-human-variation"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "GENETICS::REVIEW-STRUCTURAL-VARIATION-2025",
+      "resource_id": "REVIEW-STRUCTURAL-VARIATION-2025",
+      "subject_id": "GENETICS",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "GT08"
+      ],
+      "selection_rationale": "تنوع، منشأ و پیامدهای واریانت‌های ساختاری در ژنوم انسان را با تأکید بر اثر آن‌ها بر فنوتیپ، تکامل و بیماری یکپارچه می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که ⁦SNP⁩ و ⁦indel⁩ را می‌شناسد و می‌خواهد حذف‌ها، تکرارها، وارونگی‌ها و دیگر تغییرات ساختاری ژنوم را عمیق‌تر بفهمد.",
+        "why": "تنوع، منشأ و پیامدهای واریانت‌های ساختاری در ژنوم انسان را با تأکید بر اثر آن‌ها بر فنوتیپ، تکامل و بیماری یکپارچه می‌کند.",
+        "how_to_use": "پس از مرور انواع ⁦variation⁩ بخوانید؛ هر کلاس ⁦structural variant⁩ را با سازوکار ایجاد و پیامد احتمالی آن مرتبط کنید.",
+        "next_step": "برای اثر واریانت‌ها بر صفات پیچیده، وارد شاخه ⁦quantitative genetics⁩ شوید."
+      },
+      "branch_ids": [
+        "genomics-human-variation"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "GENETICS::REVIEW-QUANTITATIVE-ARCHITECTURE-2024",
+      "resource_id": "REVIEW-QUANTITATIVE-ARCHITECTURE-2024",
+      "subject_id": "GENETICS",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "GT11",
+        "GT13"
+      ],
+      "selection_rationale": "نقش pleiotropy و epistasis را در معماری صفات کمی و تفاوت شواهد میان انسان و جانداران مدل مرور می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که وراثت صفات کمی و مفهوم واریانس ژنتیکی را می‌داند و می‌خواهد معماری ژنتیکی صفات پیچیده را عمیق‌تر بفهمد.",
+        "why": "نقش ⁦pleiotropy⁩ و ⁦epistasis⁩ را در معماری صفات کمی و تفاوت شواهد میان انسان و جانداران مدل مرور می‌کند.",
+        "how_to_use": "تعریف اثر افزایشی، ⁦pleiotropy⁩ و ⁦epistasis⁩ را پیش از مقاله مرور کنید و سپس ببینید هر کدام چگونه تفسیر ⁦genotype–phenotype⁩ را تغییر می‌دهند.",
+        "next_step": "برای عبور از معماری کلی به شناسایی واریانت‌های محتمل علّی، منبع ⁦fine-mapping⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "quantitative-genetics"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "GENETICS::REVIEW-FINE-MAPPING-2025",
+      "resource_id": "REVIEW-FINE-MAPPING-2025",
+      "subject_id": "GENETICS",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "GT08",
+        "GT11"
+      ],
+      "selection_rationale": "مرور به‌روزی از منطق آماری fine-mapping، فرض‌های مدل اثر واریانت‌ها و نقش اطلاعات تکمیلی در محدود کردن مجموعه واریانت‌های نامزد ارائه می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که ⁦GWAS⁩ و عدم تعادل پیوستگی را می‌داند و می‌خواهد مسئله تعیین واریانت علّی را از میان واریانت‌های هم‌بسته بفهمد.",
+        "why": "مرور به‌روزی از منطق آماری ⁦fine-mapping⁩، فرض‌های مدل اثر واریانت‌ها و نقش اطلاعات تکمیلی در محدود کردن مجموعه واریانت‌های نامزد ارائه می‌کند.",
+        "how_to_use": "به‌جای تمرکز بر نرم‌افزار، مسئله آماری را دنبال کنید: چرا هم‌بستگی ژنتیکی ابهام می‌سازد و هر مدل چگونه این ابهام را کاهش می‌دهد.",
+        "next_step": "برای دید جمعیتی‌تر از تاریخچه ⁦linkage⁩ و ⁦recombination⁩، به شاخه ⁦population genetics⁩ بروید."
+      },
+      "branch_ids": [
+        "quantitative-genetics"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "GENETICS::REVIEW-ARG-2025",
+      "resource_id": "REVIEW-ARG-2025",
+      "subject_id": "GENETICS",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "GT03",
+        "GT12",
+        "GT13"
+      ],
+      "selection_rationale": "مفهوم ⁦ancestral recombination graph⁩ را به‌عنوان نمایش تاریخچه ژنتیکی همراه با نوترکیبی معرفی می‌کند و کاربرد آن را در جمعیت، مهاجرت، انتخاب و تاریخچه اندازه جمعیت توضیح می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که اصول ⁦drift⁩، ⁦recombination⁩ و ⁦coalescent⁩ را می‌داند و می‌خواهد تاریخچه تبارهای ژنومی را در یک چارچوب واحد ببیند.",
+        "why": "مفهوم ⁦ancestral recombination graph⁩ را به‌عنوان نمایش تاریخچه ژنتیکی همراه با نوترکیبی معرفی می‌کند و کاربرد آن را در جمعیت، مهاجرت، انتخاب و تاریخچه اندازه جمعیت توضیح می‌دهد.",
+        "how_to_use": "ابتدا بدون ورود به الگوریتم‌ها، ساختار گراف و تفاوت آن با یک درخت تبار واحد را بفهمید؛ سپس کاربردهای استنباط جمعیتی را دنبال کنید.",
+        "next_step": "برای دید مدرن دیگری از استنباط جمعیتی، مرور ⁦deep learning⁩ در ⁦population genetics⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "population-evolutionary-genetics"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "GENETICS::REVIEW-DEEP-POPGEN-2024",
+      "resource_id": "REVIEW-DEEP-POPGEN-2024",
+      "subject_id": "GENETICS",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "GT12",
+        "GT13"
+      ],
+      "selection_rationale": "چارچوب مفهومی روش‌های deep learning در population genetics، نقاط قوت، محدودیت‌ها و مسئله تفسیرپذیری را مرور می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد بداند داده‌های ژنومی بزرگ چگونه برای استنباط ساختار جمعیت، تاریخچه دموگرافیک و انتخاب استفاده می‌شوند.",
+        "why": "چارچوب مفهومی روش‌های ⁦deep learning⁩ در ⁦population genetics⁩، نقاط قوت، محدودیت‌ها و مسئله تفسیرپذیری را مرور می‌کند.",
+        "how_to_use": "تمرکز را بر نوع سؤال ژنتیک جمعیت و نوع الگوی ژنومی قابل استنباط بگذارید؛ جزئیات برنامه‌نویسی و ⁦workflow⁩ عملی خارج از دامنه این ⁦Roadmap⁩ است.",
+        "next_step": "برای مطالعه نظری کلاسیک‌تر می‌توان به مدل‌های ⁦coalescent⁩، ⁦migration⁩ و ⁦selection⁩ در منابع تخصصی جمعیت رفت."
+      },
+      "branch_ids": [
+        "population-evolutionary-genetics"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "GENETICS::REVIEW-MZT-2025",
+      "resource_id": "REVIEW-MZT-2025",
+      "subject_id": "GENETICS",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "GT07",
+        "GT10"
+      ],
+      "selection_rationale": "انتقال از کنترل مادری به فعال‌شدن ژنوم زیگوت را از دید بازبرنامه‌ریزی سیتوپلاسم، کروماتین و شروع رونویسی یکپارچه می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که تنظیم ژن را می‌داند و می‌خواهد یکی از بنیادی‌ترین تغییرات برنامه ژنی در آغاز تکوین جنینی را بفهمد.",
+        "why": "انتقال از کنترل مادری به فعال‌شدن ژنوم زیگوت را از دید بازبرنامه‌ریزی سیتوپلاسم، کروماتین و شروع رونویسی یکپارچه می‌کند.",
+        "how_to_use": "ابتدا مسئله سکوت رونویسی در تخم لقاح‌یافته و سپس حذف عوامل مادری، بازآرایی کروماتین و فعال‌سازی ژنوم زیگوت را دنبال کنید.",
+        "next_step": "برای تبدیل مجموعه ژن‌های تنظیم‌شده به مدل‌های علّی تکوین، منبع شبکه‌های تنظیم ژن را بخوانید."
+      },
+      "branch_ids": [
+        "developmental-genetics"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "GENETICS::PERSPECTIVE-GRN-CAUSAL-2026",
+      "resource_id": "PERSPECTIVE-GRN-CAUSAL-2026",
+      "subject_id": "GENETICS",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "GT07",
+        "GT10"
+      ],
+      "selection_rationale": "یک Perspective بسیار جدید است که مسئله مدل‌سازی شبکه‌های تنظیم ژن را از منظر علیت، محدودیت‌های زیستی و مدل‌های قابل‌تفسیر بررسی می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد بفهمد شبکه‌های تنظیم ژن چگونه می‌توانند از هم‌بستگی داده‌ای به توضیح مکانیزمی تکوین برسند.",
+        "why": "یک ⁦Perspective⁩ بسیار جدید است که مسئله مدل‌سازی شبکه‌های تنظیم ژن را از منظر علیت، محدودیت‌های زیستی و مدل‌های قابل‌تفسیر بررسی می‌کند.",
+        "how_to_use": "پس از آشنایی با ⁦enhancer⁩، ⁦transcription factor⁩ و الگوهای بیان مطالعه شود؛ تفاوت مدل توصیفی و مدل علّی را محور یادداشت‌برداری قرار دهید.",
+        "next_step": "برای کاربردهای خاص‌تر می‌توان به شبکه‌های تنظیمی اندام‌زایی، تعیین سرنوشت سلولی یا ⁦developmental patterning⁩ رفت."
+      },
+      "branch_ids": [
+        "developmental-genetics"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "GENETICS::REVIEW-CIN-CANCER-2025",
+      "resource_id": "REVIEW-CIN-CANCER-2025",
+      "subject_id": "GENETICS",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "GT05",
+        "GT08",
+        "GT14"
+      ],
+      "selection_rationale": "ناپایداری عددی و ساختاری کروموزوم را به ناهمگنی تومور، متاستاز، فرار ایمنی و مقاومت درمانی متصل می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که جهش و تغییرات کروموزومی را می‌داند و می‌خواهد نقش ناپایداری کروموزومی را در تکامل سرطان بفهمد.",
+        "why": "ناپایداری عددی و ساختاری کروموزوم را به ناهمگنی تومور، متاستاز، فرار ایمنی و مقاومت درمانی متصل می‌کند.",
+        "how_to_use": "ابتدا تعریف و منابع ⁦chromosomal instability⁩ را مشخص کنید و سپس پیامدهای آن را در سطح ژنوم، سلول و جمعیت سلول‌های توموری دنبال کنید.",
+        "next_step": "برای نوع شدیدتر بازآرایی ژنومی، مرور ⁦chromothripsis⁩ و ⁦rearrangement⁩های پیچیده را بخوانید."
+      },
+      "branch_ids": [
+        "cancer-genetics"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "GENETICS::REVIEW-CHROMOANAGENESIS-CANCER-2024",
+      "resource_id": "REVIEW-CHROMOANAGENESIS-CANCER-2024",
+      "subject_id": "GENETICS",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "GT05",
+        "GT08",
+        "GT14"
+      ],
+      "selection_rationale": "سازوکارهای chromothripsis و دیگر rearrangementهای پیچیده و پیامد آن‌ها برای فعال‌شدن oncogene، حذف tumor suppressor و ایجاد ecDNA را مرور می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بفهمد چگونه یک یا چند رویداد فاجعه‌بار می‌توانند ساختار کروموزوم را به‌شدت بازآرایی و ژنوم سرطان را بازنویسی کنند.",
+        "why": "سازوکارهای ⁦chromothripsis⁩ و دیگر ⁦rearrangement⁩های پیچیده و پیامد آن‌ها برای فعال‌شدن ⁦oncogene⁩، حذف ⁦tumor suppressor⁩ و ایجاد ⁦ecDNA⁩ را مرور می‌کند.",
+        "how_to_use": "پس از ⁦chromosomal instability⁩ بخوانید؛ زنجیره «خطای میتوز ← ⁦micronucleus/bridge⁩ ← خردشدن ← بازآرایی» را به‌عنوان مدل اصلی دنبال کنید.",
+        "next_step": "برای ادامه می‌توان وارد تکامل کلونال تومور و ژنومیک سرطان شد."
+      },
+      "branch_ids": [
+        "cancer-genetics"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "GENETICS::REVIEW-TE-CHROMATIN-2023",
+      "resource_id": "REVIEW-TE-CHROMATIN-2023",
+      "subject_id": "GENETICS",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "GT07",
+        "GT09",
+        "GT13"
+      ],
+      "selection_rationale": "نشان می‌دهد عناصر متحرک فقط «DNA متحرک» نیستند و می‌توانند enhancer، promoter، silencer و اجزای معماری سه‌بعدی ژنوم را تأمین کنند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که عناصر متحرک ژنومی را می‌شناسد و می‌خواهد نقش آن‌ها را در سازمان کروماتین و تکامل تنظیم ژن بفهمد.",
+        "why": "نشان می‌دهد عناصر متحرک فقط «⁦DNA⁩ متحرک» نیستند و می‌توانند ⁦enhancer⁩، ⁦promoter⁩، ⁦silencer⁩ و اجزای معماری سه‌بعدی ژنوم را تأمین کنند.",
+        "how_to_use": "پس از طبقه‌بندی عناصر متحرک بخوانید؛ برای هر مثال مشخص کنید عنصر متحرک چگونه ساختار یا تنظیم ژن را تغییر داده است.",
+        "next_step": "برای دید پویاتر، منبع مربوط به فعال‌شدن مجدد ⁦retrotransposon⁩ها در استرس و پیری را بخوانید."
+      },
+      "branch_ids": [
+        "transposable-elements-genome-dynamics"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "GENETICS::REVIEW-RTE-STRESS-AGEING-2025",
+      "resource_id": "REVIEW-RTE-STRESS-AGEING-2025",
+      "subject_id": "GENETICS",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "GT07",
+        "GT09"
+      ],
+      "selection_rationale": "مرور جدیدی است که نشان می‌دهد کاهش کنترل اپی‌ژنتیکی retrotransposable elementها چگونه می‌تواند به تغییر عملکرد سلول و فنوتیپ‌های مرتبط با پیری منجر شود.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد ارتباط میان خاموش‌سازی اپی‌ژنتیکی عناصر متحرک، استرس محیطی و پیری را بفهمد.",
+        "why": "مرور جدیدی است که نشان می‌دهد کاهش کنترل اپی‌ژنتیکی ⁦retrotransposable element⁩ها چگونه می‌تواند به تغییر عملکرد سلول و فنوتیپ‌های مرتبط با پیری منجر شود.",
+        "how_to_use": "ابتدا سازوکارهای مهار اپی‌ژنتیکی عناصر را مرور کنید و سپس ببینید استرس و پیری چگونه این کنترل را مختل می‌کنند.",
+        "next_step": "برای تخصص بیشتر می‌توان به دفاع ژنومی، ⁦piRNA⁩ و تکامل هم‌زیستی میزبان–⁦transposon⁩ رفت."
+      },
+      "branch_ids": [
+        "transposable-elements-genome-dynamics"
       ],
       "branch_role": "current_update"
     }

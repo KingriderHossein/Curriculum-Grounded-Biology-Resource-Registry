@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.5.0",
+  "schema_version": "0.6.0",
   "resources": [
     {
       "id": "OPENSTAX-BIOLOGY2E-2018",
@@ -790,6 +790,382 @@
       "journal": "Nature Reviews Molecular Cell Biology",
       "doi": "10.1038/s41580-025-00855-y",
       "publisher_url": "https://www.nature.com/articles/s41580-025-00855-y",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "BOOK-GENETICS-CONCEPTUAL7-2024",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Genetics: A Conceptual Approach, Update",
+      "authors": [
+        "Benjamin A. Pierce"
+      ],
+      "edition": "7th Edition",
+      "published_year": 2024,
+      "publisher": "Macmillan Learning",
+      "isbn": "9781319546700",
+      "publisher_url": "https://www.macmillanlearning.com/ed/uk/product/Genetics-A-Conceptual-Approach-Update--7th-edition/p/1319546706",
+      "purchase_url": "https://www.macmillanlearning.com/ed/uk/product/Genetics-A-Conceptual-Approach-Update--7th-edition/p/1319546706",
+      "cover": {
+        "url": "https://covers.openlibrary.org/b/isbn/9781319546700-L.jpg?default=false",
+        "source": "Open Library ISBN cover fallback; bibliographic authority Macmillan Learning"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "BOOK-INTRO-GENETIC-ANALYSIS12-2025",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Introduction to Genetic Analysis, Digital Update",
+      "authors": [
+        "Anthony J. F. Griffiths",
+        "John Doebley",
+        "Catherine Peichel",
+        "David A. Wassarman"
+      ],
+      "edition": "12th Edition",
+      "published_year": 2025,
+      "publisher": "Macmillan Learning",
+      "isbn": "9781319589943",
+      "publisher_url": "https://www.macmillanlearning.com/ed/uk/product/Introduction-to-Genetic-Analysis-Digital-Update--12th-edition/p/1319589944",
+      "purchase_url": "https://www.macmillanlearning.com/ed/uk/product/Introduction-to-Genetic-Analysis-Digital-Update--12th-edition/p/1319589944",
+      "cover": {
+        "url": "https://covers.openlibrary.org/b/isbn/9781319589943-L.jpg?default=false",
+        "source": "Open Library ISBN cover fallback; bibliographic authority Macmillan Learning"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "BOOK-GENETIC-THEORY-ANALYSIS2-2023",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Genetic Theory and Analysis: Finding Meaning in a Genome",
+      "authors": [
+        "Danny E. Miller",
+        "Angela L. Miller",
+        "R. Scott Hawley"
+      ],
+      "edition": "2nd Edition",
+      "published_year": 2023,
+      "publisher": "Wiley",
+      "isbn": "9781118086926",
+      "publisher_url": "https://wileycatalog.com/wp-content/uploads/2023/04/full-3.pdf",
+      "purchase_url": "https://bookshop.org/p/books/genetic-theory-and-analysis-finding-meaning-in-a-genome-r-scott-hawley/18519287",
+      "cover": {
+        "url": "https://covers.openlibrary.org/b/isbn/9781118086926-L.jpg?default=false",
+        "source": "Open Library ISBN cover fallback; bibliographic authority Wiley"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-MEIOTIC-RECOMBINATION-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Divergence and conservation of the meiotic recombination machinery",
+      "authors": [
+        "Meret Arter",
+        "Scott Keeney"
+      ],
+      "published_year": 2024,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/s41576-023-00669-8",
+      "publisher_url": "https://www.nature.com/articles/s41576-023-00669-8",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-RECOMBINATION-RATES-2021",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Evolution and Plasticity of Genome-Wide Meiotic Recombination Rates",
+      "authors": [
+        "Ian R. Henderson",
+        "Kirsten Bomblies"
+      ],
+      "published_year": 2021,
+      "journal": "Annual Review of Genetics",
+      "doi": "10.1146/annurev-genet-021721-033821",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-genet-021721-033821",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-DNA-DAMAGE-RARE-MUTATIONS-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Methods and applications of genome-wide profiling of DNA damage and rare mutations",
+      "authors": [
+        "Gerd P. Pfeifer",
+        "Seung-Gi Jin"
+      ],
+      "published_year": 2024,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/s41576-024-00748-4",
+      "publisher_url": "https://www.nature.com/articles/s41576-024-00748-4",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-DSB-REPAIR-CHOICE-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Mechanisms and disease relevance of DNA break repair pathway choice",
+      "authors": [
+        "Michelle L. Swift",
+        "Cody M. Rogers",
+        "Hardeep Kaur",
+        "et al."
+      ],
+      "published_year": 2026,
+      "journal": "Nature Reviews Molecular Cell Biology",
+      "doi": "10.1038/s41580-026-01026-3",
+      "publisher_url": "https://www.nature.com/articles/s41580-026-01026-3",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-DNA-METHYLATION-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "DNA methylation in mammalian development and disease",
+      "authors": [
+        "Zachary D. Smith",
+        "Sara Hetzel",
+        "Alexander Meissner"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/s41576-024-00760-8",
+      "publisher_url": "https://www.nature.com/articles/s41576-024-00760-8",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-SEQUENCE-GENE-EXPRESSION-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Predicting gene expression from DNA sequence using deep learning models",
+      "authors": [
+        "Lucía Barbadilla-Martínez",
+        "Noud Klaassen",
+        "Bas van Steensel",
+        "Jeroen de Ridder",
+        "et al."
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/s41576-025-00841-2",
+      "publisher_url": "https://www.nature.com/articles/s41576-025-00841-2",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-GENETIC-VARIATION-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Genetic variation across and within individuals",
+      "authors": [
+        "Zhi Yu",
+        "Tim H. H. Coorens",
+        "Md Mesbah Uddin",
+        "et al."
+      ],
+      "published_year": 2024,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/s41576-024-00709-x",
+      "publisher_url": "https://www.nature.com/articles/s41576-024-00709-x",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-STRUCTURAL-VARIATION-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Diversity and consequences of structural variation in the human genome",
+      "authors": [
+        "Ryan L. Collins",
+        "Michael E. Talkowski"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/s41576-024-00808-9",
+      "publisher_url": "https://www.nature.com/articles/s41576-024-00808-9",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-QUANTITATIVE-ARCHITECTURE-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Pleiotropy, epistasis and the genetic architecture of quantitative traits",
+      "authors": [
+        "Trudy F. C. Mackay",
+        "Robert R. H. Anholt"
+      ],
+      "published_year": 2024,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/s41576-024-00711-3",
+      "publisher_url": "https://www.nature.com/articles/s41576-024-00711-3",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-FINE-MAPPING-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Towards improved fine-mapping of candidate causal variants",
+      "authors": [
+        "Zheng Li",
+        "Xiang Zhou"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/s41576-025-00869-4",
+      "publisher_url": "https://www.nature.com/articles/s41576-025-00869-4",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-ARG-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Inference and applications of ancestral recombination graphs",
+      "authors": [
+        "Rasmus Nielsen",
+        "Andrew H. Vaughn",
+        "Yun Deng"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/s41576-024-00772-4",
+      "publisher_url": "https://www.nature.com/articles/s41576-024-00772-4",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-DEEP-POPGEN-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Harnessing deep learning for population genetic inference",
+      "authors": [
+        "Xin Huang",
+        "Aigerim Rymbekova",
+        "Olga Dolgova",
+        "Oscar Lao",
+        "et al."
+      ],
+      "published_year": 2024,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/s41576-023-00636-3",
+      "publisher_url": "https://www.nature.com/articles/s41576-023-00636-3",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-MZT-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "The maternal-to-zygotic transition: reprogramming of the cytoplasm and nucleus",
+      "authors": [
+        "Mina L. Kojima",
+        "Caroline Hoppe",
+        "Antonio J. Giraldez"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/s41576-024-00792-0",
+      "publisher_url": "https://www.nature.com/articles/s41576-024-00792-0",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "PERSPECTIVE-GRN-CAUSAL-2026",
+      "resource_type": "authoritative_reference",
+      "theory_only": true,
+      "title": "Gene regulatory networks: from correlative models to causal explanations",
+      "authors": [
+        "Rory J. Maizels",
+        "James Briscoe"
+      ],
+      "published_year": 2026,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/s41576-026-00939-1",
+      "publisher_url": "https://www.nature.com/articles/s41576-026-00939-1",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-CIN-CANCER-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Chromosomal instability as a driver of cancer progression",
+      "authors": [
+        "Xuelan Chen",
+        "Albert S. Agustinus",
+        "Jun Li",
+        "Melody DiBona",
+        "et al."
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/s41576-024-00761-7",
+      "publisher_url": "https://www.nature.com/articles/s41576-024-00761-7",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-CHROMOANAGENESIS-CANCER-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Scrambling the genome in cancer: causes and consequences of complex chromosome rearrangements",
+      "authors": [
+        "Ksenia Krupina",
+        "Alexander Goginashvili",
+        "Don W. Cleveland"
+      ],
+      "published_year": 2024,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/s41576-023-00663-0",
+      "publisher_url": "https://www.nature.com/articles/s41576-023-00663-0",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-TE-CHROMATIN-2023",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Transposable elements in mammalian chromatin organization",
+      "authors": [
+        "Heather A. Lawson",
+        "Yonghao Liang",
+        "Ting Wang"
+      ],
+      "published_year": 2023,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/s41576-023-00609-6",
+      "publisher_url": "https://www.nature.com/articles/s41576-023-00609-6",
+      "verification_status": "verified",
+      "verified_on": "2026-09-25"
+    },
+    {
+      "id": "REVIEW-RTE-STRESS-AGEING-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Reactivation of retrotransposable elements is associated with environmental stress and ageing",
+      "authors": [
+        "Francesco Della Valle",
+        "Pradeep Reddy",
+        "Alain Aguirre Vazquez",
+        "Juan Carlos Izpisua Belmonte"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/s41576-025-00829-y",
+      "publisher_url": "https://www.nature.com/articles/s41576-025-00829-y",
       "verification_status": "verified",
       "verified_on": "2026-09-25"
     }

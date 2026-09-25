@@ -20,6 +20,7 @@
 |---|---:|---:|---:|
 | [زیست‌شناسی سلولی ⁦Cell Biology⁩](subjects/cell-biology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
 | [بیوشیمی ⁦Biochemistry⁩](subjects/biochemistry/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
+| [ژنتیک ⁦Genetics⁩](subjects/genetics/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
 
 > یک منبع علمی ممکن است در چند درس استفاده شود. هویت کتاب یا مقاله فقط **یک بار** در رجیستری ثبت می‌شود و جایگاه آن در هر درس به‌صورت جداگانه تعریف می‌شود.
 
@@ -73,6 +74,49 @@
 </table>
 
 [مشاهده نقشه‌راه بیوشیمی](subjects/biochemistry/README.md)
+
+---
+
+## ژنتیک
+
+مسیر از وراثت مندلی و مبانی مولکولی تا تحلیل ژنتیکی پیشرفته و سپس شاخه‌های زیر ادامه پیدا می‌کند:
+
+- نقشه‌یابی ژنتیکی و نوترکیبی؛
+- جهش و ترمیم ⁦DNA⁩؛
+- تنظیم ژن و اپی‌ژنتیک؛
+- ژنومیک و تنوع ژنتیکی انسان؛
+- ژنتیک کمی؛
+- ژنتیک جمعیت و تکاملی؛
+- ژنتیک تکوینی؛
+- ژنتیک سرطان؛
+- عناصر متحرک و پویایی ژنوم.
+
+### کتاب‌های اصلی مسیر
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://covers.openlibrary.org/b/isbn/9781319546700-L.jpg?default=false" width="145" alt="Genetics A Conceptual Approach 7e cover"><br>
+<b>Genetics: A Conceptual Approach, Update</b><br>
+منبع اصلی · ویرایش ۷ · ۲۰۲۴<br>
+<a href="https://www.macmillanlearning.com/ed/uk/product/Genetics-A-Conceptual-Approach-Update--7th-edition/p/1319546706">ناشر / خرید</a>
+</td>
+<td align="center" width="33%">
+<img src="https://covers.openlibrary.org/b/isbn/9781319589943-L.jpg?default=false" width="145" alt="Introduction to Genetic Analysis 12e cover"><br>
+<b>Introduction to Genetic Analysis, Digital Update</b><br>
+منبع تکمیلی · ویرایش ۱۲ · ۲۰۲۵<br>
+<a href="https://www.macmillanlearning.com/ed/uk/product/Introduction-to-Genetic-Analysis-Digital-Update--12th-edition/p/1319589944">ناشر / خرید</a>
+</td>
+<td align="center" width="33%">
+<img src="https://covers.openlibrary.org/b/isbn/9781118086926-L.jpg?default=false" width="145" alt="Genetic Theory and Analysis 2e cover"><br>
+<b>Genetic Theory and Analysis: Finding Meaning in a Genome</b><br>
+منبع پیشرفته · ویرایش ۲ · ۲۰۲۳<br>
+<a href="https://bookshop.org/p/books/genetic-theory-and-analysis-finding-meaning-in-a-genome-r-scott-hawley/18519287">خرید</a>
+</td>
+</tr>
+</table>
+
+[مشاهده نقشه‌راه ژنتیک](subjects/genetics/README.md)
 
 ---
 

@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.4.0",
+  "schema_version": "0.5.0",
   "subjects": [
     {
       "id": "CELL-BIOLOGY",
@@ -204,6 +204,127 @@
         {
           "id": "glycobiology",
           "label": "Glycobiology"
+        }
+      ],
+      "status": "complete",
+      "completion_criteria": {
+        "general_roadmap_resources": 4,
+        "specialized_branches_required": 9,
+        "student_guidance_required": true,
+        "theory_only": true
+      },
+      "completed_on": "2026-09-25"
+    },
+    {
+      "id": "GENETICS",
+      "fa_name": "ژنتیک",
+      "en_name": "Genetics",
+      "scope": "theoretical",
+      "roadmap_stages": [
+        "foundation",
+        "core",
+        "intermediate",
+        "advanced",
+        "specialized"
+      ],
+      "concepts": [
+        {
+          "id": "GT01",
+          "label": "Mendelian inheritance, probability and pedigree reasoning"
+        },
+        {
+          "id": "GT02",
+          "label": "Chromosomes, meiosis and inheritance"
+        },
+        {
+          "id": "GT03",
+          "label": "Linkage, recombination and genetic mapping"
+        },
+        {
+          "id": "GT04",
+          "label": "DNA, replication and chromosome organization"
+        },
+        {
+          "id": "GT05",
+          "label": "Mutation, DNA repair and genome stability"
+        },
+        {
+          "id": "GT06",
+          "label": "Gene expression and molecular genetics"
+        },
+        {
+          "id": "GT07",
+          "label": "Gene regulation and epigenetics"
+        },
+        {
+          "id": "GT08",
+          "label": "Genomics and genetic variation"
+        },
+        {
+          "id": "GT09",
+          "label": "Transposable elements and genome dynamics"
+        },
+        {
+          "id": "GT10",
+          "label": "Developmental genetics"
+        },
+        {
+          "id": "GT11",
+          "label": "Quantitative and complex-trait genetics"
+        },
+        {
+          "id": "GT12",
+          "label": "Population genetics"
+        },
+        {
+          "id": "GT13",
+          "label": "Evolutionary genetics"
+        },
+        {
+          "id": "GT14",
+          "label": "Cancer genetics"
+        },
+        {
+          "id": "GT15",
+          "label": "Microbial and viral genetics"
+        }
+      ],
+      "branches": [
+        {
+          "id": "genetic-mapping-recombination",
+          "label": "Genetic mapping & recombination"
+        },
+        {
+          "id": "mutation-dna-repair",
+          "label": "Mutation & DNA repair"
+        },
+        {
+          "id": "gene-regulation-epigenetics",
+          "label": "Gene regulation & epigenetics"
+        },
+        {
+          "id": "genomics-human-variation",
+          "label": "Genomics & human genetic variation"
+        },
+        {
+          "id": "quantitative-genetics",
+          "label": "Quantitative genetics"
+        },
+        {
+          "id": "population-evolutionary-genetics",
+          "label": "Population & evolutionary genetics"
+        },
+        {
+          "id": "developmental-genetics",
+          "label": "Developmental genetics"
+        },
+        {
+          "id": "cancer-genetics",
+          "label": "Cancer genetics"
+        },
+        {
+          "id": "transposable-elements-genome-dynamics",
+          "label": "Transposable elements & genome dynamics"
         }
       ],
       "status": "complete",
