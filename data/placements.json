@@ -5434,8 +5434,8 @@
       }
     },
     {
-      "id": "ANIMAL-PHYSIOLOGY::REVIEW-CARDIORESPIRATORY-MARINE-MAMMALS-2024::respiration-oxygen",
-      "resource_id": "REVIEW-CARDIORESPIRATORY-MARINE-MAMMALS-2024",
+      "id": "ANIMAL-PHYSIOLOGY::REVIEW-HYPOXIA-ALTITUDE-SPECIES-2025::respiration-oxygen",
+      "resource_id": "REVIEW-HYPOXIA-ALTITUDE-SPECIES-2025",
       "subject_id": "ANIMAL-PHYSIOLOGY",
       "learning_stage": "specialized",
       "role": "current_update",
@@ -5448,12 +5448,12 @@
         "AP05",
         "AP12"
       ],
-      "selection_rationale": "Integrative review of respiratory mechanics, gas exchange and oxygen conservation in marine mammals.",
+      "selection_rationale": "Current cross-species review of hypoxia tolerance, oxygen transport and altitude adaptation in humans and rodent models.",
       "student_guidance_fa": {
-        "best_for": "دانشجویی که می‌خواهد سازگاری تنفسی را در یک حالت افراطی و طبیعی یعنی غواصی عمیق بفهمد.",
-        "why": "این مرور تنفس، فروریزش و بازشدن آلوئول، تبادل انتخابی گاز و coupling قلب–تنفس را کنار هم قرار می‌دهد.",
-        "how_to_use": "بخش‌های مربوط به ventilation، alveolar collapse، N2 uptake و oxygen conservation را با زنجیره انتقال اکسیژن تطبیق دهید.",
-        "next_step": "بعد از آن، سازگاری‌های هیپوکسی یا ارتفاع را برای مقایسه یک فشار محیطی دیگر مطالعه کنید."
+        "best_for": "دانشجویی که می‌خواهد تفاوت پاسخ به هیپوکسی و ارتفاع را در چند پستاندار با فیزیولوژی متفاوت مقایسه کند.",
+        "why": "مرور، انتقال و مصرف اکسیژن، اریتروپوئز، تبادل گاز و سازگاری‌های سلولی و سامانه‌ای را بین انسان، موش و رت کنار هم می‌گذارد.",
+        "how_to_use": "برای هر گونه، مسیر «تهویه و تبادل گاز → خون و هموگلوبین → گردش خون → میتوکندری» را جدا کنید و تفاوت‌های کمی و کیفی را ثبت کنید.",
+        "next_step": "پس از آن، همین چارچوب را برای جانوران غواص یا گونه‌های بومی ارتفاع به کار ببرید."
       }
     },
     {
