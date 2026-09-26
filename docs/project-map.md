@@ -29,3 +29,4 @@ This file is a navigation index, not a status log.
 - Ecology: Foundation → Core → Intermediate → Advanced → 9 specialized branches.
 - Plant Biology: Foundation → Core → Intermediate → Advanced → 9 specialized branches.
 - Developmental Biology: Foundation → Core → Intermediate → Advanced → 9 specialized branches.
+- Immunology: Foundation → Core → Intermediate → Advanced → 9 specialized branches.
