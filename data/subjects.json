@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.11.0",
+  "schema_version": "0.12.0",
   "subjects": [
     {
       "id": "CELL-BIOLOGY",
@@ -1247,6 +1247,123 @@
         "theory_only": true
       },
       "completed_on": "2026-09-26"
+    },
+    {
+      "id": "BIOINFORMATICS",
+      "fa_name": "بیوانفورماتیک",
+      "en_name": "Bioinformatics",
+      "scope": "theoretical",
+      "roadmap_stages": [
+        "foundation",
+        "core",
+        "intermediate",
+        "advanced",
+        "specialized"
+      ],
+      "concepts": [
+        {
+          "id": "BI01",
+          "label": "Biological information, molecular data, databases, ontologies and metadata"
+        },
+        {
+          "id": "BI02",
+          "label": "Sequence alignment, scoring, homology and database search"
+        },
+        {
+          "id": "BI03",
+          "label": "Genome assembly, annotation and pangenome representation"
+        },
+        {
+          "id": "BI04",
+          "label": "Transcriptomics and regulatory genomics"
+        },
+        {
+          "id": "BI05",
+          "label": "Protein sequence, structure and function"
+        },
+        {
+          "id": "BI06",
+          "label": "Comparative genomics, orthology and phylogenomics"
+        },
+        {
+          "id": "BI07",
+          "label": "Genetic variation, population and medical genomics"
+        },
+        {
+          "id": "BI08",
+          "label": "Metagenomics and microbiome informatics"
+        },
+        {
+          "id": "BI09",
+          "label": "Statistical inference, experimental design and multiple testing"
+        },
+        {
+          "id": "BI10",
+          "label": "Machine learning and predictive modelling"
+        },
+        {
+          "id": "BI11",
+          "label": "Single-cell and multi-omics integration"
+        },
+        {
+          "id": "BI12",
+          "label": "Networks, systems biology and reproducible computational reasoning"
+        }
+      ],
+      "branches": [
+        {
+          "id": "sequence-homology",
+          "label": "Sequence analysis & homology search",
+          "fa_label": "تحلیل توالی و جست‌وجوی همولوژی"
+        },
+        {
+          "id": "assembly-annotation",
+          "label": "Genome assembly & annotation",
+          "fa_label": "مونتاژ و حاشیه‌نویسی ژنوم"
+        },
+        {
+          "id": "transcriptomics-regulatory",
+          "label": "Transcriptomics & regulatory genomics",
+          "fa_label": "ترنسکریپتومیک و ژنومیک تنظیمی"
+        },
+        {
+          "id": "comparative-phylogenomics",
+          "label": "Comparative genomics & phylogenomics",
+          "fa_label": "ژنومیک تطبیقی و فیلوژنومیک"
+        },
+        {
+          "id": "variant-population-medical",
+          "label": "Variant interpretation & population/medical genomics",
+          "fa_label": "تفسیر واریانت و ژنومیک جمعیت/پزشکی"
+        },
+        {
+          "id": "metagenomics-microbiome",
+          "label": "Metagenomics & microbiome informatics",
+          "fa_label": "متاژنومیک و بیوانفورماتیک میکروبیوم"
+        },
+        {
+          "id": "structural-protein",
+          "label": "Structural bioinformatics & protein informatics",
+          "fa_label": "بیوانفورماتیک ساختاری و اطلاعات پروتئین"
+        },
+        {
+          "id": "single-cell-multiomics",
+          "label": "Single-cell & multi-omics bioinformatics",
+          "fa_label": "بیوانفورماتیک تک‌سلولی و چنداُمیکی"
+        },
+        {
+          "id": "integrative-network-predictive",
+          "label": "Integrative, network & predictive bioinformatics",
+          "fa_label": "بیوانفورماتیک یکپارچه، شبکه‌ای و پیش‌بینانه"
+        }
+      ],
+      "status": "complete_candidate",
+      "completion_criteria": {
+        "general_roadmap_resources": 4,
+        "specialized_branches_required": 9,
+        "student_guidance_required": true,
+        "theory_only": true
+      }
     }
   ]
 }
