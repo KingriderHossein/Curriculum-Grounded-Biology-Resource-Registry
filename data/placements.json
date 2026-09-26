@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.11.0",
+  "schema_version": "0.12.0",
   "placements": [
     {
       "id": "CELL-BIOLOGY::OPENSTAX-BIOLOGY2E-2018",
@@ -5566,6 +5566,507 @@
         "why": "این تحلیل ۱۴۳ مطالعه و ۱۱۸ گونه را تجمیع می‌کند و میانگین دما را از variability و extreme events جدا می‌سازد.",
         "how_to_use": "نتایج را بر اساس trait mean، variance، longevity، gene expression و population response تفکیک کنید.",
         "next_step": "برای ادامه، پاسخ‌های یک تاکسون یا یک نوع محیط را با داده‌های اولیه بررسی کنید."
+      }
+    },
+    {
+      "id": "BIOINFORMATICS::OPENSTAX-BIOLOGY2E-2018",
+      "resource_id": "OPENSTAX-BIOLOGY2E-2018",
+      "subject_id": "BIOINFORMATICS",
+      "learning_stage": "foundation",
+      "role": "foundation",
+      "coverage_concept_ids": [
+        "BI01",
+        "BI03",
+        "BI04",
+        "BI05",
+        "BI06",
+        "BI07",
+        "BI08"
+      ],
+      "selection_rationale": "Free biological prerequisite layer covering genes, genomes, proteins, evolution and biological systems before computational abstractions.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که هنوز در ژن، ژنوم، پروتئین، تکامل یا زیست‌شناسی مولکولی پایه یکدستی ندارد.",
+        "why": "بیوانفورماتیک بدون فهم موجودیت‌های زیستی به تمرین محاسباتی بی‌معنا تبدیل می‌شود؛ این منبع پیش‌نیاز زیستی را بدون ورود به آموزش نرم‌افزار ترمیم می‌کند.",
+        "how_to_use": "فقط فصل‌های ژنتیک، زیست‌شناسی مولکولی، ژنوم، تکامل و سامانه‌های زیستی را هدفمند مرور کنید.",
+        "next_step": "پس از تثبیت پایه وارد ⁦Bioinformatics and Functional Genomics⁩ شوید."
+      }
+    },
+    {
+      "id": "BIOINFORMATICS::BOOK-BIOINFORMATICS-FUNCTIONAL-GENOMICS3-2015",
+      "resource_id": "BOOK-BIOINFORMATICS-FUNCTIONAL-GENOMICS3-2015",
+      "subject_id": "BIOINFORMATICS",
+      "learning_stage": "core",
+      "role": "core",
+      "coverage_concept_ids": [
+        "BI01",
+        "BI02",
+        "BI03",
+        "BI04",
+        "BI05",
+        "BI06",
+        "BI07",
+        "BI08",
+        "BI09",
+        "BI10",
+        "BI12"
+      ],
+      "selection_rationale": "Broad core textbook connecting biological questions to sequence, genome, transcriptome, protein and functional-genomics reasoning.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که پایه زیست‌شناسی را دارد و می‌خواهد یک تصویر منسجم از حوزه‌های اصلی بیوانفورماتیک بسازد.",
+        "why": "کتاب دامنه گسترده‌ای از داده‌های زیستی، توالی، ژنومیک و ژنومیک عملکردی را در یک چارچوب واحد پوشش می‌دهد.",
+        "how_to_use": "روی منطق مسئله، نوع داده، فرض‌های روش و تفسیر خروجی تمرکز کنید؛ بخش‌های اجرایی نرم‌افزار را منبع مهارت عملی در نظر نگیرید.",
+        "next_step": "بعد از این مرحله برای فهم عمیق‌تر الگوریتم‌ها وارد ⁦Bioinformatics Algorithms⁩ شوید."
+      }
+    },
+    {
+      "id": "BIOINFORMATICS::BOOK-BIOINFORMATICS-ALGORITHMS3-2018",
+      "resource_id": "BOOK-BIOINFORMATICS-ALGORITHMS3-2018",
+      "subject_id": "BIOINFORMATICS",
+      "learning_stage": "intermediate",
+      "role": "intermediate",
+      "coverage_concept_ids": [
+        "BI02",
+        "BI03",
+        "BI05",
+        "BI06",
+        "BI07",
+        "BI09"
+      ],
+      "selection_rationale": "Algorithm-centred second pass linking core biological questions to graph, string, dynamic-programming and probabilistic ideas.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بداند پشت تحلیل توالی، مونتاژ ژنوم، مقایسه ژنوم و استنباط زیستی چه ایده الگوریتمی قرار دارد.",
+        "why": "منبع مسئله‌های زیستی را به ساختارهای الگوریتمی تبدیل می‌کند و از حفظ نام ابزارها فاصله می‌گیرد.",
+        "how_to_use": "اثبات‌ها، ایده الگوریتم و ارتباط هر مسئله محاسباتی با سؤال زیستی را بخوانید؛ تمرین‌های کدنویسی برای این رجیستری جزو مسیر الزامی نیستند.",
+        "next_step": "برای مدل‌های احتمالاتی عمیق‌تر وارد ⁦Biological Sequence Analysis⁩ شوید."
+      }
+    },
+    {
+      "id": "BIOINFORMATICS::BOOK-BIOLOGICAL-SEQUENCE-ANALYSIS1-1998",
+      "resource_id": "BOOK-BIOLOGICAL-SEQUENCE-ANALYSIS1-1998",
+      "subject_id": "BIOINFORMATICS",
+      "learning_stage": "advanced",
+      "role": "advanced",
+      "coverage_concept_ids": [
+        "BI02",
+        "BI05",
+        "BI06",
+        "BI09"
+      ],
+      "selection_rationale": "Advanced theoretical treatment of probabilistic sequence analysis, hidden Markov models, grammars and phylogenetic inference.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که جبر احتمال و مبانی الگوریتمی را می‌داند و می‌خواهد تحلیل توالی را در سطح مدل‌های احتمالاتی بفهمد.",
+        "why": "این کتاب یکی از مراجع بنیادی برای مدل‌های مارکوف پنهان، هم‌ترازی احتمالاتی، ساختار RNA و استنباط تبارزایی است.",
+        "how_to_use": "فصل‌ها را با تمرکز بر مدل، تابع احتمال، فرض‌ها و نحوه استنباط بخوانید و هر مدل را به مسئله زیستی متناظر وصل کنید.",
+        "next_step": "پس از این مرحله بر اساس سؤال پژوهشی خود یکی از شاخه‌های تخصصی را انتخاب کنید."
+      }
+    },
+    {
+      "id": "BIOINFORMATICS::REFERENCE-BLAST-1990::sequence-homology",
+      "resource_id": "REFERENCE-BLAST-1990",
+      "subject_id": "BIOINFORMATICS",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "sequence-homology"
+      ],
+      "coverage_concept_ids": [
+        "BI02",
+        "BI09"
+      ],
+      "selection_rationale": "Foundational paper defining local sequence database search and statistical scoring ideas behind BLAST.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد منطق اصلی ⁦BLAST⁩ را فراتر از کار با رابط نرم‌افزار بفهمد.",
+        "why": "این مقاله مسئله جست‌وجوی شباهت محلی را در قالب الگوریتم و معیار امتیازدهی صورت‌بندی می‌کند.",
+        "how_to_use": "روی ایده جست‌وجوی محلی، حساسیت/سرعت و معنای آماری شباهت تمرکز کنید.",
+        "next_step": "سپس مدل‌های پروفایلی و ⁦HMM⁩ را در منبع بعدی مطالعه کنید."
+      }
+    },
+    {
+      "id": "BIOINFORMATICS::REFERENCE-PROFILE-HMM-SEARCH-2011::sequence-homology",
+      "resource_id": "REFERENCE-PROFILE-HMM-SEARCH-2011",
+      "subject_id": "BIOINFORMATICS",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "sequence-homology"
+      ],
+      "coverage_concept_ids": [
+        "BI02",
+        "BI05",
+        "BI09"
+      ],
+      "selection_rationale": "Authoritative algorithm paper on fast profile-HMM homology search and probabilistic sequence modelling.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که بعد از ⁦BLAST⁩ می‌خواهد همولوژی دورتر و مدل‌سازی خانواده‌های توالی را بفهمد.",
+        "why": "مدل‌های پروفایلی اطلاعات موقعیتی خانواده توالی را حفظ می‌کنند و چارچوب احتمالاتی غنی‌تری از شباهت جفتی می‌دهند.",
+        "how_to_use": "رابطه پروفایل، احتمال، فیلترهای شتاب‌دهی و حساسیت جست‌وجو را استخراج کنید.",
+        "next_step": "در ادامه این مفاهیم را به خانواده‌های پروتئینی یا دامنه‌های ساختاری وصل کنید."
+      }
+    },
+    {
+      "id": "BIOINFORMATICS::REVIEW-GENOME-ASSEMBLY-T2T-2024::assembly-annotation",
+      "resource_id": "REVIEW-GENOME-ASSEMBLY-T2T-2024",
+      "subject_id": "BIOINFORMATICS",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "assembly-annotation"
+      ],
+      "coverage_concept_ids": [
+        "BI03",
+        "BI09"
+      ],
+      "selection_rationale": "Current conceptual review of overlap/de Bruijn ideas, phasing and near-complete genome assembly.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بفهمد خوانش‌های توالی چگونه به ژنوم پیوسته تبدیل می‌شوند.",
+        "why": "مرور جدیدی است که الگوریتم مونتاژ را با خوانش‌های بلند، فازبندی و هدف تلومر تا تلومر پیوند می‌دهد.",
+        "how_to_use": "گراف همپوشانی، گراف دِ بروین، تکرارها، فازبندی و معیارهای کیفیت را به‌صورت مفهومی مقایسه کنید.",
+        "next_step": "سپس از ساخت توالی ژنوم به مسئله شناسایی و حاشیه‌نویسی عناصر ژنومی بروید."
+      }
+    },
+    {
+      "id": "BIOINFORMATICS::REVIEW-GENOME-ANNOTATION-SCALE-2026::assembly-annotation",
+      "resource_id": "REVIEW-GENOME-ANNOTATION-SCALE-2026",
+      "subject_id": "BIOINFORMATICS",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "assembly-annotation"
+      ],
+      "coverage_concept_ids": [
+        "BI03",
+        "BI04",
+        "BI05",
+        "BI10"
+      ],
+      "selection_rationale": "Newest review of evidence integration, gene prediction and scalable genome annotation.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بداند پس از مونتاژ، چگونه ژن‌ها، رونوشت‌ها و عناصر عملکردی به ژنوم نسبت داده می‌شوند.",
+        "why": "منبع میان شواهد رونوشت، پیش‌بینی محاسباتی و حاشیه‌نویسی در مقیاس بزرگ ارتباط برقرار می‌کند.",
+        "how_to_use": "ورودی‌های شواهدی، مدل پیش‌بینی، خطاهای حاشیه‌نویسی و تفاوت annotation ساختاری و عملکردی را جدا کنید.",
+        "next_step": "بعد از آن وارد ترنسکریپتومیک شوید تا یکی از مهم‌ترین منابع شواهد annotation را عمیق‌تر ببینید."
+      }
+    },
+    {
+      "id": "BIOINFORMATICS::REVIEW-RNASEQ-TRANSCRIPTOMICS-2009::transcriptomics-regulatory",
+      "resource_id": "REVIEW-RNASEQ-TRANSCRIPTOMICS-2009",
+      "subject_id": "BIOINFORMATICS",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "transcriptomics-regulatory"
+      ],
+      "coverage_concept_ids": [
+        "BI04",
+        "BI09"
+      ],
+      "selection_rationale": "Canonical review establishing the computational and statistical logic of RNA-seq transcriptome analysis.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد منطق داده ⁦RNA-seq⁩ را از شمارش خوانش تا استنباط بیان ژن بفهمد.",
+        "why": "این مرور تاریخی هنوز برای فهم اینکه چرا توالی‌یابی رونوشت چه نوع داده و عدم‌قطعیتی تولید می‌کند، مرجع روشنی است.",
+        "how_to_use": "تفاوت اندازه‌گیری، نگاشت، کمی‌سازی و تفسیر تغییر بیان را به‌صورت زنجیره مفهومی دنبال کنید.",
+        "next_step": "سپس محدودیت خوانش کوتاه را با ترنسکریپتومیک خوانش بلند مقایسه کنید."
+      }
+    },
+    {
+      "id": "BIOINFORMATICS::REVIEW-LONGREAD-TRANSCRIPTOMICS-2025::transcriptomics-regulatory",
+      "resource_id": "REVIEW-LONGREAD-TRANSCRIPTOMICS-2025",
+      "subject_id": "BIOINFORMATICS",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "transcriptomics-regulatory"
+      ],
+      "coverage_concept_ids": [
+        "BI04",
+        "BI03",
+        "BI09"
+      ],
+      "selection_rationale": "Current review of full-length transcript resolution, isoforms and computational analysis with long reads.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که بعد از مبانی ترنسکریپتومیک می‌خواهد ایزوفرم، اسپلایسینگ و رونوشت کامل را دقیق‌تر بفهمد.",
+        "why": "خوانش بلند بسیاری از ابهام‌های بازسازی رونوشت را تغییر می‌دهد و مسئله محاسباتی را از شمارش ساده فراتر می‌برد.",
+        "how_to_use": "تفاوت خوانش کوتاه و بلند را برای کشف ایزوفرم، خطا، کمی‌سازی و ادغام داده مقایسه کنید.",
+        "next_step": "برای ادامه، سراغ ژنومیک تنظیمی یا تحلیل تک‌سلولی بروید."
+      }
+    },
+    {
+      "id": "BIOINFORMATICS::REVIEW-PHYLOGENOMICS-TREE-LIFE-2005::comparative-phylogenomics",
+      "resource_id": "REVIEW-PHYLOGENOMICS-TREE-LIFE-2005",
+      "subject_id": "BIOINFORMATICS",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "comparative-phylogenomics"
+      ],
+      "coverage_concept_ids": [
+        "BI06",
+        "BI09"
+      ],
+      "selection_rationale": "Foundational review defining phylogenomics and genome-scale tree reconstruction.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد مقایسه ژنوم را در چارچوب تاریخ تکاملی گونه‌ها و ژن‌ها قرار دهد.",
+        "why": "این مرور نشان می‌دهد چگونه افزایش داده ژنومی، فیلوژنتیک را به مسئله‌ای ژنوم‌مقیاس تبدیل کرد.",
+        "how_to_use": "تفاوت درخت ژن و گونه، ادغام چند ژن و منابع ناسازگاری تبارزایی را استخراج کنید.",
+        "next_step": "سپس روش‌های مقایسه ژنوم را با تصحیح وابستگی تبارزایی مطالعه کنید."
+      }
+    },
+    {
+      "id": "BIOINFORMATICS::REVIEW-PHYLO-COMPARATIVE-GENOMICS-2025::comparative-phylogenomics",
+      "resource_id": "REVIEW-PHYLO-COMPARATIVE-GENOMICS-2025",
+      "subject_id": "BIOINFORMATICS",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "comparative-phylogenomics"
+      ],
+      "coverage_concept_ids": [
+        "BI06",
+        "BI09"
+      ],
+      "selection_rationale": "Current review showing why comparative-genomics observations require explicit phylogenetic modelling.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد از مقایسه ساده چند ژنوم به تحلیل آماری صحیح بین گونه‌ها برسد.",
+        "why": "ژنوم‌های گونه‌ها نقاط داده مستقل نیستند؛ تاریخ مشترک تبارزایی باید در آزمون مقایسه‌ای وارد شود.",
+        "how_to_use": "فرض استقلال، اثر تبار مشترک و منطق comparative methods را روی چند مثال دنبال کنید.",
+        "next_step": "سپس همین منطق را در یک مسئله ارتولوژی، تکامل ژن یا صفات ژنومی به کار ببرید."
+      }
+    },
+    {
+      "id": "BIOINFORMATICS::REVIEW-VARIANT-CALLING-BENCHMARK-2023::variant-population-medical",
+      "resource_id": "REVIEW-VARIANT-CALLING-BENCHMARK-2023",
+      "subject_id": "BIOINFORMATICS",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "variant-population-medical"
+      ],
+      "coverage_concept_ids": [
+        "BI07",
+        "BI03",
+        "BI09"
+      ],
+      "selection_rationale": "Current review of small/structural variant calling, long reads, pangenomes and benchmarking.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد مسیر تبدیل داده توالی فردی به واریانت و ارزیابی کیفیت آن را بفهمد.",
+        "why": "منبع نشان می‌دهد نوع خوانش، ژنوم مرجع، نواحی تکراری و معیار مرجع چگونه نتیجه variant calling را تغییر می‌دهند.",
+        "how_to_use": "واریانت کوچک، ساختاری، ژنوم مرجع و benchmark را به‌عنوان چهار لایه جدا تحلیل کنید.",
+        "next_step": "بعد از تولید واریانت، وارد مسئله دشوارتر تفسیر اثر زیستی آن شوید."
+      }
+    },
+    {
+      "id": "BIOINFORMATICS::REVIEW-CAGI-VARIANT-INTERPRETATION-2024::variant-population-medical",
+      "resource_id": "REVIEW-CAGI-VARIANT-INTERPRETATION-2024",
+      "subject_id": "BIOINFORMATICS",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "variant-population-medical"
+      ],
+      "coverage_concept_ids": [
+        "BI07",
+        "BI10",
+        "BI09"
+      ],
+      "selection_rationale": "Community assessment of computational variant-effect prediction and its present limitations.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بفهمد پیش‌بینی اثر واریانت چگونه باید با داده واقعی و معیار مستقل ارزیابی شود.",
+        "why": "ارزیابی‌های کور، تفاوت میان performance ظاهری و قابلیت تعمیم مدل‌های تفسیر واریانت را آشکار می‌کنند.",
+        "how_to_use": "نوع challenge، ground truth، معیار ارزیابی و موارد شکست مدل‌ها را جداگانه ثبت کنید.",
+        "next_step": "سپس به کاربردهای جمعیتی یا پزشکی بروید و محدودیت تعمیم بین جمعیت‌ها را بررسی کنید."
+      }
+    },
+    {
+      "id": "BIOINFORMATICS::REVIEW-SHOTGUN-METAGENOMICS-2017::metagenomics-microbiome",
+      "resource_id": "REVIEW-SHOTGUN-METAGENOMICS-2017",
+      "subject_id": "BIOINFORMATICS",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "metagenomics-microbiome"
+      ],
+      "coverage_concept_ids": [
+        "BI08",
+        "BI03",
+        "BI09"
+      ],
+      "selection_rationale": "Foundational synthesis of shotgun metagenomic study design and computational interpretation.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بداند چرا تحلیل یک جامعه میکروبی با تحلیل یک ژنوم منفرد متفاوت است.",
+        "why": "متاژنومیک با مخلوط گونه‌ها، فراوانی نامتوازن و نبود مرجع کامل روبه‌رو است و همین ویژگی‌ها مسئله محاسباتی را شکل می‌دهند.",
+        "how_to_use": "طبقه‌بندی، مونتاژ، پروفایل عملکردی و عوامل مخدوش‌کننده را به‌عنوان مسائل جدا دنبال کنید.",
+        "next_step": "سپس اثر خوانش بلند بر بازیابی ژنوم‌های کامل‌تر از جامعه را بررسی کنید."
+      }
+    },
+    {
+      "id": "BIOINFORMATICS::REVIEW-LONGREAD-METAGENOMICS-2024::metagenomics-microbiome",
+      "resource_id": "REVIEW-LONGREAD-METAGENOMICS-2024",
+      "subject_id": "BIOINFORMATICS",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "metagenomics-microbiome"
+      ],
+      "coverage_concept_ids": [
+        "BI08",
+        "BI03"
+      ],
+      "selection_rationale": "Recent review of long-read sequencing effects on taxonomic resolution, assembly and metagenome-assembled genomes.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که پس از مبانی متاژنومیک می‌خواهد نقش خوانش بلند را در تفکیک سویه و مونتاژ جامعه بفهمد.",
+        "why": "خوانش بلند پیوستگی ژنومی و تفکیک تاکسون‌ها را افزایش می‌دهد اما الگوهای خطا و نیاز محاسباتی متفاوتی دارد.",
+        "how_to_use": "مزیت‌ها و محدودیت‌ها را برای طبقه‌بندی، مونتاژ و بازیابی ژنوم مقایسه کنید.",
+        "next_step": "در ادامه یک مسئله میکروبیوم مشخص را با رویکرد short-read و long-read مقایسه مفهومی کنید."
+      }
+    },
+    {
+      "id": "BIOINFORMATICS::REFERENCE-ALPHAFOLD2-2021::structural-protein",
+      "resource_id": "REFERENCE-ALPHAFOLD2-2021",
+      "subject_id": "BIOINFORMATICS",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "structural-protein"
+      ],
+      "coverage_concept_ids": [
+        "BI05",
+        "BI10"
+      ],
+      "selection_rationale": "Landmark primary reference for modern deep-learning protein structure prediction.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد منطق جهش ساختاری ایجادشده با ⁦AlphaFold2⁩ را از خود منبع روش‌شناختی بفهمد.",
+        "why": "مقاله نشان می‌دهد اطلاعات تکاملی، نمایش ساختاری و یادگیری عمیق چگونه برای پیش‌بینی ساختار ترکیب می‌شوند.",
+        "how_to_use": "ورودی‌های مدل، نمایش توالی/ساختار، معیار اطمینان و محدودیت‌های ارزیابی را استخراج کنید؛ وارد آموزش اجرای نرم‌افزار نشوید.",
+        "next_step": "سپس محدودیت‌های زیستی و محاسباتی پیش‌بینی ساختار را در مرور بعدی بررسی کنید."
+      }
+    },
+    {
+      "id": "BIOINFORMATICS::REVIEW-STRUCTURAL-BIOINFORMATICS-AFTER-ALPHAFOLD-2024::structural-protein",
+      "resource_id": "REVIEW-STRUCTURAL-BIOINFORMATICS-AFTER-ALPHAFOLD-2024",
+      "subject_id": "BIOINFORMATICS",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "structural-protein"
+      ],
+      "coverage_concept_ids": [
+        "BI05",
+        "BI10",
+        "BI09"
+      ],
+      "selection_rationale": "Recent review positioning AlphaFold predictions inside the broader structural-bioinformatics workflow and its limitations.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد فرق «پیش‌بینی ساختار» با «حل کامل مسئله ساختاری» را بفهمد.",
+        "why": "منبع درباره اطمینان، حالت‌های دینامیک، کمپلکس‌ها، ligandها و ضرورت ادغام با شواهد دیگر بحث می‌کند.",
+        "how_to_use": "موارد موفقیت، محدودیت و نیاز به اعتبارسنجی را در سه ستون جدا ثبت کنید.",
+        "next_step": "برای ادامه، یک مسئله ساختار–عملکرد پروتئین را انتخاب و مشخص کنید کدام داده تکمیلی لازم است."
+      }
+    },
+    {
+      "id": "BIOINFORMATICS::REVIEW-SC-MULTIOMICS-COMPUTATIONAL-2022::single-cell-multiomics",
+      "resource_id": "REVIEW-SC-MULTIOMICS-COMPUTATIONAL-2022",
+      "subject_id": "BIOINFORMATICS",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "single-cell-multiomics"
+      ],
+      "coverage_concept_ids": [
+        "BI11",
+        "BI10",
+        "BI09"
+      ],
+      "selection_rationale": "Conceptual survey of computational integration strategies for single-cell multi-omics.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد قبل از نام ابزارها، مسئله ریاضی ادغام داده‌های تک‌سلولی را بفهمد.",
+        "why": "منبع تفاوت ابعاد، توزیع داده، جفت‌شدن سلول‌ها و alignment بین modalityها را به مسئله‌های محاسباتی تبدیل می‌کند.",
+        "how_to_use": "روش‌ها را بر اساس نوع anchor، فضای نهفته، تابع هدف و فرض آماری دسته‌بندی کنید.",
+        "next_step": "سپس ارتباط این روش‌ها را با طراحی و کاربرد زیستی multi-omics در مرور بعدی ببینید."
+      }
+    },
+    {
+      "id": "BIOINFORMATICS::REVIEW-SINGLE-CELL-MULTIOMICS-2023::single-cell-multiomics",
+      "resource_id": "REVIEW-SINGLE-CELL-MULTIOMICS-2023",
+      "subject_id": "BIOINFORMATICS",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "single-cell-multiomics"
+      ],
+      "coverage_concept_ids": [
+        "BI11",
+        "BI04",
+        "BI05",
+        "BI09"
+      ],
+      "selection_rationale": "Broad review of single-cell multi-omics measurement designs and downstream integrative questions.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بداند انواع داده تک‌سلولی چه اطلاعات مکملی از یک سلول می‌دهند.",
+        "why": "ترکیب ژنوم، اپی‌ژنوم، رونوشت و پروتئین مسئله ادغام را به طراحی آزمایش و تفسیر زیستی متصل می‌کند.",
+        "how_to_use": "برای هر modality مشخص کنید چه چیزی اندازه‌گیری می‌شود، چه نویزی دارد و اتصال آن به modality دیگر از چه نوع است.",
+        "next_step": "بعد از آن وارد ادغام عمومی چنداُمیکی و شبکه‌های زیستی شوید."
+      }
+    },
+    {
+      "id": "BIOINFORMATICS::REVIEW-GENE-NETWORK-MODELLING-2015::integrative-network-predictive",
+      "resource_id": "REVIEW-GENE-NETWORK-MODELLING-2015",
+      "subject_id": "BIOINFORMATICS",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "integrative-network-predictive"
+      ],
+      "coverage_concept_ids": [
+        "BI12",
+        "BI09"
+      ],
+      "selection_rationale": "Conceptual review of quantitative, logical and network representations for biological systems.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد داده‌های اُمیکی را از سطح فهرست ویژگی‌ها به مدل شبکه و سامانه زیستی وصل کند.",
+        "why": "منبع تفاوت مدل منطقی، کمی و شبکه‌ای را با توجه به نوع داده و سؤال زیستی روشن می‌کند.",
+        "how_to_use": "برای هر چارچوب، متغیرها، فرض‌ها، نوع پیش‌بینی و نیاز داده را مقایسه کنید.",
+        "next_step": "سپس ببینید داده‌های چنداُمیکی چگونه با روش‌های یادگیری ماشین در نمایش مشترک ادغام می‌شوند."
+      }
+    },
+    {
+      "id": "BIOINFORMATICS::REVIEW-OMICS-INTEGRATION-ML-2023::integrative-network-predictive",
+      "resource_id": "REVIEW-OMICS-INTEGRATION-ML-2023",
+      "subject_id": "BIOINFORMATICS",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "integrative-network-predictive"
+      ],
+      "coverage_concept_ids": [
+        "BI11",
+        "BI12",
+        "BI10",
+        "BI09"
+      ],
+      "selection_rationale": "Modern synthesis of horizontal, vertical, diagonal and mosaic omics integration through machine-learning paradigms.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد انواع مسئله ادغام اُمیکس را با زبان دقیق محاسباتی تفکیک کند.",
+        "why": "مرور، نوع اتصال نمونه‌ها و modalityها را به خانواده‌های مشخص integration و ایده‌های یادگیری ماشین نگاشت می‌کند.",
+        "how_to_use": "ابتدا چهار نوع integration را تعریف کنید؛ سپس برای هر کدام anchor، batch effect، فضای مشترک و معیار ارزیابی را مشخص کنید.",
+        "next_step": "در ادامه یک مسئله واقعی چنداُمیکی را انتخاب و قبل از انتخاب روش، نوع integration آن را تعیین کنید."
       }
     }
   ]
