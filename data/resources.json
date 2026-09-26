@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.9.0",
+  "schema_version": "0.10.0",
   "resources": [
     {
       "id": "OPENSTAX-BIOLOGY2E-2018",
@@ -3533,6 +3533,369 @@
       "journal": "Development",
       "doi": "10.1242/dev.203054",
       "publisher_url": "https://journals.biologists.com/dev/article/151/20/dev203054/362393/Understanding-developmental-system-drift",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "BOOK-KUBY-IMMUNOLOGY8-2023",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Kuby's Immunology, Media Update",
+      "authors": [
+        "Sharon Stranford",
+        "Judy Owen",
+        "Patricia Jones",
+        "Jenni Punt"
+      ],
+      "edition": "8th Edition",
+      "published_year": 2023,
+      "publisher": "Macmillan Learning",
+      "isbn": "9781319498658",
+      "publisher_url": "https://www.macmillanlearning.com/ed/uk/product/Kubys-Immunology-Media-Update--8th-edition/p/1319498655",
+      "purchase_url": "https://www.macmillanlearning.com/ed/uk/product/Kubys-Immunology-Media-Update--8th-edition/p/1319498655",
+      "cover": {
+        "url": "https://prod-cat-files.macmillan.cloud/MediaResources/Jackets/258W/9781319498658.jpg",
+        "source": "Macmillan Learning cover image"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "BOOK-CELLULAR-MOLECULAR-IMMUNOLOGY11-2025",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Cellular and Molecular Immunology",
+      "authors": [
+        "Abul K. Abbas",
+        "Andrew H. Lichtman",
+        "Shiv Pillai",
+        "Sarah Henrickson"
+      ],
+      "edition": "11th Edition",
+      "published_year": 2025,
+      "publisher": "Elsevier",
+      "isbn": "9780443283581",
+      "publisher_url": "https://shop.elsevier.com/books/cellular-and-molecular-immunology/abbas/978-0-443-28358-1",
+      "purchase_url": "https://shop.elsevier.com/books/cellular-and-molecular-immunology/abbas/978-0-443-28358-1",
+      "cover": {
+        "url": "https://covers.vitalsource.com/vbid/9780443283611/width/200",
+        "source": "VitalSource cover for the exact 11th-edition eText; Elsevier is bibliographic authority",
+        "source_url": "https://evolve.elsevier.com/cs/product/9780443283611?role=student"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "BOOK-JANEWAY-IMMUNOBIOLOGY10-2022",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Janeway's Immunobiology",
+      "authors": [
+        "Kenneth M. Murphy",
+        "Casey Weaver",
+        "Leslie J. Berg"
+      ],
+      "edition": "10th Edition",
+      "published_year": 2022,
+      "publisher": "W. W. Norton & Company",
+      "isbn": "9780393884913",
+      "publisher_url": "https://wwnorton.co.uk/books/9780393884913-janeway-s-immunobiology-57434628-f17f-4be3-9caa-6ebfab055715",
+      "purchase_url": "https://wwnorton.co.uk/books/9780393884913-janeway-s-immunobiology-57434628-f17f-4be3-9caa-6ebfab055715",
+      "cover": {
+        "url": "https://cdn2.wwnorton.com/wwnproducts/COLLEG/3/1/9780393884913/9780393884913_198.jpg",
+        "source": "W. W. Norton cover image"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-CGAS-STING-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Regulation of cGAS–STING signalling and its diversity of cellular outcomes",
+      "authors": [
+        "Zhengyin Zhang",
+        "Conggang Zhang"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Immunology",
+      "doi": "10.1038/s41577-024-01112-7",
+      "publisher_url": "https://www.nature.com/articles/s41577-024-01112-7",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-TRAINED-IMMUNITY-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Trained immunity in chronic inflammatory diseases and cancer",
+      "authors": [
+        "George Hajishengallis",
+        "Mihai G. Netea",
+        "Triantafyllos Chavakis"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Immunology",
+      "doi": "10.1038/s41577-025-01132-x",
+      "publisher_url": "https://www.nature.com/articles/s41577-025-01132-x",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-ANTIGEN-PRESENTATION-2022",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "A guide to antigen processing and presentation",
+      "authors": [
+        "Novalia Pishesha",
+        "Thibault J. Harmand",
+        "Hidde L. Ploegh"
+      ],
+      "published_year": 2022,
+      "journal": "Nature Reviews Immunology",
+      "doi": "10.1038/s41577-022-00707-2",
+      "publisher_url": "https://www.nature.com/articles/s41577-022-00707-2",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-ANTIGEN-PRESENTATION-DEFECTS-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Defects in antigen processing and presentation: mechanisms, immune evasion and implications for cancer vaccine development",
+      "authors": [
+        "Florian Huber",
+        "Michal Bassani-Sternberg"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Immunology",
+      "doi": "10.1038/s41577-025-01208-8",
+      "publisher_url": "https://www.nature.com/articles/s41577-025-01208-8",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-BCR-TRIGGERING-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Towards a unifying model for B-cell receptor triggering",
+      "authors": [
+        "Søren E. Degn",
+        "Pavel Tolar"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Immunology",
+      "doi": "10.1038/s41577-024-01073-x",
+      "publisher_url": "https://www.nature.com/articles/s41577-024-01073-x",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-B-CELLS-NONLYMPHOID-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "B cells in non-lymphoid tissues",
+      "authors": [
+        "Abrar Samiea",
+        "George Celis",
+        "Rashi Yadav",
+        "Lauren B. Rodda",
+        "et al."
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Immunology",
+      "doi": "10.1038/s41577-025-01137-6",
+      "publisher_url": "https://www.nature.com/articles/s41577-025-01137-6",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-IMMUNE-SYNAPSE-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "How crosstalk at the immune synapse shapes T cell and dendritic cell biology",
+      "authors": [
+        "Noa B. Martín-Cófreces",
+        "Diego Calzada-Fraile",
+        "Francisco Sánchez-Madrid"
+      ],
+      "published_year": 2026,
+      "journal": "Nature Reviews Immunology",
+      "doi": "10.1038/s41577-025-01262-2",
+      "publisher_url": "https://www.nature.com/articles/s41577-025-01262-2",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-CD8-EXHAUSTION-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Regulators of CD8+ T cell exhaustion",
+      "authors": [
+        "Qinli Sun",
+        "Chen Dong"
+      ],
+      "published_year": 2026,
+      "journal": "Nature Reviews Immunology",
+      "doi": "10.1038/s41577-025-01221-x",
+      "publisher_url": "https://www.nature.com/articles/s41577-025-01221-x",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-CENTRAL-TOLERANCE-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Antigen presentation for central tolerance induction",
+      "authors": [
+        "Ludger Klein",
+        "Elisabetta Petrozziello"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Immunology",
+      "doi": "10.1038/s41577-024-01076-8",
+      "publisher_url": "https://www.nature.com/articles/s41577-024-01076-8",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-B-CELL-TOLERANCE-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Epigenetic regulation of B cell tolerance and dysfunction in autoimmune disease",
+      "authors": [
+        "Shaocun Zhang",
+        "Yu Wang",
+        "Wanli Liu"
+      ],
+      "published_year": 2026,
+      "journal": "Nature Reviews Immunology",
+      "doi": "10.1038/s41577-026-01344-9",
+      "publisher_url": "https://www.nature.com/articles/s41577-026-01344-9",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-MUCOSAL-MICROBIOTA-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Microbiota-mediated mechanisms of mucosal immunity across the lifespan",
+      "authors": [
+        "Iliyan D. Iliev",
+        "J. Magarian Blander",
+        "Nicholas Collins",
+        "et al."
+      ],
+      "published_year": 2025,
+      "journal": "Nature Immunology",
+      "doi": "10.1038/s41590-025-02281-w",
+      "publisher_url": "https://www.nature.com/articles/s41590-025-02281-w",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-INNATELIKE-T-IMMUNOMETABOLISM-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Metabolic control of innate-like T cells",
+      "authors": [
+        "Thomas Riffelmacher",
+        "Mitchell Kronenberg"
+      ],
+      "published_year": 2026,
+      "journal": "Nature Reviews Immunology",
+      "doi": "10.1038/s41577-025-01219-5",
+      "publisher_url": "https://www.nature.com/articles/s41577-025-01219-5",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-B-CELL-IMMUNOMETABOLISM-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "B cell immunometabolism in health and disease",
+      "authors": [
+        "Eleonora Martinis",
+        "Silvia Tonon",
+        "Alessandra Colamatteo",
+        "et al."
+      ],
+      "published_year": 2025,
+      "journal": "Nature Immunology",
+      "doi": "10.1038/s41590-025-02102-0",
+      "publisher_url": "https://www.nature.com/articles/s41590-025-02102-0",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-MACROPHAGE-ANTIBACTERIAL-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Inducible antibacterial responses in macrophages",
+      "authors": [
+        "Matthew J. Sweet",
+        "Divya Ramnath",
+        "Amit Singhal",
+        "et al."
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Immunology",
+      "doi": "10.1038/s41577-024-01080-y",
+      "publisher_url": "https://www.nature.com/articles/s41577-024-01080-y",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-ANTIBODY-ENHANCEMENT-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Mechanisms of antibody-dependent enhancement of infectious disease",
+      "authors": [
+        "Timothy J. Wells",
+        "Tyron Esposito",
+        "Ian R. Henderson",
+        "Larisa I. Labzin",
+        "et al."
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Immunology",
+      "doi": "10.1038/s41577-024-01067-9",
+      "publisher_url": "https://www.nature.com/articles/s41577-024-01067-9",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-ADAPTIVE-MEMORY-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "A guide to adaptive immune memory",
+      "authors": [
+        "Nora Lam",
+        "YoonSeung Lee",
+        "Donna L. Farber"
+      ],
+      "published_year": 2024,
+      "journal": "Nature Reviews Immunology",
+      "doi": "10.1038/s41577-024-01040-6",
+      "publisher_url": "https://www.nature.com/articles/s41577-024-01040-6",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-IMMUNE-AGEING-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "The ageing immune system as a driver of systemic ageing",
+      "authors": [
+        "In Hwa Jang",
+        "Laura J. Niedernhofer",
+        "Paul D. Robbins",
+        "et al."
+      ],
+      "published_year": 2026,
+      "journal": "Nature Reviews Immunology",
+      "doi": "10.1038/s41577-026-01269-3",
+      "publisher_url": "https://www.nature.com/articles/s41577-026-01269-3",
       "verification_status": "verified",
       "verified_on": "2026-09-26"
     }
