@@ -885,7 +885,7 @@
           "label": "Plant evolution, diversity & terrestrial adaptation"
         }
       ],
-      "status": "in_progress",
+      "status": "complete_candidate",
       "completion_criteria": {
         "general_roadmap_resources": 4,
         "specialized_branches_required": 9,
