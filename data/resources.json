@@ -2558,7 +2558,10 @@
       "cover": {
         "url": "https://covers.vitalsource.com/vbid/9781119279310/width/200",
         "source": "VitalSource cover fallback for the 5th edition; Wiley-Blackwell is bibliographic authority",
-        "source_url": "https://www.wiley.com/en-us/Ecology%3A+From+Individuals+to+Ecosystems%2C+5th+Edition-p-9781119279310"
+        "source_url": "https://www.wiley.com/en-us/Ecology%3A+From+Individuals+to+Ecosystems%2C+5th+Edition-p-9781119279310",
+        "expected_sha256": "0fc7228bb4ef5128b15600efcd7b0eeb7af4ce28c219bc0c71c9306e2f5fad96",
+        "visual_reviewed_on": "2026-09-26",
+        "visual_review_status": "title_and_edition_checked"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-26"
