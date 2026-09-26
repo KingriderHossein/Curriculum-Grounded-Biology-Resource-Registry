@@ -30,4 +30,4 @@ This file is a navigation index, not a status log.
 - Plant Biology: Foundation → Core → Intermediate → Advanced → 9 specialized branches.
 - Developmental Biology: Foundation → Core → Intermediate → Advanced → 9 specialized branches.
 - Immunology: Foundation → Core → Intermediate → Advanced → 9 specialized branches.
-- Animal Physiology: Foundation → Core → Intermediate → Advanced → 9 specialized branches (complete candidate pending cover audit).
+- Animal Physiology: Foundation → Core → Intermediate → Advanced → 9 specialized branches.
