@@ -28,7 +28,7 @@
 | [زیست‌شناسی گیاهی ⁦Plant Biology⁩](subjects/plant-biology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
 | [زیست‌شناسی تکوینی ⁦Developmental Biology⁩](subjects/developmental-biology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
 | [ایمونولوژی ⁦Immunology⁩](subjects/immunology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
-| [فیزیولوژی جانوری ⁦Animal Physiology⁩](subjects/animal-physiology/README.md) | ۴ منبع | ۹ شاخه | ۱۳ |
+| [فیزیولوژی جانوری ⁦Animal Physiology⁩](subjects/animal-physiology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
 
 > یک منبع علمی ممکن است در چند درس استفاده شود. هویت کتاب یا مقاله فقط **یک بار** در رجیستری ثبت می‌شود و جایگاه آن در هر درس به‌صورت جداگانه تعریف می‌شود.
 
