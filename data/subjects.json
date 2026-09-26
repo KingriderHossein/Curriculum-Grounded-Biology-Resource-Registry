@@ -776,13 +776,14 @@
           "label": "Global change ecology"
         }
       ],
-      "status": "in_progress",
+      "status": "complete",
       "completion_criteria": {
         "general_roadmap_resources": 4,
         "specialized_branches_required": 9,
         "student_guidance_required": true,
         "theory_only": true
-      }
+      },
+      "completed_on": "2026-09-26"
     }
   ]
 }
