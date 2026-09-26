@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.11.0",
+  "schema_version": "0.12.0",
   "resources": [
     {
       "id": "OPENSTAX-BIOLOGY2E-2018",
@@ -4311,6 +4311,402 @@
       "journal": "Comprehensive Physiology",
       "doi": "10.1002/cph4.70077",
       "publisher_url": "https://doi.org/10.1002/cph4.70077",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "BOOK-BIOINFORMATICS-FUNCTIONAL-GENOMICS3-2015",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Bioinformatics and Functional Genomics",
+      "authors": [
+        "Jonathan Pevsner"
+      ],
+      "edition": "3rd Edition",
+      "published_year": 2015,
+      "publisher": "Wiley-Blackwell",
+      "isbn": "9781118581766",
+      "publisher_url": "https://uat.store.wiley.com/en-us/bioinformatics-and-functional-genomics-3rd-edition-p-9781118581766",
+      "purchase_url": "https://uat.store.wiley.com/en-us/bioinformatics-and-functional-genomics-3rd-edition-p-9781118581766",
+      "cover": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication7/v4/18/c9/cb/18c9cba5-a7aa-498a-66e7-7d1acde53221/9781118581766.jpg/1200x1200wz.jpg",
+        "source": "Apple Books cover image for the Wiley-Blackwell 3rd edition",
+        "source_url": "https://books.apple.com/gb/book/bioinformatics-and-functional-genomics/id1031993872",
+        "visual_review_status": "pending_visual_review"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "BOOK-BIOINFORMATICS-ALGORITHMS3-2018",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Bioinformatics Algorithms: An Active Learning Approach",
+      "authors": [
+        "Phillip Compeau",
+        "Pavel Pevzner"
+      ],
+      "edition": "3rd Edition",
+      "published_year": 2018,
+      "publisher": "Active Learning Publishers",
+      "isbn": "9780990374633",
+      "publisher_url": "https://www.bioinformaticsalgorithms.org/product-page/bioinformatics-algorithms-3rd-edition",
+      "purchase_url": "https://www.bioinformaticsalgorithms.org/product-page/bioinformatics-algorithms-3rd-edition",
+      "cover": {
+        "url": "https://static.wixstatic.com/media/988d7f_e730d60e1bc3452ab1733b5a8532e335~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+        "source": "Official Bioinformatics Algorithms product cover",
+        "source_url": "https://www.bioinformaticsalgorithms.org/product-page/bioinformatics-algorithms-3rd-edition",
+        "visual_review_status": "pending_visual_review"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "BOOK-BIOLOGICAL-SEQUENCE-ANALYSIS1-1998",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids",
+      "authors": [
+        "Richard Durbin",
+        "Sean R. Eddy",
+        "Anders Krogh",
+        "Graeme Mitchison"
+      ],
+      "edition": "1st Edition",
+      "published_year": 1998,
+      "publisher": "Cambridge University Press",
+      "isbn": "9781107085015",
+      "doi": "10.1017/CBO9780511790492",
+      "publisher_url": "https://www.cambridge.org/core/books/biological-sequence-analysis/921BB7B78B745198829EF96BC7E0F29D",
+      "purchase_url": "https://www.vitalsource.com/products/biological-sequence-analysis-richard-durbin-v9781107085015",
+      "cover": {
+        "url": "https://covers.vitalsource.com/vbid/9781107085015/width/200",
+        "source": "VitalSource cover image for the Cambridge University Press 1st edition",
+        "source_url": "https://www.vitalsource.com/products/biological-sequence-analysis-richard-durbin-v9781107085015",
+        "visual_review_status": "pending_visual_review"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REFERENCE-BLAST-1990",
+      "resource_type": "authoritative_reference",
+      "theory_only": true,
+      "title": "Basic local alignment search tool",
+      "authors": [
+        "Stephen F. Altschul",
+        "Warren Gish",
+        "Webb Miller",
+        "Eugene W. Myers",
+        "David J. Lipman"
+      ],
+      "published_year": 1990,
+      "journal": "Journal of Molecular Biology",
+      "doi": "10.1016/S0022-2836(05)80360-2",
+      "publisher_url": "https://doi.org/10.1016/S0022-2836(05)80360-2",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REFERENCE-PROFILE-HMM-SEARCH-2011",
+      "resource_type": "authoritative_reference",
+      "theory_only": true,
+      "title": "Accelerated Profile HMM Searches",
+      "authors": [
+        "Sean R. Eddy"
+      ],
+      "published_year": 2011,
+      "journal": "PLOS Computational Biology",
+      "doi": "10.1371/journal.pcbi.1002195",
+      "publisher_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002195",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-GENOME-ASSEMBLY-T2T-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Genome assembly in the telomere-to-telomere era",
+      "authors": [
+        "Heng Li",
+        "Richard Durbin"
+      ],
+      "published_year": 2024,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/s41576-024-00718-w",
+      "publisher_url": "https://www.nature.com/articles/s41576-024-00718-w",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-GENOME-ANNOTATION-SCALE-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Annotating genomes at increased scale and resolution",
+      "authors": [
+        "Hyun Joo Ji",
+        "Mihaela Pertea",
+        "Steven L. Salzberg"
+      ],
+      "published_year": 2026,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/s41576-026-00937-3",
+      "publisher_url": "https://www.nature.com/articles/s41576-026-00937-3",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-RNASEQ-TRANSCRIPTOMICS-2009",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "RNA-Seq: a revolutionary tool for transcriptomics",
+      "authors": [
+        "Zhong Wang",
+        "Mark Gerstein",
+        "Michael Snyder"
+      ],
+      "published_year": 2009,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/nrg2484",
+      "publisher_url": "https://www.nature.com/articles/nrg2484",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-LONGREAD-TRANSCRIPTOMICS-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Transcriptomics in the era of long-read sequencing",
+      "authors": [
+        "Carolina Monzó",
+        "Tianyuan Liu",
+        "Ana Conesa"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/s41576-025-00828-z",
+      "publisher_url": "https://www.nature.com/articles/s41576-025-00828-z",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-PHYLOGENOMICS-TREE-LIFE-2005",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Phylogenomics and the reconstruction of the tree of life",
+      "authors": [
+        "Frédéric Delsuc",
+        "Henner Brinkmann",
+        "Hervé Philippe"
+      ],
+      "published_year": 2005,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/nrg1603",
+      "publisher_url": "https://www.nature.com/articles/nrg1603",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-VARIANT-CALLING-BENCHMARK-2023",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Variant calling and benchmarking in an era of complete human genome sequences",
+      "authors": [
+        "Nathan D. Olson",
+        "Justin Wagner",
+        "Nathan Dwarshuis",
+        "Karen H. Miga",
+        "Fritz J. Sedlazeck",
+        "Marc Salit",
+        "Justin M. Zook"
+      ],
+      "published_year": 2023,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/s41576-023-00590-0",
+      "publisher_url": "https://www.nature.com/articles/s41576-023-00590-0",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-CAGI-VARIANT-INTERPRETATION-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "published_year": 2024,
+      "journal": "Genome Biology",
+      "doi": "10.1186/s13059-023-03113-6",
+      "publisher_url": "https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03113-6",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-SHOTGUN-METAGENOMICS-2017",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Shotgun metagenomics, from sampling to analysis",
+      "authors": [
+        "Christopher Quince",
+        "Alan W. Walker",
+        "Jared T. Simpson",
+        "Nicholas J. Loman",
+        "Nicola Segata"
+      ],
+      "published_year": 2017,
+      "journal": "Nature Biotechnology",
+      "doi": "10.1038/nbt.3935",
+      "publisher_url": "https://www.nature.com/articles/nbt.3935",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-LONGREAD-METAGENOMICS-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Unraveling metagenomics through long-read sequencing: a comprehensive review",
+      "authors": [
+        "Chankyung Kim",
+        "Monnat Pongpanich",
+        "Thantrira Porntaveetus"
+      ],
+      "published_year": 2024,
+      "journal": "Journal of Translational Medicine",
+      "doi": "10.1186/s12967-024-04917-1",
+      "publisher_url": "https://link.springer.com/article/10.1186/s12967-024-04917-1",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REFERENCE-ALPHAFOLD2-2021",
+      "resource_type": "authoritative_reference",
+      "theory_only": true,
+      "title": "Highly accurate protein structure prediction with AlphaFold",
+      "authors": [
+        "John Jumper",
+        "Richard Evans",
+        "Alexander Pritzel",
+        "Tim Green",
+        "Michael Figurnov",
+        "Olaf Ronneberger",
+        "Kathryn Tunyasuvunakool",
+        "Russ Bates",
+        "Augustin Žídek",
+        "Anna Potapenko",
+        "Alex Bridgland",
+        "Clemens Meyer",
+        "Simon A. A. Kohl",
+        "Andrew J. Ballard",
+        "Andrew Cowie",
+        "Bernardino Romera-Paredes",
+        "Stanislav Nikolov",
+        "Rishub Jain",
+        "Jonas Adler",
+        "Trevor Back",
+        "Stig Petersen",
+        "David Reiman",
+        "Ellen Clancy",
+        "Michal Zielinski",
+        "Martin Steinegger",
+        "Michalina Pacholska",
+        "Tamas Berghammer",
+        "Sebastian Bodenstein",
+        "David Silver",
+        "Oriol Vinyals",
+        "Andrew W. Senior",
+        "Koray Kavukcuoglu",
+        "Pushmeet Kohli",
+        "Demis Hassabis"
+      ],
+      "published_year": 2021,
+      "journal": "Nature",
+      "doi": "10.1038/s41586-021-03819-2",
+      "publisher_url": "https://www.nature.com/articles/s41586-021-03819-2",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-STRUCTURAL-BIOINFORMATICS-AFTER-ALPHAFOLD-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "An outlook on structural biology after AlphaFold: tools, limits and perspectives",
+      "authors": [
+        "Serena Rosignoli",
+        "Maddalena Pacelli",
+        "Francesca Manganiello",
+        "Alessandro Paiardini"
+      ],
+      "published_year": 2024,
+      "journal": "FEBS Open Bio",
+      "doi": "10.1002/2211-5463.13902",
+      "publisher_url": "https://febs.onlinelibrary.wiley.com/doi/10.1002/2211-5463.13902",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-SC-MULTIOMICS-COMPUTATIONAL-2022",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Computational Methods for Single-cell Multi-omics Integration and Alignment",
+      "authors": [
+        "Stefan Stanojevic",
+        "Yijun Li",
+        "Aleksandar Ristivojevic",
+        "Lana X. Garmire"
+      ],
+      "published_year": 2022,
+      "journal": "Genomics, Proteomics & Bioinformatics",
+      "doi": "10.1016/j.gpb.2022.11.013",
+      "publisher_url": "https://academic.oup.com/gpb/article/20/5/836/7230458",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-SINGLE-CELL-MULTIOMICS-2023",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Single-Cell Multiomics",
+      "authors": [
+        "Emily Flynn",
+        "Ana Almonte-Loya",
+        "Gabriela K. Fragiadakis"
+      ],
+      "published_year": 2023,
+      "journal": "Annual Review of Biomedical Data Science",
+      "doi": "10.1146/annurev-biodatasci-020422-050645",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-biodatasci-020422-050645",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-GENE-NETWORK-MODELLING-2015",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Quantitative and logic modelling of molecular and gene networks",
+      "authors": [
+        "Nicolas Le Novère"
+      ],
+      "published_year": 2015,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/nrg3885",
+      "publisher_url": "https://www.nature.com/articles/nrg3885",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-OMICS-INTEGRATION-ML-2023",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Omics data integration in computational biology viewed through the prism of machine learning paradigms",
+      "authors": [
+        "Aziz Fouché",
+        "Andrei Zinovyev"
+      ],
+      "published_year": 2023,
+      "journal": "Frontiers in Bioinformatics",
+      "doi": "10.3389/fbinf.2023.1191961",
+      "publisher_url": "https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2023.1191961/full",
       "verification_status": "verified",
       "verified_on": "2026-09-26"
     }
