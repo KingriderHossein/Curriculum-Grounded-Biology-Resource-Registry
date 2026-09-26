@@ -3555,7 +3555,11 @@
       "purchase_url": "https://www.macmillanlearning.com/ed/uk/product/Kubys-Immunology-Media-Update--8th-edition/p/1319498655",
       "cover": {
         "url": "https://prod-cat-files.macmillan.cloud/MediaResources/Jackets/258W/9781319498658.jpg",
-        "source": "Macmillan Learning cover image"
+        "source": "Macmillan Learning cover image",
+        "expected_sha256": "aac227691a54eba6d8043fd0695948f8b05b26157c94989c76f24141da8bcfe1",
+        "visual_reviewed_on": "2026-09-26",
+        "visual_review_status": "title_and_edition_checked",
+        "source_url": "https://www.macmillanlearning.com/ed/uk/product/Kubys-Immunology-Media-Update--8th-edition/p/1319498655"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-26"
@@ -3580,7 +3584,10 @@
       "cover": {
         "url": "https://covers.vitalsource.com/vbid/9780443283611/width/200",
         "source": "VitalSource cover for the exact 11th-edition eText; Elsevier is bibliographic authority",
-        "source_url": "https://evolve.elsevier.com/cs/product/9780443283611?role=student"
+        "source_url": "https://evolve.elsevier.com/cs/product/9780443283611?role=student",
+        "expected_sha256": "7fb1f298be0143d3f21cc3f58838518027c53f1a58829fe5ba5ed25f82165459",
+        "visual_reviewed_on": "2026-09-26",
+        "visual_review_status": "title_and_edition_checked"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-26"
@@ -3603,7 +3610,11 @@
       "purchase_url": "https://wwnorton.co.uk/books/9780393884913-janeway-s-immunobiology-57434628-f17f-4be3-9caa-6ebfab055715",
       "cover": {
         "url": "https://cdn2.wwnorton.com/wwnproducts/COLLEG/3/1/9780393884913/9780393884913_198.jpg",
-        "source": "W. W. Norton cover image"
+        "source": "W. W. Norton cover image",
+        "expected_sha256": "3549710c98f88c46d6385d0651a1e844e4e3d7e56d1dae683ff968845500d6cc",
+        "visual_reviewed_on": "2026-09-26",
+        "visual_review_status": "title_and_edition_checked",
+        "source_url": "https://wwnorton.co.uk/books/9780393884913-janeway-s-immunobiology-57434628-f17f-4be3-9caa-6ebfab055715"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-26"
