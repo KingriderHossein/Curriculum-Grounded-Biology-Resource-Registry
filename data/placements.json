@@ -5389,8 +5389,8 @@
       }
     },
     {
-      "id": "ANIMAL-PHYSIOLOGY::REVIEW-COMPARATIVE-CAT-WALKING-2026::muscle-locomotion",
-      "resource_id": "REVIEW-COMPARATIVE-CAT-WALKING-2026",
+      "id": "ANIMAL-PHYSIOLOGY::REVIEW-COMPARATIVE-CAT-WALKING-2025::muscle-locomotion",
+      "resource_id": "REVIEW-COMPARATIVE-CAT-WALKING-2025",
       "subject_id": "ANIMAL-PHYSIOLOGY",
       "learning_stage": "specialized",
       "role": "current_update",
