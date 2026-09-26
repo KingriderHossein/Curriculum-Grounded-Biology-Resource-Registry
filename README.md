@@ -30,6 +30,7 @@
 | [ایمونولوژی ⁦Immunology⁩](subjects/immunology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
 | [فیزیولوژی جانوری ⁦Animal Physiology⁩](subjects/animal-physiology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
 | [بیوانفورماتیک ⁦Bioinformatics⁩](subjects/bioinformatics/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
+| [زیست‌شناسی سامانه‌ها ⁦Systems Biology⁩](subjects/systems-biology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
 
 > یک منبع علمی ممکن است در چند درس استفاده شود. هویت کتاب یا مقاله فقط **یک بار** در رجیستری ثبت می‌شود و جایگاه آن در هر درس به‌صورت جداگانه تعریف می‌شود.
 
@@ -548,6 +549,49 @@
 </table>
 
 [مشاهده نقشه‌راه بیوانفورماتیک](subjects/bioinformatics/README.md)
+
+---
+
+## زیست‌شناسی سامانه‌ها
+
+مسیر از پیش‌نیاز زیستی و اصول تفکر سامانه‌ای تا مدل‌سازی ریاضی پیشرفته و سپس شاخه‌های زیر ادامه پیدا می‌کند:
+
+- شبکه‌های زیستی و موتیف‌های شبکه‌ای؛
+- شبکه‌های تنظیم ژن و علیت؛
+- شبکه‌های پیام‌رسانی و تصمیم‌های سلولی؛
+- دینامیک، بازخورد و پایداری سامانه؛
+- تصادفی‌بودن، نویز و دینامیک تک‌سلولی؛
+- شبکه‌های متابولیک و مدل‌سازی مبتنی بر قید؛
+- یکپارچه‌سازی چنداُمیکس و سامانه‌های چندلایه؛
+- مدل‌سازی فضایی و چندمقیاسی؛
+- پزشکی سامانه‌ها و مدل‌های پیش‌بین؛
+
+### کتاب‌های اصلی مسیر
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://covers.vitalsource.com/vbid/9781000008166/width/200" width="145" alt="An Introduction to Systems Biology: Design Principles of Biological Circuits cover"><br>
+<b>An Introduction to Systems Biology: Design Principles of Biological Circuits</b><br>
+منبع اصلی · ویرایش ۲ · ۲۰۱۹<br>
+<a href="https://www.routledge.com/9781439837177">ناشر / خرید</a>
+</td>
+<td align="center" width="33%">
+<img src="https://covers.vitalsource.com/vbid/9783527675678/width/200" width="145" alt="Systems Biology: A Textbook cover"><br>
+<b>Systems Biology: A Textbook</b><br>
+منبع تکمیلی · ویرایش ۲ · ۲۰۱۶<br>
+<a href="https://www.vitalsource.com/ie/products/systems-biology-a-textbook-edda-klipp-wolfram-v9783527675678">ناشر / خرید</a>
+</td>
+<td align="center" width="33%">
+<img src="https://cdn2.penguin.com.au/covers/original/9780262545822.jpg" width="145" alt="Mathematical Modeling in Systems Biology: An Introduction cover"><br>
+<b>Mathematical Modeling in Systems Biology: An Introduction</b><br>
+منبع پیشرفته · نسخه کاغذی ۲۰۲۲<br>
+<a href="https://mitpress.mit.edu/9780262545822/mathematical-modeling-in-systems-biology/">ناشر / خرید</a>
+</td>
+</tr>
+</table>
+
+[مشاهده نقشه‌راه زیست‌شناسی سامانه‌ها](subjects/systems-biology/README.md)
 
 ---
 

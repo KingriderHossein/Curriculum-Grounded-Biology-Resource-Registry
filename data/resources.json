@@ -4714,6 +4714,324 @@
       },
       "verification_status": "verified",
       "verified_on": "2026-09-26"
+    },
+    {
+      "id": "BOOK-SYSTEMS-BIOLOGY-ALON2-2019",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "An Introduction to Systems Biology: Design Principles of Biological Circuits",
+      "authors": [
+        "Uri Alon"
+      ],
+      "edition": "2nd Edition",
+      "published_year": 2019,
+      "publisher": "Chapman & Hall/CRC",
+      "isbn": "9781439837177",
+      "publisher_url": "https://www.routledge.com/9781439837177",
+      "purchase_url": "https://www.routledge.com/9781439837177",
+      "cover": {
+        "url": "https://covers.vitalsource.com/vbid/9781000008166/width/200",
+        "source": "VitalSource cover image for the Chapman & Hall/CRC 2nd edition",
+        "source_url": "https://www.vitalsource.com/products/an-introduction-to-systems-biology-uri-alon-v9781000008166",
+        "expected_sha256": "cae29ad586e01e783ba5a4438e670a350e667f355b8c48145f45168fa62df2a0",
+        "visual_reviewed_on": "2026-09-26",
+        "visual_review_status": "title_and_edition_checked"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "BOOK-SYSTEMS-BIOLOGY-TEXTBOOK2-2016",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Systems Biology: A Textbook",
+      "authors": [
+        "Edda Klipp",
+        "Wolfram Liebermeister",
+        "Christoph Wierling",
+        "Axel Kowald"
+      ],
+      "edition": "2nd Edition",
+      "published_year": 2016,
+      "publisher": "Wiley-VCH",
+      "isbn": "9783527336364",
+      "publisher_url": "https://www.wiley.com/en-us/Systems+Biology%3A+A+Textbook%2C+2nd+Edition-p-9783527336364",
+      "purchase_url": "https://www.vitalsource.com/ie/products/systems-biology-a-textbook-edda-klipp-wolfram-v9783527675678",
+      "cover": {
+        "url": "https://covers.vitalsource.com/vbid/9783527675678/width/200",
+        "source": "VitalSource cover image for the Wiley-VCH 2nd edition",
+        "source_url": "https://www.vitalsource.com/ie/products/systems-biology-a-textbook-edda-klipp-wolfram-v9783527675678",
+        "expected_sha256": "ab24486bb223c56d4f18fff4d45424844d2c6d1cb808bc0da6bae42a16b81b90",
+        "visual_reviewed_on": "2026-09-26",
+        "visual_review_status": "title_and_edition_checked"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "BOOK-MATH-MODELING-SYSTEMS-BIOLOGY-2022",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Mathematical Modeling in Systems Biology: An Introduction",
+      "authors": [
+        "Brian P. Ingalls"
+      ],
+      "edition": "Paperback edition",
+      "published_year": 2022,
+      "publisher": "The MIT Press",
+      "isbn": "9780262545822",
+      "publisher_url": "https://mitpress.mit.edu/9780262545822/mathematical-modeling-in-systems-biology/",
+      "purchase_url": "https://mitpressbookstore.mit.edu/book/9780262545822",
+      "cover": {
+        "url": "https://cdn2.penguin.com.au/covers/original/9780262545822.jpg",
+        "source": "Penguin Books Australia cover image for the MIT Press paperback",
+        "source_url": "https://www.penguin.com.au/books/mathematical-modeling-in-systems-biology-9780262545822",
+        "expected_sha256": "26145f62add2668a37fd4ad1ae433a71aa78f72cb58033ec6b85576deb00cd19",
+        "visual_reviewed_on": "2026-09-26",
+        "visual_review_status": "title_and_edition_checked"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-BIO-NETWORK-GRAPH-2020",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "A Guide to Conquer the Biological Network Era Using Graph Theory",
+      "authors": [
+        "Mikaela Koutrouli",
+        "Evangelos Karatzas",
+        "David Paez-Espino",
+        "Georgios A. Pavlopoulos"
+      ],
+      "published_year": 2020,
+      "journal": "Frontiers in Bioengineering and Biotechnology",
+      "doi": "10.3389/fbioe.2020.00034",
+      "publisher_url": "https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2020.00034/full",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-NETWORK-HYPERMOTIFS-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Network hypermotifs in biological systems: structure, dynamics, and functional implications",
+      "authors": [
+        "Moirangthem Sailash Singh",
+        "Priyan Bhattacharya",
+        "Karthik Raman"
+      ],
+      "published_year": 2026,
+      "journal": "npj Systems Biology and Applications",
+      "doi": "10.1038/s41540-026-00701-7",
+      "publisher_url": "https://www.nature.com/articles/s41540-026-00701-7",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-SIGNAL-DYNAMICS-FATE-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Linking signaling dynamics and cell fate decisions through single-cell imaging: evidence and challenges",
+      "authors": [
+        "Fulvio Bonsignore",
+        "Sara Pozzi",
+        "Erika Aloi",
+        "Davide Mazza",
+        "Samuel Zambrano"
+      ],
+      "published_year": 2025,
+      "journal": "Frontiers in Cell and Developmental Biology",
+      "doi": "10.3389/fcell.2025.1656051",
+      "publisher_url": "https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2025.1656051/full",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-BIOLOGICAL-ROBUSTNESS-2004",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Biological robustness",
+      "authors": [
+        "Hiroaki Kitano"
+      ],
+      "published_year": 2004,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/nrg1471",
+      "publisher_url": "https://www.nature.com/articles/nrg1471",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-DYNAMICAL-MODEL-DISCOVERY-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Data-driven discovery of dynamical models in biology",
+      "authors": [
+        "Bartosz Prokop",
+        "Lendert Gelens"
+      ],
+      "published_year": 2026,
+      "journal": "Nature Reviews Physics",
+      "doi": "10.1038/s42254-026-00955-4",
+      "publisher_url": "https://www.nature.com/articles/s42254-026-00955-4",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-STOCHASTIC-GENE-QUEUE-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Solving stochastic gene-expression models using queueing theory: A tutorial review",
+      "authors": [
+        "Juraj Szavits-Nossan",
+        "Ramon Grima"
+      ],
+      "published_year": 2024,
+      "journal": "Biophysical Journal",
+      "doi": "10.1016/j.bpj.2024.04.004",
+      "publisher_url": "https://www.sciencedirect.com/science/article/pii/S0006349524002480",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-STOCHASTIC-INFERENCE-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Mechanistic inference of stochastic gene expression from structured single-cell data",
+      "authors": [
+        "Christopher E. Miles"
+      ],
+      "published_year": 2025,
+      "journal": "Current Opinion in Systems Biology",
+      "doi": "10.1016/j.coisb.2025.100555",
+      "publisher_url": "https://www.sciencedirect.com/science/article/pii/S2452310025000150",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-HUMAN-METABOLOGENOMICS-GEM-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Genome-scale models in human metabologenomics",
+      "authors": [
+        "Adil Mardinoglu",
+        "Bernhard Ø. Palsson"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/s41576-024-00768-0",
+      "publisher_url": "https://www.nature.com/articles/s41576-024-00768-0",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-ML-GEM-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Machine learning for the advancement of genome-scale metabolic modeling",
+      "authors": [
+        "Pritam Kundu",
+        "Satyajit Beura",
+        "Suman Mondal",
+        "Amit Kumar Das",
+        "Amit Ghosh"
+      ],
+      "published_year": 2024,
+      "journal": "Biotechnology Advances",
+      "doi": "10.1016/j.biotechadv.2024.108400",
+      "publisher_url": "https://www.sciencedirect.com/science/article/pii/S0734975024000946",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-OMICS-INTEGRATION-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Algorithms and tools for data-driven omics integration to achieve multilayer biological insights: a narrative review",
+      "authors": [
+        "Aurelia Morabito",
+        "Giulia De Simone",
+        "Roberta Pastorelli",
+        "Laura Brunelli",
+        "Manuela Ferrario"
+      ],
+      "published_year": 2025,
+      "journal": "Journal of Translational Medicine",
+      "doi": "10.1186/s12967-025-06446-x",
+      "publisher_url": "https://link.springer.com/article/10.1186/s12967-025-06446-x",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-MULTISCALE-COMPUTATIONAL-2013",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Multiscale Computational Models of Complex Biological Systems",
+      "authors": [
+        "Joseph Walpole",
+        "Jason A. Papin",
+        "Shayn M. Peirce"
+      ],
+      "published_year": 2013,
+      "journal": "Annual Review of Biomedical Engineering",
+      "doi": "10.1146/annurev-bioeng-071811-150104",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-bioeng-071811-150104",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-SINGLE-CELL-SYSTEMS-DISEASE-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Adapting systems biology to address the complexity of human disease in the single-cell era",
+      "authors": [
+        "David S. Fischer",
+        "Martin A. Villanueva",
+        "Peter S. Winter",
+        "Alex K. Shalek"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/s41576-025-00821-6",
+      "publisher_url": "https://www.nature.com/articles/s41576-025-00821-6",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "PERSPECTIVE-IMMUNE-DIGITAL-TWINS-2024",
+      "resource_type": "authoritative_reference",
+      "theory_only": true,
+      "title": "Immune digital twins for complex human pathologies: applications, limitations, and challenges",
+      "authors": [
+        "Anna Niarakis",
+        "Reinhard Laubenbacher",
+        "Gary An",
+        "et al."
+      ],
+      "published_year": 2024,
+      "journal": "npj Systems Biology and Applications",
+      "doi": "10.1038/s41540-024-00450-5",
+      "publisher_url": "https://www.nature.com/articles/s41540-024-00450-5",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-COMPUTATIONAL-MODELING-BIOSYSTEMS-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Computational modelling of biological systems now and then: revisiting tools and visions from the beginning of the century",
+      "authors": [
+        "Axel Loewe",
+        "Peter J. Hunter",
+        "Peter Kohl"
+      ],
+      "published_year": 2025,
+      "journal": "Philosophical Transactions of the Royal Society A",
+      "doi": "10.1098/rsta.2023.0384",
+      "publisher_url": "https://royalsocietypublishing.org/doi/10.1098/rsta.2023.0384",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
     }
   ]
 }

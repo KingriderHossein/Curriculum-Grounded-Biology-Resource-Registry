@@ -1365,6 +1365,115 @@
         "theory_only": true
       },
       "completed_on": "2026-09-26"
+    },
+    {
+      "id": "SYSTEMS-BIOLOGY",
+      "fa_name": "زیست‌شناسی سامانه‌ها",
+      "en_name": "Systems Biology",
+      "scope": "theoretical",
+      "roadmap_stages": [
+        "foundation",
+        "core",
+        "intermediate",
+        "advanced",
+        "specialized"
+      ],
+      "concepts": [
+        {
+          "id": "SB01",
+          "label": "تفکر سامانه‌ای و رفتار برآمده"
+        },
+        {
+          "id": "SB02",
+          "label": "شبکه‌های زیستی، گراف و موتیف‌ها"
+        },
+        {
+          "id": "SB03",
+          "label": "شبکه‌های تنظیم ژن و علیت"
+        },
+        {
+          "id": "SB04",
+          "label": "پیام‌رسانی و پردازش اطلاعات فضازمانی"
+        },
+        {
+          "id": "SB05",
+          "label": "دینامیک غیرخطی، بازخورد، نوسان و پایداری"
+        },
+        {
+          "id": "SB06",
+          "label": "تصادفی‌بودن، نویز و ناهمگنی سلولی"
+        },
+        {
+          "id": "SB07",
+          "label": "شبکه‌های متابولیک و مدل‌سازی مبتنی بر قید"
+        },
+        {
+          "id": "SB08",
+          "label": "برآورد پارامتر، شناسایی‌پذیری، حساسیت و عدم‌قطعیت"
+        },
+        {
+          "id": "SB09",
+          "label": "یکپارچه‌سازی چنداُمیکس و شبکه‌های چندلایه"
+        },
+        {
+          "id": "SB10",
+          "label": "مدل‌سازی فضایی، چندسلولی و چندمقیاسی"
+        },
+        {
+          "id": "SB11",
+          "label": "مدل‌سازی مکانیزمی، داده‌محور و ترکیبی"
+        },
+        {
+          "id": "SB12",
+          "label": "پیش‌بینی، اعتبارسنجی و پزشکی سامانه‌ها"
+        }
+      ],
+      "branches": [
+        {
+          "id": "biological-networks-motifs",
+          "label": "شبکه‌های زیستی و موتیف‌های شبکه‌ای"
+        },
+        {
+          "id": "gene-regulatory-systems",
+          "label": "شبکه‌های تنظیم ژن و علیت"
+        },
+        {
+          "id": "signaling-cell-decisions",
+          "label": "شبکه‌های پیام‌رسانی و تصمیم‌های سلولی"
+        },
+        {
+          "id": "dynamics-feedback-robustness",
+          "label": "دینامیک، بازخورد و پایداری سامانه"
+        },
+        {
+          "id": "stochasticity-single-cell",
+          "label": "تصادفی‌بودن، نویز و دینامیک تک‌سلولی"
+        },
+        {
+          "id": "metabolic-constraint-modeling",
+          "label": "شبکه‌های متابولیک و مدل‌سازی مبتنی بر قید"
+        },
+        {
+          "id": "multiomics-integration",
+          "label": "یکپارچه‌سازی چنداُمیکس و سامانه‌های چندلایه"
+        },
+        {
+          "id": "spatial-multiscale",
+          "label": "مدل‌سازی فضایی و چندمقیاسی"
+        },
+        {
+          "id": "systems-medicine-predictive",
+          "label": "پزشکی سامانه‌ها و مدل‌های پیش‌بین"
+        }
+      ],
+      "status": "complete",
+      "completion_criteria": {
+        "general_roadmap_resources": 4,
+        "specialized_branches_required": 9,
+        "student_guidance_required": true,
+        "theory_only": true
+      },
+      "completed_on": "2026-09-26"
     }
   ]
 }

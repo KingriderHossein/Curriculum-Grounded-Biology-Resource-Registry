@@ -91,5 +91,6 @@ The current reference-quality subjects are:
 - **Immunology / ایمونولوژی**
 - **Animal Physiology / فیزیولوژی جانوری**
 - **Bioinformatics / بیوانفورماتیک**
+- **Systems Biology / زیست‌شناسی سامانه‌ها**
 
 New subjects should reuse this architecture instead of introducing a parallel resource model.
