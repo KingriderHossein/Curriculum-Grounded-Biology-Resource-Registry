@@ -3926,12 +3926,10 @@
       "publisher_url": "https://www.pearson.com/en-ca/subject-catalog/p/principles-of-animal-physiology/P200000002463",
       "purchase_url": "https://www.pearson.com/en-ca/subject-catalog/p/principles-of-animal-physiology/P200000002463",
       "cover": {
-        "url": "https://www.pearson.com/store/pmccommercewebservices/v2/medias/size-W650-desktop-A1030-00-23-74-A103000237417-A103000237417-Lrg.jpg?context=bWFzdGVyfGltYWdlc3wxNTcwNDZ8aW1hZ2UvanBlZ3xzeXMtbWFzdGVyL2ltYWdlcy9oYTEvaGQxLzE0ODU5OTU2MDkyOTU4L3NpemVfVzY1MF9kZXNrdG9wXy9BMTAzMC8wMC8yMy83NC9BMTAzMDAwMjM3NDE3L0ExMDMwMDAyMzc0MTdfTHJnLmpwZ3w5M2FlNjJkY2IxM2VjODJhNWU0ZjhmZDg3ZTY0YTU0OWEwZmIxOTFkODUwOGE1ZmU4ZWQxNjhjZDllNThmOTYy",
-        "source": "Official Pearson cover image",
-        "source_url": "https://www.pearson.com/en-us/pearsonplus/p/9780137335435",
-        "expected_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-        "visual_reviewed_on": "2026-09-26",
-        "visual_review_status": "title_and_edition_checked"
+        "url": "https://covers.vitalsource.com/vbid/9780134568683/width/200",
+        "source": "VitalSource cover image for the exact 3rd edition",
+        "source_url": "https://www.vitalsource.com/products/principles-of-animal-physiology-christopher-d-moyes-patricia-v9780134568683",
+        "visual_review_status": "pending_visual_review"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-26"
@@ -3956,7 +3954,7 @@
         "url": "https://learninglink.oup.com/protected/files/product/cover/1630393546543-9780197552438_FC.jpg",
         "source": "Official Oxford University Press Learning Link cover image",
         "source_url": "https://learninglink.oup.com/access/hill5e-instructor-resources",
-        "expected_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+        "expected_sha256": "e42d2431221bfc379dfee4967d3bfd4a2e707f9b30446f6e3dd42e30df3fbd45",
         "visual_reviewed_on": "2026-09-26",
         "visual_review_status": "title_and_edition_checked"
       },
@@ -3977,16 +3975,14 @@
       "edition": "1st Edition",
       "published_year": 2021,
       "publisher": "Oxford University Press",
-      "isbn": "9780191072673",
+      "isbn": "9780199655458",
       "publisher_url": "https://www.oup.com.au/books/higher-education/biological-sciences/9780199655458",
       "purchase_url": "https://www.oup.com.au/books/higher-education/biological-sciences/9780199655458",
       "cover": {
-        "url": "https://fdslive.oup.com/covers/anz/desktop/medium/9780191072673.jpg",
-        "source": "Official Oxford University Press cover image",
-        "source_url": "https://www.oup.com.au/books/higher-education/biological-sciences/9780199655458",
-        "expected_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-        "visual_reviewed_on": "2026-09-26",
-        "visual_review_status": "title_and_edition_checked"
+        "url": "https://covers.vitalsource.com/vbid/9780192640468/width/200",
+        "source": "VitalSource cover image for the Oxford University Press 2021 edition",
+        "source_url": "https://www.vitalsource.com/products/animal-physiology-an-environmental-perspective-patrick-butler-anne-brown-v9780192640468",
+        "visual_review_status": "pending_visual_review"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-26"
