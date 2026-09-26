@@ -101,7 +101,7 @@ Mary Ann Clark, Matthew Douglas, Jung Choi · OpenStax · 2018
 
 ## مرحله پیشرفته — از فرد تا اکوسیستم
 
-<p align="center"><a href="https://www.wiley.com/en-us/Ecology%3A+From+Individuals+to+Ecosystems%2C+5th+Edition-p-9781119279310"><img src="https://media.wiley.com/product_data/coverImage300/10/11192793/1119279310.jpg" width="155" alt="Ecology: From Individuals to Ecosystems 5th Edition"></a></p>
+<p align="center"><a href="https://www.wiley.com/en-us/Ecology%3A+From+Individuals+to+Ecosystems%2C+5th+Edition-p-9781119279310"><img src="https://covers.vitalsource.com/vbid/9781119279310/width/200" width="155" alt="Ecology: From Individuals to Ecosystems 5th Edition"></a></p>
 
 ### کتاب ⁦Ecology: From Individuals to Ecosystems⁩ — ویرایش پنجم
 
