@@ -4340,32 +4340,6 @@
       "verified_on": "2026-09-26"
     },
     {
-      "id": "BOOK-BIOINFORMATICS-ALGORITHMS3-2018",
-      "resource_type": "textbook",
-      "theory_only": true,
-      "title": "Bioinformatics Algorithms: An Active Learning Approach",
-      "authors": [
-        "Phillip Compeau",
-        "Pavel Pevzner"
-      ],
-      "edition": "3rd Edition",
-      "published_year": 2018,
-      "publisher": "Active Learning Publishers",
-      "isbn": "9780990374633",
-      "publisher_url": "https://www.bioinformaticsalgorithms.org/product-page/bioinformatics-algorithms-3rd-edition",
-      "purchase_url": "https://www.bioinformaticsalgorithms.org/product-page/bioinformatics-algorithms-3rd-edition",
-      "cover": {
-        "url": "https://static.wixstatic.com/media/988d7f_e730d60e1bc3452ab1733b5a8532e335~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
-        "source": "Official Bioinformatics Algorithms product cover",
-        "source_url": "https://www.bioinformaticsalgorithms.org/product-page/bioinformatics-algorithms-3rd-edition",
-        "visual_review_status": "title_and_edition_checked",
-        "expected_sha256": "946ab58945717f322ddaaa693ea9b05220bf15c4399993a808140c564fe1e40f",
-        "visual_reviewed_on": "2026-09-26"
-      },
-      "verification_status": "verified",
-      "verified_on": "2026-09-26"
-    },
-    {
       "id": "BOOK-BIOLOGICAL-SEQUENCE-ANALYSIS1-1998",
       "resource_type": "textbook",
       "theory_only": true,
@@ -4713,6 +4687,29 @@
       "journal": "Frontiers in Bioinformatics",
       "doi": "10.3389/fbinf.2023.1191961",
       "publisher_url": "https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2023.1191961/full",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "BOOK-INTRO-BIOINFORMATICS5-2019",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Introduction to Bioinformatics",
+      "authors": [
+        "Arthur M. Lesk"
+      ],
+      "edition": "5th Edition",
+      "published_year": 2019,
+      "publisher": "Oxford University Press",
+      "isbn": "9780192522849",
+      "publisher_url": "https://www.oupjapan.co.jp/en/node/25754?language=en",
+      "purchase_url": "https://www.oupjapan.co.jp/en/node/25754?language=en",
+      "cover": {
+        "url": "https://covers.vitalsource.com/vbid/9780192522849/width/200",
+        "source": "VitalSource cover image for the Oxford University Press 5th edition",
+        "source_url": "https://www.vitalsource.com/products/introduction-to-bioinformatics-arthur-lesk-v9780192522849",
+        "visual_review_status": "pending_visual_review"
+      },
       "verification_status": "verified",
       "verified_on": "2026-09-26"
     }
