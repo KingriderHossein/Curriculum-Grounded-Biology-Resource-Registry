@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.10.0",
+  "schema_version": "0.9.0",
   "resources": [
     {
       "id": "OPENSTAX-BIOLOGY2E-2018",
@@ -3206,6 +3206,324 @@
       "journal": "Nature Plants",
       "doi": "10.1038/s41477-022-01283-y",
       "publisher_url": "https://www.nature.com/articles/s41477-022-01283-y",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "BOOK-ESSENTIAL-DEVBIO4-2021",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Essential Developmental Biology",
+      "authors": [
+        "Jonathan M. W. Slack",
+        "Leslie Dale"
+      ],
+      "edition": "4th Edition",
+      "published_year": 2021,
+      "publisher": "Wiley-Blackwell",
+      "isbn": "9781119512851",
+      "publisher_url": "https://uat.store.wiley.com/en-us/essential-developmental-biology-4th-edition-p-9781119512851",
+      "purchase_url": "https://uat.store.wiley.com/en-us/essential-developmental-biology-4th-edition-p-9781119512851",
+      "cover": {
+        "url": "https://covers.vitalsource.com/vbid/9781119512844/width/200",
+        "source": "VitalSource exact 4th-edition eText cover; bibliographic authority Wiley",
+        "source_url": "https://www.vitalsource.com/products/essential-developmental-biology-jonathan-m-w-slack-leslie-v9781119512844"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "BOOK-WOLPERT-DEVELOPMENT7-2025",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Wolpert's Principles of Development",
+      "authors": [
+        "Cheryll Tickle",
+        "Alfonso Martinez Arias",
+        "Marysia Placzek",
+        "Lewis Wolpert"
+      ],
+      "edition": "7th Edition",
+      "published_year": 2025,
+      "publisher": "Oxford University Press",
+      "isbn": "9780192896612",
+      "publisher_url": "https://www.oupjapan.co.jp/en/products/detail/65084",
+      "purchase_url": "https://www.oupjapan.co.jp/en/products/detail/65084",
+      "cover": {
+        "url": "https://covers.vitalsource.com/vbid/9780192649836/width/200",
+        "source": "VitalSource exact 7th-edition eText cover; bibliographic authority Oxford University Press",
+        "source_url": "https://www.vitalsource.com/products/wolpert-39-s-principles-of-development-cheryll-tickle-alfonso-v9780192649836"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "BOOK-DEVELOPMENTAL-BIOLOGY13-2023",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Developmental Biology",
+      "authors": [
+        "Michael J. F. Barresi",
+        "Scott F. Gilbert"
+      ],
+      "edition": "13th Edition",
+      "published_year": 2023,
+      "publisher": "Oxford University Press",
+      "isbn": "9780197574591",
+      "publisher_url": "https://www.oup.com.au/books/higher-education/biology/9780197574591",
+      "purchase_url": "https://www.oup.com.au/books/higher-education/biology/9780197574591",
+      "cover": {
+        "url": "https://learninglink.oup.com/protected/files/product/cover/1672294723596-9780197574591.jpg",
+        "source": "Official Oxford University Press cover image",
+        "source_url": "https://learninglink.oup.com/access/barresi13e"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-EARLY-EMBRYO-EPIGENOME-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Epigenome dynamics in early mammalian embryogenesis",
+      "authors": [
+        "Adam Burton",
+        "Maria-Elena Torres-Padilla"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/s41576-025-00831-4",
+      "publisher_url": "https://www.nature.com/articles/s41576-025-00831-4",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-NODAL-SIGNALING-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Nodal Signaling: A Paradigm for TGFβ Signaling in Embryonic Development",
+      "authors": [
+        "Jakob El Kholtei",
+        "Mireia Codina-Tobias",
+        "Alexander F. Schier"
+      ],
+      "published_year": 2025,
+      "journal": "Annual Review of Cell and Developmental Biology",
+      "doi": "10.1146/annurev-cellbio-112122-030209",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-cellbio-112122-030209",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-PATTERN-FORMATION-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Pattern Formation in Cell Cultures",
+      "authors": [
+        "Kaushik Roy",
+        "Aryeh Warmflash"
+      ],
+      "published_year": 2026,
+      "journal": "Annual Review of Biophysics",
+      "doi": "10.1146/annurev-biophys-030822-031838",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-030822-031838",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-NEURAL-CREST-GRN-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Neural crest gene regulatory networks as drivers of development, diversification and disease",
+      "authors": [
+        "Jan Stundl",
+        "Ayyappa Raja Desingu Rajan",
+        "Marianne E. Bronner"
+      ],
+      "published_year": 2026,
+      "journal": "Nature Reviews Molecular Cell Biology",
+      "doi": "10.1038/s41580-026-00949-1",
+      "publisher_url": "https://www.nature.com/articles/s41580-026-00949-1",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-MECHANICAL-FORCES-DEVELOPMENT-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Measuring and manipulating mechanical forces during development",
+      "authors": [
+        "Clémentine Villeneuve",
+        "Kaitlin P. McCreery",
+        "Sara A. Wickström"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Cell Biology",
+      "doi": "10.1038/s41556-025-01632-x",
+      "publisher_url": "https://www.nature.com/articles/s41556-025-01632-x",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-MECHANICAL-STATE-TRANSITIONS-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Mechanical state transitions in the regulation of tissue form and function",
+      "authors": [
+        "Yanlan Mao",
+        "Sara A. Wickström"
+      ],
+      "published_year": 2024,
+      "journal": "Nature Reviews Molecular Cell Biology",
+      "doi": "10.1038/s41580-024-00719-x",
+      "publisher_url": "https://www.nature.com/articles/s41580-024-00719-x",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-STEM-EMBRYO-MODELS-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Progress in stem cell-based embryo models and their applications in developmental biology and biomedicine",
+      "authors": [
+        "Hao Wu",
+        "Hongmei Wang"
+      ],
+      "published_year": 2026,
+      "journal": "Nature Reviews Molecular Cell Biology",
+      "doi": "10.1038/s41580-025-00942-0",
+      "publisher_url": "https://www.nature.com/articles/s41580-025-00942-0",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-REGENERATION-SIGNAL-CONTROL-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Signal control during tissue regeneration in adult animals",
+      "authors": [
+        "Sushant Bangru",
+        "Rocky Diegmiller",
+        "Stefano Di Talia",
+        "Kenneth D. Poss",
+        "et al."
+      ],
+      "published_year": 2026,
+      "journal": "Nature Reviews Molecular Cell Biology",
+      "doi": "10.1038/s41580-025-00917-1",
+      "publisher_url": "https://www.nature.com/articles/s41580-025-00917-1",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-ORGAN-MECHANICS-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "The Mechanics of Building Functional Organs",
+      "authors": [
+        "Toby G. R. Andrews",
+        "Rashmi Priya"
+      ],
+      "published_year": 2025,
+      "journal": "Cold Spring Harbor Perspectives in Biology",
+      "doi": "10.1101/cshperspect.a041520",
+      "publisher_url": "https://cshperspectives.cshlp.org/content/17/3/a041520",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-CARDIOGENESIS-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Coordination of cardiogenesis in vivo and in vitro",
+      "authors": [
+        "Sasha Mendjan",
+        "Alison Deyett",
+        "Deborah Yelon"
+      ],
+      "published_year": 2026,
+      "journal": "Nature Reviews Molecular Cell Biology",
+      "doi": "10.1038/s41580-025-00878-5",
+      "publisher_url": "https://www.nature.com/articles/s41580-025-00878-5",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-HUMAN-GERM-CELL-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Mechanisms of human germ cell development",
+      "authors": [
+        "Mitinori Saitou",
+        "Masahiro Nagano",
+        "Ken Mizuta"
+      ],
+      "published_year": 2026,
+      "journal": "Nature Reviews Molecular Cell Biology",
+      "doi": "10.1038/s41580-025-00893-6",
+      "publisher_url": "https://www.nature.com/articles/s41580-025-00893-6",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-GERM-GRANULES-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "How germ granules promote germ cell fate",
+      "authors": [
+        "Melissa C. Pamula",
+        "Ruth Lehmann"
+      ],
+      "published_year": 2024,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/s41576-024-00744-8",
+      "publisher_url": "https://www.nature.com/articles/s41576-024-00744-8",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-CLOCKWORK-EMBRYO-2023",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "The Clockwork Embryo: Mechanisms Regulating Developmental Rate",
+      "authors": [
+        "Margarete Diaz-Cuadros",
+        "Olivier Pourquié"
+      ],
+      "published_year": 2023,
+      "journal": "Annual Review of Genetics",
+      "doi": "10.1146/annurev-genet-022123-104503",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-genet-022123-104503",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-INSECT-METAMORPHOSIS-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Evolution of insect metamorphosis — an update",
+      "authors": [
+        "Barbora Konopová"
+      ],
+      "published_year": 2025,
+      "journal": "Current Opinion in Insect Science",
+      "doi": "10.1016/j.cois.2024.101289",
+      "publisher_url": "https://www.sciencedirect.com/science/article/pii/S2214574524001317",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-DEVELOPMENTAL-SYSTEM-DRIFT-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Understanding developmental system drift",
+      "authors": [
+        "Áine McColgan",
+        "James DiFrisco"
+      ],
+      "published_year": 2024,
+      "journal": "Development",
+      "doi": "10.1242/dev.203054",
+      "publisher_url": "https://journals.biologists.com/dev/article/151/20/dev203054/362393/Understanding-developmental-system-drift",
       "verification_status": "verified",
       "verified_on": "2026-09-26"
     }
