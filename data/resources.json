@@ -4152,6 +4152,146 @@
       "publisher_url": "https://onlinelibrary.wiley.com/doi/10.1111/brv.13081",
       "verification_status": "verified",
       "verified_on": "2026-09-26"
+    },
+    {
+      "id": "PERSPECTIVE-NEUROETHOLOGY-FUTURE-2024",
+      "resource_type": "authoritative_reference",
+      "theory_only": true,
+      "title": "A perspective on neuroethology: what the past teaches us about the future of neuroethology",
+      "authors": [
+        "M. Jerome Beetz"
+      ],
+      "published_year": 2024,
+      "journal": "Journal of Comparative Physiology A",
+      "doi": "10.1007/s00359-024-01695-5",
+      "publisher_url": "https://link.springer.com/article/10.1007/s00359-024-01695-5",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-COMPARATIVE-CAT-WALKING-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Roles of Femoral Biarticular and Monoarticular Muscles in Cat Walking: A Comparative Review With Dogs, Horses, and Humans",
+      "authors": [
+        "Tsutomu Miyake",
+        "Hiroshi Koie",
+        "Kanto Nishikawa",
+        "Arito Yozu"
+      ],
+      "published_year": 2026,
+      "journal": "Journal of Morphology",
+      "doi": "10.1002/jmor.70110",
+      "publisher_url": "https://onlinelibrary.wiley.com/doi/10.1002/jmor.70110",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-CARDIORESPIRATORY-MARINE-MAMMALS-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Cardiorespiratory adaptations in small cetaceans and marine mammals",
+      "authors": [
+        "Andreas Fahlman"
+      ],
+      "published_year": 2024,
+      "journal": "Experimental Physiology",
+      "doi": "10.1113/EP091095",
+      "publisher_url": "https://doi.org/10.1113/EP091095",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-AQUATIC-IONIC-OSMOTIC-2023",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Evolving views of ionic, osmotic and acid-base regulation in aquatic animals",
+      "authors": [
+        "Martin Tresguerres",
+        "Garfield T. Kwan",
+        "Alyssa Weinrauch"
+      ],
+      "published_year": 2023,
+      "journal": "Journal of Experimental Biology",
+      "doi": "10.1242/jeb.245747",
+      "publisher_url": "https://doi.org/10.1242/jeb.245747",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-REPTILIAN-DIGESTIVE-EFFICIENCY-2023",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Reptilian digestive efficiency: Past, present, and future",
+      "authors": [
+        "Beck A. Wehrle",
+        "Donovan P. German"
+      ],
+      "published_year": 2023,
+      "journal": "Comparative Biochemistry and Physiology Part A: Molecular & Integrative Physiology",
+      "doi": "10.1016/j.cbpa.2023.111369",
+      "publisher_url": "https://www.sciencedirect.com/science/article/pii/S1095643323000028",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-COMPARATIVE-INSULIN-SUPERFAMILY-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "What comparative endocrinology tells us about the original function of the insulin superfamily",
+      "authors": [
+        "Yoshio Takei"
+      ],
+      "published_year": 2025,
+      "journal": "Endocrine Journal",
+      "doi": "10.1507/endocrj.EJ25-0213",
+      "publisher_url": "https://www.jstage.jst.go.jp/article/endocrj/72/12/72_EJ25-0213/_article/-char/en",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-SPEXIN-REPRODUCTION-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Advances in research on spexin-mediated regulation of reproductive function in vertebrates",
+      "authors": [
+        "Xiaojing Chen",
+        "Yuyan Feng",
+        "Shudi Dai",
+        "Binbin Guo",
+        "Leyan Yan",
+        "Jie Liu",
+        "Huanxi Zhu"
+      ],
+      "published_year": 2024,
+      "journal": "Frontiers in Endocrinology",
+      "doi": "10.3389/fendo.2024.1422711",
+      "publisher_url": "https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2024.1422711/full",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "META-TEMPERATURE-VARIABILITY-ECTOTHERMS-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "The Effect of Temperature Variability on Biological Responses of Ectothermic Animals—A Meta-Analysis",
+      "authors": [
+        "Clayton W. Stocker",
+        "Stephanie M. Bamford",
+        "Miki Jahn",
+        "Geoffrey P. F. Mazué",
+        "Amanda K. Pettersen",
+        "Daniel Ritchie",
+        "Alexander M. Rubin",
+        "Daniel W. A. Noble",
+        "Frank Seebacher"
+      ],
+      "published_year": 2024,
+      "journal": "Ecology Letters",
+      "doi": "10.1111/ele.14511",
+      "publisher_url": "https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14511",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
     }
   ]
 }
