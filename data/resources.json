@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.10.0",
+  "schema_version": "0.11.0",
   "resources": [
     {
       "id": "OPENSTAX-BIOLOGY2E-2018",
@@ -3907,6 +3907,249 @@
       "journal": "Nature Reviews Immunology",
       "doi": "10.1038/s41577-026-01269-3",
       "publisher_url": "https://www.nature.com/articles/s41577-026-01269-3",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "BOOK-PRINCIPLES-ANIMAL-PHYSIOLOGY3-2016",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Principles of Animal Physiology",
+      "authors": [
+        "Christopher D. Moyes",
+        "Patricia M. Schulte"
+      ],
+      "edition": "3rd Edition",
+      "published_year": 2016,
+      "publisher": "Pearson Canada",
+      "isbn": "9780321838179",
+      "publisher_url": "https://www.pearson.com/en-ca/subject-catalog/p/principles-of-animal-physiology/P200000002463",
+      "purchase_url": "https://www.pearson.com/en-ca/subject-catalog/p/principles-of-animal-physiology/P200000002463",
+      "cover": {
+        "url": "https://www.pearson.com/store/pmccommercewebservices/v2/medias/size-W650-desktop-A1030-00-23-74-A103000237417-A103000237417-Lrg.jpg?context=bWFzdGVyfGltYWdlc3wxNTcwNDZ8aW1hZ2UvanBlZ3xzeXMtbWFzdGVyL2ltYWdlcy9oYTEvaGQxLzE0ODU5OTU2MDkyOTU4L3NpemVfVzY1MF9kZXNrdG9wXy9BMTAzMC8wMC8yMy83NC9BMTAzMDAwMjM3NDE3L0ExMDMwMDAyMzc0MTdfTHJnLmpwZ3w5M2FlNjJkY2IxM2VjODJhNWU0ZjhmZDg3ZTY0YTU0OWEwZmIxOTFkODUwOGE1ZmU4ZWQxNjhjZDllNThmOTYy",
+        "source": "Official Pearson cover image",
+        "source_url": "https://www.pearson.com/en-us/pearsonplus/p/9780137335435",
+        "expected_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+        "visual_reviewed_on": "2026-09-26",
+        "visual_review_status": "title_and_edition_checked"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "BOOK-ANIMAL-PHYSIOLOGY5-2022",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Animal Physiology",
+      "authors": [
+        "Richard W. Hill",
+        "Daniel J. Cavanaugh",
+        "Margaret Anderson"
+      ],
+      "edition": "5th Edition",
+      "published_year": 2022,
+      "publisher": "Oxford University Press",
+      "isbn": "9780197552438",
+      "publisher_url": "https://www.oup.com.au/books/higher-education/biology/9780197552438",
+      "purchase_url": "https://www.oup.com.au/books/higher-education/biology/9780197552438",
+      "cover": {
+        "url": "https://learninglink.oup.com/protected/files/product/cover/1630393546543-9780197552438_FC.jpg",
+        "source": "Official Oxford University Press Learning Link cover image",
+        "source_url": "https://learninglink.oup.com/access/hill5e-instructor-resources",
+        "expected_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+        "visual_reviewed_on": "2026-09-26",
+        "visual_review_status": "title_and_edition_checked"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "BOOK-ANIMAL-PHYSIOLOGY-ENVIRONMENT-2021",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Animal Physiology: An Environmental Perspective",
+      "authors": [
+        "Patrick J. Butler",
+        "J. Anne Brown",
+        "D. George Stephenson",
+        "John R. Speakman"
+      ],
+      "edition": "1st Edition",
+      "published_year": 2021,
+      "publisher": "Oxford University Press",
+      "isbn": "9780191072673",
+      "publisher_url": "https://www.oup.com.au/books/higher-education/biological-sciences/9780199655458",
+      "purchase_url": "https://www.oup.com.au/books/higher-education/biological-sciences/9780199655458",
+      "cover": {
+        "url": "https://fdslive.oup.com/covers/anz/desktop/medium/9780191072673.jpg",
+        "source": "Official Oxford University Press cover image",
+        "source_url": "https://www.oup.com.au/books/higher-education/biological-sciences/9780199655458",
+        "expected_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+        "visual_reviewed_on": "2026-09-26",
+        "visual_review_status": "title_and_edition_checked"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-NEUROETHOLOGY-MODELS-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Model organisms and systems in neuroethology: one hundred years of history and a look into the future",
+      "authors": [
+        "Hermann Wagner",
+        "Martin Egelhaaf",
+        "Catherine Carr"
+      ],
+      "published_year": 2024,
+      "journal": "Journal of Comparative Physiology A",
+      "doi": "10.1007/s00359-023-01685-z",
+      "publisher_url": "https://link.springer.com/article/10.1007/s00359-023-01685-z",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-COMPARATIVE-SKELETAL-MUSCLE-2023",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "The importance of comparative physiology: mechanisms, diversity and adaptation in skeletal muscle physiology and mechanics",
+      "authors": [
+        "Elizabeth Mendoza",
+        "Daniel S. Moen",
+        "Natalie C. Holt"
+      ],
+      "published_year": 2023,
+      "journal": "Journal of Experimental Biology",
+      "doi": "10.1242/jeb.245158",
+      "publisher_url": "https://doi.org/10.1242/jeb.245158",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-SYSTEMIC-BLOOD-FLOW-VERTEBRATES-2020",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "What determines systemic blood flow in vertebrates?",
+      "authors": [
+        "William Joyce",
+        "Tobias Wang"
+      ],
+      "published_year": 2020,
+      "journal": "Journal of Experimental Biology",
+      "doi": "10.1242/jeb.215335",
+      "publisher_url": "https://journals.biologists.com/jeb/article/223/4/jeb215335/223817/What-determines-systemic-blood-flow-in-vertebrates",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-OXYGEN-TRANSPORT-CASCADE-2023",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "The oxygen transport cascade and exercise: Lessons from comparative physiology",
+      "authors": [
+        "Andrew H. Ramsook",
+        "Paolo B. Dominelli",
+        "Sarah A. Angus",
+        "Jonathon W. Senefeld",
+        "Chad C. Wiggins",
+        "Michael J. Joyner"
+      ],
+      "published_year": 2023,
+      "journal": "Comparative Biochemistry and Physiology Part A: Molecular & Integrative Physiology",
+      "doi": "10.1016/j.cbpa.2023.111442",
+      "publisher_url": "https://www.sciencedirect.com/science/article/pii/S1095643323000752",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-OSMOREGULATION-EXCRETION-2014",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Osmoregulation and excretion",
+      "authors": [
+        "Erik Hviid Larsen",
+        "Lewis E. Deaton",
+        "Horst Onken",
+        "Michael O'Donnell",
+        "Martin Grosell",
+        "William H. Dantzler",
+        "Dirk Weihrauch"
+      ],
+      "published_year": 2014,
+      "journal": "Comprehensive Physiology",
+      "doi": "10.1002/cphy.c130004",
+      "publisher_url": "https://doi.org/10.1002/cphy.c130004",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-FEED-INTAKE-COMPARATIVE-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "A bird's-eye overview of molecular mechanisms regulating feed intake in chickens—with mammalian comparisons",
+      "authors": [
+        "Anastasiia R. Volyanskaya",
+        "Ilya R. Akberdin",
+        "Mikhail A. Kulyashov",
+        "Ivan S. Yevshin",
+        "Michael N. Romanov",
+        "Elena I. Shagimardanova",
+        "Oleg A. Gusev",
+        "Fedor A. Kolpakov"
+      ],
+      "published_year": 2024,
+      "journal": "Animal Nutrition",
+      "doi": "10.1016/j.aninu.2024.01.008",
+      "publisher_url": "https://www.sciencedirect.com/science/article/pii/S2405654524000258",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-INTEGRATIVE-HORMONE-INSECTS-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "The Integrative Physiology of Hormone Signaling: Insights from Insect Models",
+      "authors": [
+        "Takashi Koyama",
+        "Usama Saeed",
+        "Kim Rewitz",
+        "Kenneth V. Halberg"
+      ],
+      "published_year": 2025,
+      "journal": "Physiology",
+      "doi": "10.1152/physiol.00030.2024",
+      "publisher_url": "https://journals.physiology.org/doi/full/10.1152/physiol.00030.2024",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-WILD-VERTEBRATE-REPRODUCTION-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Non-invasive biomarkers of reproduction in individuals and populations of wild vertebrates",
+      "authors": [
+        "Katie L. Edwards"
+      ],
+      "published_year": 2026,
+      "journal": "Journal of Reproduction and Development",
+      "doi": "10.1262/jrd.2025-119",
+      "publisher_url": "https://www.jstage.jst.go.jp/article/jrd/72/3/72_2025-119/_article/-char/en",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-ECTOTHERM-THERMAL-DIET-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Diet effects on ectotherm thermal performance",
+      "authors": [
+        "Emily A. Hardison",
+        "Erika J. Eliason"
+      ],
+      "published_year": 2024,
+      "journal": "Biological Reviews",
+      "doi": "10.1111/brv.13081",
+      "publisher_url": "https://onlinelibrary.wiley.com/doi/10.1111/brv.13081",
       "verification_status": "verified",
       "verified_on": "2026-09-26"
     }
