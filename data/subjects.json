@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.8.0",
+  "schema_version": "0.9.0",
   "subjects": [
     {
       "id": "CELL-BIOLOGY",
@@ -959,42 +959,51 @@
       "branches": [
         {
           "id": "early-embryogenesis-mzt",
-          "label": "Early embryogenesis & maternal-to-zygotic transition"
+          "label": "Early embryogenesis & maternal-to-zygotic transition",
+          "fa_label": "تکوین اولیه جنین و گذار مادری به زیگوتی"
         },
         {
           "id": "patterning-morphogens",
-          "label": "Pattern formation & morphogen signalling"
+          "label": "Pattern formation & morphogen signalling",
+          "fa_label": "الگویابی و پیام‌رسانی مورفوژن‌ها"
         },
         {
           "id": "cell-fate-grn",
-          "label": "Cell fate, gene regulatory networks & lineage specification"
+          "label": "Cell fate, gene regulatory networks & lineage specification",
+          "fa_label": "سرنوشت سلولی و شبکه‌های تنظیم ژن"
         },
         {
           "id": "morphogenesis-mechanics",
-          "label": "Morphogenesis, tissue mechanics & cell movements"
+          "label": "Morphogenesis, tissue mechanics & cell movements",
+          "fa_label": "مورفوژنز، مکانیک بافت و حرکات سلولی"
         },
         {
           "id": "stem-cells-regeneration",
-          "label": "Stem cells, potency & regeneration"
+          "label": "Stem cells, potency & regeneration",
+          "fa_label": "سلول‌های بنیادی، توانمندی و بازسازی"
         },
         {
           "id": "organogenesis-tissue-development",
-          "label": "Organogenesis & tissue development"
+          "label": "Organogenesis & tissue development",
+          "fa_label": "اندام‌زایی و تکوین بافت"
         },
         {
           "id": "germline-sex-development",
-          "label": "Germline, sex determination & reproductive development"
+          "label": "Germline, sex determination & reproductive development",
+          "fa_label": "رده زایا، تعیین جنسیت و تکوین تولیدمثلی"
         },
         {
           "id": "developmental-timing-metamorphosis",
-          "label": "Developmental timing, growth & metamorphosis"
+          "label": "Developmental timing, growth & metamorphosis",
+          "fa_label": "زمان‌بندی تکوینی، رشد و دگردیسی"
         },
         {
           "id": "evo-devo",
-          "label": "Evo-devo & developmental evolution"
+          "label": "Evo-devo & developmental evolution",
+          "fa_label": "زیست‌شناسی تکوینی تکاملی"
         }
       ],
-      "status": "in_progress",
+      "status": "complete_candidate",
       "completion_criteria": {
         "general_roadmap_resources": 4,
         "specialized_branches_required": 9,
