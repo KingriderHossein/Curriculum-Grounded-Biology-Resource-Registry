@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.9.0",
+  "schema_version": "0.10.0",
   "subjects": [
     {
       "id": "CELL-BIOLOGY",
@@ -1011,6 +1011,123 @@
         "theory_only": true
       },
       "completed_on": "2026-09-26"
+    },
+    {
+      "id": "IMMUNOLOGY",
+      "fa_name": "ایمونولوژی",
+      "en_name": "Immunology",
+      "scope": "theoretical",
+      "roadmap_stages": [
+        "foundation",
+        "core",
+        "intermediate",
+        "advanced",
+        "specialized"
+      ],
+      "concepts": [
+        {
+          "id": "IM01",
+          "label": "Immune system organization, cells and lymphoid tissues"
+        },
+        {
+          "id": "IM02",
+          "label": "Innate immunity, pattern recognition and inflammation"
+        },
+        {
+          "id": "IM03",
+          "label": "Complement and soluble innate effector systems"
+        },
+        {
+          "id": "IM04",
+          "label": "Antigen processing, presentation and MHC biology"
+        },
+        {
+          "id": "IM05",
+          "label": "B-cell development, activation and antibody responses"
+        },
+        {
+          "id": "IM06",
+          "label": "T-cell development, activation and effector differentiation"
+        },
+        {
+          "id": "IM07",
+          "label": "Immune tolerance, autoimmunity and inhibitory checkpoints"
+        },
+        {
+          "id": "IM08",
+          "label": "Barrier and mucosal immunity"
+        },
+        {
+          "id": "IM09",
+          "label": "Host–microbiome immune interactions"
+        },
+        {
+          "id": "IM10",
+          "label": "Immunometabolism and immune-cell state transitions"
+        },
+        {
+          "id": "IM11",
+          "label": "Immunity to infection and immunopathology"
+        },
+        {
+          "id": "IM12",
+          "label": "Immune memory, development and ageing"
+        }
+      ],
+      "branches": [
+        {
+          "id": "innate-pattern-recognition",
+          "label": "Innate immunity & pattern recognition",
+          "fa_label": "ایمنی ذاتی و شناسایی الگو"
+        },
+        {
+          "id": "antigen-presentation-mhc",
+          "label": "Antigen processing, presentation & MHC",
+          "fa_label": "پردازش و ارائه آنتی‌ژن و زیست‌شناسی MHC"
+        },
+        {
+          "id": "b-cell-antibody",
+          "label": "B-cell biology & antibody responses",
+          "fa_label": "زیست‌شناسی سلول B و پاسخ‌های آنتی‌بادی"
+        },
+        {
+          "id": "t-cell-cellular",
+          "label": "T-cell biology & cellular immunity",
+          "fa_label": "زیست‌شناسی سلول T و ایمنی سلولی"
+        },
+        {
+          "id": "tolerance-autoimmunity",
+          "label": "Immune tolerance, autoimmunity & checkpoints",
+          "fa_label": "تحمل ایمنی، خودایمنی و نقاط مهاری"
+        },
+        {
+          "id": "mucosal-microbiome",
+          "label": "Mucosal immunity & host–microbiome interactions",
+          "fa_label": "ایمنی مخاطی و تعامل میزبان–میکروبیوم"
+        },
+        {
+          "id": "immunometabolism",
+          "label": "Immunometabolism & immune-cell states",
+          "fa_label": "ایمونومتابولیسم و حالت‌های سلول ایمنی"
+        },
+        {
+          "id": "infection-immunopathology",
+          "label": "Infection immunity & immunopathology",
+          "fa_label": "ایمنی در برابر عفونت و ایمونوپاتولوژی"
+        },
+        {
+          "id": "development-memory-ageing",
+          "label": "Immune development, memory & ageing",
+          "fa_label": "تکوین سیستم ایمنی، حافظه و پیری"
+        }
+      ],
+      "status": "in_progress",
+      "completion_criteria": {
+        "general_roadmap_resources": 4,
+        "specialized_branches_required": 9,
+        "student_guidance_required": true,
+        "theory_only": true
+      }
     }
   ]
 }
