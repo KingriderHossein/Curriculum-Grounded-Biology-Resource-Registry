@@ -85,5 +85,6 @@ The current reference-quality subjects are:
 - **Molecular Biology / زیست‌شناسی مولکولی**
 - **Microbiology / میکروبیولوژی**
 - **Evolutionary Biology / زیست‌شناسی تکاملی**
+- **Ecology / اکولوژی**
 
 New subjects should reuse this architecture instead of introducing a parallel resource model.
