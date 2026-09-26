@@ -42,15 +42,15 @@
 
 | شاخه | منبع پیشنهادی | استفاده پیشنهادی |
 |---|---|---|
-| نوروفیزیولوژی و دستگاه‌های حسی | [Model organisms and systems in neuroethology](https://doi.org/10.1007/s00359-023-01685-z) | برای دیدن تنوع مدل‌های عصبی و حسی و اصل Krogh |
-| فیزیولوژی عضله و حرکت | [The importance of comparative physiology: skeletal muscle](https://doi.org/10.1242/jeb.245158) | برای پیوند نظریه انقباض با تنوع مکانیک عضله |
-| قلبی‌عروقی و گردش خون | [What determines systemic blood flow in vertebrates?](https://doi.org/10.1242/jeb.215335) | برای مقایسه تنظیم جریان خون در مهره‌داران |
-| تنفس و انتقال اکسیژن | [The oxygen transport cascade and exercise](https://doi.org/10.1016/j.cbpa.2023.111442) | برای دنبال کردن اکسیژن از محیط تا بافت |
-| تنظیم اسمزی، کلیه و دفع | [Osmoregulation and excretion](https://doi.org/10.1002/cphy.c130004) | برای مقایسه کلیه، آبشش، لوله مالپیگی و دیگر اندام‌های تنظیمی |
-| گوارش، تغذیه و انرژی | [A bird's-eye overview of feed-intake regulation](https://doi.org/10.1016/j.aninu.2024.01.008) | برای مقایسه کنترل عصبی–هورمونی تغذیه |
-| درون‌ریز و نورواندوکرین | [The Integrative Physiology of Hormone Signaling](https://doi.org/10.1152/physiol.00030.2024) | برای مطالعه شبکه‌های هورمونی در مدل‌های حشرات |
-| تولیدمثل | [Non-invasive biomarkers of reproduction in wild vertebrates](https://doi.org/10.1262/jrd.2025-119) | برای دید مقایسه‌ای به تولیدمثل مهره‌داران وحشی |
-| فیزیولوژی حرارتی و محیطی | [Diet effects on ectotherm thermal performance](https://doi.org/10.1111/brv.13081) | برای پیوند دما، رژیم غذایی، متابولیسم و تحمل حرارتی |
+| نوروفیزیولوژی و دستگاه‌های حسی | [Model organisms and systems in neuroethology](https://doi.org/10.1007/s00359-023-01685-z) ← [A perspective on neuroethology](https://doi.org/10.1007/s00359-024-01695-5) | مرجع تاریخی–تطبیقی، سپس به‌روزرسانی جهت‌های جدید حوزه |
+| فیزیولوژی عضله و حرکت | [The importance of comparative physiology: skeletal muscle](https://doi.org/10.1242/jeb.245158) ← [Roles of Femoral Biarticular and Monoarticular Muscles in Cat Walking](https://doi.org/10.1002/jmor.70110) | از مکانیک انقباض به هماهنگی عضلات در حرکت بین‌گونه‌ای |
+| قلبی‌عروقی و گردش خون | [What determines systemic blood flow in vertebrates?](https://doi.org/10.1242/jeb.215335) ← [Cardiorespiratory adaptations in small cetaceans and marine mammals](https://doi.org/10.1113/EP091095) | از اصول جریان خون به سازگاری قلبی‌عروقی غواصی |
+| تنفس و انتقال اکسیژن | [The oxygen transport cascade and exercise](https://doi.org/10.1016/j.cbpa.2023.111442) ← [Cardiorespiratory adaptations in small cetaceans and marine mammals](https://doi.org/10.1113/EP091095) | از زنجیره عمومی اکسیژن به تنفس و تبادل گاز در غواصی |
+| تنظیم اسمزی، کلیه و دفع | [Osmoregulation and excretion](https://doi.org/10.1002/cphy.c130004) ← [Evolving views of ionic, osmotic and acid-base regulation in aquatic animals](https://doi.org/10.1242/jeb.245747) | مرجع جامع، سپس به‌روزرسانی آبزیان و تنظیم اسید–باز |
+| گوارش، تغذیه و انرژی | [A bird's-eye overview of feed-intake regulation](https://doi.org/10.1016/j.aninu.2024.01.008) ← [Reptilian digestive efficiency](https://doi.org/10.1016/j.cbpa.2023.111369) | کنترل دریافت غذا، سپس کارایی هضم و اثر دما |
+| درون‌ریز و نورواندوکرین | [The Integrative Physiology of Hormone Signaling](https://doi.org/10.1152/physiol.00030.2024) ← [What comparative endocrinology tells us about the insulin superfamily](https://doi.org/10.1507/endocrj.EJ25-0213) | شبکه‌های حشرات، سپس تکامل یک خانواده هورمونی در متازوآ |
+| تولیدمثل | [Non-invasive biomarkers of reproduction in wild vertebrates](https://doi.org/10.1262/jrd.2025-119) ← [Spexin-mediated regulation of reproductive function](https://doi.org/10.3389/fendo.2024.1422711) | از پایش فیزیولوژی تولیدمثل به تنظیم مولکولی محور HPG |
+| فیزیولوژی حرارتی و محیطی | [Diet effects on ectotherm thermal performance](https://doi.org/10.1111/brv.13081) ← [Temperature Variability in Ectothermic Animals](https://doi.org/10.1111/ele.14511) | از مکانیسم تغذیه–دما به شواهد متاآنالیز چندگونه‌ای |
 
 ## منطق مسیر
 
