@@ -3227,7 +3227,10 @@
       "cover": {
         "url": "https://covers.vitalsource.com/vbid/9781119512844/width/200",
         "source": "VitalSource exact 4th-edition eText cover; bibliographic authority Wiley",
-        "source_url": "https://www.vitalsource.com/products/essential-developmental-biology-jonathan-m-w-slack-leslie-v9781119512844"
+        "source_url": "https://www.vitalsource.com/products/essential-developmental-biology-jonathan-m-w-slack-leslie-v9781119512844",
+        "expected_sha256": "e573cd6bb895d73de2546935cfab3af990b680d5616efac0a62772021396df40",
+        "visual_reviewed_on": "2026-09-26",
+        "visual_review_status": "title_and_edition_checked"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-26"
@@ -3252,7 +3255,10 @@
       "cover": {
         "url": "https://covers.vitalsource.com/vbid/9780192649836/width/200",
         "source": "VitalSource exact 7th-edition eText cover; bibliographic authority Oxford University Press",
-        "source_url": "https://www.vitalsource.com/products/wolpert-39-s-principles-of-development-cheryll-tickle-alfonso-v9780192649836"
+        "source_url": "https://www.vitalsource.com/products/wolpert-39-s-principles-of-development-cheryll-tickle-alfonso-v9780192649836",
+        "expected_sha256": "33693a4ae3ed0ef16fb0b6b3e11c0bd99305b67f4e708fcfee49bb2cfa1c1010",
+        "visual_reviewed_on": "2026-09-26",
+        "visual_review_status": "title_and_edition_checked"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-26"
@@ -3275,7 +3281,10 @@
       "cover": {
         "url": "https://learninglink.oup.com/protected/files/product/cover/1672294723596-9780197574591.jpg",
         "source": "Official Oxford University Press cover image",
-        "source_url": "https://learninglink.oup.com/access/barresi13e"
+        "source_url": "https://learninglink.oup.com/access/barresi13e",
+        "expected_sha256": "0eaf8898e89674527bc53a19f6c06b08d5a1a30c7bb41faa44352d146b67da43",
+        "visual_reviewed_on": "2026-09-26",
+        "visual_review_status": "title_and_edition_checked"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-26"
