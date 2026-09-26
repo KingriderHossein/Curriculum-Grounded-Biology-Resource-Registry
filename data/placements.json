@@ -5595,8 +5595,8 @@
       "id": "BIOINFORMATICS::BOOK-BIOINFORMATICS-FUNCTIONAL-GENOMICS3-2015",
       "resource_id": "BOOK-BIOINFORMATICS-FUNCTIONAL-GENOMICS3-2015",
       "subject_id": "BIOINFORMATICS",
-      "learning_stage": "core",
-      "role": "core",
+      "learning_stage": "intermediate",
+      "role": "intermediate",
       "coverage_concept_ids": [
         "BI01",
         "BI02",
@@ -5610,34 +5610,12 @@
         "BI10",
         "BI12"
       ],
-      "selection_rationale": "Broad core textbook connecting biological questions to sequence, genome, transcriptome, protein and functional-genomics reasoning.",
+      "selection_rationale": "Broad second-pass textbook connecting sequence, genome, transcriptome, protein and functional-genomics reasoning after an introductory conceptual survey.",
       "student_guidance_fa": {
-        "best_for": "دانشجویی که پایه زیست‌شناسی را دارد و می‌خواهد یک تصویر منسجم از حوزه‌های اصلی بیوانفورماتیک بسازد.",
-        "why": "کتاب دامنه گسترده‌ای از داده‌های زیستی، توالی، ژنومیک و ژنومیک عملکردی را در یک چارچوب واحد پوشش می‌دهد.",
-        "how_to_use": "روی منطق مسئله، نوع داده، فرض‌های روش و تفسیر خروجی تمرکز کنید؛ بخش‌های اجرایی نرم‌افزار را منبع مهارت عملی در نظر نگیرید.",
-        "next_step": "بعد از این مرحله برای فهم عمیق‌تر الگوریتم‌ها وارد ⁦Bioinformatics Algorithms⁩ شوید."
-      }
-    },
-    {
-      "id": "BIOINFORMATICS::BOOK-BIOINFORMATICS-ALGORITHMS3-2018",
-      "resource_id": "BOOK-BIOINFORMATICS-ALGORITHMS3-2018",
-      "subject_id": "BIOINFORMATICS",
-      "learning_stage": "intermediate",
-      "role": "intermediate",
-      "coverage_concept_ids": [
-        "BI02",
-        "BI03",
-        "BI05",
-        "BI06",
-        "BI07",
-        "BI09"
-      ],
-      "selection_rationale": "Algorithm-centred second pass linking core biological questions to graph, string, dynamic-programming and probabilistic ideas.",
-      "student_guidance_fa": {
-        "best_for": "دانشجویی که می‌خواهد بداند پشت تحلیل توالی، مونتاژ ژنوم، مقایسه ژنوم و استنباط زیستی چه ایده الگوریتمی قرار دارد.",
-        "why": "منبع مسئله‌های زیستی را به ساختارهای الگوریتمی تبدیل می‌کند و از حفظ نام ابزارها فاصله می‌گیرد.",
-        "how_to_use": "اثبات‌ها، ایده الگوریتم و ارتباط هر مسئله محاسباتی با سؤال زیستی را بخوانید؛ تمرین‌های کدنویسی برای این رجیستری جزو مسیر الزامی نیستند.",
-        "next_step": "برای مدل‌های احتمالاتی عمیق‌تر وارد ⁦Biological Sequence Analysis⁩ شوید."
+        "best_for": "دانشجویی که یک معرفی عمومی از بیوانفورماتیک را گذرانده و می‌خواهد دامنه ژنومیک و ژنومیک عملکردی را منسجم‌تر و عمیق‌تر ببیند.",
+        "why": "کتاب توالی، ژنوم، رونوشت، پروتئین و ژنومیک عملکردی را در یک چارچوب وسیع‌تر از کتاب مقدماتی کنار هم قرار می‌دهد.",
+        "how_to_use": "روی منطق مسئله، نوع داده، فرض روش و تفسیر خروجی تمرکز کنید؛ بخش‌های اجرایی نرم‌افزار و command line جزو مسیر الزامی این رجیستری نیستند.",
+        "next_step": "پس از این مرحله برای مدل‌های احتمالاتی و مبانی ریاضی تحلیل توالی وارد ⁦Biological Sequence Analysis⁩ شوید."
       }
     },
     {
@@ -6067,6 +6045,30 @@
         "why": "مرور، نوع اتصال نمونه‌ها و modalityها را به خانواده‌های مشخص integration و ایده‌های یادگیری ماشین نگاشت می‌کند.",
         "how_to_use": "ابتدا چهار نوع integration را تعریف کنید؛ سپس برای هر کدام anchor، batch effect، فضای مشترک و معیار ارزیابی را مشخص کنید.",
         "next_step": "در ادامه یک مسئله واقعی چنداُمیکی را انتخاب و قبل از انتخاب روش، نوع integration آن را تعیین کنید."
+      }
+    },
+    {
+      "id": "BIOINFORMATICS::BOOK-INTRO-BIOINFORMATICS5-2019",
+      "resource_id": "BOOK-INTRO-BIOINFORMATICS5-2019",
+      "subject_id": "BIOINFORMATICS",
+      "learning_stage": "core",
+      "role": "core",
+      "coverage_concept_ids": [
+        "BI01",
+        "BI02",
+        "BI03",
+        "BI05",
+        "BI06",
+        "BI07",
+        "BI10",
+        "BI12"
+      ],
+      "selection_rationale": "Accessible concept-first introduction for biologists, spanning genomes, alignment, structure, AI and systems biology without requiring prior programming.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که زیست‌شناسی پایه را می‌داند اما برای اولین بار می‌خواهد بیوانفورماتیک را به‌صورت مفهومی و منظم بخواند.",
+        "why": "این ویرایش برای مخاطب زیست‌شناسی طراحی شده و بدون نیاز به دانش قبلی برنامه‌نویسی، مفاهیم ژنوم، هم‌ترازی، ساختار، هوش مصنوعی و زیست‌شناسی سامانه‌ها را معرفی می‌کند.",
+        "how_to_use": "فصل‌ها را برای ساختن نقشه مفهومی حوزه بخوانید؛ مثال‌ها و تمرین‌ها را فقط برای فهم مفهوم ببینید و وارد آموزش اجرای ابزار یا برنامه‌نویسی نشوید.",
+        "next_step": "پس از ساختن تصویر کلی، ⁦Bioinformatics and Functional Genomics⁩ را برای پوشش عمیق‌تر ژنومیک و تحلیل داده بخوانید."
       }
     }
   ]
