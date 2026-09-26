@@ -25,6 +25,7 @@
 | [میکروبیولوژی ⁦Microbiology⁩](subjects/microbiology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
 | [زیست‌شناسی تکاملی ⁦Evolutionary Biology⁩](subjects/evolutionary-biology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
 | [اکولوژی ⁦Ecology⁩](subjects/ecology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
+| [زیست‌شناسی گیاهی ⁦Plant Biology⁩](subjects/plant-biology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
 
 > یک منبع علمی ممکن است در چند درس استفاده شود. هویت کتاب یا مقاله فقط **یک بار** در رجیستری ثبت می‌شود و جایگاه آن در هر درس به‌صورت جداگانه تعریف می‌شود.
 
@@ -243,6 +244,49 @@
 </table>
 
 [مشاهده نقشه‌راه اکولوژی](subjects/ecology/README.md)
+
+---
+
+## زیست‌شناسی گیاهی
+
+مسیر از ساختمان و تنوع گیاه تا فیزیولوژی، تغذیه، فتوسنتز، هورمون‌ها، رشد و تکوین، تولیدمثل، پاسخ به تنش و تکامل گیاهان خشکی ادامه دارد. شاخه‌های تخصصی شامل:
+
+- دیواره سلولی، رشد و ارتباط بین‌سلولی؛
+- روابط آبی و انتقال دوربرد؛
+- تغذیه معدنی و جذب مواد غذایی؛
+- فتوسنتز و تثبیت کربن؛
+- هورمون‌های گیاهی و انتقال پیام؛
+- مرستیم‌ها، اندام‌زایی و الگویابی تکوینی؛
+- گل‌دهی، تولیدمثل و زیست‌شناسی بذر؛
+- پاسخ به تنش‌های غیرزیستی و زیستی؛
+- تکامل، تنوع و سازگاری با خشکی.
+
+### کتاب‌های اصلی مسیر
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://images.routledge.com/common/jackets/crclarge/978104108/9781041081739.jpg" width="145" alt="Essential Plant Biology 1st Edition cover"><br>
+<b>Essential Plant Biology</b><br>
+منبع اصلی · ویرایش ۱ · ۲۰۲۶<br>
+<a href="https://www.routledge.com/Essential-Plant-Biology/Smith-Downie-Harberd-Jones-Ostergaard-Sablowski-Thomas/p/book/9781041081739">ناشر / خرید</a>
+</td>
+<td align="center" width="33%">
+<img src="https://covers.vitalsource.com/vbid/9781284205350/width/200" width="145" alt="Botany An Introduction to Plant Biology 7th Edition cover"><br>
+<b>Botany: An Introduction to Plant Biology</b><br>
+منبع تکمیلی · ویرایش ۷ · ۲۰۲۱<br>
+<a href="https://www.jblearning.com/catalog/productdetails/9781284157352">ناشر / خرید</a>
+</td>
+<td align="center" width="33%">
+<img src="https://covers.vitalsource.com/vbid/9780197614228/width/200" width="145" alt="Plant Physiology and Development 7th Edition cover"><br>
+<b>Plant Physiology and Development</b><br>
+منبع پیشرفته · ویرایش ۷ · ۲۰۲۲<br>
+<a href="https://learninglink.oup.com/access/taiz7e">ناشر</a>
+</td>
+</tr>
+</table>
+
+[مشاهده نقشه‌راه زیست‌شناسی گیاهی](subjects/plant-biology/README.md)
 
 ---
 
