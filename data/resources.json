@@ -3929,7 +3929,9 @@
         "url": "https://covers.vitalsource.com/vbid/9780134568683/width/200",
         "source": "VitalSource cover image for the exact 3rd edition",
         "source_url": "https://www.vitalsource.com/products/principles-of-animal-physiology-christopher-d-moyes-patricia-v9780134568683",
-        "visual_review_status": "pending_visual_review"
+        "visual_review_status": "title_and_edition_checked",
+        "expected_sha256": "62d83ba4163cc0146e69a447ad535583fdba7a8ba0541a84110602a61ff5f5af",
+        "visual_reviewed_on": "2026-09-26"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-26"
@@ -3982,7 +3984,9 @@
         "url": "https://covers.vitalsource.com/vbid/9780192640468/width/200",
         "source": "VitalSource cover image for the Oxford University Press 2021 edition",
         "source_url": "https://www.vitalsource.com/products/animal-physiology-an-environmental-perspective-patrick-butler-anne-brown-v9780192640468",
-        "visual_review_status": "pending_visual_review"
+        "visual_review_status": "title_and_edition_checked",
+        "expected_sha256": "2778d90ab4e3171a355a05d7de5e09b9610f0e24c2120034b70d5d328cded660",
+        "visual_reviewed_on": "2026-09-26"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-26"
