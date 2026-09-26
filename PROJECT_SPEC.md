@@ -88,5 +88,6 @@ The current reference-quality subjects are:
 - **Ecology / اکولوژی**
 - **Plant Biology / زیست‌شناسی گیاهی**
 - **Developmental Biology / زیست‌شناسی تکوینی**
+- **Immunology / ایمونولوژی**
 
 New subjects should reuse this architecture instead of introducing a parallel resource model.
