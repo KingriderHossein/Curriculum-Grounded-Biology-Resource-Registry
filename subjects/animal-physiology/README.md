@@ -15,7 +15,7 @@
 - **گام بعدی:** ⁦Principles of Animal Physiology⁩.
 
 ### 2) Core — Principles of Animal Physiology, 3rd Edition
-<img src="https://www.pearson.com/store/pmccommercewebservices/v2/medias/size-W650-desktop-A1030-00-23-74-A103000237417-A103000237417-Lrg.jpg?context=bWFzdGVyfGltYWdlc3wxNTcwNDZ8aW1hZ2UvanBlZ3xzeXMtbWFzdGVyL2ltYWdlcy9oYTEvaGQxLzE0ODU5OTU2MDkyOTU4L3NpemVfVzY1MF9kZXNrdG9wXy9BMTAzMC8wMC8yMy83NC9BMTAzMDAwMjM3NDE3L0ExMDMwMDAyMzc0MTdfTHJnLmpwZ3w5M2FlNjJkY2IxM2VjODJhNWU0ZjhmZDg3ZTY0YTU0OWEwZmIxOTFkODUwOGE1ZmU4ZWQxNjhjZDllNThmOTYy" alt="Principles of Animal Physiology 3rd Edition cover" width="180">
+<img src="https://covers.vitalsource.com/vbid/9780134568683/width/200" alt="Principles of Animal Physiology 3rd Edition cover" width="180">
 
 - **برای چه کسی؟** اولین کتاب تخصصی فیزیولوژی جانوری.
 - **چرا؟** بین مکانیسم‌های پایه و نگاه تطبیقی تعادل ایجاد می‌کند.
@@ -31,7 +31,7 @@
 - **گام بعدی:** ⁦Animal Physiology: An Environmental Perspective⁩.
 
 ### 4) Advanced — Animal Physiology: An Environmental Perspective
-<img src="https://fdslive.oup.com/covers/anz/desktop/medium/9780191072673.jpg" alt="Animal Physiology An Environmental Perspective cover" width="180">
+<img src="https://covers.vitalsource.com/vbid/9780192640468/width/200" alt="Animal Physiology An Environmental Perspective cover" width="180">
 
 - **برای چه کسی؟** دانشجویی که می‌خواهد سازگاری فیزیولوژیک را در محیط واقعی بفهمد.
 - **چرا؟** آب و نمک، دما، اکسیژن، قلب و تنفس، اعصاب، هورمون و تولیدمثل را در زمینه محیط و تکامل بررسی می‌کند.
