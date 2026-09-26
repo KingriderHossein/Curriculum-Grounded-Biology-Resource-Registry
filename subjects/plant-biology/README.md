@@ -101,7 +101,7 @@ James D. Mauseth · Jones & Bartlett Learning · 2021 · ویرایش هفتم �
 
 ## مرحله پیشرفته — فیزیولوژی و تکوین گیاه
 
-<p align="center"><a href="https://learninglink.oup.com/access/taiz7e"><img src="https://covers.vitalsource.com/vbid/9780197614228/width/200" width="155" alt="Plant Physiology and Development 7th Edition"></a></p>
+<p align="center"><a href="https://www.oup.com.au/books/higher-education/biology/9780197577240"><img src="https://covers.vitalsource.com/vbid/9780197614228/width/200" width="155" alt="Plant Physiology and Development 7th Edition"></a></p>
 
 ### کتاب ⁦Plant Physiology and Development⁩ — ویرایش هفتم
 
@@ -121,7 +121,7 @@ Lincoln Taiz · Ian Max Møller · Angus Murphy · Eduardo Zeiger · Sinauer Ass
 
 </div>
 
-[صفحه رسمی ناشر](https://learninglink.oup.com/access/taiz7e) · [خرید](https://www.vitalsource.com/products/plant-physiology-and-development-lincoln-taiz-ian-max-moller-v9780197614228)
+[صفحه رسمی ناشر](https://www.oup.com.au/books/higher-education/biology/9780197577240) · [خرید](https://www.vitalsource.com/products/plant-physiology-and-development-lincoln-taiz-ian-max-moller-v9780197614228)
 
 ---
 
