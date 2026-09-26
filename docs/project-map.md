@@ -26,3 +26,4 @@ This file is a navigation index, not a status log.
 
 - Microbiology: Foundation → Core → Intermediate → Advanced → 9 specialized branches.
 - Evolutionary Biology: Foundation → Core → Intermediate → Advanced → 9 specialized branches.
+- Ecology: Foundation → Core → Intermediate → Advanced → 9 specialized branches.

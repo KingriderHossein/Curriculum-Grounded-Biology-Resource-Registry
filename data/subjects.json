@@ -675,6 +675,115 @@
         "theory_only": true
       },
       "completed_on": "2026-09-26"
+    },
+    {
+      "id": "ECOLOGY",
+      "fa_name": "اکولوژی",
+      "en_name": "Ecology",
+      "scope": "theoretical",
+      "roadmap_stages": [
+        "foundation",
+        "core",
+        "intermediate",
+        "advanced",
+        "specialized"
+      ],
+      "concepts": [
+        {
+          "id": "EC01",
+          "label": "Ecological hierarchy, environment and evolutionary context"
+        },
+        {
+          "id": "EC02",
+          "label": "Population growth, demography and life history"
+        },
+        {
+          "id": "EC03",
+          "label": "Species interactions, competition and coexistence"
+        },
+        {
+          "id": "EC04",
+          "label": "Community assembly, biodiversity and stability"
+        },
+        {
+          "id": "EC05",
+          "label": "Food webs and trophic ecology"
+        },
+        {
+          "id": "EC06",
+          "label": "Primary production, energy flow and ecosystem function"
+        },
+        {
+          "id": "EC07",
+          "label": "Nutrient cycling and biogeochemistry"
+        },
+        {
+          "id": "EC08",
+          "label": "Dispersal, spatial ecology, metapopulations and metacommunities"
+        },
+        {
+          "id": "EC09",
+          "label": "Macroecology, biogeography and range dynamics"
+        },
+        {
+          "id": "EC10",
+          "label": "Disturbance, succession and ecological resilience"
+        },
+        {
+          "id": "EC11",
+          "label": "Global change ecology"
+        },
+        {
+          "id": "EC12",
+          "label": "Biomes, climate and large-scale ecological patterns"
+        }
+      ],
+      "branches": [
+        {
+          "id": "population-demography",
+          "label": "Population ecology & demography"
+        },
+        {
+          "id": "species-interactions-coexistence",
+          "label": "Species interactions & coexistence"
+        },
+        {
+          "id": "community-assembly-biodiversity",
+          "label": "Community assembly & biodiversity"
+        },
+        {
+          "id": "food-webs-trophic",
+          "label": "Food webs & trophic ecology"
+        },
+        {
+          "id": "ecosystem-biogeochemistry",
+          "label": "Ecosystem ecology & biogeochemistry"
+        },
+        {
+          "id": "spatial-metacommunity",
+          "label": "Spatial ecology, metapopulations & metacommunities"
+        },
+        {
+          "id": "macroecology-biogeography",
+          "label": "Macroecology & biogeography"
+        },
+        {
+          "id": "disturbance-succession-resilience",
+          "label": "Disturbance, succession & ecological resilience"
+        },
+        {
+          "id": "global-change",
+          "label": "Global change ecology"
+        }
+      ],
+      "status": "complete",
+      "completion_criteria": {
+        "general_roadmap_resources": 4,
+        "specialized_branches_required": 9,
+        "student_guidance_required": true,
+        "theory_only": true
+      },
+      "completed_on": "2026-09-26"
     }
   ]
 }

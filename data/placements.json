@@ -3023,6 +3023,512 @@
         "human-evolution-ancient-genomics"
       ],
       "branch_role": "current_update"
+    },
+    {
+      "id": "ECOLOGY::OPENSTAX-BIOLOGY2E-2018",
+      "resource_id": "OPENSTAX-BIOLOGY2E-2018",
+      "subject_id": "ECOLOGY",
+      "learning_stage": "foundation",
+      "role": "foundation",
+      "coverage_concept_ids": [
+        "EC01",
+        "EC02",
+        "EC03",
+        "EC04",
+        "EC06",
+        "EC08",
+        "EC09",
+        "EC12"
+      ],
+      "selection_rationale": "یک منبع آزاد دانشگاهی برای ترمیم پیش‌نیازهای اکولوژی است و پیش از ورود به کتاب تخصصی، زبان مشترک جمعیت، جامعه و اکوسیستم را تثبیت می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که هنوز در سطوح سازمان‌یافتگی اکولوژیک، رشد جمعیت، تعامل گونه‌ها، زیست‌بوم‌ها یا چرخه‌های ماده پایه منسجمی ندارد.",
+        "why": "یک منبع آزاد دانشگاهی برای ترمیم پیش‌نیازهای اکولوژی است و پیش از ورود به کتاب تخصصی، زبان مشترک جمعیت، جامعه و اکوسیستم را تثبیت می‌کند.",
+        "how_to_use": "کل کتاب لازم نیست؛ فصل‌های مربوط به بوم‌شناسی جمعیت، جامعه، اکوسیستم، زیست‌بوم‌ها و چرخه‌های زیست‌ژئوشیمیایی را هدفمند مرور کنید.",
+        "next_step": "پس از این مرور وارد کتاب ⁦Ecology: The Economy of Nature⁩ شوید."
+      }
+    },
+    {
+      "id": "ECOLOGY::BOOK-ECOLOGY-ECONOMY10-2025",
+      "resource_id": "BOOK-ECOLOGY-ECONOMY10-2025",
+      "subject_id": "ECOLOGY",
+      "learning_stage": "core",
+      "role": "core",
+      "coverage_concept_ids": [
+        "EC01",
+        "EC02",
+        "EC03",
+        "EC04",
+        "EC05",
+        "EC06",
+        "EC07",
+        "EC08",
+        "EC09",
+        "EC10",
+        "EC11",
+        "EC12"
+      ],
+      "selection_rationale": "ویرایش دهم یک مسیر آموزشی گسترده از محیط و سازگاری تا جمعیت، تعاملات، جوامع، اکوسیستم و تغییر جهانی می‌سازد و برای ستون فقرات درس مناسب است.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد اکولوژی را برای نخستین بار به‌صورت منسجم، داده‌محور و همراه با منطق تکاملی یاد بگیرد.",
+        "why": "ویرایش دهم یک مسیر آموزشی گسترده از محیط و سازگاری تا جمعیت، تعاملات، جوامع، اکوسیستم و تغییر جهانی می‌سازد و برای ستون فقرات درس مناسب است.",
+        "how_to_use": "به‌عنوان منبع اصلی و به‌ترتیب فصل‌ها مطالعه شود؛ در هر فصل بین الگوی مشاهده‌شده، سازوکار اکولوژیک و شواهد تجربی تمایز قائل شوید.",
+        "next_step": "پس از یک دور کامل، برای مرور دوم و مثال‌های کاربردی‌تر از ⁦Ecology: Concepts and Applications⁩ استفاده کنید."
+      }
+    },
+    {
+      "id": "ECOLOGY::BOOK-ECOLOGY-CONCEPTS9-2026",
+      "resource_id": "BOOK-ECOLOGY-CONCEPTS9-2026",
+      "subject_id": "ECOLOGY",
+      "learning_stage": "intermediate",
+      "role": "reference",
+      "coverage_concept_ids": [
+        "EC01",
+        "EC02",
+        "EC03",
+        "EC04",
+        "EC05",
+        "EC06",
+        "EC07",
+        "EC08",
+        "EC09",
+        "EC10",
+        "EC11",
+        "EC12"
+      ],
+      "selection_rationale": "ویرایش ۲۰۲۶ از مفاهیم بنیادی تا جمعیت، جامعه، اکوسیستم و تغییرات محیطی را با مثال‌های معاصر و کاربردی پوشش می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مبانی اکولوژی را می‌داند و می‌خواهد مفاهیم را با مثال‌های جدیدتر، کاربردها و پیوند روشن‌تر میان مقیاس‌های اکولوژیک مرور کند.",
+        "why": "ویرایش ۲۰۲۶ از مفاهیم بنیادی تا جمعیت، جامعه، اکوسیستم و تغییرات محیطی را با مثال‌های معاصر و کاربردی پوشش می‌دهد.",
+        "how_to_use": "به‌عنوان مرور دوم یا مرجع موضوعی استفاده شود؛ فصل‌هایی را انتخاب کنید که در آن‌ها به توضیح یا مثال بیشتری نیاز دارید.",
+        "next_step": "برای مرجع عمیق‌تر و نگاه تحلیلی از فرد تا اکوسیستم به ⁦Ecology: From Individuals to Ecosystems⁩ بروید."
+      }
+    },
+    {
+      "id": "ECOLOGY::BOOK-ECOLOGY-INDIVIDUALS5-2020",
+      "resource_id": "BOOK-ECOLOGY-INDIVIDUALS5-2020",
+      "subject_id": "ECOLOGY",
+      "learning_stage": "advanced",
+      "role": "advanced",
+      "coverage_concept_ids": [
+        "EC01",
+        "EC02",
+        "EC03",
+        "EC04",
+        "EC05",
+        "EC06",
+        "EC07",
+        "EC08",
+        "EC09",
+        "EC10",
+        "EC11",
+        "EC12"
+      ],
+      "selection_rationale": "این کتاب اکولوژی را از پاسخ‌های فردی و دینامیک جمعیت تا ساختار جامعه و کارکرد اکوسیستم با عمق نظری بیشتری یکپارچه می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته یا تحصیلات تکمیلی که به مرجعی عمیق برای جمعیت‌ها، تعاملات، جامعه، اکوسیستم و الگوهای بزرگ‌مقیاس نیاز دارد.",
+        "why": "این کتاب اکولوژی را از پاسخ‌های فردی و دینامیک جمعیت تا ساختار جامعه و کارکرد اکوسیستم با عمق نظری بیشتری یکپارچه می‌کند.",
+        "how_to_use": "پس از یک کتاب عمومی مطالعه شود؛ فصل مرتبط با پرسش پژوهشی را انتخاب کنید و مدل‌های مفهومی و کمی را همراه با فرض‌هایشان بررسی کنید.",
+        "next_step": "سپس بر اساس موضوع پژوهشی وارد یکی از شاخه‌های تخصصی شوید."
+      }
+    },
+    {
+      "id": "ECOLOGY::REVIEW-LONGTERM-POP-DYNAMICS-2019",
+      "resource_id": "REVIEW-LONGTERM-POP-DYNAMICS-2019",
+      "subject_id": "ECOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "EC02"
+      ],
+      "selection_rationale": "مطالعات میدانی بلندمدت را برای فهم بقا، تولیدمثل، تغییرات زمانی و پاسخ جمعیت به محیط جمع‌بندی می‌کند و فاصله میان مدل ساده و جمعیت واقعی را نشان می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که رشد جمعیت و پارامترهای جمعیت‌شناختی را می‌داند و می‌خواهد بفهمد داده‌های بلندمدت چگونه درک ما از دینامیک جمعیت را تغییر داده‌اند.",
+        "why": "مطالعات میدانی بلندمدت را برای فهم بقا، تولیدمثل، تغییرات زمانی و پاسخ جمعیت به محیط جمع‌بندی می‌کند و فاصله میان مدل ساده و جمعیت واقعی را نشان می‌دهد.",
+        "how_to_use": "برای هر مثال مشخص کنید کدام نرخ جمعیت‌شناختی تغییر کرده، محرک آن چه بوده و پیامد آن برای نرخ رشد جمعیت چیست.",
+        "next_step": "برای محیط‌های چندعاملی و پیش‌بینی جمعیت در شرایط متغیر، مرور جدیدتر جمعیت‌شناسی گیاهی را بخوانید."
+      },
+      "branch_ids": [
+        "population-demography"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "ECOLOGY::REVIEW-MULTIFACTOR-PLANT-DEMOGRAPHY-2026",
+      "resource_id": "REVIEW-MULTIFACTOR-PLANT-DEMOGRAPHY-2026",
+      "subject_id": "ECOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "EC02",
+        "EC11"
+      ],
+      "selection_rationale": "مرور ۲۰۲۶ مسئله جمعیت‌شناسی را از اثر یک متغیر منفرد به جهان چندمتغیره واقعی می‌برد و تفاوت پیش‌بینی با استنباط علّی را برجسته می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد اثر هم‌زمان چند عامل محیطی را بر بقا، رشد، تولیدمثل و پیش‌بینی جمعیت بفهمد.",
+        "why": "مرور ۲۰۲۶ مسئله جمعیت‌شناسی را از اثر یک متغیر منفرد به جهان چندمتغیره واقعی می‌برد و تفاوت پیش‌بینی با استنباط علّی را برجسته می‌کند.",
+        "how_to_use": "تمرکز را بر منطق ترکیب عوامل محیطی و واکنش‌های غیرخطی بگذارید؛ جزئیات اجرای مدل‌ها هدف این ⁦Roadmap⁩ نیست.",
+        "next_step": "برای اثر تعاملات زیستی بر تنظیم جمعیت وارد شاخه تعامل گونه‌ها شوید."
+      },
+      "branch_ids": [
+        "population-demography"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "ECOLOGY::REVIEW-EVO-ECO-SPECIES-INTERACTIONS-2025",
+      "resource_id": "REVIEW-EVO-ECO-SPECIES-INTERACTIONS-2025",
+      "subject_id": "ECOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "EC02",
+        "EC03"
+      ],
+      "selection_rationale": "نشان می‌دهد همان تعاملات میان گونه‌ها هم‌زمان می‌توانند فراوانی جمعیت را تنظیم و فشار انتخابی ایجاد کنند و بنابراین اکولوژی و تکامل از هم جدا نیستند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که رقابت، شکارگری و همزیستی را می‌شناسد و می‌خواهد تنظیم جمعیت و انتخاب طبیعی را در تعاملات گونه‌ای یکپارچه ببیند.",
+        "why": "نشان می‌دهد همان تعاملات میان گونه‌ها هم‌زمان می‌توانند فراوانی جمعیت را تنظیم و فشار انتخابی ایجاد کنند و بنابراین اکولوژی و تکامل از هم جدا نیستند.",
+        "how_to_use": "برای هر نوع ⁦interaction⁩ دو مسیر را دنبال کنید: اثر بر نرخ‌های جمعیتی و اثر بر ⁦fitness⁩ و صفات.",
+        "next_step": "برای زبان مدل‌سازی کلاسیک تعاملات و همزیستی، مرور صدسال ⁦Lotka–Volterra⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "species-interactions-coexistence"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "ECOLOGY::REVIEW-LOTKA-VOLTERRA-2026",
+      "resource_id": "REVIEW-LOTKA-VOLTERRA-2026",
+      "subject_id": "ECOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "EC03",
+        "EC04"
+      ],
+      "selection_rationale": "مرور ۲۰۲۶ یک قرن استفاده از این چارچوب را ارزیابی می‌کند و نشان می‌دهد چگونه مدل ساده به نظریه همزیستی، شبکه‌ها و جوامع پیچیده متصل شده است.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مدل‌های رقابت و شکار–شکارچی را دیده و می‌خواهد نقش، محدودیت و گسترش مدل‌های ⁦Lotka–Volterra⁩ را در اکولوژی مدرن بفهمد.",
+        "why": "مرور ۲۰۲۶ یک قرن استفاده از این چارچوب را ارزیابی می‌کند و نشان می‌دهد چگونه مدل ساده به نظریه همزیستی، شبکه‌ها و جوامع پیچیده متصل شده است.",
+        "how_to_use": "معادله‌ها را همراه با فرض‌های زیستی بخوانید و مشخص کنید هر گسترش مدل کدام فرض ساده اولیه را تغییر می‌دهد.",
+        "next_step": "برای عبور از تعامل جفتی به نظریه کامل جامعه، شاخه ⁦community assembly⁩ را دنبال کنید."
+      },
+      "branch_ids": [
+        "species-interactions-coexistence"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "ECOLOGY::REVIEW-COMMUNITY-THEORY-COMMONS-2026",
+      "resource_id": "REVIEW-COMMUNITY-THEORY-COMMONS-2026",
+      "subject_id": "ECOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "EC03",
+        "EC04"
+      ],
+      "selection_rationale": "مرور جدید تلاش می‌کند نظریه‌های جامعه را حول اجزای مشترک، فرض‌ها و پیش‌بینی‌ها سازمان دهد و از پراکندگی اصطلاحات بکاهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که نظریه‌های متعدد ⁦community ecology⁩ را پراکنده می‌بیند و می‌خواهد زبان مفهومی مشترکی برای مقایسه آن‌ها داشته باشد.",
+        "why": "مرور جدید تلاش می‌کند نظریه‌های جامعه را حول اجزای مشترک، فرض‌ها و پیش‌بینی‌ها سازمان دهد و از پراکندگی اصطلاحات بکاهد.",
+        "how_to_use": "هر نظریه را بر اساس ⁦state variable⁩، ⁦interaction⁩، ⁦scale⁩ و ⁦prediction⁩ مقایسه کنید، نه صرفاً بر اساس نام مکتب.",
+        "next_step": "برای نمونه‌ای از اینکه زمان‌بندی زیستی چگونه ⁦assembly⁩ را تغییر می‌دهد، مرور ⁦phenology⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "community-assembly-biodiversity"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "ECOLOGY::REVIEW-PHENOLOGY-COMMUNITY-ASSEMBLY-2024",
+      "resource_id": "REVIEW-PHENOLOGY-COMMUNITY-ASSEMBLY-2024",
+      "subject_id": "ECOLOGY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "EC04",
+        "EC11"
+      ],
+      "selection_rationale": "فنولوژی را از یک صفت زمانی منفرد به سازوکاری برای ⁦priority effect⁩، ⁦coexistence⁩ و پاسخ جامعه به اقلیم متصل می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بداند زمان جوانه‌زنی، گل‌دهی و فعالیت فصلی چگونه نتیجه رقابت و ساختار جامعه گیاهی را تغییر می‌دهد.",
+        "why": "فنولوژی را از یک صفت زمانی منفرد به سازوکاری برای ⁦priority effect⁩، ⁦coexistence⁩ و پاسخ جامعه به اقلیم متصل می‌کند.",
+        "how_to_use": "مثال‌ها را بر اساس اینکه تغییر زمان‌بندی چه منبع یا تعامل رقابتی را تغییر می‌دهد دسته‌بندی کنید.",
+        "next_step": "برای روابط غذایی و انتشار اثرات میان چند سطح ⁦trophic⁩ وارد شاخه ⁦food webs⁩ شوید."
+      },
+      "branch_ids": [
+        "community-assembly-biodiversity"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "ECOLOGY::REVIEW-FOODWEB-STRUCTURE-2020",
+      "resource_id": "REVIEW-FOODWEB-STRUCTURE-2020",
+      "subject_id": "ECOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "EC05"
+      ],
+      "selection_rationale": "مسئله شناسایی پیوندهای غذایی، قدرت تعامل و تغییرپذیری زمانی/مکانی ⁦food web⁩ها را جمع‌بندی می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که زنجیره غذایی را می‌داند و می‌خواهد ساختار واقعی شبکه‌های غذایی و دشواری تعیین روابط ⁦trophic⁩ را بفهمد.",
+        "why": "مسئله شناسایی پیوندهای غذایی، قدرت تعامل و تغییرپذیری زمانی/مکانی ⁦food web⁩ها را جمع‌بندی می‌کند.",
+        "how_to_use": "شبکه غذایی را فقط فهرست «چه کسی چه کسی را می‌خورد» نبینید؛ قدرت، جهت و زمینه هر ⁦interaction⁩ را در نظر بگیرید.",
+        "next_step": "برای تحلیل کلی‌تر شبکه‌های ⁦interaction⁩، مرور ارزیابی ⁦network approach⁩ها را بخوانید."
+      },
+      "branch_ids": [
+        "food-webs-trophic"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "ECOLOGY::REVIEW-SPECIES-INTERACTION-NETWORKS-2024",
+      "resource_id": "REVIEW-SPECIES-INTERACTION-NETWORKS-2024",
+      "subject_id": "ECOLOGY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "EC03",
+        "EC05"
+      ],
+      "selection_rationale": "مزایا، فرض‌ها و محدودیت‌های شاخص‌های شبکه‌ای را برای مطالعه ⁦interaction⁩های اکولوژیک به‌صورت انتقادی ارزیابی می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بداند نمایش تعاملات گونه‌ای به‌صورت ⁦network⁩ چه چیزی آشکار می‌کند و کجا می‌تواند گمراه‌کننده باشد.",
+        "why": "مزایا، فرض‌ها و محدودیت‌های شاخص‌های شبکه‌ای را برای مطالعه ⁦interaction⁩های اکولوژیک به‌صورت انتقادی ارزیابی می‌کند.",
+        "how_to_use": "هر ⁦network metric⁩ را با سؤال زیستی‌ای که واقعاً پاسخ می‌دهد مرتبط کنید و از تفسیر صرفاً ریاضی بدون سازوکار پرهیز کنید.",
+        "next_step": "برای اتصال شبکه غذایی به جریان ماده و انرژی وارد شاخه ⁦ecosystem ecology⁩ شوید."
+      },
+      "branch_ids": [
+        "food-webs-trophic"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "ECOLOGY::REVIEW-CARBON-CLIMATE-FEEDBACKS-2024",
+      "resource_id": "REVIEW-CARBON-CLIMATE-FEEDBACKS-2024",
+      "subject_id": "ECOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "EC06",
+        "EC07",
+        "EC11"
+      ],
+      "selection_rationale": "منابع و مخازن کربن، پاسخ اکوسیستم‌ها به گرمایش و ⁦CO2⁩ و عدم‌قطعیت ⁦feedback⁩های کربن–اقلیم را یکپارچه می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که چرخه کربن را می‌داند و می‌خواهد بازخوردهای میان اکوسیستم زمینی، اقلیم و ⁦CO2⁩ را در مقیاس جهانی بفهمد.",
+        "why": "منابع و مخازن کربن، پاسخ اکوسیستم‌ها به گرمایش و ⁦CO2⁩ و عدم‌قطعیت ⁦feedback⁩های کربن–اقلیم را یکپارچه می‌کند.",
+        "how_to_use": "برای هر فرایند مشخص کنید کربن از کدام مخزن به کدام مخزن حرکت می‌کند و ⁦feedback⁩ نهایی مثبت است یا منفی.",
+        "next_step": "برای دید زیستی‌تر از اینکه ⁦interaction⁩های غذایی چگونه چرخه کربن را تغییر می‌دهند، مرور ⁦food webs and ecosystems⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "ecosystem-biogeochemistry"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "ECOLOGY::REVIEW-FOODWEBS-CARBON-CYCLE-2020",
+      "resource_id": "REVIEW-FOODWEBS-CARBON-CYCLE-2020",
+      "subject_id": "ECOLOGY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "EC05",
+        "EC06",
+        "EC07"
+      ],
+      "selection_rationale": "پل روشنی میان ⁦species interactions⁩ و ⁦ecosystem process⁩ می‌سازد و نشان می‌دهد ⁦trophic cascade⁩ می‌تواند چرخه کربن را تغییر دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد ببیند تغییر در شکارگر، گیاه‌خوار یا شبکه غذایی چگونه می‌تواند تا ذخیره و شار کربن در اکوسیستم ادامه پیدا کند.",
+        "why": "پل روشنی میان ⁦species interactions⁩ و ⁦ecosystem process⁩ می‌سازد و نشان می‌دهد ⁦trophic cascade⁩ می‌تواند چرخه کربن را تغییر دهد.",
+        "how_to_use": "هر مثال را به زنجیره ⁦interaction⁩ → ⁦biomass/process⁩ → ⁦carbon flux⁩ تبدیل کنید.",
+        "next_step": "برای نقش فضا و اتصال زیستگاه‌ها در پویایی اکولوژیک، شاخه ⁦spatial ecology⁩ را دنبال کنید."
+      },
+      "branch_ids": [
+        "ecosystem-biogeochemistry"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "ECOLOGY::REVIEW-METAPOPULATION-BIOLOGY-2018",
+      "resource_id": "REVIEW-METAPOPULATION-BIOLOGY-2018",
+      "subject_id": "ECOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "EC02",
+        "EC08"
+      ],
+      "selection_rationale": "مرور میراث علمی ⁦Ilkka Hanski⁩ نظریه و داده تجربی متاپاپولیشن را از آستانه انقراض و ⁦fragmentation⁩ تا ⁦dispersal⁩ و ⁦eco-evolutionary dynamics⁩ یکپارچه می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که ⁦source–sink⁩، پراکنش و اشغال ⁦patch⁩ را می‌داند و می‌خواهد نظریه متاپاپولیشن را در زمینه واقعی ⁦fragmentation⁩ و ⁦extinction⁩ بفهمد.",
+        "why": "مرور میراث علمی ⁦Ilkka Hanski⁩ نظریه و داده تجربی متاپاپولیشن را از آستانه انقراض و ⁦fragmentation⁩ تا ⁦dispersal⁩ و ⁦eco-evolutionary dynamics⁩ یکپارچه می‌کند.",
+        "how_to_use": "ابتدا ⁦colonization–extinction⁩ و ⁦rescue effect⁩ را مرور کنید و سپس ببینید ساختار ⁦landscape⁩ چگونه این نرخ‌ها را تغییر می‌دهد.",
+        "next_step": "برای فراتر رفتن از ⁦patch⁩های زیستگاه و فهم نقش کل ⁦matrix⁩ منظر، مرور بعدی را بخوانید."
+      },
+      "branch_ids": [
+        "spatial-metacommunity"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "ECOLOGY::REVIEW-LANDSCAPE-MATRIX-2024",
+      "resource_id": "REVIEW-LANDSCAPE-MATRIX-2024",
+      "subject_id": "ECOLOGY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "EC08",
+        "EC09"
+      ],
+      "selection_rationale": "نقش کیفیت و ناهمگنی ⁦matrix⁩ را در پراکنش، ⁦persistence⁩، ⁦interaction⁩ و پیامدهای تکاملی و حفاظتی برجسته می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که ⁦fragmentation⁩ را می‌شناسد و می‌خواهد بداند فضای بین ⁦patch⁩های زیستگاه چرا یک پس‌زمینه بی‌اهمیت نیست.",
+        "why": "نقش کیفیت و ناهمگنی ⁦matrix⁩ را در پراکنش، ⁦persistence⁩، ⁦interaction⁩ و پیامدهای تکاملی و حفاظتی برجسته می‌کند.",
+        "how_to_use": "برای هر ⁦landscape⁩ سه جزء ⁦patch⁩، ⁦matrix⁩ و ⁦movement⁩ را جدا کنید و سپس اثر آن‌ها بر ⁦connectivity⁩ واقعی را بررسی کنید.",
+        "next_step": "برای الگوهای توزیع در مقیاس بزرگ‌تر وارد شاخه ⁦macroecology⁩ & ⁦biogeography⁩ شوید."
+      },
+      "branch_ids": [
+        "spatial-metacommunity"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "ECOLOGY::REVIEW-RANGE-SHIFTS-2024",
+      "resource_id": "REVIEW-RANGE-SHIFTS-2024",
+      "subject_id": "ECOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "EC09",
+        "EC11"
+      ],
+      "selection_rationale": "⁦range shift⁩های مشاهده‌شده و بالقوه گونه‌های بومی و غیربومی را با ⁦dispersal⁩، ⁦barrier⁩، اقلیم و پیامدهای مدیریتی یکپارچه می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که ⁦niche⁩ و ⁦distribution⁩ را می‌داند و می‌خواهد جابه‌جایی دامنه گونه‌ها در پاسخ به تغییر اقلیم را مقایسه کند.",
+        "why": "⁦range shift⁩های مشاهده‌شده و بالقوه گونه‌های بومی و غیربومی را با ⁦dispersal⁩، ⁦barrier⁩، اقلیم و پیامدهای مدیریتی یکپارچه می‌کند.",
+        "how_to_use": "بین ⁦potential range⁩ و ⁦realized range⁩ تمایز بگذارید و برای هر گونه محدودیت اقلیمی، زیستی و پراکنشی را جدا کنید.",
+        "next_step": "برای فهم اینکه ⁦interaction⁩ها چگونه در امتداد عرض جغرافیایی تغییر می‌کنند، مرور ⁦geographic gradients⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "macroecology-biogeography"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "ECOLOGY::REVIEW-GEOGRAPHIC-SPECIES-INTERACTIONS-2024",
+      "resource_id": "REVIEW-GEOGRAPHIC-SPECIES-INTERACTIONS-2024",
+      "subject_id": "ECOLOGY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "EC03",
+        "EC09"
+      ],
+      "selection_rationale": "فرضیه «⁦interaction⁩ قوی‌تر در مناطق گرمسیری» را با داده‌ها و سازوکارهای جایگزین نقد می‌کند و بر اندازه‌گیری فرایند واقعی تأکید دارد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد الگوهای مکانی بزرگ تعاملات زیستی را از توصیف عرض جغرافیایی به سازوکارهای اکولوژیک برساند.",
+        "why": "فرضیه «⁦interaction⁩ قوی‌تر در مناطق گرمسیری» را با داده‌ها و سازوکارهای جایگزین نقد می‌کند و بر اندازه‌گیری فرایند واقعی تأکید دارد.",
+        "how_to_use": "هر ⁦gradient⁩ را به مکانیسمی مانند ⁦productivity⁩، ⁦seasonality⁩ یا ⁦species pool⁩ مرتبط کنید و ⁦correlation⁩ را با ⁦causation⁩ یکی نگیرید.",
+        "next_step": "برای پاسخ اکوسیستم‌ها به شوک‌ها و تغییرات ناگهانی وارد شاخه ⁦disturbance⁩ & ⁦resilience⁩ شوید."
+      },
+      "branch_ids": [
+        "macroecology-biogeography"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "ECOLOGY::REVIEW-NOVEL-DISTURBANCE-REGIMES-2023",
+      "resource_id": "REVIEW-NOVEL-DISTURBANCE-REGIMES-2023",
+      "subject_id": "ECOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "EC10",
+        "EC11"
+      ],
+      "selection_rationale": "مفهوم ⁦novel disturbance regime⁩ را به تغییر اقلیم، تغییر کاربری و پاسخ اکوسیستم‌ها متصل می‌کند و نشان می‌دهد تاریخچه اختلال مهم است.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که ⁦disturbance⁩ و ⁦succession⁩ را می‌داند و می‌خواهد تغییر هم‌زمان شدت، فراوانی، اندازه و ترکیب اختلال‌ها را بفهمد.",
+        "why": "مفهوم ⁦novel disturbance regime⁩ را به تغییر اقلیم، تغییر کاربری و پاسخ اکوسیستم‌ها متصل می‌کند و نشان می‌دهد تاریخچه اختلال مهم است.",
+        "how_to_use": "برای هر ⁦disturbance⁩ چهار ویژگی ⁦frequency⁩، ⁦severity⁩، ⁦extent⁩ و ⁦interaction⁩ با ⁦disturbance⁩های دیگر را ثبت کنید.",
+        "next_step": "برای منطق بازسازی جامعه پس از اختلال، مرور ⁦feedback loop⁩های ⁦succession⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "disturbance-succession-resilience"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "ECOLOGY::REVIEW-SUCCESSION-FEEDBACKS-2024",
+      "resource_id": "REVIEW-SUCCESSION-FEEDBACKS-2024",
+      "subject_id": "ECOLOGY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "EC04",
+        "EC10"
+      ],
+      "selection_rationale": "چارچوبی یکپارچه برای بازخوردهایی ارائه می‌کند که مسیر، سرعت و گاهی چندپایداری ⁦succession⁩ را شکل می‌دهند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که توالی جانشینی را می‌شناسد و می‌خواهد سازوکارهای ⁦feedback⁩ میان گیاه، خاک، منابع و ⁦interaction⁩ها را در ⁦succession⁩ بفهمد.",
+        "why": "چارچوبی یکپارچه برای بازخوردهایی ارائه می‌کند که مسیر، سرعت و گاهی چندپایداری ⁦succession⁩ را شکل می‌دهند.",
+        "how_to_use": "به‌جای حفظ مراحل ⁦succession⁩، حلقه‌های مثبت و منفی میان ⁦organism⁩ و ⁦environment⁩ را رسم کنید.",
+        "next_step": "برای اختلال‌های چندگانه تحت تغییر اقلیم وارد شاخه ⁦global change⁩ شوید."
+      },
+      "branch_ids": [
+        "disturbance-succession-resilience"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "ECOLOGY::REVIEW-CLIMATE-DISTURBANCE-2025",
+      "resource_id": "REVIEW-CLIMATE-DISTURBANCE-2025",
+      "subject_id": "ECOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "EC10",
+        "EC11",
+        "EC12"
+      ],
+      "selection_rationale": "مرور ۲۰۲۵ اثر اقلیم را بر ⁦disturbance⁩های ⁦forest⁩ و ⁦interaction⁩ میان آن‌ها بررسی می‌کند و مسئله ⁦compound disturbance⁩ را برجسته می‌سازد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بداند تغییر اقلیم چگونه آتش، خشکسالی، حشرات و دیگر ⁦disturbance⁩ها را هم‌زمان و تعاملی تغییر می‌دهد.",
+        "why": "مرور ۲۰۲۵ اثر اقلیم را بر ⁦disturbance⁩های ⁦forest⁩ و ⁦interaction⁩ میان آن‌ها بررسی می‌کند و مسئله ⁦compound disturbance⁩ را برجسته می‌سازد.",
+        "how_to_use": "برای هر ⁦disturbance⁩ اثر مستقیم اقلیم و اثر غیرمستقیم از طریق ⁦disturbance⁩ دیگر را از هم جدا کنید.",
+        "next_step": "برای پیامد تغییر اقلیم بر ⁦invasion⁩ و بازآرایی جوامع، مرور ⁦plant invasions⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "global-change"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "ECOLOGY::REVIEW-PLANT-INVASIONS-CLIMATE-2025",
+      "resource_id": "REVIEW-PLANT-INVASIONS-CLIMATE-2025",
+      "subject_id": "ECOLOGY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "EC04",
+        "EC09",
+        "EC11"
+      ],
+      "selection_rationale": "نشان می‌دهد گرمایش و تغییر رژیم‌های اقلیمی چگونه ⁦introduction⁩، ⁦establishment⁩، ⁦spread⁩ و اثر گونه‌های مهاجم را تغییر می‌دهند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد تعامل تغییر اقلیم و گونه‌های مهاجم را از سطح ⁦distribution⁩ تا کارکرد اکوسیستم بفهمد.",
+        "why": "نشان می‌دهد گرمایش و تغییر رژیم‌های اقلیمی چگونه ⁦introduction⁩، ⁦establishment⁩، ⁦spread⁩ و اثر گونه‌های مهاجم را تغییر می‌دهند.",
+        "how_to_use": "مسیر ⁦invasion⁩ را به مراحل ⁦arrival⁩، ⁦establishment⁩، ⁦spread⁩ و ⁦impact⁩ تقسیم کنید و نقش اقلیم را در هر مرحله جدا بررسی کنید.",
+        "next_step": "برای ادامه می‌توان به ⁦climate adaptation⁩، ⁦biodiversity response⁩ و ⁦ecosystem tipping point⁩ها وارد شد."
+      },
+      "branch_ids": [
+        "global-change"
+      ],
+      "branch_role": "complementary_reference"
     }
   ]
 }

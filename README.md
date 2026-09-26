@@ -24,6 +24,7 @@
 | [زیست‌شناسی مولکولی ⁦Molecular Biology⁩](subjects/molecular-biology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
 | [میکروبیولوژی ⁦Microbiology⁩](subjects/microbiology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
 | [زیست‌شناسی تکاملی ⁦Evolutionary Biology⁩](subjects/evolutionary-biology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
+| [اکولوژی ⁦Ecology⁩](subjects/ecology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
 
 > یک منبع علمی ممکن است در چند درس استفاده شود. هویت کتاب یا مقاله فقط **یک بار** در رجیستری ثبت می‌شود و جایگاه آن در هر درس به‌صورت جداگانه تعریف می‌شود.
 
@@ -199,6 +200,49 @@
 - تکامل انسان و ژنومیک باستانی.
 
 [مشاهده نقشه‌راه زیست‌شناسی تکاملی](subjects/evolutionary-biology/README.md)
+
+---
+
+## اکولوژی
+
+مسیر از سطوح سازمان‌یافتگی و دینامیک جمعیت تا تعامل گونه‌ها، تشکیل جامعه، شبکه‌های غذایی، اکوسیستم، اکولوژی فضایی، زیست‌جغرافیا، اختلال و تغییرات جهانی ادامه دارد. شاخه‌های تخصصی شامل:
+
+- اکولوژی جمعیت و جمعیت‌شناسی؛
+- تعامل گونه‌ها و همزیستی؛
+- تشکیل جامعه و تنوع زیستی؛
+- شبکه‌های غذایی و اکولوژی تغذیه‌ای؛
+- اکولوژی اکوسیستم و زیست‌ژئوشیمی؛
+- اکولوژی فضایی، متاپاپولیشن و متاکامیونیتی؛
+- ماکرو‌اکولوژی و زیست‌جغرافیا؛
+- اختلال، جانشینی و تاب‌آوری اکولوژیک؛
+- اکولوژی تغییرات جهانی.
+
+### کتاب‌های اصلی مسیر
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://prod-cat-files.macmillan.cloud/MediaResources/Jackets/258W/9781319589936.jpg" width="145" alt="Ecology The Economy of Nature 10th Edition cover"><br>
+<b>Ecology: The Economy of Nature</b><br>
+منبع اصلی · ویرایش ۱۰ · ۲۰۲۵<br>
+<a href="https://www.macmillanlearning.com/ed/uk/product/Ecology-The-Economy-of-Nature--10th-edition/p/1319589936">ناشر / خرید</a>
+</td>
+<td align="center" width="33%">
+<img src="https://www.mheducation.com/cover-images/Jpeg_400-high/126630133X.jpeg" width="145" alt="Ecology Concepts and Applications 9th Edition 2026 Release cover"><br>
+<b>Ecology: Concepts and Applications</b><br>
+منبع تکمیلی · ویرایش ۹ · انتشار ۲۰۲۶<br>
+<a href="https://www.mheducation.com/highered/product/ecology-concepts-and-applications-sher.html">ناشر / خرید</a>
+</td>
+<td align="center" width="33%">
+<img src="https://covers.vitalsource.com/vbid/9781119279310/width/200" width="145" alt="Ecology From Individuals to Ecosystems 5th Edition cover"><br>
+<b>Ecology: From Individuals to Ecosystems</b><br>
+منبع پیشرفته · ویرایش ۵ · ۲۰۲۰<br>
+<a href="https://www.wiley.com/en-us/Ecology%3A+From+Individuals+to+Ecosystems%2C+5th+Edition-p-9781119279310">ناشر</a>
+</td>
+</tr>
+</table>
+
+[مشاهده نقشه‌راه اکولوژی](subjects/ecology/README.md)
 
 ---
 
