@@ -4732,7 +4732,10 @@
       "cover": {
         "url": "https://covers.vitalsource.com/vbid/9781000008166/width/200",
         "source": "VitalSource cover image for the Chapman & Hall/CRC 2nd edition",
-        "source_url": "https://www.vitalsource.com/products/an-introduction-to-systems-biology-uri-alon-v9781000008166"
+        "source_url": "https://www.vitalsource.com/products/an-introduction-to-systems-biology-uri-alon-v9781000008166",
+        "expected_sha256": "cae29ad586e01e783ba5a4438e670a350e667f355b8c48145f45168fa62df2a0",
+        "visual_reviewed_on": "2026-09-26",
+        "visual_review_status": "title_and_edition_checked"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-26"
@@ -4757,7 +4760,10 @@
       "cover": {
         "url": "https://covers.vitalsource.com/vbid/9783527675678/width/200",
         "source": "VitalSource cover image for the Wiley-VCH 2nd edition",
-        "source_url": "https://www.vitalsource.com/ie/products/systems-biology-a-textbook-edda-klipp-wolfram-v9783527675678"
+        "source_url": "https://www.vitalsource.com/ie/products/systems-biology-a-textbook-edda-klipp-wolfram-v9783527675678",
+        "expected_sha256": "ab24486bb223c56d4f18fff4d45424844d2c6d1cb808bc0da6bae42a16b81b90",
+        "visual_reviewed_on": "2026-09-26",
+        "visual_review_status": "title_and_edition_checked"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-26"
@@ -4779,7 +4785,10 @@
       "cover": {
         "url": "https://cdn2.penguin.com.au/covers/original/9780262545822.jpg",
         "source": "Penguin Books Australia cover image for the MIT Press paperback",
-        "source_url": "https://www.penguin.com.au/books/mathematical-modeling-in-systems-biology-9780262545822"
+        "source_url": "https://www.penguin.com.au/books/mathematical-modeling-in-systems-biology-9780262545822",
+        "expected_sha256": "26145f62add2668a37fd4ad1ae433a71aa78f72cb58033ec6b85576deb00cd19",
+        "visual_reviewed_on": "2026-09-26",
+        "visual_review_status": "title_and_edition_checked"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-26"
