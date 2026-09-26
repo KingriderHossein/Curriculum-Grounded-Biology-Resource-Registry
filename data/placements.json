@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.10.0",
+  "schema_version": "0.11.0",
   "placements": [
     {
       "id": "CELL-BIOLOGY::OPENSTAX-BIOLOGY2E-2018",
@@ -5053,6 +5053,520 @@
         "development-memory-ageing"
       ],
       "branch_role": "current_update"
+    },
+    {
+      "id": "ANIMAL-PHYSIOLOGY::OPENSTAX-BIOLOGY2E-2018",
+      "resource_id": "OPENSTAX-BIOLOGY2E-2018",
+      "subject_id": "ANIMAL-PHYSIOLOGY",
+      "learning_stage": "foundation",
+      "role": "foundation",
+      "coverage_concept_ids": [
+        "AP01",
+        "AP02",
+        "AP03",
+        "AP04",
+        "AP05",
+        "AP06",
+        "AP07",
+        "AP08",
+        "AP09",
+        "AP10",
+        "AP11"
+      ],
+      "selection_rationale": "Free university-level prerequisite coverage before dedicated comparative physiology texts.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که در زیست‌شناسی عمومی، سلول، بافت، دستگاه‌های بدن یا هم‌ایستایی هنوز پایه منسجمی ندارد.",
+        "why": "منبع آزاد و دانشگاهی است و برای ترمیم پیش‌نیازها بدون ورود زودهنگام به جزئیات تخصصی مناسب است.",
+        "how_to_use": "کل کتاب لازم نیست؛ فصل‌های مربوط به ساختار و عملکرد جانوران، هم‌ایستایی، دستگاه عصبی، درون‌ریز، گردش خون، تنفس، گوارش، دفع و تولیدمثل را هدفمند مرور کنید.",
+        "next_step": "پس از تثبیت پیش‌نیازها وارد ⁦Principles of Animal Physiology⁩ شوید."
+      }
+    },
+    {
+      "id": "ANIMAL-PHYSIOLOGY::BOOK-PRINCIPLES-ANIMAL-PHYSIOLOGY3-2016",
+      "resource_id": "BOOK-PRINCIPLES-ANIMAL-PHYSIOLOGY3-2016",
+      "subject_id": "ANIMAL-PHYSIOLOGY",
+      "learning_stage": "core",
+      "role": "core",
+      "coverage_concept_ids": [
+        "AP01",
+        "AP02",
+        "AP03",
+        "AP04",
+        "AP05",
+        "AP06",
+        "AP07",
+        "AP08",
+        "AP09",
+        "AP10",
+        "AP11",
+        "AP12"
+      ],
+      "selection_rationale": "Core mechanistic and comparative animal physiology text with direct coverage of every major system in the roadmap.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد اولین کتاب تخصصی خود در فیزیولوژی جانوری را با تعادل مناسب میان مکانیسم و مقایسه بین جانوران بخواند.",
+        "why": "ساختار کتاب دقیقاً با مسیر درس هم‌راستاست و از اصول سلولی تا اعصاب، عضله، گردش خون، تنفس، آب و یون، متابولیسم، دما و تولیدمثل را پوشش می‌دهد.",
+        "how_to_use": "فصل‌ها را به ترتیب بخوانید و برای هر دستگاه ابتدا اصل تنظیمی و سپس تفاوت‌های بین گروه‌های جانوری را استخراج کنید.",
+        "next_step": "بعد از این کتاب، ⁦Animal Physiology, 5th Edition⁩ را برای عمق بیشتر و پیوند با بوم‌شناسی و تکامل بخوانید."
+      }
+    },
+    {
+      "id": "ANIMAL-PHYSIOLOGY::BOOK-ANIMAL-PHYSIOLOGY5-2022",
+      "resource_id": "BOOK-ANIMAL-PHYSIOLOGY5-2022",
+      "subject_id": "ANIMAL-PHYSIOLOGY",
+      "learning_stage": "intermediate",
+      "role": "intermediate",
+      "coverage_concept_ids": [
+        "AP01",
+        "AP02",
+        "AP03",
+        "AP04",
+        "AP05",
+        "AP06",
+        "AP07",
+        "AP08",
+        "AP09",
+        "AP10",
+        "AP11",
+        "AP12"
+      ],
+      "selection_rationale": "Current comprehensive text linking molecular mechanisms to organs, ecology and evolution.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مبانی را می‌داند و می‌خواهد فیزیولوژی را در مقیاس سلول تا کل جانور و در زمینه بوم‌شناسی و تکامل یکپارچه کند.",
+        "why": "پوشش عمیق دستگاه‌ها را با زمینه تکاملی و اکولوژیک ترکیب می‌کند و برای مرحله میانی تا پیشرفته مناسب است.",
+        "how_to_use": "برای هر فصل، شکل‌ها و مثال‌های تطبیقی را همراه متن اصلی بخوانید و تفاوت راه‌حل‌های فیزیولوژیک بین محیط‌ها و تبارها را یادداشت کنید.",
+        "next_step": "پس از آن، برای تمرکز بر سازگاری محیطی وارد ⁦Animal Physiology: An Environmental Perspective⁩ شوید."
+      }
+    },
+    {
+      "id": "ANIMAL-PHYSIOLOGY::BOOK-ANIMAL-PHYSIOLOGY-ENVIRONMENT-2021",
+      "resource_id": "BOOK-ANIMAL-PHYSIOLOGY-ENVIRONMENT-2021",
+      "subject_id": "ANIMAL-PHYSIOLOGY",
+      "learning_stage": "advanced",
+      "role": "advanced",
+      "coverage_concept_ids": [
+        "AP01",
+        "AP05",
+        "AP06",
+        "AP07",
+        "AP08",
+        "AP09",
+        "AP10",
+        "AP11",
+        "AP12"
+      ],
+      "selection_rationale": "Advanced environmental and evolutionary framing of animal physiological systems in natural habitats.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مسیر عمومی را گذرانده و می‌خواهد فیزیولوژی را در متن محیط واقعی، سازگاری و فشارهای اکولوژیک بفهمد.",
+        "why": "کتاب به‌جای محدود شدن به فیزیولوژی پزشکی انسان، مستقیماً بر تنوع جانوری و پاسخ‌های فیزیولوژیک به محیط تمرکز دارد.",
+        "how_to_use": "فصل‌ها را موضوعی بخوانید و برای آب و نمک، دما، اکسیژن، دستگاه قلبی‌تنفسی، اعصاب، هورمون و تولیدمثل جدول مقایسه‌ای بسازید.",
+        "next_step": "سپس بر اساس شاخه مورد علاقه خود وارد مرورهای تخصصی زیر شوید."
+      }
+    },
+    {
+      "id": "ANIMAL-PHYSIOLOGY::REVIEW-NEUROETHOLOGY-MODELS-2024",
+      "resource_id": "REVIEW-NEUROETHOLOGY-MODELS-2024",
+      "subject_id": "ANIMAL-PHYSIOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "AP03",
+        "AP12"
+      ],
+      "branch_ids": [
+        "neuro-sensory"
+      ],
+      "selection_rationale": "Comparative review spanning diverse neuroethological model organisms and sensory/neural adaptations.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد نوروفیزیولوژی را فراتر از مدل‌های پستانداری و در تنوع واقعی جانوران دنبال کند.",
+        "why": "مرور بیش از یک قرن مدل‌های نورواتولوژی نشان می‌دهد چگونه سامانه‌های حسی و عصبی ویژه برای پاسخ به مسائل مکانیکی انتخاب شده‌اند.",
+        "how_to_use": "پس از فصل‌های اعصاب و حس در کتاب‌های عمومی، این مرور را با تمرکز بر مدل‌های جانوری، سازگاری‌های حسی و اصل Krogh بخوانید.",
+        "next_step": "در ادامه یک سامانه حسی مشخص مانند بینایی، شنوایی یا الکترورسپشن را انتخاب و مرور تخصصی‌تر پیدا کنید."
+      },
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "ANIMAL-PHYSIOLOGY::REVIEW-COMPARATIVE-SKELETAL-MUSCLE-2023",
+      "resource_id": "REVIEW-COMPARATIVE-SKELETAL-MUSCLE-2023",
+      "subject_id": "ANIMAL-PHYSIOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "AP04",
+        "AP12"
+      ],
+      "branch_ids": [
+        "muscle-locomotion"
+      ],
+      "selection_rationale": "Comparative synthesis of muscle mechanics, contraction theory, diversity and adaptation across animals.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد از مدل کلاسیک انقباض عضله به تنوع واقعی عملکرد عضله و حرکت در جانوران برسد.",
+        "why": "این مرور شواهد تطبیقی را برای نیرو، طول، سرعت، کار و سازگاری عضله کنار هم می‌گذارد.",
+        "how_to_use": "آن را بعد از فصل عضله بخوانید و برای هر نظریه مشخص کنید کدام داده‌های تطبیقی آن را حمایت یا محدود می‌کنند.",
+        "next_step": "سپس به ادبیات تخصصی locomotor mechanics در گروه جانوری مورد علاقه خود بروید."
+      },
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "ANIMAL-PHYSIOLOGY::REVIEW-SYSTEMIC-BLOOD-FLOW-VERTEBRATES-2020",
+      "resource_id": "REVIEW-SYSTEMIC-BLOOD-FLOW-VERTEBRATES-2020",
+      "subject_id": "ANIMAL-PHYSIOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "AP05",
+        "AP12"
+      ],
+      "branch_ids": [
+        "cardiovascular-circulation"
+      ],
+      "selection_rationale": "Focused comparative review of cardiovascular regulation and systemic blood flow across vertebrates.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد تنظیم برون‌ده قلبی و جریان خون را با مقایسه ماهی‌ها، خزندگان و پستانداران بفهمد.",
+        "why": "این مرور یک مسئله بنیادی گردش خون را با شواهد تطبیقی و نه صرفاً دیدگاه انسانی تحلیل می‌کند.",
+        "how_to_use": "پس از فصل گردش خون، استدلال مقاله درباره نقش عروق محیطی و قلب را مرحله‌به‌مرحله دنبال کنید.",
+        "next_step": "برای ادامه، سازگاری قلبی‌عروقی در غواصی، هیپوکسی یا ورزش جانوری را انتخاب کنید."
+      },
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "ANIMAL-PHYSIOLOGY::REVIEW-OXYGEN-TRANSPORT-CASCADE-2023",
+      "resource_id": "REVIEW-OXYGEN-TRANSPORT-CASCADE-2023",
+      "subject_id": "ANIMAL-PHYSIOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "AP06",
+        "AP05",
+        "AP12"
+      ],
+      "branch_ids": [
+        "respiration-oxygen"
+      ],
+      "selection_rationale": "Comparative graphical review connecting ventilation, hemoglobin oxygen affinity and muscle blood flow across animal models.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد زنجیره انتقال اکسیژن را به‌صورت یک سامانه یکپارچه از محیط تا بافت ببیند.",
+        "why": "نمونه‌های سگ سورتمه، موش‌های ارتفاع و اسب نشان می‌دهند مقایسه گونه‌ها چگونه مکانیسم‌های انتقال اکسیژن را روشن می‌کند.",
+        "how_to_use": "مقاله را همراه یک نمودار از زنجیره اکسیژن بخوانید و در هر مرحله عامل محدودکننده و مدل جانوری را مشخص کنید.",
+        "next_step": "سپس سراغ سازگاری تنفسی در ارتفاع، غواصی یا محیط‌های کم‌اکسیژن بروید."
+      },
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "ANIMAL-PHYSIOLOGY::REVIEW-OSMOREGULATION-EXCRETION-2014",
+      "resource_id": "REVIEW-OSMOREGULATION-EXCRETION-2014",
+      "subject_id": "ANIMAL-PHYSIOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "AP07",
+        "AP12"
+      ],
+      "branch_ids": [
+        "osmoregulation-renal"
+      ],
+      "selection_rationale": "Large comparative review of water/ion balance and excretory organs across multiple animal taxa.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد کلیه را تنها یکی از چند راه‌حل تکاملی دفع و تنظیم اسمزی بداند.",
+        "why": "مرور، آب و یون را در محیط‌های اسمزی مختلف و در اندام‌هایی مانند کلیه، آبشش، لوله مالپیگی و روده مقایسه می‌کند.",
+        "how_to_use": "به‌جای خواندن خطی، بخش‌ها را بر اساس محیط آب شیرین، دریا و خشکی و سپس نوع اندام دفعی دسته‌بندی کنید.",
+        "next_step": "در ادامه یک گروه مانند ماهیان، حشرات یا مهره‌داران خشکی‌زی را برای مطالعه عمیق‌تر انتخاب کنید."
+      },
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "ANIMAL-PHYSIOLOGY::REVIEW-FEED-INTAKE-COMPARATIVE-2024",
+      "resource_id": "REVIEW-FEED-INTAKE-COMPARATIVE-2024",
+      "subject_id": "ANIMAL-PHYSIOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "AP08",
+        "AP09",
+        "AP12"
+      ],
+      "branch_ids": [
+        "digestion-energy"
+      ],
+      "selection_rationale": "Comparative review of molecular and neuroendocrine regulation of feeding in chickens and mammals.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد ارتباط تغذیه، سیگنال‌های هورمونی، هیپوتالاموس و تعادل انرژی را مقایسه‌ای مطالعه کند.",
+        "why": "تفاوت‌های تنظیم اشتها بین دو کلاد مهره‌داران را آشکار می‌کند و از نگاه صرفاً پستانداری فاصله می‌گیرد.",
+        "how_to_use": "مسیرهای انسولین، لپتین، گرلین و نوروپپتیدهای هیپوتالاموسی را در یک جدول مرغ–پستاندار مقایسه کنید.",
+        "next_step": "سپس موضوع را به هزینه انرژی، گوارش یا متابولیسم پس از غذا در جانوران دیگر گسترش دهید."
+      },
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "ANIMAL-PHYSIOLOGY::REVIEW-INTEGRATIVE-HORMONE-INSECTS-2025",
+      "resource_id": "REVIEW-INTEGRATIVE-HORMONE-INSECTS-2025",
+      "subject_id": "ANIMAL-PHYSIOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "AP09",
+        "AP07",
+        "AP08",
+        "AP12"
+      ],
+      "branch_ids": [
+        "endocrine-neuroendocrine"
+      ],
+      "selection_rationale": "Integrative review showing conserved endocrine logic through insect models and cross-organ signaling.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد فیزیولوژی درون‌ریز را خارج از چارچوب کلاسیک مهره‌داران و با مدل‌های حشرات بفهمد.",
+        "why": "مرور نشان می‌دهد کنترل رشد، آب و یون، رفتار و متابولیسم چگونه با شبکه‌های هورمونی یکپارچه می‌شود.",
+        "how_to_use": "محورهای هورمونی را بر اساس ورودی، بافت هدف، پاسخ فیزیولوژیک و میزان حفاظت تکاملی یادداشت کنید.",
+        "next_step": "بعد از آن یک محور نورواندوکرین مشخص را بین حشرات و مهره‌داران مقایسه کنید."
+      },
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "ANIMAL-PHYSIOLOGY::REVIEW-WILD-VERTEBRATE-REPRODUCTION-2026",
+      "resource_id": "REVIEW-WILD-VERTEBRATE-REPRODUCTION-2026",
+      "subject_id": "ANIMAL-PHYSIOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "AP11",
+        "AP09",
+        "AP12"
+      ],
+      "branch_ids": [
+        "reproduction"
+      ],
+      "selection_rationale": "Current review of reproductive physiology biomarkers and endocrine monitoring across wild vertebrates.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد تنوع فیزیولوژی تولیدمثل را در گونه‌های وحشی و فراتر از مدل‌های آزمایشگاهی ببیند.",
+        "why": "منبع جدیدی است که هورمون‌ها و شاخص‌های تولیدمثلی را در دامنه‌ای از مهره‌داران و شرایط واقعی بررسی می‌کند.",
+        "how_to_use": "ابتدا محور HPG را از کتاب عمومی مرور کنید؛ سپس مقاله را بر اساس نوع شاخص، جنس، مرحله تولیدمثلی و گونه دسته‌بندی کنید.",
+        "next_step": "در ادامه به یک گروه مهره‌دار یا راهبرد تولیدمثلی خاص وارد شوید."
+      },
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "ANIMAL-PHYSIOLOGY::REVIEW-ECTOTHERM-THERMAL-DIET-2024",
+      "resource_id": "REVIEW-ECTOTHERM-THERMAL-DIET-2024",
+      "subject_id": "ANIMAL-PHYSIOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "AP10",
+        "AP08",
+        "AP12"
+      ],
+      "branch_ids": [
+        "thermal-environmental"
+      ],
+      "selection_rationale": "Mechanistic review linking nutrition to thermal performance, plasticity and tolerance in ectotherms.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد فیزیولوژی حرارتی را به تغذیه، متابولیسم و تغییرات محیطی متصل کند.",
+        "why": "نشان می‌دهد عملکرد حرارتی یک صفت جدا نیست و کیفیت رژیم غذایی می‌تواند حدود و حساسیت حرارتی جانوران خونسرد را تغییر دهد.",
+        "how_to_use": "منحنی عملکرد حرارتی را مبنا بگیرید و اثر ماکرونوترینت‌ها، لیپیدها و ریزمغذی‌ها را روی تحمل، متابولیسم و رفتار حرارتی استخراج کنید.",
+        "next_step": "سپس مقایسه ectotherm–endotherm یا سازگاری حرارتی در یک زیست‌بوم مشخص را دنبال کنید."
+      },
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "ANIMAL-PHYSIOLOGY::PERSPECTIVE-NEUROETHOLOGY-FUTURE-2024::neuro-sensory",
+      "resource_id": "PERSPECTIVE-NEUROETHOLOGY-FUTURE-2024",
+      "subject_id": "ANIMAL-PHYSIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "neuro-sensory"
+      ],
+      "coverage_concept_ids": [
+        "AP03",
+        "AP12"
+      ],
+      "selection_rationale": "Current field-level perspective on sensory modalities, model diversity and emerging neuroethology questions.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که پس از مرور تاریخ و مدل‌های کلاسیک نورواتولوژی می‌خواهد جهت‌های جدید حوزه و تنوع سامانه‌های حسی را ببیند.",
+        "why": "این منبع تصویری از وضعیت جدید نورواتولوژی، مدل‌های جانوری و پرسش‌های رو‌به‌رشد حوزه می‌دهد.",
+        "how_to_use": "پس از مرور مرجع شاخه بخوانید و سه محور «حس»، «گونه مدل» و «رفتار» را برای موضوع مورد علاقه خود استخراج کنید.",
+        "next_step": "یک سامانه حسی یا رفتار مشخص را برای ورود به مقالات اصلی انتخاب کنید."
+      }
+    },
+    {
+      "id": "ANIMAL-PHYSIOLOGY::REVIEW-COMPARATIVE-CAT-WALKING-2025::muscle-locomotion",
+      "resource_id": "REVIEW-COMPARATIVE-CAT-WALKING-2025",
+      "subject_id": "ANIMAL-PHYSIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "muscle-locomotion"
+      ],
+      "coverage_concept_ids": [
+        "AP04",
+        "AP12"
+      ],
+      "selection_rationale": "Recent cross-species review of muscle coordination during terrestrial walking.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد مکانیسم عضله را به هماهنگی واقعی اندام در حرکت چهارپایان وصل کند.",
+        "why": "مقایسه گربه، سگ، اسب و انسان کمک می‌کند الگوهای مشترک و تفاوت‌های عملکردی عضلات تک‌مفصلی و دومفصلی دیده شوند.",
+        "how_to_use": "بعد از مرور عمومی عضله، الگوهای فعال‌سازی فاز stance و swing و نقش عضلات دو‌مفصلی را بین گونه‌ها مقایسه کنید.",
+        "next_step": "برای گسترش شاخه، سراغ locomotor mechanics در محیط‌های متفاوت بروید."
+      }
+    },
+    {
+      "id": "ANIMAL-PHYSIOLOGY::REVIEW-CARDIORESPIRATORY-MARINE-MAMMALS-2024::cardiovascular-circulation",
+      "resource_id": "REVIEW-CARDIORESPIRATORY-MARINE-MAMMALS-2024",
+      "subject_id": "ANIMAL-PHYSIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "cardiovascular-circulation"
+      ],
+      "coverage_concept_ids": [
+        "AP05",
+        "AP06",
+        "AP12"
+      ],
+      "selection_rationale": "Integrative review of cardiovascular regulation and cardiorespiratory coupling in diving mammals.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که پس از اصول گردش خون می‌خواهد سازگاری‌های شدید قلبی‌عروقی را در جانوران غواص بررسی کند.",
+        "why": "فیزیولوژی غواصی نمونه روشنی از تنظیم ضربان قلب، پرفیوژن و مصرف اکسیژن در شرایط محیطی ویژه است.",
+        "how_to_use": "تغییرات heart rate، stroke volume، perfusion و ارتباط آن‌ها با مدت غواصی را روی یک نقشه سامانه‌ای ثبت کنید.",
+        "next_step": "سپس آن را با تنظیم جریان خون در مهره‌داران غیرغواص مقایسه کنید."
+      }
+    },
+    {
+      "id": "ANIMAL-PHYSIOLOGY::REVIEW-HYPOXIA-ALTITUDE-SPECIES-2025::respiration-oxygen",
+      "resource_id": "REVIEW-HYPOXIA-ALTITUDE-SPECIES-2025",
+      "subject_id": "ANIMAL-PHYSIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "respiration-oxygen"
+      ],
+      "coverage_concept_ids": [
+        "AP06",
+        "AP05",
+        "AP12"
+      ],
+      "selection_rationale": "Current cross-species review of hypoxia tolerance, oxygen transport and altitude adaptation in humans and rodent models.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد تفاوت پاسخ به هیپوکسی و ارتفاع را در چند پستاندار با فیزیولوژی متفاوت مقایسه کند.",
+        "why": "مرور، انتقال و مصرف اکسیژن، اریتروپوئز، تبادل گاز و سازگاری‌های سلولی و سامانه‌ای را بین انسان، موش و رت کنار هم می‌گذارد.",
+        "how_to_use": "برای هر گونه، مسیر «تهویه و تبادل گاز → خون و هموگلوبین → گردش خون → میتوکندری» را جدا کنید و تفاوت‌های کمی و کیفی را ثبت کنید.",
+        "next_step": "پس از آن، همین چارچوب را برای جانوران غواص یا گونه‌های بومی ارتفاع به کار ببرید."
+      }
+    },
+    {
+      "id": "ANIMAL-PHYSIOLOGY::REVIEW-AQUATIC-IONIC-OSMOTIC-2023::osmoregulation-renal",
+      "resource_id": "REVIEW-AQUATIC-IONIC-OSMOTIC-2023",
+      "subject_id": "ANIMAL-PHYSIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "osmoregulation-renal"
+      ],
+      "coverage_concept_ids": [
+        "AP07",
+        "AP12"
+      ],
+      "selection_rationale": "Current comparative synthesis of ionic, osmotic and acid-base regulation in aquatic animals.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مرجع جامع دفع و تنظیم اسمزی را خوانده و به یک به‌روزرسانی متمرکز بر جانوران آبزی نیاز دارد.",
+        "why": "منبع، تنظیم یون، اسمزی و اسید–باز را در چارچوب تطبیقی و محیطی آبزیان یکپارچه می‌کند.",
+        "how_to_use": "سه لایه ion regulation، osmoregulation و acid-base regulation را جدا و سپس نقاط اتصال آن‌ها را ثبت کنید.",
+        "next_step": "برای ادامه، یک گروه آب شیرین، دریایی یا euryhaline را انتخاب کنید."
+      }
+    },
+    {
+      "id": "ANIMAL-PHYSIOLOGY::REVIEW-REPTILIAN-DIGESTIVE-EFFICIENCY-2023::digestion-energy",
+      "resource_id": "REVIEW-REPTILIAN-DIGESTIVE-EFFICIENCY-2023",
+      "subject_id": "ANIMAL-PHYSIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "digestion-energy"
+      ],
+      "coverage_concept_ids": [
+        "AP08",
+        "AP10",
+        "AP12"
+      ],
+      "selection_rationale": "Review and meta-analysis of digestive efficiency across reptiles, including temperature effects.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد گوارش و جذب انرژی را در یک گروه جانوری با تنوع رژیم و دمای بدن بررسی کند.",
+        "why": "این مرور نشان می‌دهد چگونه روش اندازه‌گیری، رژیم و دما بر تفسیر efficiency گوارشی اثر می‌گذارند.",
+        "how_to_use": "شاخص‌های digestive efficiency و محدودیت‌های روش ratio-based را جدا کنید و اثر دما را به فیزیولوژی حرارتی وصل کنید.",
+        "next_step": "بعد از آن، راهبردهای گوارشی پرندگان، پستانداران یا بی‌مهرگان را مقایسه کنید."
+      }
+    },
+    {
+      "id": "ANIMAL-PHYSIOLOGY::REVIEW-COMPARATIVE-INSULIN-SUPERFAMILY-2025::endocrine-neuroendocrine",
+      "resource_id": "REVIEW-COMPARATIVE-INSULIN-SUPERFAMILY-2025",
+      "subject_id": "ANIMAL-PHYSIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "endocrine-neuroendocrine"
+      ],
+      "coverage_concept_ids": [
+        "AP09",
+        "AP12"
+      ],
+      "selection_rationale": "Evolutionary comparative review of an ancient endocrine signaling family from invertebrates to vertebrates.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد علاوه بر شبکه‌های هورمونی حشرات، تکامل و حفاظت عملکرد هورمون‌ها را در کل جانوران ببیند.",
+        "why": "بررسی خانواده insulin نشان می‌دهد یک سامانه هورمونی چگونه در تبارهای مختلف حفظ و بازکاربرد شده است.",
+        "how_to_use": "مقایسه را بر اساس ligand، receptor، بافت هدف و عملکرد اصلی در تبارهای مختلف انجام دهید.",
+        "next_step": "سپس یک خانواده هورمونی دیگر را با همین چارچوب تکاملی بررسی کنید."
+      }
+    },
+    {
+      "id": "ANIMAL-PHYSIOLOGY::REVIEW-SPEXIN-REPRODUCTION-2024::reproduction",
+      "resource_id": "REVIEW-SPEXIN-REPRODUCTION-2024",
+      "subject_id": "ANIMAL-PHYSIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "reproduction"
+      ],
+      "coverage_concept_ids": [
+        "AP11",
+        "AP09",
+        "AP12"
+      ],
+      "selection_rationale": "Current review of a conserved neuroendocrine peptide regulating the vertebrate HPG axis.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد یک نمونه مولکولی از اتصال نورواندوکرین به فیزیولوژی تولیدمثل را بررسی کند.",
+        "why": "مرور spexin مسیر hypothalamus–pituitary–gonad را در مهره‌داران و شکاف‌های دانشی فعلی جمع‌بندی می‌کند.",
+        "how_to_use": "جایگاه spexin را در سه سطح hypothalamus، pituitary و gonad روی محور HPG مشخص کنید و شواهد موافق و متناقض را جدا کنید.",
+        "next_step": "پس از آن، سازوکارهای فصلی یا محیطی تنظیم تولیدمثل را مقایسه کنید."
+      }
+    },
+    {
+      "id": "ANIMAL-PHYSIOLOGY::META-TEMPERATURE-VARIABILITY-ECTOTHERMS-2024::thermal-environmental",
+      "resource_id": "META-TEMPERATURE-VARIABILITY-ECTOTHERMS-2024",
+      "subject_id": "ANIMAL-PHYSIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "thermal-environmental"
+      ],
+      "coverage_concept_ids": [
+        "AP10",
+        "AP12"
+      ],
+      "selection_rationale": "Large meta-analysis of fluctuating-temperature effects across ectothermic animals.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که پس از مکانیسم‌های تغذیه–دما می‌خواهد اثر نوسان واقعی دما را در مقیاس چندگونه‌ای ارزیابی کند.",
+        "why": "این تحلیل ۱۴۳ مطالعه و ۱۱۸ گونه را تجمیع می‌کند و میانگین دما را از variability و extreme events جدا می‌سازد.",
+        "how_to_use": "نتایج را بر اساس trait mean، variance، longevity، gene expression و population response تفکیک کنید.",
+        "next_step": "برای ادامه، پاسخ‌های یک تاکسون یا یک نوع محیط را با داده‌های اولیه بررسی کنید."
+      }
     }
   ]
 }

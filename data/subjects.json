@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.10.0",
+  "schema_version": "0.11.0",
   "subjects": [
     {
       "id": "CELL-BIOLOGY",
@@ -1119,6 +1119,124 @@
           "id": "development-memory-ageing",
           "label": "Immune development, memory & ageing",
           "fa_label": "تکوین سیستم ایمنی، حافظه و پیری"
+        }
+      ],
+      "status": "complete",
+      "completion_criteria": {
+        "general_roadmap_resources": 4,
+        "specialized_branches_required": 9,
+        "student_guidance_required": true,
+        "theory_only": true
+      },
+      "completed_on": "2026-09-26"
+    },
+    {
+      "id": "ANIMAL-PHYSIOLOGY",
+      "fa_name": "فیزیولوژی جانوری",
+      "en_name": "Animal Physiology",
+      "scope": "theoretical",
+      "roadmap_stages": [
+        "foundation",
+        "core",
+        "intermediate",
+        "advanced",
+        "specialized"
+      ],
+      "concepts": [
+        {
+          "id": "AP01",
+          "label": "Homeostasis, physiological principles and comparative methods"
+        },
+        {
+          "id": "AP02",
+          "label": "Cell signaling, membranes and integrative regulation"
+        },
+        {
+          "id": "AP03",
+          "label": "Neurophysiology and sensory systems"
+        },
+        {
+          "id": "AP04",
+          "label": "Muscle physiology, motor control and locomotion"
+        },
+        {
+          "id": "AP05",
+          "label": "Cardiovascular physiology and circulation"
+        },
+        {
+          "id": "AP06",
+          "label": "Respiratory physiology, gas exchange and oxygen transport"
+        },
+        {
+          "id": "AP07",
+          "label": "Osmoregulation, renal physiology and excretion"
+        },
+        {
+          "id": "AP08",
+          "label": "Digestion, nutrition and energy balance"
+        },
+        {
+          "id": "AP09",
+          "label": "Endocrine and neuroendocrine physiology"
+        },
+        {
+          "id": "AP10",
+          "label": "Thermal physiology and environmental adaptation"
+        },
+        {
+          "id": "AP11",
+          "label": "Reproductive physiology"
+        },
+        {
+          "id": "AP12",
+          "label": "Comparative, ecological and evolutionary integration"
+        }
+      ],
+      "branches": [
+        {
+          "id": "neuro-sensory",
+          "label": "Neurophysiology & sensory systems",
+          "fa_label": "نوروفیزیولوژی و دستگاه‌های حسی"
+        },
+        {
+          "id": "muscle-locomotion",
+          "label": "Muscle physiology & locomotion",
+          "fa_label": "فیزیولوژی عضله و حرکت"
+        },
+        {
+          "id": "cardiovascular-circulation",
+          "label": "Cardiovascular physiology & circulation",
+          "fa_label": "فیزیولوژی قلبی‌عروقی و گردش خون"
+        },
+        {
+          "id": "respiration-oxygen",
+          "label": "Respiratory physiology & oxygen transport",
+          "fa_label": "فیزیولوژی تنفس و انتقال اکسیژن"
+        },
+        {
+          "id": "osmoregulation-renal",
+          "label": "Osmoregulation, renal physiology & excretion",
+          "fa_label": "تنظیم اسمزی، فیزیولوژی کلیه و دفع"
+        },
+        {
+          "id": "digestion-energy",
+          "label": "Digestion, nutrition & energy balance",
+          "fa_label": "گوارش، تغذیه و تعادل انرژی"
+        },
+        {
+          "id": "endocrine-neuroendocrine",
+          "label": "Endocrine & neuroendocrine physiology",
+          "fa_label": "فیزیولوژی درون‌ریز و نورواندوکرین"
+        },
+        {
+          "id": "reproduction",
+          "label": "Reproductive physiology",
+          "fa_label": "فیزیولوژی تولیدمثل"
+        },
+        {
+          "id": "thermal-environmental",
+          "label": "Thermal & environmental physiology",
+          "fa_label": "فیزیولوژی حرارتی و محیطی"
         }
       ],
       "status": "complete",

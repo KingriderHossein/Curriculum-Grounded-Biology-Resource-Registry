@@ -89,5 +89,6 @@ The current reference-quality subjects are:
 - **Plant Biology / زیست‌شناسی گیاهی**
 - **Developmental Biology / زیست‌شناسی تکوینی**
 - **Immunology / ایمونولوژی**
+- **Animal Physiology / فیزیولوژی جانوری**
 
 New subjects should reuse this architecture instead of introducing a parallel resource model.
