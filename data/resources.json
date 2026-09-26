@@ -2892,7 +2892,10 @@
       "cover": {
         "url": "https://images.routledge.com/common/jackets/crclarge/978104108/9781041081739.jpg",
         "source": "Routledge/CRC Press cover candidate; exact edition to be locked by GitHub cover audit",
-        "source_url": "https://www.routledge.com/Essential-Plant-Biology/Smith-Downie-Harberd-Jones-Ostergaard-Sablowski-Thomas/p/book/9781041081739"
+        "source_url": "https://www.routledge.com/Essential-Plant-Biology/Smith-Downie-Harberd-Jones-Ostergaard-Sablowski-Thomas/p/book/9781041081739",
+        "expected_sha256": "14148ad8bcbdc046131b6a8161e6c300ff3aaf75700026240409de725b0b9a1f",
+        "visual_reviewed_on": "2026-09-26",
+        "visual_review_status": "title_and_edition_checked"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-26"
@@ -2914,7 +2917,10 @@
       "cover": {
         "url": "https://covers.vitalsource.com/vbid/9781284205350/width/200",
         "source": "VitalSource cover fallback for the 7th edition; Jones & Bartlett Learning is bibliographic authority",
-        "source_url": "https://www.jblearning.com/catalog/productdetails/9781284157352"
+        "source_url": "https://www.vitalsource.com/products/botany-an-introduction-to-plant-biology-james-d-mauseth-v9781284205350",
+        "expected_sha256": "49b047bc1ad2f717875a7a0936241b8c004ac4bb3f6b6f26dee0fb70a3cf5cf8",
+        "visual_reviewed_on": "2026-09-26",
+        "visual_review_status": "title_and_edition_checked"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-26"
@@ -2934,12 +2940,15 @@
       "published_year": 2022,
       "publisher": "Sinauer Associates / Oxford University Press",
       "isbn": "9780197577240",
-      "publisher_url": "https://learninglink.oup.com/access/taiz7e",
+      "publisher_url": "https://www.oup.com.au/books/higher-education/biology/9780197577240",
       "purchase_url": "https://www.vitalsource.com/products/plant-physiology-and-development-lincoln-taiz-ian-max-moller-v9780197614228",
       "cover": {
         "url": "https://covers.vitalsource.com/vbid/9780197614228/width/200",
         "source": "VitalSource cover fallback for the 7th edition; Oxford University Press/Sinauer is bibliographic authority",
-        "source_url": "https://learninglink.oup.com/access/taiz7e"
+        "source_url": "https://www.vitalsource.com/products/plant-physiology-and-development-lincoln-taiz-v9780197614228",
+        "expected_sha256": "699bfeeaad378e302439a3cb1644a9e1b9c3691ba62c19574c1f0a5ab4c0e517",
+        "visual_reviewed_on": "2026-09-26",
+        "visual_review_status": "title_and_edition_checked"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-26"
