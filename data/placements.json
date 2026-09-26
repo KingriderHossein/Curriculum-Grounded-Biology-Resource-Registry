@@ -5365,6 +5365,208 @@
         "next_step": "سپس مقایسه ectotherm–endotherm یا سازگاری حرارتی در یک زیست‌بوم مشخص را دنبال کنید."
       },
       "branch_role": "branch_reference"
+    },
+    {
+      "id": "ANIMAL-PHYSIOLOGY::PERSPECTIVE-NEUROETHOLOGY-FUTURE-2024::neuro-sensory",
+      "resource_id": "PERSPECTIVE-NEUROETHOLOGY-FUTURE-2024",
+      "subject_id": "ANIMAL-PHYSIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "neuro-sensory"
+      ],
+      "coverage_concept_ids": [
+        "AP03",
+        "AP12"
+      ],
+      "selection_rationale": "Current field-level perspective on sensory modalities, model diversity and emerging neuroethology questions.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که پس از مرور تاریخ و مدل‌های کلاسیک نورواتولوژی می‌خواهد جهت‌های جدید حوزه و تنوع سامانه‌های حسی را ببیند.",
+        "why": "این منبع تصویری از وضعیت جدید نورواتولوژی، مدل‌های جانوری و پرسش‌های رو‌به‌رشد حوزه می‌دهد.",
+        "how_to_use": "پس از مرور مرجع شاخه بخوانید و سه محور «حس»، «گونه مدل» و «رفتار» را برای موضوع مورد علاقه خود استخراج کنید.",
+        "next_step": "یک سامانه حسی یا رفتار مشخص را برای ورود به مقالات اصلی انتخاب کنید."
+      }
+    },
+    {
+      "id": "ANIMAL-PHYSIOLOGY::REVIEW-COMPARATIVE-CAT-WALKING-2026::muscle-locomotion",
+      "resource_id": "REVIEW-COMPARATIVE-CAT-WALKING-2026",
+      "subject_id": "ANIMAL-PHYSIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "muscle-locomotion"
+      ],
+      "coverage_concept_ids": [
+        "AP04",
+        "AP12"
+      ],
+      "selection_rationale": "Recent cross-species review of muscle coordination during terrestrial walking.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد مکانیسم عضله را به هماهنگی واقعی اندام در حرکت چهارپایان وصل کند.",
+        "why": "مقایسه گربه، سگ، اسب و انسان کمک می‌کند الگوهای مشترک و تفاوت‌های عملکردی عضلات تک‌مفصلی و دومفصلی دیده شوند.",
+        "how_to_use": "بعد از مرور عمومی عضله، الگوهای فعال‌سازی فاز stance و swing و نقش عضلات دو‌مفصلی را بین گونه‌ها مقایسه کنید.",
+        "next_step": "برای گسترش شاخه، سراغ locomotor mechanics در محیط‌های متفاوت بروید."
+      }
+    },
+    {
+      "id": "ANIMAL-PHYSIOLOGY::REVIEW-CARDIORESPIRATORY-MARINE-MAMMALS-2024::cardiovascular-circulation",
+      "resource_id": "REVIEW-CARDIORESPIRATORY-MARINE-MAMMALS-2024",
+      "subject_id": "ANIMAL-PHYSIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "cardiovascular-circulation"
+      ],
+      "coverage_concept_ids": [
+        "AP05",
+        "AP06",
+        "AP12"
+      ],
+      "selection_rationale": "Integrative review of cardiovascular regulation and cardiorespiratory coupling in diving mammals.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که پس از اصول گردش خون می‌خواهد سازگاری‌های شدید قلبی‌عروقی را در جانوران غواص بررسی کند.",
+        "why": "فیزیولوژی غواصی نمونه روشنی از تنظیم ضربان قلب، پرفیوژن و مصرف اکسیژن در شرایط محیطی ویژه است.",
+        "how_to_use": "تغییرات heart rate، stroke volume، perfusion و ارتباط آن‌ها با مدت غواصی را روی یک نقشه سامانه‌ای ثبت کنید.",
+        "next_step": "سپس آن را با تنظیم جریان خون در مهره‌داران غیرغواص مقایسه کنید."
+      }
+    },
+    {
+      "id": "ANIMAL-PHYSIOLOGY::REVIEW-CARDIORESPIRATORY-MARINE-MAMMALS-2024::respiration-oxygen",
+      "resource_id": "REVIEW-CARDIORESPIRATORY-MARINE-MAMMALS-2024",
+      "subject_id": "ANIMAL-PHYSIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "respiration-oxygen"
+      ],
+      "coverage_concept_ids": [
+        "AP06",
+        "AP05",
+        "AP12"
+      ],
+      "selection_rationale": "Integrative review of respiratory mechanics, gas exchange and oxygen conservation in marine mammals.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد سازگاری تنفسی را در یک حالت افراطی و طبیعی یعنی غواصی عمیق بفهمد.",
+        "why": "این مرور تنفس، فروریزش و بازشدن آلوئول، تبادل انتخابی گاز و coupling قلب–تنفس را کنار هم قرار می‌دهد.",
+        "how_to_use": "بخش‌های مربوط به ventilation، alveolar collapse، N2 uptake و oxygen conservation را با زنجیره انتقال اکسیژن تطبیق دهید.",
+        "next_step": "بعد از آن، سازگاری‌های هیپوکسی یا ارتفاع را برای مقایسه یک فشار محیطی دیگر مطالعه کنید."
+      }
+    },
+    {
+      "id": "ANIMAL-PHYSIOLOGY::REVIEW-AQUATIC-IONIC-OSMOTIC-2023::osmoregulation-renal",
+      "resource_id": "REVIEW-AQUATIC-IONIC-OSMOTIC-2023",
+      "subject_id": "ANIMAL-PHYSIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "osmoregulation-renal"
+      ],
+      "coverage_concept_ids": [
+        "AP07",
+        "AP12"
+      ],
+      "selection_rationale": "Current comparative synthesis of ionic, osmotic and acid-base regulation in aquatic animals.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مرجع جامع دفع و تنظیم اسمزی را خوانده و به یک به‌روزرسانی متمرکز بر جانوران آبزی نیاز دارد.",
+        "why": "منبع، تنظیم یون، اسمزی و اسید–باز را در چارچوب تطبیقی و محیطی آبزیان یکپارچه می‌کند.",
+        "how_to_use": "سه لایه ion regulation، osmoregulation و acid-base regulation را جدا و سپس نقاط اتصال آن‌ها را ثبت کنید.",
+        "next_step": "برای ادامه، یک گروه آب شیرین، دریایی یا euryhaline را انتخاب کنید."
+      }
+    },
+    {
+      "id": "ANIMAL-PHYSIOLOGY::REVIEW-REPTILIAN-DIGESTIVE-EFFICIENCY-2023::digestion-energy",
+      "resource_id": "REVIEW-REPTILIAN-DIGESTIVE-EFFICIENCY-2023",
+      "subject_id": "ANIMAL-PHYSIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "digestion-energy"
+      ],
+      "coverage_concept_ids": [
+        "AP08",
+        "AP10",
+        "AP12"
+      ],
+      "selection_rationale": "Review and meta-analysis of digestive efficiency across reptiles, including temperature effects.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد گوارش و جذب انرژی را در یک گروه جانوری با تنوع رژیم و دمای بدن بررسی کند.",
+        "why": "این مرور نشان می‌دهد چگونه روش اندازه‌گیری، رژیم و دما بر تفسیر efficiency گوارشی اثر می‌گذارند.",
+        "how_to_use": "شاخص‌های digestive efficiency و محدودیت‌های روش ratio-based را جدا کنید و اثر دما را به فیزیولوژی حرارتی وصل کنید.",
+        "next_step": "بعد از آن، راهبردهای گوارشی پرندگان، پستانداران یا بی‌مهرگان را مقایسه کنید."
+      }
+    },
+    {
+      "id": "ANIMAL-PHYSIOLOGY::REVIEW-COMPARATIVE-INSULIN-SUPERFAMILY-2025::endocrine-neuroendocrine",
+      "resource_id": "REVIEW-COMPARATIVE-INSULIN-SUPERFAMILY-2025",
+      "subject_id": "ANIMAL-PHYSIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "endocrine-neuroendocrine"
+      ],
+      "coverage_concept_ids": [
+        "AP09",
+        "AP12"
+      ],
+      "selection_rationale": "Evolutionary comparative review of an ancient endocrine signaling family from invertebrates to vertebrates.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد علاوه بر شبکه‌های هورمونی حشرات، تکامل و حفاظت عملکرد هورمون‌ها را در کل جانوران ببیند.",
+        "why": "بررسی خانواده insulin نشان می‌دهد یک سامانه هورمونی چگونه در تبارهای مختلف حفظ و بازکاربرد شده است.",
+        "how_to_use": "مقایسه را بر اساس ligand، receptor، بافت هدف و عملکرد اصلی در تبارهای مختلف انجام دهید.",
+        "next_step": "سپس یک خانواده هورمونی دیگر را با همین چارچوب تکاملی بررسی کنید."
+      }
+    },
+    {
+      "id": "ANIMAL-PHYSIOLOGY::REVIEW-SPEXIN-REPRODUCTION-2024::reproduction",
+      "resource_id": "REVIEW-SPEXIN-REPRODUCTION-2024",
+      "subject_id": "ANIMAL-PHYSIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "reproduction"
+      ],
+      "coverage_concept_ids": [
+        "AP11",
+        "AP09",
+        "AP12"
+      ],
+      "selection_rationale": "Current review of a conserved neuroendocrine peptide regulating the vertebrate HPG axis.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد یک نمونه مولکولی از اتصال نورواندوکرین به فیزیولوژی تولیدمثل را بررسی کند.",
+        "why": "مرور spexin مسیر hypothalamus–pituitary–gonad را در مهره‌داران و شکاف‌های دانشی فعلی جمع‌بندی می‌کند.",
+        "how_to_use": "جایگاه spexin را در سه سطح hypothalamus، pituitary و gonad روی محور HPG مشخص کنید و شواهد موافق و متناقض را جدا کنید.",
+        "next_step": "پس از آن، سازوکارهای فصلی یا محیطی تنظیم تولیدمثل را مقایسه کنید."
+      }
+    },
+    {
+      "id": "ANIMAL-PHYSIOLOGY::META-TEMPERATURE-VARIABILITY-ECTOTHERMS-2024::thermal-environmental",
+      "resource_id": "META-TEMPERATURE-VARIABILITY-ECTOTHERMS-2024",
+      "subject_id": "ANIMAL-PHYSIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "thermal-environmental"
+      ],
+      "coverage_concept_ids": [
+        "AP10",
+        "AP12"
+      ],
+      "selection_rationale": "Large meta-analysis of fluctuating-temperature effects across ectothermic animals.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که پس از مکانیسم‌های تغذیه–دما می‌خواهد اثر نوسان واقعی دما را در مقیاس چندگونه‌ای ارزیابی کند.",
+        "why": "این تحلیل ۱۴۳ مطالعه و ۱۱۸ گونه را تجمیع می‌کند و میانگین دما را از variability و extreme events جدا می‌سازد.",
+        "how_to_use": "نتایج را بر اساس trait mean، variance، longevity، gene expression و population response تفکیک کنید.",
+        "next_step": "برای ادامه، پاسخ‌های یک تاکسون یا یک نوع محیط را با داده‌های اولیه بررسی کنید."
+      }
     }
   ]
 }
