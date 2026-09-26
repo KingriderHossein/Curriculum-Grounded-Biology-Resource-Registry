@@ -281,7 +281,7 @@
 <img src="https://covers.vitalsource.com/vbid/9780197614228/width/200" width="145" alt="Plant Physiology and Development 7th Edition cover"><br>
 <b>Plant Physiology and Development</b><br>
 منبع پیشرفته · ویرایش ۷ · ۲۰۲۲<br>
-<a href="https://learninglink.oup.com/access/taiz7e">ناشر</a>
+<a href="https://www.oup.com.au/books/higher-education/biology/9780197577240">ناشر</a>
 </td>
 </tr>
 </table>
