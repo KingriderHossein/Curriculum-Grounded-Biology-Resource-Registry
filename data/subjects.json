@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.9.0",
+  "schema_version": "0.8.0",
   "subjects": [
     {
       "id": "CELL-BIOLOGY",
@@ -893,6 +893,114 @@
         "theory_only": true
       },
       "completed_on": "2026-09-26"
+    },
+    {
+      "id": "DEVELOPMENTAL-BIOLOGY",
+      "fa_name": "زیست‌شناسی تکوینی",
+      "en_name": "Developmental Biology",
+      "scope": "theoretical",
+      "roadmap_stages": [
+        "foundation",
+        "core",
+        "intermediate",
+        "advanced",
+        "specialized"
+      ],
+      "concepts": [
+        {
+          "id": "DB01",
+          "label": "Fertilization, cleavage and early embryogenesis"
+        },
+        {
+          "id": "DB02",
+          "label": "Maternal-to-zygotic transition and genome activation"
+        },
+        {
+          "id": "DB03",
+          "label": "Pattern formation, morphogens and signalling"
+        },
+        {
+          "id": "DB04",
+          "label": "Cell fate, differentiation and lineage specification"
+        },
+        {
+          "id": "DB05",
+          "label": "Gene regulatory networks in development"
+        },
+        {
+          "id": "DB06",
+          "label": "Morphogenesis, cell movements and tissue mechanics"
+        },
+        {
+          "id": "DB07",
+          "label": "Stem cells, potency and regeneration"
+        },
+        {
+          "id": "DB08",
+          "label": "Organogenesis and tissue development"
+        },
+        {
+          "id": "DB09",
+          "label": "Germline, gametogenesis and sex determination"
+        },
+        {
+          "id": "DB10",
+          "label": "Developmental timing, growth and metamorphosis"
+        },
+        {
+          "id": "DB11",
+          "label": "Evolutionary developmental biology"
+        },
+        {
+          "id": "DB12",
+          "label": "Extraembryonic tissues and mammalian development"
+        }
+      ],
+      "branches": [
+        {
+          "id": "early-embryogenesis-mzt",
+          "label": "Early embryogenesis & maternal-to-zygotic transition"
+        },
+        {
+          "id": "patterning-morphogens",
+          "label": "Pattern formation & morphogen signalling"
+        },
+        {
+          "id": "cell-fate-grn",
+          "label": "Cell fate, gene regulatory networks & lineage specification"
+        },
+        {
+          "id": "morphogenesis-mechanics",
+          "label": "Morphogenesis, tissue mechanics & cell movements"
+        },
+        {
+          "id": "stem-cells-regeneration",
+          "label": "Stem cells, potency & regeneration"
+        },
+        {
+          "id": "organogenesis-tissue-development",
+          "label": "Organogenesis & tissue development"
+        },
+        {
+          "id": "germline-sex-development",
+          "label": "Germline, sex determination & reproductive development"
+        },
+        {
+          "id": "developmental-timing-metamorphosis",
+          "label": "Developmental timing, growth & metamorphosis"
+        },
+        {
+          "id": "evo-devo",
+          "label": "Evo-devo & developmental evolution"
+        }
+      ],
+      "status": "in_progress",
+      "completion_criteria": {
+        "general_roadmap_resources": 4,
+        "specialized_branches_required": 9,
+        "student_guidance_required": true,
+        "theory_only": true
+      }
     }
   ]
 }
