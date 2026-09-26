@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.8.0",
+  "schema_version": "0.9.0",
   "placements": [
     {
       "id": "CELL-BIOLOGY::OPENSTAX-BIOLOGY2E-2018",
@@ -4034,6 +4034,516 @@
       },
       "branch_ids": [
         "evolution-terrestrialization"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "DEVELOPMENTAL-BIOLOGY::OPENSTAX-BIOLOGY2E-2018",
+      "resource_id": "OPENSTAX-BIOLOGY2E-2018",
+      "subject_id": "DEVELOPMENTAL-BIOLOGY",
+      "learning_stage": "foundation",
+      "role": "foundation",
+      "coverage_concept_ids": [
+        "DB01",
+        "DB03",
+        "DB04",
+        "DB06",
+        "DB07"
+      ],
+      "selection_rationale": "برای ترمیم پیش‌نیازهای سلولی و ژنتیکی لازم پیش از ورود به زیست‌شناسی تکوینی مناسب است و دسترسی آزاد دارد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که هنوز در تقسیم سلولی، پیام‌رسانی، تنظیم بیان ژن یا تمایز سلولی پایه محکمی ندارد.",
+        "why": "برای ترمیم پیش‌نیازهای سلولی و ژنتیکی لازم پیش از ورود به زیست‌شناسی تکوینی مناسب است و دسترسی آزاد دارد.",
+        "how_to_use": "کل کتاب لازم نیست؛ فصل‌های مربوط به سلول، پیام‌رسانی، چرخه سلولی، ژنتیک و تنظیم ژن را هدفمند مرور کنید.",
+        "next_step": "پس از تثبیت پیش‌نیازها وارد ⁦Essential Developmental Biology⁩ شوید."
+      }
+    },
+    {
+      "id": "DEVELOPMENTAL-BIOLOGY::BOOK-ESSENTIAL-DEVBIO4-2021",
+      "resource_id": "BOOK-ESSENTIAL-DEVBIO4-2021",
+      "subject_id": "DEVELOPMENTAL-BIOLOGY",
+      "learning_stage": "core",
+      "role": "core",
+      "coverage_concept_ids": [
+        "DB01",
+        "DB02",
+        "DB03",
+        "DB04",
+        "DB05",
+        "DB06",
+        "DB07",
+        "DB08",
+        "DB09",
+        "DB10",
+        "DB11",
+        "DB12"
+      ],
+      "selection_rationale": "یک متن متمرکز و آموزشی برای مبانی ⁦developmental genetics⁩، ⁦signalling⁩، ⁦commitment⁩، ⁦model organisms⁩، ⁦organogenesis⁩، ⁦growth⁩، ⁦stem cells⁩، ⁦evolution⁩ و ⁦regeneration⁩ است.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد زیست‌شناسی تکوینی را برای نخستین بار به‌صورت منسجم و بدون حجم بیش‌ازحد جزئیات یاد بگیرد.",
+        "why": "یک متن متمرکز و آموزشی برای مبانی ⁦developmental genetics⁩، ⁦signalling⁩، ⁦commitment⁩، ⁦model organisms⁩، ⁦organogenesis⁩، ⁦growth⁩، ⁦stem cells⁩، ⁦evolution⁩ و ⁦regeneration⁩ است.",
+        "how_to_use": "از ابتدا و به‌ترتیب فصل‌ها مطالعه شود؛ برای هر فصل سه محور «سیگنال»، «تغییر سرنوشت سلول» و «تغییر شکل بافت» را جدا یادداشت کنید.",
+        "next_step": "برای عمق مفهومی و پوشش گسترده‌تر مدل‌های جانوری به ⁦Wolpert's Principles of Development⁩ بروید."
+      }
+    },
+    {
+      "id": "DEVELOPMENTAL-BIOLOGY::BOOK-WOLPERT-DEVELOPMENT7-2025",
+      "resource_id": "BOOK-WOLPERT-DEVELOPMENT7-2025",
+      "subject_id": "DEVELOPMENTAL-BIOLOGY",
+      "learning_stage": "intermediate",
+      "role": "reference",
+      "coverage_concept_ids": [
+        "DB01",
+        "DB02",
+        "DB03",
+        "DB04",
+        "DB05",
+        "DB06",
+        "DB07",
+        "DB08",
+        "DB09",
+        "DB10",
+        "DB11",
+        "DB12"
+      ],
+      "selection_rationale": "ویرایش هفتم یکی از مراجع اصلی ⁦Developmental Biology⁩ است و ⁦patterning⁩، ⁦morphogenesis⁩، ⁦stem cells⁩، ⁦regeneration⁩ و تکامل تکوین را با شواهد مولکولی و سلولی به‌روز پوشش می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مبانی را می‌داند و می‌خواهد اصول مشترک تکوین را در مدل‌های مختلف با جزئیات بیشتر دنبال کند.",
+        "why": "ویرایش هفتم یکی از مراجع اصلی ⁦Developmental Biology⁩ است و ⁦patterning⁩، ⁦morphogenesis⁩، ⁦stem cells⁩، ⁦regeneration⁩ و تکامل تکوین را با شواهد مولکولی و سلولی به‌روز پوشش می‌دهد.",
+        "how_to_use": "به‌عنوان مرور دوم یا مرجع موضوعی استفاده شود؛ فصل‌ها را بر اساس شاخه تخصصی انتخاب و مکانیسم‌های مشترک میان گونه‌ها مقایسه کنید.",
+        "next_step": "برای مرجع جامع‌تر و اتصال تکوین به اکولوژی، تکامل و زیست‌پزشکی از ⁦Developmental Biology 13e⁩ استفاده کنید."
+      }
+    },
+    {
+      "id": "DEVELOPMENTAL-BIOLOGY::BOOK-DEVELOPMENTAL-BIOLOGY13-2023",
+      "resource_id": "BOOK-DEVELOPMENTAL-BIOLOGY13-2023",
+      "subject_id": "DEVELOPMENTAL-BIOLOGY",
+      "learning_stage": "advanced",
+      "role": "advanced",
+      "coverage_concept_ids": [
+        "DB01",
+        "DB02",
+        "DB03",
+        "DB04",
+        "DB05",
+        "DB06",
+        "DB07",
+        "DB08",
+        "DB09",
+        "DB10",
+        "DB11",
+        "DB12"
+      ],
+      "selection_rationale": "مرجع جامعی است که از لقاح و الگویابی تا ⁦organogenesis⁩، ⁦stem cells⁩، ⁦regeneration⁩ و ⁦evo-devo⁩ را همراه با ارتباطات مولکولی و محیطی پوشش می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته یا تحصیلات تکمیلی که می‌خواهد تکوین را در سطح مکانیزمی، مقایسه‌ای و تکاملی مطالعه کند.",
+        "why": "مرجع جامعی است که از لقاح و الگویابی تا ⁦organogenesis⁩، ⁦stem cells⁩، ⁦regeneration⁩ و ⁦evo-devo⁩ را همراه با ارتباطات مولکولی و محیطی پوشش می‌دهد.",
+        "how_to_use": "به‌عنوان کتاب شروع توصیه نمی‌شود؛ فصل‌های مرتبط با پرسش پژوهشی را پس از مسیر عمومی بخوانید و شکل‌های مکانیزمی را دقیق تحلیل کنید.",
+        "next_step": "پس از هر موضوع وارد مقاله‌های مروری تخصصی همان شاخه شوید."
+      }
+    },
+    {
+      "id": "DEVELOPMENTAL-BIOLOGY::REVIEW-MZT-2025",
+      "resource_id": "REVIEW-MZT-2025",
+      "subject_id": "DEVELOPMENTAL-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "DB01",
+        "DB02",
+        "DB04"
+      ],
+      "selection_rationale": "⁦MZT⁩ را از بازبرنامه‌ریزی سیتوپلاسم و کروماتین تا ⁦zygotic genome activation⁩ و ⁦totipotency⁩ در متازوآ یکپارچه می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که لقاح و ⁦cleavage⁩ را می‌داند و می‌خواهد گذار از کنترل مادری به فعال‌شدن ژنوم زیگوت را بفهمد.",
+        "why": "⁦MZT⁩ را از بازبرنامه‌ریزی سیتوپلاسم و کروماتین تا ⁦zygotic genome activation⁩ و ⁦totipotency⁩ در متازوآ یکپارچه می‌کند.",
+        "how_to_use": "ابتدا منابع مادری و خاموشی رونویسی را مرور کنید؛ سپس زمان‌بندی حذف ⁦RNA⁩های مادری و آغاز رونویسی زیگوت را دنبال کنید.",
+        "next_step": "برای عمق اپی‌ژنتیکی‌تر، مرور ⁦epigenome dynamics⁩ در جنین پستانداران را بخوانید."
+      },
+      "branch_ids": [
+        "early-embryogenesis-mzt"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "DEVELOPMENTAL-BIOLOGY::REVIEW-EARLY-EMBRYO-EPIGENOME-2025",
+      "resource_id": "REVIEW-EARLY-EMBRYO-EPIGENOME-2025",
+      "subject_id": "DEVELOPMENTAL-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "DB01",
+        "DB02",
+        "DB04"
+      ],
+      "selection_rationale": "تصویر جدیدی از تغییر وضعیت اپی‌ژنوم در پیش از لانه‌گزینی و ارتباط آن با ⁦competence⁩ و ⁦lineage specification⁩ ارائه می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد تغییرات ⁦chromatin⁩، ⁦DNA methylation⁩ و بازبرنامه‌ریزی اپی‌ژنتیکی ابتدای تکوین پستانداران را بفهمد.",
+        "why": "تصویر جدیدی از تغییر وضعیت اپی‌ژنوم در پیش از لانه‌گزینی و ارتباط آن با ⁦competence⁩ و ⁦lineage specification⁩ ارائه می‌کند.",
+        "how_to_use": "فرایند را به مراحل ⁦gamete⁩، ⁦zygote⁩، ⁦cleavage⁩ و ⁦blastocyst⁩ تقسیم کنید و برای هر مرحله وضعیت ⁦chromatin⁩ و ⁦methylation⁩ را مقایسه کنید.",
+        "next_step": "برای ادامه از برنامه‌ریزی اپی‌ژنتیک به الگویابی مکانی جنین وارد شاخه ⁦morphogen signalling⁩ شوید."
+      },
+      "branch_ids": [
+        "early-embryogenesis-mzt"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "DEVELOPMENTAL-BIOLOGY::REVIEW-NODAL-SIGNALING-2025",
+      "resource_id": "REVIEW-NODAL-SIGNALING-2025",
+      "subject_id": "DEVELOPMENTAL-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "DB03",
+        "DB04"
+      ],
+      "selection_rationale": "⁦Nodal⁩ را به‌عنوان نمونه‌ای از ⁦TGF⁩β ⁦signalling⁩ برای ایجاد محورهای بدن، تعیین ⁦germ layer⁩ها و تنظیم پاسخ وابسته به دوز و زمان توضیح می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مسیرهای ⁦signalling⁩ را می‌شناسد و می‌خواهد منطق یک ⁦morphogen⁩ مرکزی در ⁦patterning⁩ جنین را عمیق‌تر بفهمد.",
+        "why": "⁦Nodal⁩ را به‌عنوان نمونه‌ای از ⁦TGF⁩β ⁦signalling⁩ برای ایجاد محورهای بدن، تعیین ⁦germ layer⁩ها و تنظیم پاسخ وابسته به دوز و زمان توضیح می‌دهد.",
+        "how_to_use": "⁦ligand⁩، ⁦receptor⁩، ⁦Smad⁩ و ⁦feedback⁩ها را روی یک مسیر رسم کنید و سپس ببینید تغییر غلظت و مدت سیگنال چگونه ⁦fate⁩ را تغییر می‌دهد.",
+        "next_step": "برای دید خودسازمان‌یافته‌تر از ⁦pattern formation⁩، مرور ⁦pattern formation in cell cultures⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "patterning-morphogens"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "DEVELOPMENTAL-BIOLOGY::REVIEW-PATTERN-FORMATION-2026",
+      "resource_id": "REVIEW-PATTERN-FORMATION-2026",
+      "subject_id": "DEVELOPMENTAL-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "DB03",
+        "DB04",
+        "DB06"
+      ],
+      "selection_rationale": "مرور جدیدی از ⁦pattern formation⁩ در سامانه‌های کشت سلولی است که ⁦self-organization⁩، ⁦symmetry breaking⁩ و ⁦morphogen dynamics⁩ را به اصول تکوینی متصل می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد بداند چگونه شبکه‌های ⁦signalling⁩ و ⁦feedback⁩ می‌توانند بدون ⁦template⁩ خارجی الگوهای فضایی بسازند.",
+        "why": "مرور جدیدی از ⁦pattern formation⁩ در سامانه‌های کشت سلولی است که ⁦self-organization⁩، ⁦symmetry breaking⁩ و ⁦morphogen dynamics⁩ را به اصول تکوینی متصل می‌کند.",
+        "how_to_use": "به جای تمرکز بر پروتکل کشت، مدل‌های مفهومی ⁦symmetry breaking⁩، ⁦reaction–diffusion⁩ و ⁦positional information⁩ را دنبال کنید.",
+        "next_step": "برای تبدیل الگو به هویت سلولی، شاخه ⁦cell fate⁩ و ⁦gene regulatory networks⁩ را ادامه دهید."
+      },
+      "branch_ids": [
+        "patterning-morphogens"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "DEVELOPMENTAL-BIOLOGY::PERSPECTIVE-GRN-CAUSAL-2026",
+      "resource_id": "PERSPECTIVE-GRN-CAUSAL-2026",
+      "subject_id": "DEVELOPMENTAL-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "DB04",
+        "DB05"
+      ],
+      "selection_rationale": "تفاوت شبکه‌های صرفاً هم‌بستگی‌محور با مدل‌های علّی را روشن می‌کند و برای فهم ⁦lineage specification⁩ چارچوب مفهومی دقیقی می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که ⁦transcription factor⁩ و ⁦enhancer⁩ را می‌داند و می‌خواهد شبکه‌های تنظیم ژن را به‌عنوان سازوکار تعیین ⁦fate⁩ بفهمد.",
+        "why": "تفاوت شبکه‌های صرفاً هم‌بستگی‌محور با مدل‌های علّی را روشن می‌کند و برای فهم ⁦lineage specification⁩ چارچوب مفهومی دقیقی می‌دهد.",
+        "how_to_use": "برای هر شبکه سه جزء ⁦input signal⁩، ⁦regulatory state⁩ و ⁦fate output⁩ را استخراج کنید و روابط مستقیم و غیرمستقیم را جدا کنید.",
+        "next_step": "برای دید یک سامانه واقعی و پویا، مرور ⁦neural crest GRN⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "cell-fate-grn"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "DEVELOPMENTAL-BIOLOGY::REVIEW-NEURAL-CREST-GRN-2026",
+      "resource_id": "REVIEW-NEURAL-CREST-GRN-2026",
+      "subject_id": "DEVELOPMENTAL-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "DB04",
+        "DB05",
+        "DB06",
+        "DB08"
+      ],
+      "selection_rationale": "⁦neural crest⁩ نمونه‌ای قوی از اتصال ⁦GRN⁩، ⁦multipotency⁩، ⁦migration⁩ و تنوع مشتقات است و مرور ۲۰۲۶ این مسیر را با وضعیت جدید دانش یکپارچه می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد شبکه تنظیم ژن را از ⁦induction⁩ تا ⁦migration⁩ و ⁦differentiation⁩ در یک ⁦lineage⁩ واقعی دنبال کند.",
+        "why": "⁦neural crest⁩ نمونه‌ای قوی از اتصال ⁦GRN⁩، ⁦multipotency⁩، ⁦migration⁩ و تنوع مشتقات است و مرور ۲۰۲۶ این مسیر را با وضعیت جدید دانش یکپارچه می‌کند.",
+        "how_to_use": "شبکه را به مراحل ⁦induction⁩، ⁦specification⁩، ⁦EMT/migration⁩ و ⁦terminal differentiation⁩ تقسیم و ⁦regulator⁩های هر مرحله را مقایسه کنید.",
+        "next_step": "برای تمرکز بر تغییر شکل بافت و نیروهای فیزیکی وارد شاخه ⁦morphogenesis⁩ شوید."
+      },
+      "branch_ids": [
+        "cell-fate-grn"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "DEVELOPMENTAL-BIOLOGY::REVIEW-MECHANICAL-FORCES-DEVELOPMENT-2025",
+      "resource_id": "REVIEW-MECHANICAL-FORCES-DEVELOPMENT-2025",
+      "subject_id": "DEVELOPMENTAL-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "DB06"
+      ],
+      "selection_rationale": "مفهوم ⁦force generation⁩، ⁦transmission⁩ و ⁦tissue deformation⁩ را در تکوین به یک چارچوب مکانیکی قابل‌فهم تبدیل می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که ⁦morphogenesis⁩ را می‌داند و می‌خواهد بفهمد نیروهای سلولی و بافتی چگونه شکل جنین را می‌سازند.",
+        "why": "مفهوم ⁦force generation⁩، ⁦transmission⁩ و ⁦tissue deformation⁩ را در تکوین به یک چارچوب مکانیکی قابل‌فهم تبدیل می‌کند.",
+        "how_to_use": "هر مثال را با سه سؤال بخوانید: نیرو از کجا تولید می‌شود، چگونه منتقل می‌شود و چه تغییر شکلی ایجاد می‌کند؛ جزئیات روش اندازه‌گیری هدف اصلی نیست.",
+        "next_step": "برای درک تغییر حالت کلی بافت‌ها، مرور ⁦mechanical state transitions⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "morphogenesis-mechanics"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "DEVELOPMENTAL-BIOLOGY::REVIEW-MECHANICAL-STATE-TRANSITIONS-2024",
+      "resource_id": "REVIEW-MECHANICAL-STATE-TRANSITIONS-2024",
+      "subject_id": "DEVELOPMENTAL-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "DB06",
+        "DB07"
+      ],
+      "selection_rationale": "نشان می‌دهد تغییر حالت مکانیکی بافت می‌تواند ⁦migration⁩، ⁦deformation⁩ و ⁦function⁩ را در تکوین و بازسازی کنترل کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد ⁦morphogenesis⁩ را در مقیاس بافت و از دید جامدشدن، سیال‌شدن و تغییر ⁦connectivity⁩ بفهمد.",
+        "why": "نشان می‌دهد تغییر حالت مکانیکی بافت می‌تواند ⁦migration⁩، ⁦deformation⁩ و ⁦function⁩ را در تکوین و بازسازی کنترل کند.",
+        "how_to_use": "رفتارهای ⁦cell rearrangement⁩، ⁦adhesion⁩ و ⁦contractility⁩ را به تغییر خواص ماده‌مانند بافت وصل کنید.",
+        "next_step": "برای ارتباط مستقیم ⁦mechanics⁩ با ⁦self-renewal⁩ و ⁦repair⁩ وارد شاخه ⁦stem cells⁩ و ⁦regeneration⁩ شوید."
+      },
+      "branch_ids": [
+        "morphogenesis-mechanics"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "DEVELOPMENTAL-BIOLOGY::REVIEW-STEM-EMBRYO-MODELS-2026",
+      "resource_id": "REVIEW-STEM-EMBRYO-MODELS-2026",
+      "subject_id": "DEVELOPMENTAL-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "DB01",
+        "DB04",
+        "DB07",
+        "DB12"
+      ],
+      "selection_rationale": "مرور جدیدی از ⁦stem-cell-based embryo models⁩ است و نشان می‌دهد ⁦self-organization⁩ و ⁦lineage emergence⁩ چگونه برای مطالعه اصول تکوین استفاده می‌شوند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که ⁦pluripotency⁩ و ⁦embryogenesis⁩ را می‌داند و می‌خواهد بداند ⁦stem cell⁩ها چگونه ویژگی‌های جنین را خودسازمان‌دهی می‌کنند.",
+        "why": "مرور جدیدی از ⁦stem-cell-based embryo models⁩ است و نشان می‌دهد ⁦self-organization⁩ و ⁦lineage emergence⁩ چگونه برای مطالعه اصول تکوین استفاده می‌شوند.",
+        "how_to_use": "روی شباهت و محدودیت مدل‌ها نسبت به جنین طبیعی تمرکز کنید؛ مراحل ⁦lineage formation⁩ و ⁦axis formation⁩ را مقایسه کنید، نه ⁦workflow⁩ ساخت مدل.",
+        "next_step": "برای فهم بازسازی پس از آسیب در جانور بالغ، مرور ⁦signal control during regeneration⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "stem-cells-regeneration"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "DEVELOPMENTAL-BIOLOGY::REVIEW-REGENERATION-SIGNAL-CONTROL-2026",
+      "resource_id": "REVIEW-REGENERATION-SIGNAL-CONTROL-2026",
+      "subject_id": "DEVELOPMENTAL-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "DB03",
+        "DB04",
+        "DB07"
+      ],
+      "selection_rationale": "⁦signal control⁩ در ⁦regeneration⁩ را از ⁦sensing⁩ آسیب تا ⁦proliferation⁩، ⁦fate change⁩ و ⁦restoration⁩ ساختار در چند مدل جانوری یکپارچه می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد بداند بافت بالغ چگونه پس از آسیب دوباره الگو، اندازه و هویت سلولی را بازسازی می‌کند.",
+        "why": "⁦signal control⁩ در ⁦regeneration⁩ را از ⁦sensing⁩ آسیب تا ⁦proliferation⁩، ⁦fate change⁩ و ⁦restoration⁩ ساختار در چند مدل جانوری یکپارچه می‌کند.",
+        "how_to_use": "هر مثال را به زنجیره ⁦injury signal⁩ → ⁦responding cells⁩ → ⁦growth/fate response⁩ → ⁦pattern restoration⁩ تبدیل کنید.",
+        "next_step": "برای مشاهده تبدیل اصول عمومی به ساخت یک اندام پیچیده، وارد شاخه ⁦organogenesis⁩ شوید."
+      },
+      "branch_ids": [
+        "stem-cells-regeneration"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "DEVELOPMENTAL-BIOLOGY::REVIEW-ORGAN-MECHANICS-2025",
+      "resource_id": "REVIEW-ORGAN-MECHANICS-2025",
+      "subject_id": "DEVELOPMENTAL-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "DB06",
+        "DB08"
+      ],
+      "selection_rationale": "مرور مکانیزمی از نقش ⁦mechanics⁩ در ⁦morphogenesis⁩ اندام‌ها ارائه می‌کند و ارتباط ⁦cell behaviour⁩، ⁦tissue architecture⁩ و ⁦function⁩ را نشان می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بفهمد ⁦organogenesis⁩ فقط حاصل برنامه ژنی نیست و چگونه شکل، نیرو و عملکرد در ساخت اندام به هم وابسته‌اند.",
+        "why": "مرور مکانیزمی از نقش ⁦mechanics⁩ در ⁦morphogenesis⁩ اندام‌ها ارائه می‌کند و ارتباط ⁦cell behaviour⁩، ⁦tissue architecture⁩ و ⁦function⁩ را نشان می‌دهد.",
+        "how_to_use": "برای هر اندام، تغییر شکل اصلی و منبع نیروی آن را مشخص کنید و سپس ببینید ⁦function⁩ چگونه ⁦feedback⁩ مکانیکی ایجاد می‌کند.",
+        "next_step": "برای یک نمونه کامل و به‌روز، ⁦cardiogenesis⁩ را به‌عنوان مطالعه موردی بخوانید."
+      },
+      "branch_ids": [
+        "organogenesis-tissue-development"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "DEVELOPMENTAL-BIOLOGY::REVIEW-CARDIOGENESIS-2026",
+      "resource_id": "REVIEW-CARDIOGENESIS-2026",
+      "subject_id": "DEVELOPMENTAL-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "DB04",
+        "DB06",
+        "DB08"
+      ],
+      "selection_rationale": "⁦cardiogenesis⁩ را از ⁦mesoderm⁩ و ⁦lineage specification⁩ تا ⁦heart tube⁩، ⁦chamber formation⁩، ⁦conduction⁩ و ⁦biomechanics⁩ در یک مسیر یکپارچه توضیح می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد ⁦specification⁩، ⁦morphogenesis⁩ و ⁦maturation⁩ را در ساخت اولین اندام عملکردی جنین دنبال کند.",
+        "why": "⁦cardiogenesis⁩ را از ⁦mesoderm⁩ و ⁦lineage specification⁩ تا ⁦heart tube⁩، ⁦chamber formation⁩، ⁦conduction⁩ و ⁦biomechanics⁩ در یک مسیر یکپارچه توضیح می‌دهد.",
+        "how_to_use": "نقشه زمانی ⁦heart development⁩ بسازید و رخدادهای ⁦fate⁩، شکل‌گیری بافت و ⁦onset function⁩ را روی آن هم‌زمان قرار دهید.",
+        "next_step": "برای مقایسه با ⁦organogenesis⁩ دیگر می‌توان به ⁦neural⁩، ⁦lung⁩، ⁦kidney⁩ یا ⁦vascular development⁩ رفت."
+      },
+      "branch_ids": [
+        "organogenesis-tissue-development"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "DEVELOPMENTAL-BIOLOGY::REVIEW-HUMAN-GERM-CELL-2026",
+      "resource_id": "REVIEW-HUMAN-GERM-CELL-2026",
+      "subject_id": "DEVELOPMENTAL-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "DB04",
+        "DB09"
+      ],
+      "selection_rationale": "مرور جدیدی از ⁦signalling⁩، ⁦epigenetic reprogramming⁩ و مراحل ⁦developmental germ cell lineage⁩ در انسان است.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد ⁦specification⁩ و ⁦maturation⁩ سلول‌های زایای انسان را از جنین تا ⁦gametogenesis⁩ بفهمد.",
+        "why": "مرور جدیدی از ⁦signalling⁩، ⁦epigenetic reprogramming⁩ و مراحل ⁦developmental germ cell lineage⁩ در انسان است.",
+        "how_to_use": "مسیر را به ⁦specification⁩، ⁦migration⁩، ⁦epigenetic resetting⁩ و ⁦sex-specific differentiation⁩ تقسیم کنید.",
+        "next_step": "برای منطق مولکولی حفظ ⁦germ cell identity⁩، مرور ⁦germ granules⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "germline-sex-development"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "DEVELOPMENTAL-BIOLOGY::REVIEW-GERM-GRANULES-2024",
+      "resource_id": "REVIEW-GERM-GRANULES-2024",
+      "subject_id": "DEVELOPMENTAL-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "DB04",
+        "DB09"
+      ],
+      "selection_rationale": "⁦germ granule⁩ها را در طول چرخه زندگی ⁦germ cell⁩ و در گونه‌های مختلف مقایسه می‌کند و نقش آن‌ها را در ⁦totipotency⁩ و ⁦genome integrity⁩ نشان می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد نقش ⁦condensate⁩های ⁦RNA–protein⁩ را در حفظ هویت ⁦germline⁩ و حفاظت ژنوم بفهمد.",
+        "why": "⁦germ granule⁩ها را در طول چرخه زندگی ⁦germ cell⁩ و در گونه‌های مختلف مقایسه می‌کند و نقش آن‌ها را در ⁦totipotency⁩ و ⁦genome integrity⁩ نشان می‌دهد.",
+        "how_to_use": "ترکیب، ⁦assembly⁩ و ⁦function granule⁩ها را در ⁦oocyte⁩، ⁦embryo⁩ و ⁦gametogenesis⁩ مقایسه کنید.",
+        "next_step": "برای توسعه شاخه می‌توان ⁦sex determination⁩ و ⁦dosage compensation⁩ را جداگانه مطالعه کرد."
+      },
+      "branch_ids": [
+        "germline-sex-development"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "DEVELOPMENTAL-BIOLOGY::REVIEW-CLOCKWORK-EMBRYO-2023",
+      "resource_id": "REVIEW-CLOCKWORK-EMBRYO-2023",
+      "subject_id": "DEVELOPMENTAL-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "DB03",
+        "DB08",
+        "DB10"
+      ],
+      "selection_rationale": "⁦developmental rate⁩ را به ⁦kinetics⁩ واکنش‌های مولکولی، ⁦metabolism⁩ و ⁦segmentation clock⁩ متصل می‌کند و مفهوم زمان در تکوین را مکانیزمی می‌سازد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بفهمد چرا یک برنامه تکوینی مشابه در گونه‌های مختلف با سرعت‌های متفاوت اجرا می‌شود.",
+        "why": "⁦developmental rate⁩ را به ⁦kinetics⁩ واکنش‌های مولکولی، ⁦metabolism⁩ و ⁦segmentation clock⁩ متصل می‌کند و مفهوم زمان در تکوین را مکانیزمی می‌سازد.",
+        "how_to_use": "عوامل تعیین‌کننده زمان را به ⁦molecular kinetics⁩، ⁦cellular process⁩ و ⁦organismal tempo⁩ تقسیم و نمونه‌های گونه‌ای را مقایسه کنید.",
+        "next_step": "برای یک تغییر زمانی بزرگ در چرخه زندگی، مرور ⁦metamorphosis⁩ حشرات را بخوانید."
+      },
+      "branch_ids": [
+        "developmental-timing-metamorphosis"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "DEVELOPMENTAL-BIOLOGY::REVIEW-INSECT-METAMORPHOSIS-2025",
+      "resource_id": "REVIEW-INSECT-METAMORPHOSIS-2025",
+      "subject_id": "DEVELOPMENTAL-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "DB10",
+        "DB11"
+      ],
+      "selection_rationale": "مرور جدیدی از تکامل و کنترل هورمونی ⁦metamorphosis⁩ است و تغییر ⁦developmental timing⁩ را به تغییرات بزرگ ⁦body plan⁩ متصل می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد ⁦metamorphosis⁩ را به‌عنوان بازبرنامه‌ریزی زمان‌بندی‌شده رشد و هویت بافت‌ها مطالعه کند.",
+        "why": "مرور جدیدی از تکامل و کنترل هورمونی ⁦metamorphosis⁩ است و تغییر ⁦developmental timing⁩ را به تغییرات بزرگ ⁦body plan⁩ متصل می‌کند.",
+        "how_to_use": "نقش ⁦juvenile hormone⁩ و ⁦ecdysone⁩ را در ⁦transition⁩های ⁦life stage⁩ دنبال کنید و الگوهای ⁦hemimetaboly⁩ و ⁦holometaboly⁩ را مقایسه کنید.",
+        "next_step": "برای دید کلان‌تر از تغییر برنامه تکوینی در تکامل، وارد شاخه ⁦evo-devo⁩ شوید."
+      },
+      "branch_ids": [
+        "developmental-timing-metamorphosis"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "DEVELOPMENTAL-BIOLOGY::REVIEW-PHENOTYPIC-EVOLUTION-EVODEVO-2026",
+      "resource_id": "REVIEW-PHENOTYPIC-EVOLUTION-EVODEVO-2026",
+      "subject_id": "DEVELOPMENTAL-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "DB05",
+        "DB11"
+      ],
+      "selection_rationale": "مرور ۲۰۲۶ ⁦evo-devo⁩ و ⁦evolutionary biochemistry⁩ را در یک چارچوب ⁦genotype-to-phenotype⁩ ادغام می‌کند و نقش ⁦pleiotropy⁩، ⁦epistasis⁩ و ⁦contingency⁩ را برجسته می‌سازد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که اصول ⁦evo-devo⁩ را می‌داند و می‌خواهد رابطه تغییرات مولکولی، شبکه‌های تکوینی و تکامل فنوتیپ را مکانیزمی بفهمد.",
+        "why": "مرور ۲۰۲۶ ⁦evo-devo⁩ و ⁦evolutionary biochemistry⁩ را در یک چارچوب ⁦genotype-to-phenotype⁩ ادغام می‌کند و نقش ⁦pleiotropy⁩، ⁦epistasis⁩ و ⁦contingency⁩ را برجسته می‌سازد.",
+        "how_to_use": "برای هر مثال مسیر ⁦mutation⁩ → ⁦molecular effect⁩ → ⁦developmental change⁩ → ⁦phenotype⁩ را بازسازی کنید.",
+        "next_step": "برای فهم اینکه چگونه ⁦outcome⁩ مشابه با سازوکارهای متفاوت حفظ می‌شود، ⁦developmental system drift⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "evo-devo"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "DEVELOPMENTAL-BIOLOGY::REVIEW-DEVELOPMENTAL-SYSTEM-DRIFT-2024",
+      "resource_id": "REVIEW-DEVELOPMENTAL-SYSTEM-DRIFT-2024",
+      "subject_id": "DEVELOPMENTAL-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "DB05",
+        "DB11"
+      ],
+      "selection_rationale": "⁦developmental system drift⁩ را به‌عنوان تغییر سازوکارهای ژنتیکی/مولکولی در حضور خروجی فنوتیپی نسبتاً پایدار توضیح می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بفهمد چرا گونه‌ها می‌توانند ⁦phenotype⁩ مشابه داشته باشند اما شبکه‌های تکوینی زیرین آن‌ها متفاوت شده باشد.",
+        "why": "⁦developmental system drift⁩ را به‌عنوان تغییر سازوکارهای ژنتیکی/مولکولی در حضور خروجی فنوتیپی نسبتاً پایدار توضیح می‌دهد.",
+        "how_to_use": "تمایز ⁦conservation of phenotype⁩ و ⁦conservation of mechanism⁩ را محور مطالعه قرار دهید و مثال‌ها را بر این اساس دسته‌بندی کنید.",
+        "next_step": "برای ادامه می‌توان وارد ⁦evolution of GRNs⁩، ⁦heterochrony⁩ یا ⁦developmental constraint⁩ شد."
+      },
+      "branch_ids": [
+        "evo-devo"
       ],
       "branch_role": "complementary_reference"
     }
