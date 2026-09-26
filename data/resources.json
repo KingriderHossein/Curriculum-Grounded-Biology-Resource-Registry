@@ -2505,7 +2505,11 @@
       "purchase_url": "https://www.macmillanlearning.com/ed/uk/product/Ecology-The-Economy-of-Nature--10th-edition/p/1319589936",
       "cover": {
         "url": "https://prod-cat-files.macmillan.cloud/MediaResources/Jackets/258W/9781319589936.jpg",
-        "source": "Official Macmillan Learning cover image; pending CI visual review"
+        "source": "Official Macmillan Learning cover image",
+        "expected_sha256": "6fbaefc9cc1127ce4a5c71b8a96b57f332027617d1c93d4df1d0a84954b964a3",
+        "visual_reviewed_on": "2026-09-26",
+        "visual_review_status": "title_and_edition_checked",
+        "source_url": "https://www.macmillanlearning.com/ed/uk/product/Ecology-The-Economy-of-Nature--10th-edition/p/1319589936"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-26"
@@ -2527,7 +2531,11 @@
       "purchase_url": "https://www.mheducation.com/highered/product/ecology-concepts-and-applications-sher.html",
       "cover": {
         "url": "https://www.mheducation.com/cover-images/Jpeg_400-high/126630133X.jpeg",
-        "source": "Official McGraw Hill cover image; pending CI visual review"
+        "source": "Official McGraw Hill cover image",
+        "expected_sha256": "ac5c67d07dc52e73ca5dbcc2b0ffbc0bd374ffe93e5e739273fd5658aa848e10",
+        "visual_reviewed_on": "2026-09-26",
+        "visual_review_status": "title_and_edition_checked",
+        "source_url": "https://www.mheducation.com/highered/product/ecology-concepts-and-applications-sher.html"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-26"
@@ -2548,8 +2556,9 @@
       "publisher_url": "https://www.wiley.com/en-us/Ecology%3A+From+Individuals+to+Ecosystems%2C+5th+Edition-p-9781119279310",
       "purchase_url": "https://www.wiley.com/en-us/Ecology%3A+From+Individuals+to+Ecosystems%2C+5th+Edition-p-9781119279310",
       "cover": {
-        "url": "https://media.wiley.com/product_data/coverImage300/10/11192793/1119279310.jpg",
-        "source": "Official Wiley cover image; pending CI visual review"
+        "url": "https://covers.vitalsource.com/vbid/9781119279310/width/200",
+        "source": "VitalSource cover fallback for the 5th edition; Wiley-Blackwell is bibliographic authority",
+        "source_url": "https://www.wiley.com/en-us/Ecology%3A+From+Individuals+to+Ecosystems%2C+5th+Edition-p-9781119279310"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-26"
