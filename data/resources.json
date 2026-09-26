@@ -4325,16 +4325,14 @@
       "edition": "3rd Edition",
       "published_year": 2015,
       "publisher": "Wiley-Blackwell",
-      "isbn": "9781118581766",
+      "isbn": "9781118581780",
       "publisher_url": "https://uat.store.wiley.com/en-us/bioinformatics-and-functional-genomics-3rd-edition-p-9781118581766",
       "purchase_url": "https://uat.store.wiley.com/en-us/bioinformatics-and-functional-genomics-3rd-edition-p-9781118581766",
       "cover": {
-        "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication7/v4/18/c9/cb/18c9cba5-a7aa-498a-66e7-7d1acde53221/9781118581766.jpg/1200x1200wz.jpg",
-        "source": "Apple Books cover image for the Wiley-Blackwell 3rd edition",
-        "source_url": "https://books.apple.com/gb/book/bioinformatics-and-functional-genomics/id1031993872",
-        "visual_review_status": "title_and_edition_checked",
-        "expected_sha256": "d762784ae95e26b71155b96e51a8b9ac07af02785b77cd37b0b3570180e6dac8",
-        "visual_reviewed_on": "2026-09-26"
+        "url": "https://covers.vitalsource.com/vbid/9781118581766/width/200",
+        "source": "VitalSource cover image for the Wiley-Blackwell 3rd edition",
+        "source_url": "https://www.vitalsource.com/products/bioinformatics-and-functional-genomics-jonathan-pevsner-v9781118581766",
+        "visual_review_status": "pending_visual_review"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-26"
