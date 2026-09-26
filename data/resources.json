@@ -4701,14 +4701,16 @@
       "edition": "5th Edition",
       "published_year": 2019,
       "publisher": "Oxford University Press",
-      "isbn": "9780192522849",
+      "isbn": "9780198794141",
       "publisher_url": "https://www.oupjapan.co.jp/en/node/25754?language=en",
       "purchase_url": "https://www.oupjapan.co.jp/en/node/25754?language=en",
       "cover": {
         "url": "https://covers.vitalsource.com/vbid/9780192522849/width/200",
         "source": "VitalSource cover image for the Oxford University Press 5th edition",
         "source_url": "https://www.vitalsource.com/products/introduction-to-bioinformatics-arthur-lesk-v9780192522849",
-        "visual_review_status": "pending_visual_review"
+        "visual_review_status": "title_and_edition_checked",
+        "expected_sha256": "db8503c711d8764a2bb8dce9ad13b7545af2b8b41555a9c83eb8d691366ff42e",
+        "visual_reviewed_on": "2026-09-26"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-26"
