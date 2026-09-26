@@ -4332,7 +4332,9 @@
         "url": "https://covers.vitalsource.com/vbid/9781118581766/width/200",
         "source": "VitalSource cover image for the Wiley-Blackwell 3rd edition",
         "source_url": "https://www.vitalsource.com/products/bioinformatics-and-functional-genomics-jonathan-pevsner-v9781118581766",
-        "visual_review_status": "pending_visual_review"
+        "visual_review_status": "title_and_edition_checked",
+        "expected_sha256": "d88900c6fe77e621b322f7f7009f66bb4dbe8f513c826851bc1a54c29cdc34b0",
+        "visual_reviewed_on": "2026-09-26"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-26"
