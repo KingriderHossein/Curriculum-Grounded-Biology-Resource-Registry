@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.9.0",
+  "schema_version": "0.10.0",
   "placements": [
     {
       "id": "CELL-BIOLOGY::OPENSTAX-BIOLOGY2E-2018",
@@ -4546,6 +4546,513 @@
         "evo-devo"
       ],
       "branch_role": "complementary_reference"
+    },
+    {
+      "id": "IMMUNOLOGY::OPENSTAX-MICROBIOLOGY-2016",
+      "resource_id": "OPENSTAX-MICROBIOLOGY-2016",
+      "subject_id": "IMMUNOLOGY",
+      "learning_stage": "foundation",
+      "role": "foundation",
+      "coverage_concept_ids": [
+        "IM01",
+        "IM02",
+        "IM04",
+        "IM05",
+        "IM06",
+        "IM07",
+        "IM11"
+      ],
+      "selection_rationale": "فصل‌های ایمنی ⁦OpenStax Microbiology⁩ یک مرور آزاد و ساده از دفاع ذاتی، ایمنی اکتسابی و اختلالات ایمنی می‌دهند و برای ترمیم پیش‌نیاز مناسب‌اند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که هنوز تفاوت ایمنی ذاتی و اکتسابی، سلول‌های ایمنی، آنتی‌ژن، ⁦MHC⁩ یا پاسخ آنتی‌بادی را در حد پایه نمی‌داند.",
+        "why": "فصل‌های ایمنی ⁦OpenStax Microbiology⁩ یک مرور آزاد و ساده از دفاع ذاتی، ایمنی اکتسابی و اختلالات ایمنی می‌دهند و برای ترمیم پیش‌نیاز مناسب‌اند.",
+        "how_to_use": "فقط فصل‌های ⁦17⁩ تا ⁦19⁩ را بخوانید؛ فصل ⁦20⁩ که بر روش‌های آزمایشگاهی متمرکز است در این ⁦Roadmap⁩ لازم نیست.",
+        "next_step": "بعد از این مرور وارد ⁦Kuby's Immunology⁩ شوید."
+      }
+    },
+    {
+      "id": "IMMUNOLOGY::BOOK-KUBY-IMMUNOLOGY8-2023",
+      "resource_id": "BOOK-KUBY-IMMUNOLOGY8-2023",
+      "subject_id": "IMMUNOLOGY",
+      "learning_stage": "core",
+      "role": "core",
+      "coverage_concept_ids": [
+        "IM01",
+        "IM02",
+        "IM03",
+        "IM04",
+        "IM05",
+        "IM06",
+        "IM07",
+        "IM08",
+        "IM09",
+        "IM10",
+        "IM11",
+        "IM12"
+      ],
+      "selection_rationale": "⁦Kuby⁩ ساختار آموزشی شفافی از سازمان سیستم ایمنی، ⁦innate immunity⁩، گیرنده‌های لنفوسیتی، ⁦MHC⁩، تکامل و فعال‌سازی ⁦B⁩ و ⁦T⁩ تا ⁦barrier immunity⁩، ⁦tolerance⁩ و ⁦infection⁩ دارد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد ایمونولوژی را برای نخستین بار به‌صورت منسجم، مفهومی و مرحله‌به‌مرحله یاد بگیرد.",
+        "why": "⁦Kuby⁩ ساختار آموزشی شفافی از سازمان سیستم ایمنی، ⁦innate immunity⁩، گیرنده‌های لنفوسیتی، ⁦MHC⁩، تکامل و فعال‌سازی ⁦B⁩ و ⁦T⁩ تا ⁦barrier immunity⁩، ⁦tolerance⁩ و ⁦infection⁩ دارد.",
+        "how_to_use": "به‌عنوان کتاب اصلی و به‌ترتیب فصل‌ها مطالعه شود؛ برای هر پاسخ ایمنی سه محور ⁦recognition⁩، ⁦activation⁩ و ⁦effector function⁩ را جدا یادداشت کنید.",
+        "next_step": "برای جزئیات سلولی و مولکولی بیشتر به ⁦Cellular and Molecular Immunology⁩ بروید."
+      }
+    },
+    {
+      "id": "IMMUNOLOGY::BOOK-CELLULAR-MOLECULAR-IMMUNOLOGY11-2025",
+      "resource_id": "BOOK-CELLULAR-MOLECULAR-IMMUNOLOGY11-2025",
+      "subject_id": "IMMUNOLOGY",
+      "learning_stage": "intermediate",
+      "role": "reference",
+      "coverage_concept_ids": [
+        "IM01",
+        "IM02",
+        "IM03",
+        "IM04",
+        "IM05",
+        "IM06",
+        "IM07",
+        "IM08",
+        "IM09",
+        "IM10",
+        "IM11",
+        "IM12"
+      ],
+      "selection_rationale": "ویرایش یازدهم یک متن به‌روز و خوانا است که مکانیسم‌های ⁦innate⁩ و ⁦adaptive immunity⁩ را با ⁦tolerance⁩، ⁦infection⁩، ⁦transplantation⁩، ⁦hypersensitivity⁩ و ⁦immunodeficiency⁩ پیوند می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مبانی را می‌داند و می‌خواهد پاسخ‌های ایمنی را با جزئیات سلولی، مولکولی و ارتباط بیشتر با بیماری مرور کند.",
+        "why": "ویرایش یازدهم یک متن به‌روز و خوانا است که مکانیسم‌های ⁦innate⁩ و ⁦adaptive immunity⁩ را با ⁦tolerance⁩، ⁦infection⁩، ⁦transplantation⁩، ⁦hypersensitivity⁩ و ⁦immunodeficiency⁩ پیوند می‌دهد.",
+        "how_to_use": "بعد از ⁦Kuby⁩ به‌صورت مرور دوم یا مرجع موضوعی استفاده شود؛ شکل‌های مسیرهای ⁦signaling⁩ و تعامل سلول‌ها را محور مطالعه قرار دهید.",
+        "next_step": "برای مرجع عمیق‌تر و جامع‌تر به ⁦Janeway's Immunobiology⁩ بروید."
+      }
+    },
+    {
+      "id": "IMMUNOLOGY::BOOK-JANEWAY-IMMUNOBIOLOGY10-2022",
+      "resource_id": "BOOK-JANEWAY-IMMUNOBIOLOGY10-2022",
+      "subject_id": "IMMUNOLOGY",
+      "learning_stage": "advanced",
+      "role": "advanced",
+      "coverage_concept_ids": [
+        "IM01",
+        "IM02",
+        "IM03",
+        "IM04",
+        "IM05",
+        "IM06",
+        "IM07",
+        "IM08",
+        "IM09",
+        "IM10",
+        "IM11",
+        "IM12"
+      ],
+      "selection_rationale": "⁦Janeway⁩ یکی از مراجع استاندارد پیشرفته است و از تکامل و سازمان سیستم ایمنی تا ⁦recognition⁩، ⁦lymphocyte biology⁩، ⁦effector mechanisms⁩ و ⁦immune regulation⁩ را با عمق زیاد پوشش می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته، تحصیلات تکمیلی یا کسی که به مرجع جامع و مکانیزمی ایمونولوژی نیاز دارد.",
+        "why": "⁦Janeway⁩ یکی از مراجع استاندارد پیشرفته است و از تکامل و سازمان سیستم ایمنی تا ⁦recognition⁩، ⁦lymphocyte biology⁩، ⁦effector mechanisms⁩ و ⁦immune regulation⁩ را با عمق زیاد پوشش می‌دهد.",
+        "how_to_use": "به‌عنوان کتاب شروع توصیه نمی‌شود؛ فصل‌های مرتبط با سؤال درسی یا پژوهشی را پس از مسیر عمومی انتخاب و جزئیات مکانیزمی را تحلیل کنید.",
+        "next_step": "پس از هر موضوع وارد ⁦Review⁩های تخصصی همان شاخه شوید."
+      }
+    },
+    {
+      "id": "IMMUNOLOGY::REVIEW-CGAS-STING-2025",
+      "resource_id": "REVIEW-CGAS-STING-2025",
+      "subject_id": "IMMUNOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "IM02"
+      ],
+      "selection_rationale": "ساختار، فعال‌سازی و تنظیم مسیر ⁦cGAS–STING⁩ و پیامدهای متفاوت آن از دفاع ضدویروسی تا ⁦inflammation⁩ و ⁦autoimmunity⁩ را یکپارچه می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که ⁦pattern recognition⁩ را می‌داند و می‌خواهد یکی از مسیرهای اصلی حس‌کردن ⁦DNA⁩ درون‌سلولی را مکانیزمی بفهمد.",
+        "why": "ساختار، فعال‌سازی و تنظیم مسیر ⁦cGAS–STING⁩ و پیامدهای متفاوت آن از دفاع ضدویروسی تا ⁦inflammation⁩ و ⁦autoimmunity⁩ را یکپارچه می‌کند.",
+        "how_to_use": "مسیر ⁦DNA sensing⁩ → ⁦cGAMP⁩ → ⁦STING⁩ → ⁦downstream signalling⁩ را رسم و نقاط تنظیم مثبت و منفی را جدا کنید.",
+        "next_step": "برای دید گسترده‌تر از حافظه عملکردی ⁦innate cells⁩، ⁦trained immunity⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "innate-pattern-recognition"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "IMMUNOLOGY::REVIEW-TRAINED-IMMUNITY-2025",
+      "resource_id": "REVIEW-TRAINED-IMMUNITY-2025",
+      "subject_id": "IMMUNOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "IM02",
+        "IM10",
+        "IM12"
+      ],
+      "selection_rationale": "⁦trained immunity⁩ را به بازبرنامه‌ریزی اپی‌ژنتیک و متابولیک سلول‌های ذاتی و پیامدهای آن در عفونت، التهاب مزمن و سرطان متصل می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بفهمد چرا بعضی سلول‌های ایمنی ذاتی پس از مواجهه قبلی پاسخ بلندمدت تغییر‌یافته نشان می‌دهند.",
+        "why": "⁦trained immunity⁩ را به بازبرنامه‌ریزی اپی‌ژنتیک و متابولیک سلول‌های ذاتی و پیامدهای آن در عفونت، التهاب مزمن و سرطان متصل می‌کند.",
+        "how_to_use": "تفاوت ⁦trained immunity⁩ با حافظه لنفوسیتی کلاسیک را روشن کنید و لایه‌های ⁦metabolic⁩ و ⁦epigenetic⁩ را جدا یادداشت کنید.",
+        "next_step": "برای ارتباط مستقیم‌تر متابولیسم با ⁦state⁩های سلول ایمنی وارد شاخه ⁦immunometabolism⁩ شوید."
+      },
+      "branch_ids": [
+        "innate-pattern-recognition"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "IMMUNOLOGY::REVIEW-ANTIGEN-PRESENTATION-2022",
+      "resource_id": "REVIEW-ANTIGEN-PRESENTATION-2022",
+      "subject_id": "IMMUNOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "IM04"
+      ],
+      "selection_rationale": "مسیرهای ⁦acquisition⁩، ⁦degradation⁩، ⁦peptide loading⁩ و ⁦presentation⁩ را برای ⁦MHC I⁩ و ⁦II⁩ مرحله‌بندی و مقایسه می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که ⁦MHC I⁩ و ⁦MHC II⁩ را می‌شناسد و می‌خواهد کل زنجیره پردازش و ارائه آنتی‌ژن را منسجم بفهمد.",
+        "why": "مسیرهای ⁦acquisition⁩، ⁦degradation⁩، ⁦peptide loading⁩ و ⁦presentation⁩ را برای ⁦MHC I⁩ و ⁦II⁩ مرحله‌بندی و مقایسه می‌کند.",
+        "how_to_use": "دو مسیر ⁦MHC I⁩ و ⁦II⁩ را موازی رسم کنید و منشأ ⁦antigen⁩، ⁦compartment⁩ پردازش و نوع ⁦T cell⁩ هدف را مقایسه کنید.",
+        "next_step": "برای دید به‌روز از شکست این سامانه و ⁦immune evasion⁩، ⁦Review 2025⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "antigen-presentation-mhc"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "IMMUNOLOGY::REVIEW-ANTIGEN-PRESENTATION-DEFECTS-2025",
+      "resource_id": "REVIEW-ANTIGEN-PRESENTATION-DEFECTS-2025",
+      "subject_id": "IMMUNOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "IM04",
+        "IM11"
+      ],
+      "selection_rationale": "نقص‌های ⁦HLA expression⁩، ⁦peptide generation⁩ و ⁦loading⁩ را به ⁦immune evasion⁩ متصل می‌کند و اهمیت عملکرد صحیح ⁦presentation⁩ را روشن می‌سازد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد بفهمد تغییر ⁦antigen processing⁩ چگونه شناسایی توسط ⁦T cell⁩ را مختل می‌کند.",
+        "why": "نقص‌های ⁦HLA expression⁩، ⁦peptide generation⁩ و ⁦loading⁩ را به ⁦immune evasion⁩ متصل می‌کند و اهمیت عملکرد صحیح ⁦presentation⁩ را روشن می‌سازد.",
+        "how_to_use": "بخش درمان را ثانویه ببینید؛ تمرکز اصلی را بر این بگذارید که هر ⁦defect⁩ کدام مرحله از ⁦presentation⁩ را می‌شکند.",
+        "next_step": "برای دید عملکردی پیامد ⁦presentation⁩ وارد شاخه ⁦T-cell biology⁩ شوید."
+      },
+      "branch_ids": [
+        "antigen-presentation-mhc"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "IMMUNOLOGY::REVIEW-BCR-TRIGGERING-2025",
+      "resource_id": "REVIEW-BCR-TRIGGERING-2025",
+      "subject_id": "IMMUNOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "IM05"
+      ],
+      "selection_rationale": "مدل‌های مختلف ⁦BCR triggering⁩ را با داده‌های ساختاری و ⁦cell biology⁩ جدید مقایسه و محدودیت هر مدل را روشن می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که ساختار ⁦BCR⁩ را می‌داند و می‌خواهد آغاز فعال‌سازی ⁦B cell⁩ پس از اتصال ⁦antigen⁩ را عمیق‌تر بفهمد.",
+        "why": "مدل‌های مختلف ⁦BCR triggering⁩ را با داده‌های ساختاری و ⁦cell biology⁩ جدید مقایسه و محدودیت هر مدل را روشن می‌کند.",
+        "how_to_use": "چهار مدل اصلی ⁦triggering⁩ را کنار هم مقایسه کنید و برای هر کدام شواهد موافق و سؤال‌های باز را مشخص کنید.",
+        "next_step": "برای فهم عملکرد ⁦B cell⁩ خارج از اندام لنفاوی و ⁦memory tissue states⁩ منبع بعدی را بخوانید."
+      },
+      "branch_ids": [
+        "b-cell-antibody"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "IMMUNOLOGY::REVIEW-B-CELLS-NONLYMPHOID-2025",
+      "resource_id": "REVIEW-B-CELLS-NONLYMPHOID-2025",
+      "subject_id": "IMMUNOLOGY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "IM05",
+        "IM08",
+        "IM12"
+      ],
+      "selection_rationale": "⁦B cell⁩های ⁦resident⁩ و ⁦memory⁩ در بافت‌های غیرلنفاوی، ⁦niche⁩های آن‌ها و نقش مستقیمشان در ⁦infection⁩، ⁦inflammation⁩ و ⁦cancer⁩ را مرور می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد نقش ⁦B cell⁩ را فراتر از ⁦lymph node⁩ و ⁦spleen⁩ و در بافت‌های محیطی بفهمد.",
+        "why": "⁦B cell⁩های ⁦resident⁩ و ⁦memory⁩ در بافت‌های غیرلنفاوی، ⁦niche⁩های آن‌ها و نقش مستقیمشان در ⁦infection⁩، ⁦inflammation⁩ و ⁦cancer⁩ را مرور می‌کند.",
+        "how_to_use": "برای هر ⁦tissue⁩ مشخص کنید چه ⁦B-cell state⁩هایی حضور دارند و چه ⁦signals⁩ محیطی آن‌ها را حفظ یا فعال می‌کنند.",
+        "next_step": "برای ماندگاری پاسخ در سطح زمانی، شاخه ⁦immune memory⁩ را ادامه دهید."
+      },
+      "branch_ids": [
+        "b-cell-antibody"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "IMMUNOLOGY::REVIEW-IMMUNE-SYNAPSE-2026",
+      "resource_id": "REVIEW-IMMUNE-SYNAPSE-2026",
+      "subject_id": "IMMUNOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "IM04",
+        "IM06"
+      ],
+      "selection_rationale": "⁦immune synapse⁩ را به سازمان فضایی ⁦TCR⁩، ⁦co-stimulation⁩، ⁦cytoskeleton⁩ و ⁦feedback⁩ متقابل ⁦T cell⁩ و ⁦dendritic cell⁩ متصل می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که ⁦TCR signalling⁩ را می‌داند و می‌خواهد ⁦activation T cell⁩ را در زمینه تماس واقعی با ⁦dendritic cell⁩ بفهمد.",
+        "why": "⁦immune synapse⁩ را به سازمان فضایی ⁦TCR⁩، ⁦co-stimulation⁩، ⁦cytoskeleton⁩ و ⁦feedback⁩ متقابل ⁦T cell⁩ و ⁦dendritic cell⁩ متصل می‌کند.",
+        "how_to_use": "مراحل ⁦contact⁩، ⁦synapse organization⁩ و ⁦signal propagation⁩ را دنبال و نقش هر دو سلول را جداگانه ثبت کنید.",
+        "next_step": "برای یک ⁦fate⁩ مهم در تحریک مزمن، ⁦Review⁩ مربوط به ⁦CD8 T-cell exhaustion⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "t-cell-cellular"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "IMMUNOLOGY::REVIEW-CD8-EXHAUSTION-2026",
+      "resource_id": "REVIEW-CD8-EXHAUSTION-2026",
+      "subject_id": "IMMUNOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "IM06",
+        "IM07",
+        "IM11"
+      ],
+      "selection_rationale": "سیگنال‌های ⁦TCR⁩، ⁦checkpoints⁩، ⁦cytokines⁩، ⁦metabolites⁩ و برنامه‌های ⁦transcriptional/epigenetic⁩ را در ایجاد و حفظ ⁦CD8 exhaustion⁩ یکپارچه می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد ⁦exhaustion⁩ را به‌عنوان یک ⁦cell fate⁩ تنظیم‌شده در تحریک مزمن بفهمد.",
+        "why": "سیگنال‌های ⁦TCR⁩، ⁦checkpoints⁩، ⁦cytokines⁩، ⁦metabolites⁩ و برنامه‌های ⁦transcriptional/epigenetic⁩ را در ایجاد و حفظ ⁦CD8 exhaustion⁩ یکپارچه می‌کند.",
+        "how_to_use": "تفاوت ⁦effector⁩، ⁦memory⁩ و ⁦exhausted states⁩ را در یک جدول از ⁦function⁩، ⁦receptor⁩ و ⁦regulatory program⁩ مقایسه کنید.",
+        "next_step": "برای نقش ⁦checkpoints⁩ و تحمل، شاخه ⁦tolerance/autoimmunity⁩ را دنبال کنید."
+      },
+      "branch_ids": [
+        "t-cell-cellular"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "IMMUNOLOGY::REVIEW-CENTRAL-TOLERANCE-2025",
+      "resource_id": "REVIEW-CENTRAL-TOLERANCE-2025",
+      "subject_id": "IMMUNOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "IM04",
+        "IM06",
+        "IM07"
+      ],
+      "selection_rationale": "نقش ⁦thymic epithelial cells⁩، ⁦dendritic cells⁩ و ⁦B cells⁩ در نمایش مجموعه گسترده ⁦self-antigen⁩ها برای ⁦central tolerance⁩ را توضیح می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که ⁦selection⁩ تیموسی را می‌داند و می‌خواهد سازوکار نمایش ⁦self-antigen⁩ و حذف/تنظیم ⁦thymocyte⁩ها را بفهمد.",
+        "why": "نقش ⁦thymic epithelial cells⁩، ⁦dendritic cells⁩ و ⁦B cells⁩ در نمایش مجموعه گسترده ⁦self-antigen⁩ها برای ⁦central tolerance⁩ را توضیح می‌دهد.",
+        "how_to_use": "سلول‌های ارائه‌دهنده آنتی‌ژن تیموس را مقایسه و مشخص کنید هرکدام چه منبع ⁦antigen⁩ و چه نقش ⁦tolerogenic⁩ دارند.",
+        "next_step": "برای تحمل در ⁦B cell⁩ و شکست آن در ⁦autoimmunity⁩ مرور ⁦2026⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "tolerance-autoimmunity"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "IMMUNOLOGY::REVIEW-B-CELL-TOLERANCE-2026",
+      "resource_id": "REVIEW-B-CELL-TOLERANCE-2026",
+      "subject_id": "IMMUNOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "IM05",
+        "IM07"
+      ],
+      "selection_rationale": "⁦DNA methylation⁩، ⁦histone modification⁩، ⁦chromatin⁩، ⁦ncRNA⁩ و ⁦RNA modification⁩ را به ⁦maintenance⁩ یا ⁦failure⁩ خودتحملی ⁦B cell⁩ متصل می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد ⁦tolerance checkpoint⁩های ⁦B cell⁩ را از ⁦bone marrow⁩ تا ⁦germinal centre⁩ و حالت‌های محیطی دنبال کند.",
+        "why": "⁦DNA methylation⁩، ⁦histone modification⁩، ⁦chromatin⁩، ⁦ncRNA⁩ و ⁦RNA modification⁩ را به ⁦maintenance⁩ یا ⁦failure⁩ خودتحملی ⁦B cell⁩ متصل می‌کند.",
+        "how_to_use": "⁦checkpoint⁩های مرکزی و محیطی را روی خط تکوین ⁦B cell⁩ قرار دهید و برای هر کدام لایه‌های ⁦epigenetic⁩ کنترل‌کننده را مشخص کنید.",
+        "next_step": "برای دید سیستمیک‌تر از پیامد ⁦failure⁩ تحمل می‌توان ⁦autoimmunity⁩ و ⁦immune reset⁩ را مطالعه کرد."
+      },
+      "branch_ids": [
+        "tolerance-autoimmunity"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "IMMUNOLOGY::REVIEW-MUCOSAL-MICROBIOTA-2025",
+      "resource_id": "REVIEW-MUCOSAL-MICROBIOTA-2025",
+      "subject_id": "IMMUNOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "IM08",
+        "IM09",
+        "IM12"
+      ],
+      "selection_rationale": "نقش ⁦microbiota⁩، ⁦metabolites⁩، ⁦epithelium⁩ و ⁦immune cells⁩ را در ⁦tolerance⁩، ⁦inflammation⁩ و ⁦immune imprinting⁩ از نوزادی تا بزرگسالی یکپارچه می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که ⁦barrier immunity⁩ را می‌داند و می‌خواهد تعامل ⁦microbiota⁩ و ⁦mucosal immune system⁩ را در طول عمر بفهمد.",
+        "why": "نقش ⁦microbiota⁩، ⁦metabolites⁩، ⁦epithelium⁩ و ⁦immune cells⁩ را در ⁦tolerance⁩، ⁦inflammation⁩ و ⁦immune imprinting⁩ از نوزادی تا بزرگسالی یکپارچه می‌کند.",
+        "how_to_use": "تعاملات را به سه لایه ⁦barrier⁩، ⁦microbial products⁩ و ⁦immune circuits⁩ تقسیم و اثر سن را روی هر لایه دنبال کنید.",
+        "next_step": "برای اتصال ⁦variation⁩ میزبان و ⁦microbiome⁩ به ⁦phenotype⁩های انسانی، ⁦Resource⁩ موجود ⁦genomics of host–microbiome interactions⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "mucosal-microbiome"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "IMMUNOLOGY::REVIEW-HOST-MICROBIOME-GENOMICS-2026",
+      "resource_id": "REVIEW-HOST-MICROBIOME-GENOMICS-2026",
+      "subject_id": "IMMUNOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "IM09"
+      ],
+      "selection_rationale": "⁦host genetics⁩، ⁦microbial variation⁩ و ⁦phenotype⁩ انسانی را در یک چارچوب ⁦genomic⁩ یکپارچه می‌کند و ⁦complement⁩ خوبی برای مرور مخاطی است.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد بداند ⁦variation⁩ ژنتیکی میزبان چگونه ⁦composition⁩ و ⁦function⁩ میکروبیوم را شکل می‌دهد و بر سلامت اثر می‌گذارد.",
+        "why": "⁦host genetics⁩، ⁦microbial variation⁩ و ⁦phenotype⁩ انسانی را در یک چارچوب ⁦genomic⁩ یکپارچه می‌کند و ⁦complement⁩ خوبی برای مرور مخاطی است.",
+        "how_to_use": "بر ⁦causal direction⁩ میان ⁦host genotype⁩، ⁦microbiome⁩ و ⁦phenotype⁩ تمرکز کنید و ⁦association⁩ را با ⁦mechanism⁩ یکی نگیرید.",
+        "next_step": "برای دید عملکردی‌تر می‌توان به ⁦microbial metabolites⁩ و تنظیم ایمنی مخاطی رفت."
+      },
+      "branch_ids": [
+        "mucosal-microbiome"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "IMMUNOLOGY::REVIEW-INNATELIKE-T-IMMUNOMETABOLISM-2026",
+      "resource_id": "REVIEW-INNATELIKE-T-IMMUNOMETABOLISM-2026",
+      "subject_id": "IMMUNOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "IM06",
+        "IM10"
+      ],
+      "selection_rationale": "⁦metabolic control⁩ را در ⁦iNKT⁩، ⁦MAIT⁩ و γδ ⁦T cells⁩ بررسی می‌کند و پیوند ⁦nutrient use⁩ با ⁦effector function⁩ و ⁦tissue residency⁩ را روشن می‌سازد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که ⁦metabolism⁩ پایه ⁦T cell⁩ را می‌داند و می‌خواهد بفهمد ⁦metabolic program⁩ چگونه ⁦state⁩ و ⁦function lymphocyte⁩ها را هدایت می‌کند.",
+        "why": "⁦metabolic control⁩ را در ⁦iNKT⁩، ⁦MAIT⁩ و γδ ⁦T cells⁩ بررسی می‌کند و پیوند ⁦nutrient use⁩ با ⁦effector function⁩ و ⁦tissue residency⁩ را روشن می‌سازد.",
+        "how_to_use": "برای هر ⁦cell type⁩ سوخت غالب، ⁦metabolic pathway⁩ و ⁦functional outcome⁩ را در یک ماتریس ثبت کنید.",
+        "next_step": "برای مقایسه با ⁦B cell⁩ و ⁦disease states⁩، ⁦B-cell immunometabolism⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "immunometabolism"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "IMMUNOLOGY::REVIEW-B-CELL-IMMUNOMETABOLISM-2025",
+      "resource_id": "REVIEW-B-CELL-IMMUNOMETABOLISM-2025",
+      "subject_id": "IMMUNOLOGY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "IM05",
+        "IM10"
+      ],
+      "selection_rationale": "⁦metabolic reprogramming⁩ را به ⁦B-cell activation⁩، ⁦antibody production⁩ و ⁦dysfunction⁩ در ⁦disease⁩ متصل می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بداند ⁦activation⁩ و ⁦differentiation B cell⁩ چگونه با بازآرایی ⁦metabolism⁩ پشتیبانی می‌شود.",
+        "why": "⁦metabolic reprogramming⁩ را به ⁦B-cell activation⁩، ⁦antibody production⁩ و ⁦dysfunction⁩ در ⁦disease⁩ متصل می‌کند.",
+        "how_to_use": "⁦state⁩های ⁦naive⁩، ⁦activated⁩ و ⁦antibody-secreting⁩ را از نظر نیازهای ⁦energetic⁩ و ⁦biosynthetic⁩ مقایسه کنید.",
+        "next_step": "برای توسعه می‌توان ⁦immunometabolism macrophage⁩ها یا ⁦T-cell memory⁩ را دنبال کرد."
+      },
+      "branch_ids": [
+        "immunometabolism"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "IMMUNOLOGY::REVIEW-MACROPHAGE-ANTIBACTERIAL-2025",
+      "resource_id": "REVIEW-MACROPHAGE-ANTIBACTERIAL-2025",
+      "subject_id": "IMMUNOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "IM02",
+        "IM10",
+        "IM11"
+      ],
+      "selection_rationale": "⁦PRR signalling⁩، ⁦cytokines⁩، ⁦metabolic reprogramming⁩ و ⁦effector⁩های ضدباکتری را به ⁦subversion⁩ توسط ⁦pathogen⁩ متصل می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که ⁦phagocytosis⁩ را می‌داند و می‌خواهد پاسخ‌های ⁦inducible macrophage⁩ به باکتری‌های داخل‌سلولی را بفهمد.",
+        "why": "⁦PRR signalling⁩، ⁦cytokines⁩، ⁦metabolic reprogramming⁩ و ⁦effector⁩های ضدباکتری را به ⁦subversion⁩ توسط ⁦pathogen⁩ متصل می‌کند.",
+        "how_to_use": "مسیر ⁦recognition⁩ → ⁦induced response⁩ → ⁦bacterial countermeasure⁩ را برای نمونه‌های مختلف مقایسه کنید.",
+        "next_step": "برای نمونه‌ای که خود پاسخ آنتی‌بادی می‌تواند بیماری را تشدید کند، ⁦antibody-dependent enhancement⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "infection-immunopathology"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "IMMUNOLOGY::REVIEW-ANTIBODY-ENHANCEMENT-2025",
+      "resource_id": "REVIEW-ANTIBODY-ENHANCEMENT-2025",
+      "subject_id": "IMMUNOLOGY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "IM05",
+        "IM11"
+      ],
+      "selection_rationale": "مکانیسم‌های ⁦antibody-dependent enhancement⁩ را در عفونت‌های ویروسی، باکتریایی، قارچی و انگلی مقایسه می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بفهمد چرا ⁦antibody⁩ همیشه محافظت‌کننده نیست و در برخی عفونت‌ها می‌تواند ⁦pathology⁩ را تشدید کند.",
+        "why": "مکانیسم‌های ⁦antibody-dependent enhancement⁩ را در عفونت‌های ویروسی، باکتریایی، قارچی و انگلی مقایسه می‌کند.",
+        "how_to_use": "تفاوت ⁦neutralization⁩، ⁦Fc-mediated uptake⁩ و ⁦inflammatory enhancement⁩ را روشن و شرایط وقوع هرکدام را جدا کنید.",
+        "next_step": "برای ادامه می‌توان ⁦immune-mediated tissue damage⁩ یا ⁦chronic infection⁩ را بررسی کرد."
+      },
+      "branch_ids": [
+        "infection-immunopathology"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "IMMUNOLOGY::REVIEW-ADAPTIVE-MEMORY-2024",
+      "resource_id": "REVIEW-ADAPTIVE-MEMORY-2024",
+      "subject_id": "IMMUNOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "IM05",
+        "IM06",
+        "IM12"
+      ],
+      "selection_rationale": "⁦development⁩، ⁦localization⁩، ⁦maintenance⁩ و ⁦recall function⁩ حافظه اکتسابی را در یک چارچوب سلولی و بافتی جمع می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که ⁦primary⁩ و ⁦secondary response⁩ را می‌داند و می‌خواهد انواع ⁦memory T⁩، ⁦B⁩ و ⁦plasma cell⁩ را در انسان منسجم بفهمد.",
+        "why": "⁦development⁩، ⁦localization⁩، ⁦maintenance⁩ و ⁦recall function⁩ حافظه اکتسابی را در یک چارچوب سلولی و بافتی جمع می‌کند.",
+        "how_to_use": "برای ⁦T cell⁩، ⁦B cell⁩ و ⁦plasma cell⁩ مسیر ⁦generation⁩ → ⁦persistence⁩ → ⁦recall⁩ را جدا رسم و سپس نقاط مشترک را مقایسه کنید.",
+        "next_step": "برای دید انتهای چرخه زندگی سیستم ایمنی، مرور ⁦immune ageing⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "development-memory-ageing"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "IMMUNOLOGY::REVIEW-IMMUNE-AGEING-2026",
+      "resource_id": "REVIEW-IMMUNE-AGEING-2026",
+      "subject_id": "IMMUNOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "IM01",
+        "IM10",
+        "IM12"
+      ],
+      "selection_rationale": "⁦hallmark⁩های ⁦ageing⁩ را به ⁦immunosenescence⁩، ⁦exhaustion⁩، ⁦inflammageing⁩ و تغییر سلول‌های ⁦innate/adaptive⁩ متصل می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد تغییر عملکرد سیستم ایمنی در پیری و ارتباط آن با ⁦inflammation⁩ و ⁦dysfunction⁩ اندام‌ها را بفهمد.",
+        "why": "⁦hallmark⁩های ⁦ageing⁩ را به ⁦immunosenescence⁩، ⁦exhaustion⁩، ⁦inflammageing⁩ و تغییر سلول‌های ⁦innate/adaptive⁩ متصل می‌کند.",
+        "how_to_use": "تغییرات ⁦intrinsic⁩ هر ⁦immune cell⁩ را از تغییرات ⁦systemic⁩ جدا کنید و سپس ⁦causal links⁩ با ⁦ageing⁩ اندام‌ها را دنبال کنید.",
+        "next_step": "برای ادامه می‌توان ⁦thymic involution⁩، ⁦clonal hematopoiesis⁩ یا ⁦immune rejuvenation⁩ را عمیق‌تر مطالعه کرد."
+      },
+      "branch_ids": [
+        "development-memory-ageing"
+      ],
+      "branch_role": "current_update"
     }
   ]
 }
