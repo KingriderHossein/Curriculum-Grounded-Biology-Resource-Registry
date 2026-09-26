@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.8.0",
+  "schema_version": "0.9.0",
   "subjects": [
     {
       "id": "CELL-BIOLOGY",
@@ -774,6 +774,115 @@
         {
           "id": "global-change",
           "label": "Global change ecology"
+        }
+      ],
+      "status": "complete",
+      "completion_criteria": {
+        "general_roadmap_resources": 4,
+        "specialized_branches_required": 9,
+        "student_guidance_required": true,
+        "theory_only": true
+      },
+      "completed_on": "2026-09-26"
+    },
+    {
+      "id": "PLANT-BIOLOGY",
+      "fa_name": "زیست‌شناسی گیاهی",
+      "en_name": "Plant Biology",
+      "scope": "theoretical",
+      "roadmap_stages": [
+        "foundation",
+        "core",
+        "intermediate",
+        "advanced",
+        "specialized"
+      ],
+      "concepts": [
+        {
+          "id": "PB01",
+          "label": "Plant origins, diversity and terrestrial adaptation"
+        },
+        {
+          "id": "PB02",
+          "label": "Plant cell walls, growth and intercellular connectivity"
+        },
+        {
+          "id": "PB03",
+          "label": "Water relations, xylem transport and stomatal regulation"
+        },
+        {
+          "id": "PB04",
+          "label": "Mineral nutrition and nutrient acquisition"
+        },
+        {
+          "id": "PB05",
+          "label": "Photosynthesis, carbon assimilation and photorespiration"
+        },
+        {
+          "id": "PB06",
+          "label": "Plant hormones and signal transduction"
+        },
+        {
+          "id": "PB07",
+          "label": "Meristems, organogenesis and developmental patterning"
+        },
+        {
+          "id": "PB08",
+          "label": "Flowering, reproduction, seed dormancy and germination"
+        },
+        {
+          "id": "PB09",
+          "label": "Abiotic stress responses"
+        },
+        {
+          "id": "PB10",
+          "label": "Plant immunity and biotic stress"
+        },
+        {
+          "id": "PB11",
+          "label": "Long-distance transport and vascular differentiation"
+        },
+        {
+          "id": "PB12",
+          "label": "Plant metabolism and whole-plant integration"
+        }
+      ],
+      "branches": [
+        {
+          "id": "cell-wall-connectivity",
+          "label": "Plant cell walls, growth & intercellular connectivity"
+        },
+        {
+          "id": "water-transport",
+          "label": "Water relations & long-distance transport"
+        },
+        {
+          "id": "mineral-nutrition",
+          "label": "Mineral nutrition & nutrient acquisition"
+        },
+        {
+          "id": "photosynthesis-carbon",
+          "label": "Photosynthesis & carbon assimilation"
+        },
+        {
+          "id": "hormone-signaling",
+          "label": "Plant hormones & signal transduction"
+        },
+        {
+          "id": "meristems-organogenesis",
+          "label": "Meristems, organogenesis & developmental patterning"
+        },
+        {
+          "id": "flowering-seeds",
+          "label": "Flowering, reproduction & seed biology"
+        },
+        {
+          "id": "stress-responses",
+          "label": "Abiotic/biotic stress responses"
+        },
+        {
+          "id": "evolution-terrestrialization",
+          "label": "Plant evolution, diversity & terrestrial adaptation"
         }
       ],
       "status": "complete",
