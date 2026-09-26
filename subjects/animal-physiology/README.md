@@ -229,7 +229,7 @@
 
 <div dir="ltr" align="left">
 
-⁦Tsutomu Miyake⁩، ⁦Hiroshi Koie⁩، ⁦Kanto Nishikawa⁩، ⁦Arito Yozu⁩، ⁦Naoto Kobayashi⁩ · ⁦Journal of Morphology⁩ · ⁦2026⁩ · ⁦DOI⁩: ⁦10.1002/jmor.70110⁩
+⁦Tsutomu Miyake⁩، ⁦Hiroshi Koie⁩، ⁦Kanto Nishikawa⁩، ⁦Arito Yozu⁩، ⁦Naoto Kobayashi⁩ · ⁦Journal of Morphology⁩ · ⁦2025⁩ · ⁦DOI⁩: ⁦10.1002/jmor.70110⁩
 
 </div>
 
