@@ -6,6 +6,12 @@
 
 این نقشه‌راه فقط منابع **نظری** را پوشش می‌دهد. هدف، فهم داده، الگوریتم، مدل آماری و استدلال زیستی است؛ نه آموزش اجرای نرم‌افزار، pipeline یا دستورهای خط فرمان.
 
+## مبنای دامنه آموزشی
+
+دامنه درس با چارچوب شایستگی نسخه ۳ انجمن بین‌المللی زیست‌شناسی محاسباتی ⁦ISCB⁩ کنترل شده است. این چارچوب حوزه را میان زیست‌علوم، علم داده، علوم کامپیوتر و رفتار حرفه‌ای تقسیم می‌کند؛ در این رجیستری فقط بخش‌های دانشی و نظری لازم برای فهم علمی بیوانفورماتیک وارد نقشه‌راه شده‌اند.
+
+[ISCB Competency Framework v3](https://doi.org/10.1093/bioadv/vbae166)
+
 ## مسیر پیشنهادی
 
 **پیش‌نیاز زیستی ← ورود مفهومی ← ژنومیک و تحلیل داده ← مدل‌های احتمالاتی ← شاخه تخصصی**
@@ -63,7 +69,7 @@
 
 <div dir="ltr" align="left">
 
-⁦Arthur M. Lesk⁩ · ⁦Oxford University Press⁩ · ⁦2019⁩ · ویرایش ⁦5th Edition⁩ · ⁦ISBN⁩: ⁦9780192522849⁩
+⁦Arthur M. Lesk⁩ · ⁦Oxford University Press⁩ · ⁦2019⁩ · ویرایش ⁦5th Edition⁩ · ⁦ISBN⁩: ⁦9780198794141⁩
 
 </div>
 
@@ -74,7 +80,7 @@
 ## مرحله میانی — ژنومیک و ژنومیک عملکردی
 
 <p align="center">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Publication7/v4/18/c9/cb/18c9cba5-a7aa-498a-66e7-7d1acde53221/9781118581766.jpg/1200x1200wz.jpg" width="155" alt="Bioinformatics and Functional Genomics 3rd Edition cover">
+  <img src="https://covers.vitalsource.com/vbid/9781118581766/width/200" width="155" alt="Bioinformatics and Functional Genomics 3rd Edition cover">
 </p>
 
 ### کتاب ⁦Bioinformatics and Functional Genomics⁩ — ⁦3rd Edition⁩
@@ -89,7 +95,7 @@
 
 <div dir="ltr" align="left">
 
-⁦Jonathan Pevsner⁩ · ⁦Wiley-Blackwell⁩ · ⁦2015⁩ · ویرایش ⁦3rd Edition⁩ · ⁦ISBN⁩: ⁦9781118581766⁩
+⁦Jonathan Pevsner⁩ · ⁦Wiley-Blackwell⁩ · ⁦2015⁩ · ویرایش ⁦3rd Edition⁩ · ⁦ISBN⁩: ⁦9781118581780⁩
 
 </div>
 
