@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.5.0",
+  "schema_version": "0.8.0",
   "placements": [
     {
       "id": "CELL-BIOLOGY::OPENSTAX-BIOLOGY2E-2018",
@@ -3527,6 +3527,513 @@
       },
       "branch_ids": [
         "global-change"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "PLANT-BIOLOGY::OPENSTAX-BIOLOGY2E-2018",
+      "resource_id": "OPENSTAX-BIOLOGY2E-2018",
+      "subject_id": "PLANT-BIOLOGY",
+      "learning_stage": "foundation",
+      "role": "foundation",
+      "coverage_concept_ids": [
+        "PB01",
+        "PB02",
+        "PB03",
+        "PB04",
+        "PB05",
+        "PB07",
+        "PB08"
+      ],
+      "selection_rationale": "منبعی آزاد و دانشگاهی است که برای مرور سریع پیش‌نیازهای عمومی گیاه‌شناسی پیش از ورود به یک کتاب اختصاصی مناسب است.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که هنوز در ساختار گیاه، بافت‌های آوندی، فتوسنتز، تولیدمثل یا تنوع گیاهان پایه محکمی ندارد.",
+        "why": "منبعی آزاد و دانشگاهی است که برای مرور سریع پیش‌نیازهای عمومی گیاه‌شناسی پیش از ورود به یک کتاب اختصاصی مناسب است.",
+        "how_to_use": "کل کتاب لازم نیست؛ بخش‌های مربوط به تنوع گیاهان، ساختار و رشد گیاه، تغذیه و انتقال، فتوسنتز و تولیدمثل گیاهی را هدفمند مرور کنید.",
+        "next_step": "پس از این مرور وارد ⁦Essential Plant Biology⁩ شوید."
+      }
+    },
+    {
+      "id": "PLANT-BIOLOGY::BOOK-ESSENTIAL-PLANT-BIOLOGY1-2026",
+      "resource_id": "BOOK-ESSENTIAL-PLANT-BIOLOGY1-2026",
+      "subject_id": "PLANT-BIOLOGY",
+      "learning_stage": "core",
+      "role": "core",
+      "coverage_concept_ids": [
+        "PB01",
+        "PB02",
+        "PB03",
+        "PB04",
+        "PB05",
+        "PB06",
+        "PB07",
+        "PB08",
+        "PB09",
+        "PB10",
+        "PB11",
+        "PB12"
+      ],
+      "selection_rationale": "کتاب از منشأ و ژنوم گیاه تا فتوسنتز، آب و مواد غذایی، رشد، هورمون‌ها، تکوین، تولیدمثل، تنش و تعاملات زیستی را در یک مسیر واحد پوشش می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد زیست‌شناسی گیاهی را برای نخستین بار با یک متن جدید، یکپارچه و دانشگاهی یاد بگیرد.",
+        "why": "کتاب از منشأ و ژنوم گیاه تا فتوسنتز، آب و مواد غذایی، رشد، هورمون‌ها، تکوین، تولیدمثل، تنش و تعاملات زیستی را در یک مسیر واحد پوشش می‌دهد.",
+        "how_to_use": "به‌عنوان منبع اصلی و به‌ترتیب فصل‌ها مطالعه شود؛ در هر بخش ارتباط میان ساختار گیاه، فیزیولوژی، تکوین و پاسخ محیطی را دنبال کنید.",
+        "next_step": "برای مرور کلاسیک‌ترِ ساختمان، تنوع و گیاه‌شناسی عمومی از ⁦Botany: An Introduction to Plant Biology⁩ استفاده کنید."
+      }
+    },
+    {
+      "id": "PLANT-BIOLOGY::BOOK-BOTANY-MAUSETH7-2021",
+      "resource_id": "BOOK-BOTANY-MAUSETH7-2021",
+      "subject_id": "PLANT-BIOLOGY",
+      "learning_stage": "intermediate",
+      "role": "reference",
+      "coverage_concept_ids": [
+        "PB01",
+        "PB02",
+        "PB03",
+        "PB04",
+        "PB05",
+        "PB07",
+        "PB08",
+        "PB09",
+        "PB10",
+        "PB11"
+      ],
+      "selection_rationale": "یک متن جامع گیاه‌شناسی است که آناتومی، مورفولوژی، فیزیولوژی، اکولوژی، تکامل و رده‌بندی گیاهان را در کنار هم قرار می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مبانی را می‌داند و به یک مرور گسترده‌تر از ساختمان گیاه، بافت‌ها، تنوع، تکامل و ارتباط گیاه با محیط نیاز دارد.",
+        "why": "یک متن جامع گیاه‌شناسی است که آناتومی، مورفولوژی، فیزیولوژی، اکولوژی، تکامل و رده‌بندی گیاهان را در کنار هم قرار می‌دهد.",
+        "how_to_use": "لازم نیست الزاماً خطی خوانده شود؛ بخش‌های ساختار، رشد، تولیدمثل، تنوع و تکامل را متناسب با نقاط ضعف یا شاخه مورد علاقه انتخاب کنید.",
+        "next_step": "برای عمق بیشتر در فیزیولوژی و تکوین به ⁦Plant Physiology and Development⁩ بروید."
+      }
+    },
+    {
+      "id": "PLANT-BIOLOGY::BOOK-PLANT-PHYSIOLOGY-DEVELOPMENT7-2022",
+      "resource_id": "BOOK-PLANT-PHYSIOLOGY-DEVELOPMENT7-2022",
+      "subject_id": "PLANT-BIOLOGY",
+      "learning_stage": "advanced",
+      "role": "advanced",
+      "coverage_concept_ids": [
+        "PB02",
+        "PB03",
+        "PB04",
+        "PB05",
+        "PB06",
+        "PB07",
+        "PB08",
+        "PB09",
+        "PB10",
+        "PB11",
+        "PB12"
+      ],
+      "selection_rationale": "یکی از مراجع اصلی سطح بالاتر گیاه‌شناسی است و آب، مواد معدنی، فتوسنتز، هورمون‌ها، رشد، تکوین، گل‌دهی و پاسخ‌های محیطی را با جزئیات عمیق پوشش می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته یا تحصیلات تکمیلی که می‌خواهد فیزیولوژی، متابولیسم و تکوین گیاه را با عمق مکانیزمی مطالعه کند.",
+        "why": "یکی از مراجع اصلی سطح بالاتر گیاه‌شناسی است و آب، مواد معدنی، فتوسنتز، هورمون‌ها، رشد، تکوین، گل‌دهی و پاسخ‌های محیطی را با جزئیات عمیق پوشش می‌دهد.",
+        "how_to_use": "پس از مسیر اصلی، فصل‌ها را بر اساس موضوع پژوهشی یا شاخه تخصصی انتخاب کنید و شکل‌های مکانیزمی و ارتباط میان سطوح سلولی و کل گیاه را دقیق دنبال کنید.",
+        "next_step": "پس از هر فصل وارد مقاله‌های مروری منتخب همان شاخه شوید."
+      }
+    },
+    {
+      "id": "PLANT-BIOLOGY::REVIEW-PLANT-CELL-WALL-2024",
+      "resource_id": "REVIEW-PLANT-CELL-WALL-2024",
+      "subject_id": "PLANT-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "PB02"
+      ],
+      "selection_rationale": "مروری جامع و مکانیزمی بر سلولز، همی‌سلولز، پکتین، پروتئین‌های دیواره و نقش آن‌ها در رشد و تغییر شکل سلول ارائه می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که ساختار سلول گیاهی را می‌داند و می‌خواهد دیواره سلولی را از دید ترکیب، معماری، مکانیک و رشد بفهمد.",
+        "why": "مروری جامع و مکانیزمی بر سلولز، همی‌سلولز، پکتین، پروتئین‌های دیواره و نقش آن‌ها در رشد و تغییر شکل سلول ارائه می‌کند.",
+        "how_to_use": "ابتدا ترکیب و سازمان دیواره و سپس سازوکارهای شل‌شدن، گسترش و تنظیم رشد را دنبال کنید.",
+        "next_step": "برای فهم ارتباط مستقیم میان سلول‌های مجاور، مرور ⁦plasmodesmata⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "cell-wall-connectivity"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "PLANT-BIOLOGY::REVIEW-PLASMODESMATA-2024",
+      "resource_id": "REVIEW-PLASMODESMATA-2024",
+      "subject_id": "PLANT-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "PB02"
+      ],
+      "selection_rationale": "⁦plasmodesmata⁩ را به‌عنوان کانال‌های پویا برای تبادل مولکول و اطلاعات میان سلول‌ها بررسی می‌کند و نقش فشار و تنظیم ⁦permeability⁩ را توضیح می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بفهمد سلول‌های گیاهی چگونه با وجود دیواره سلولی، ارتباط مستقیم و تنظیم‌شونده با یکدیگر دارند.",
+        "why": "⁦plasmodesmata⁩ را به‌عنوان کانال‌های پویا برای تبادل مولکول و اطلاعات میان سلول‌ها بررسی می‌کند و نقش فشار و تنظیم ⁦permeability⁩ را توضیح می‌دهد.",
+        "how_to_use": "پس از مطالعه دیواره سلولی بخوانید؛ معماری کانال، تنظیم عبور و نقش آن در هماهنگی بافت را به هم مرتبط کنید.",
+        "next_step": "برای ادامه به ارتباط هورمونی و سیگنال‌های متحرک در مرستیم‌ها بروید."
+      },
+      "branch_ids": [
+        "cell-wall-connectivity"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "PLANT-BIOLOGY::REVIEW-XYLEM-FUNCTION-2019",
+      "resource_id": "REVIEW-XYLEM-FUNCTION-2019",
+      "subject_id": "PLANT-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "PB03",
+        "PB11"
+      ],
+      "selection_rationale": "یک مرور بنیادی درباره اصول هیدرولیک ⁦xylem⁩، جریان شیره، انسداد آوندی و ارتباط افت هدایت هیدرولیکی با عملکرد گیاه است.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که اصول پتانسیل آب و آوند چوبی را می‌داند و می‌خواهد انتقال دوربرد آب و مسئله آمبولی را مکانیزمی‌تر بفهمد.",
+        "why": "یک مرور بنیادی درباره اصول هیدرولیک ⁦xylem⁩، جریان شیره، انسداد آوندی و ارتباط افت هدایت هیدرولیکی با عملکرد گیاه است.",
+        "how_to_use": "ابتدا مدل ⁦cohesion–tension⁩ و مفهوم ⁦conductivity⁩ را مرور کنید و سپس چگونگی ایجاد و پیامد ⁦embolism⁩ را دنبال کنید.",
+        "next_step": "برای دید جدیدتر از هماهنگی رگبرگ، روزنه و تنظیم آب در برگ، مرور سال ۲۰۲۶ را بخوانید."
+      },
+      "branch_ids": [
+        "water-transport"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "PLANT-BIOLOGY::REVIEW-GRASS-VEINS-STOMATA-2026",
+      "resource_id": "REVIEW-GRASS-VEINS-STOMATA-2026",
+      "subject_id": "PLANT-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "PB03",
+        "PB11"
+      ],
+      "selection_rationale": "مرور جدیدی است که رشد، آناتومی و عملکرد یکپارچه رگبرگ و روزنه در گندمیان را به انتقال آب، فتوسنتز و سازگاری محیطی متصل می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد پیوند میان معماری رگبرگ، روزنه، تبادل گاز و جریان آب را در برگ بفهمد.",
+        "why": "مرور جدیدی است که رشد، آناتومی و عملکرد یکپارچه رگبرگ و روزنه در گندمیان را به انتقال آب، فتوسنتز و سازگاری محیطی متصل می‌کند.",
+        "how_to_use": "آن را به‌عنوان مطالعه موردیِ یک سامانه بسیار تخصص‌یافته بخوانید و ارتباط میان ⁦vascular supply⁩، ⁦stomatal conductance⁩ و ⁦carbon gain⁩ را دنبال کنید.",
+        "next_step": "برای کنترل هورمونی روزنه و پاسخ به تنش، شاخه هورمون‌ها و تنش را ادامه دهید."
+      },
+      "branch_ids": [
+        "water-transport"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "PLANT-BIOLOGY::REVIEW-NITRATE-SENSING-2025",
+      "resource_id": "REVIEW-NITRATE-SENSING-2025",
+      "subject_id": "PLANT-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "PB04",
+        "PB06",
+        "PB12"
+      ],
+      "selection_rationale": "مروری جدید بر ⁦sensing⁩ نیترات، شبکه‌های پیام‌رسانی و تعامل نیتروژن با سایر مواد غذایی است و تغذیه را از سطح انتقال‌دهنده به سطح تنظیم کل گیاه می‌برد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که جذب نیتروژن را می‌داند و می‌خواهد بفهمد گیاه چگونه نیترات را هم به‌عنوان ماده غذایی و هم به‌عنوان سیگنال حس می‌کند.",
+        "why": "مروری جدید بر ⁦sensing⁩ نیترات، شبکه‌های پیام‌رسانی و تعامل نیتروژن با سایر مواد غذایی است و تغذیه را از سطح انتقال‌دهنده به سطح تنظیم کل گیاه می‌برد.",
+        "how_to_use": "ابتدا ⁦uptake⁩ و ⁦assimilation⁩ نیترات را مرور کنید و سپس حسگری، پاسخ رونویسی و تعامل با وضعیت کربن و مواد معدنی دیگر را دنبال کنید.",
+        "next_step": "برای گسترش از عناصر پرمصرف به ریزمغذی‌های فلزی، مرور ⁦transport⁩ فلزات را بخوانید."
+      },
+      "branch_ids": [
+        "mineral-nutrition"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "PLANT-BIOLOGY::REVIEW-METAL-TRANSPORT-PLANTS-2024",
+      "resource_id": "REVIEW-METAL-TRANSPORT-PLANTS-2024",
+      "subject_id": "PLANT-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "PB04",
+        "PB11"
+      ],
+      "selection_rationale": "خانواده‌های انتقال‌دهنده و منطق ⁦uptake⁩، ⁦translocation⁩، ⁦distribution⁩ و ⁦redistribution⁩ فلزات ضروری را در سطح کل گیاه یکپارچه می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد انتقال آهن، روی، مس و منگنز را از خاک تا اندام‌ها و بافت‌های گیاه بفهمد.",
+        "why": "خانواده‌های انتقال‌دهنده و منطق ⁦uptake⁩، ⁦translocation⁩، ⁦distribution⁩ و ⁦redistribution⁩ فلزات ضروری را در سطح کل گیاه یکپارچه می‌کند.",
+        "how_to_use": "برای هر فلز مسیر خاک ← ریشه ← آوند ← اندام مقصد را ترسیم کنید و خانواده‌های ⁦transporter⁩ را در جایگاه مناسب قرار دهید.",
+        "next_step": "برای دید عمیق‌تر می‌توان به ⁦homeostasis⁩ آهن، فسفات یا تعامل ریشه–میکروبیوم وارد شد."
+      },
+      "branch_ids": [
+        "mineral-nutrition"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "PLANT-BIOLOGY::REVIEW-PHOTOSYNTHETIC-ETC-2025",
+      "resource_id": "REVIEW-PHOTOSYNTHETIC-ETC-2025",
+      "subject_id": "PLANT-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "PB05",
+        "PB12"
+      ],
+      "selection_rationale": "مرور ساختاری و مکانیزمی جدیدی از فتوسیستم‌ها، انتقال الکترون، ایجاد گرادیان پروتون، تولید ⁦ATP/NADPH⁩ و ⁦photoprotection⁩ ارائه می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که واکنش‌های نوری فتوسنتز را می‌داند و می‌خواهد ساختار، مونتاژ و تنظیم زنجیره انتقال الکترون تیلاکوئیدی را عمیق‌تر بفهمد.",
+        "why": "مرور ساختاری و مکانیزمی جدیدی از فتوسیستم‌ها، انتقال الکترون، ایجاد گرادیان پروتون، تولید ⁦ATP/NADPH⁩ و ⁦photoprotection⁩ ارائه می‌کند.",
+        "how_to_use": "مسیر انرژی را از جذب فوتون تا تشکیل ⁦ATP⁩ و ⁦NADPH⁩ مرحله‌به‌مرحله دنبال کنید و هم‌زمان سازمان غشای تیلاکوئید را در نظر بگیرید.",
+        "next_step": "برای مقایسه راهبردهای تمرکز ⁦CO2⁩ و تنظیم کربن، مرور ⁦C4 photosynthesis⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "photosynthesis-carbon"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "PLANT-BIOLOGY::REVIEW-C4-PHOTOSYNTHESIS-2020",
+      "resource_id": "REVIEW-C4-PHOTOSYNTHESIS-2020",
+      "subject_id": "PLANT-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "PB05",
+        "PB01"
+      ],
+      "selection_rationale": "نشان می‌دهد ⁦C4⁩ چگونه از مسیر ⁦C3⁩ چندین بار مستقل تکامل یافته و چه تغییرات آناتومیکی، متابولیکی و تنظیمی برای تمرکز ⁦CO2⁩ لازم بوده است.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که فتوسنتز ⁦C3⁩ را می‌داند و می‌خواهد منطق متابولیک، تنظیمی و تکاملی ⁦C4⁩ را بفهمد.",
+        "why": "نشان می‌دهد ⁦C4⁩ چگونه از مسیر ⁦C3⁩ چندین بار مستقل تکامل یافته و چه تغییرات آناتومیکی، متابولیکی و تنظیمی برای تمرکز ⁦CO2⁩ لازم بوده است.",
+        "how_to_use": "مسیر کربن، تفکیک فضایی سلول‌ها و تنظیم بیان ژن در ⁦C4⁩ را با ⁦C3⁩ مقایسه کنید و تفاوت‌ها را در یک جدول قرار دهید.",
+        "next_step": "برای توسعه بیشتر می‌توان وارد ⁦photorespiration⁩، ⁦CAM⁩ یا سازگاری فتوسنتز با تغییر اقلیم شد."
+      },
+      "branch_ids": [
+        "photosynthesis-carbon"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "PLANT-BIOLOGY::REVIEW-PLANT-HORMONE-SENSING-2026",
+      "resource_id": "REVIEW-PLANT-HORMONE-SENSING-2026",
+      "subject_id": "PLANT-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "PB06",
+        "PB07",
+        "PB09"
+      ],
+      "selection_rationale": "مرور ۲۰۲۶ ساختار گیرنده‌ها و منطق ⁦sensing⁩ چند هورمون اصلی را کنار هم قرار می‌دهد و از حفظ عملکردها به فهم معماری شبکه پیام‌رسانی می‌رسد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که نام و اثر هورمون‌های گیاهی را می‌داند و می‌خواهد سازوکار مولکولی ادراک و انتقال پیام آن‌ها را مقایسه کند.",
+        "why": "مرور ۲۰۲۶ ساختار گیرنده‌ها و منطق ⁦sensing⁩ چند هورمون اصلی را کنار هم قرار می‌دهد و از حفظ عملکردها به فهم معماری شبکه پیام‌رسانی می‌رسد.",
+        "how_to_use": "برای هر هورمون سه جزء ⁦ligand⁩، ⁦receptor⁩ و ⁦downstream response⁩ را استخراج کنید و شباهت‌ها و تفاوت‌های سازوکارها را مقایسه کنید.",
+        "next_step": "برای یک نمونه مرکزی و عمیق، ⁦auxin⁩ را در سطح ⁦homeostasis⁩، ⁦transport⁩ و ⁦signalling⁩ مطالعه کنید."
+      },
+      "branch_ids": [
+        "hormone-signaling"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "PLANT-BIOLOGY::REVIEW-AUXIN-ACTION-2025",
+      "resource_id": "REVIEW-AUXIN-ACTION-2025",
+      "subject_id": "PLANT-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "PB06",
+        "PB07"
+      ],
+      "selection_rationale": "مرور جدیدی است که ⁦gradient⁩های ⁦auxin⁩، ⁦transport⁩ جهت‌دار، گیرنده‌ها و سازوکارهای ⁦transcriptional⁩ و ⁦non-transcriptional⁩ را به رشد و تکوین متصل می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد نقش ⁦auxin⁩ را از ⁦biosynthesis⁩ و ⁦transport⁩ تا پاسخ رونویسی و سیگنالینگ سریع بفهمد.",
+        "why": "مرور جدیدی است که ⁦gradient⁩های ⁦auxin⁩، ⁦transport⁩ جهت‌دار، گیرنده‌ها و سازوکارهای ⁦transcriptional⁩ و ⁦non-transcriptional⁩ را به رشد و تکوین متصل می‌کند.",
+        "how_to_use": "ابتدا ایجاد توزیع فضایی ⁦auxin⁩ و سپس نحوه تبدیل این ⁦gradient⁩ به پاسخ سلولی و تعیین سرنوشت بافت را دنبال کنید.",
+        "next_step": "برای دید تکوینی‌تر، این منبع را به ⁦meristem⁩ و ⁦organogenesis⁩ وصل کنید."
+      },
+      "branch_ids": [
+        "hormone-signaling"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "PLANT-BIOLOGY::REVIEW-SHOOT-MERISTEM-COMMUNICATION-2024",
+      "resource_id": "REVIEW-SHOOT-MERISTEM-COMMUNICATION-2024",
+      "subject_id": "PLANT-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "PB06",
+        "PB07"
+      ],
+      "selection_rationale": "سیگنال‌های پپتیدی، ⁦transcription factor⁩های متحرک، ⁦RNA⁩های کوچک و هورمون‌ها را در کنترل ناحیه‌های عملکردی مرستیم یکپارچه می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بفهمد مرستیم رأسی چگونه جمعیت سلول‌های بنیادی را حفظ و هم‌زمان اندام‌های جدید تولید می‌کند.",
+        "why": "سیگنال‌های پپتیدی، ⁦transcription factor⁩های متحرک، ⁦RNA⁩های کوچک و هورمون‌ها را در کنترل ناحیه‌های عملکردی مرستیم یکپارچه می‌کند.",
+        "how_to_use": "ابتدا نواحی ⁦meristem⁩ و محور ⁦CLAVATA–WUSCHEL⁩ را مشخص کنید و سپس نقش سیگنال‌های بین‌سلولی را در ⁦homeostasis⁩ و ⁦organ initiation⁩ دنبال کنید.",
+        "next_step": "برای تمایز بافت‌های آوندی و ⁦stem cell⁩های تخصصی، مرور ⁦vascular differentiation⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "meristems-organogenesis"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "PLANT-BIOLOGY::REVIEW-VASCULAR-STEM-CELLS-2024",
+      "resource_id": "REVIEW-VASCULAR-STEM-CELLS-2024",
+      "subject_id": "PLANT-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "PB07",
+        "PB11"
+      ],
+      "selection_rationale": "⁦maintenance⁩، ⁦fate determination⁩ و ⁦differentiation⁩ سلول‌های بنیادی آوندی را با ⁦transcription factor⁩ها، هورمون‌ها و اپی‌ژنتیک پیوند می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد از مرستیم عمومی به منطق حفظ ⁦stem cell⁩ و تمایز ⁦xylem⁩ و ⁦phloem⁩ در بافت آوندی برسد.",
+        "why": "⁦maintenance⁩، ⁦fate determination⁩ و ⁦differentiation⁩ سلول‌های بنیادی آوندی را با ⁦transcription factor⁩ها، هورمون‌ها و اپی‌ژنتیک پیوند می‌دهد.",
+        "how_to_use": "سلسله‌مراتب ⁦stem cell⁩ → ⁦progenitor⁩ → ⁦xylem/phloem⁩ را رسم کنید و سیگنال‌های اصلی در هر گذار را مشخص کنید.",
+        "next_step": "برای ارتباط توسعه آوند با انتقال آب و مواد غذایی، شاخه‌های ⁦water transport⁩ و ⁦mineral nutrition⁩ را مرور کنید."
+      },
+      "branch_ids": [
+        "meristems-organogenesis"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "PLANT-BIOLOGY::REVIEW-FLOWERING-TEMPERATURE-2026",
+      "resource_id": "REVIEW-FLOWERING-TEMPERATURE-2026",
+      "subject_id": "PLANT-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "PB06",
+        "PB08",
+        "PB09"
+      ],
+      "selection_rationale": "مرور بسیار جدیدی است که ⁦vernalization⁩، تنظیم ⁦FLC⁩، حافظه کروماتینی و ادغام نوسان‌های دمایی را به ⁦transition⁩ تولیدمثلی متصل می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مسیرهای گل‌دهی را می‌داند و می‌خواهد بفهمد گیاه چگونه دمای فصلی را در طول زمان ادغام و زمان گل‌دهی را تنظیم می‌کند.",
+        "why": "مرور بسیار جدیدی است که ⁦vernalization⁩، تنظیم ⁦FLC⁩، حافظه کروماتینی و ادغام نوسان‌های دمایی را به ⁦transition⁩ تولیدمثلی متصل می‌کند.",
+        "how_to_use": "⁦FLC⁩ را به‌عنوان محور مثال دنبال کنید و تفاوت ⁦sensing⁩ کوتاه‌مدت، میان‌مدت و حافظه سرمای طولانی‌مدت را از هم جدا کنید.",
+        "next_step": "پس از ⁦transition⁩ به گل‌دهی، چرخه زندگی را با ⁦seed dormancy⁩ و ⁦germination⁩ کامل کنید."
+      },
+      "branch_ids": [
+        "flowering-seeds"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "PLANT-BIOLOGY::REVIEW-SEED-DORMANCY-2022",
+      "resource_id": "REVIEW-SEED-DORMANCY-2022",
+      "subject_id": "PLANT-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "PB08",
+        "PB06",
+        "PB09"
+      ],
+      "selection_rationale": "⁦DOG1⁩، ⁦ABA⁩، پوسته بذر، اندوسپرم، دما و ⁦imprinting⁩ را در کنترل ⁦dormancy⁩ و زمان ⁦germination⁩ یکپارچه می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بفهمد چرا بذر در شرایط ظاهراً مناسب جوانه نمی‌زند و چگونه محیط والد و بذر این تصمیم را تنظیم می‌کنند.",
+        "why": "⁦DOG1⁩، ⁦ABA⁩، پوسته بذر، اندوسپرم، دما و ⁦imprinting⁩ را در کنترل ⁦dormancy⁩ و زمان ⁦germination⁩ یکپارچه می‌کند.",
+        "how_to_use": "بین ایجاد ⁦dormancy⁩ هنگام تشکیل بذر و ⁦release⁩ آن پس از رسیدگی تمایز بگذارید و نقش محیط مادری را جداگانه دنبال کنید.",
+        "next_step": "برای توسعه موضوع می‌توان وارد ⁦seed longevity⁩، ⁦germination signalling⁩ یا ⁦reproductive development⁩ شد."
+      },
+      "branch_ids": [
+        "flowering-seeds"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "PLANT-BIOLOGY::REVIEW-PLANT-HEAT-ACCLIMATION-2026",
+      "resource_id": "REVIEW-PLANT-HEAT-ACCLIMATION-2026",
+      "subject_id": "PLANT-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "PB09",
+        "PB06",
+        "PB12"
+      ],
+      "selection_rationale": "مرور ۲۰۲۶ ⁦sensing⁩ گرما، ⁦signalling⁩، بازآرایی ⁦transcription⁩، ⁦proteostasis⁩ و ⁦memory⁩ تنش حرارتی را در یک چارچوب مکانیزمی توضیح می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بفهمد گیاه چگونه گرمای شدید را حس و از سطح مولکولی تا کل گیاه به آن ⁦acclimate⁩ می‌کند.",
+        "why": "مرور ۲۰۲۶ ⁦sensing⁩ گرما، ⁦signalling⁩، بازآرایی ⁦transcription⁩، ⁦proteostasis⁩ و ⁦memory⁩ تنش حرارتی را در یک چارچوب مکانیزمی توضیح می‌دهد.",
+        "how_to_use": "مسیر را به سه مرحله ⁦sensing⁩، پاسخ اولیه و ⁦acclimation/memory⁩ تقسیم کنید و اجزای هر مرحله را جدا یادداشت کنید.",
+        "next_step": "برای نیمه ⁦biotic⁩ این شاخه، سازوکارهای ایمنی گیاهی را مطالعه کنید."
+      },
+      "branch_ids": [
+        "stress-responses"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "PLANT-BIOLOGY::REVIEW-PLANT-IMMUNITY-2026",
+      "resource_id": "REVIEW-PLANT-IMMUNITY-2026",
+      "subject_id": "PLANT-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "current_update",
+      "coverage_concept_ids": [
+        "PB10",
+        "PB06",
+        "PB09"
+      ],
+      "selection_rationale": "مرور بسیار جدیدی است که ⁦PTI⁩ و ⁦ETI⁩، ⁦calcium signalling⁩، ⁦resistosome⁩ها و مکانیسم‌های جلوگیری از هزینه بیش‌ازحد دفاع را یکپارچه می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد ادراک پاتوژن، ⁦PRR⁩ها، ⁦NLR⁩ها و تعادل رشد–دفاع را با وضعیت جدید دانش ببیند.",
+        "why": "مرور بسیار جدیدی است که ⁦PTI⁩ و ⁦ETI⁩، ⁦calcium signalling⁩، ⁦resistosome⁩ها و مکانیسم‌های جلوگیری از هزینه بیش‌ازحد دفاع را یکپارچه می‌کند.",
+        "how_to_use": "ابتدا دو لایه ⁦receptor⁩های سطحی و داخل‌سلولی را مقایسه کنید و سپس نقاط همگرایی ⁦signalling⁩ و ⁦trade-off⁩ رشد–دفاع را دنبال کنید.",
+        "next_step": "برای ادامه می‌توان وارد ⁦plant–microbiome interactions⁩ یا ⁦coevolution⁩ میزبان–پاتوژن شد."
+      },
+      "branch_ids": [
+        "stress-responses"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "PLANT-BIOLOGY::REVIEW-STREPTOPHYTE-CELL-EVOLUTION-2025",
+      "resource_id": "REVIEW-STREPTOPHYTE-CELL-EVOLUTION-2025",
+      "subject_id": "PLANT-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "branch_reference",
+      "coverage_concept_ids": [
+        "PB01",
+        "PB02",
+        "PB06",
+        "PB12"
+      ],
+      "selection_rationale": "با مقایسه جلبک‌های استرپتوفیت و گیاهان خشکی، ریشه‌های تکاملی ⁦signalling⁩، ⁦biosynthesis⁩، ⁦stress response⁩ و ⁦physiology⁩ را بررسی می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بداند چه قابلیت‌های سلولی و تنظیمی پیش از خروج گیاهان از آب در نیاکان استرپتوفیتی وجود داشته است.",
+        "why": "با مقایسه جلبک‌های استرپتوفیت و گیاهان خشکی، ریشه‌های تکاملی ⁦signalling⁩، ⁦biosynthesis⁩، ⁦stress response⁩ و ⁦physiology⁩ را بررسی می‌کند.",
+        "how_to_use": "ویژگی‌ها را به دو گروه ⁦pre-adaptation⁩های موجود پیش از ⁦terrestrialization⁩ و نوآوری‌های بعدی ⁦embryophyte⁩ها تقسیم کنید.",
+        "next_step": "برای تصویر کلان‌تر از خود انتقال به خشکی و ظهور ⁦flora⁩ زمینی، ⁦The origin of a land flora⁩ را بخوانید."
+      },
+      "branch_ids": [
+        "evolution-terrestrialization"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "PLANT-BIOLOGY::REVIEW-ORIGIN-LAND-FLORA-2022",
+      "resource_id": "REVIEW-ORIGIN-LAND-FLORA-2022",
+      "subject_id": "PLANT-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "complementary_reference",
+      "coverage_concept_ids": [
+        "PB01",
+        "PB07",
+        "PB11"
+      ],
+      "selection_rationale": "مروری ترکیبی از شواهد ژنومی، تکوینی و فسیلی است و نوآوری‌هایی مانند چندسلولی‌شدن پیچیده، ⁦meristem⁩، ⁦rhizoid⁩، بافت آوندی و همزیستی را در زمینه ⁦terrestrialization⁩ قرار می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد گذار از جلبک‌های چاروفیتی به گیاهان خشکی و نوآوری‌های کلیدی این انتقال را در مقیاس کلان بفهمد.",
+        "why": "مروری ترکیبی از شواهد ژنومی، تکوینی و فسیلی است و نوآوری‌هایی مانند چندسلولی‌شدن پیچیده، ⁦meristem⁩، ⁦rhizoid⁩، بافت آوندی و همزیستی را در زمینه ⁦terrestrialization⁩ قرار می‌دهد.",
+        "how_to_use": "یک ⁦timeline⁩ از انتقال به خشکی بسازید و هر ⁦innovation⁩ را به مسئله زیستی‌ای که در محیط خشکی حل می‌کند متصل کنید.",
+        "next_step": "برای عمق بیشتر می‌توان به تکامل ⁦bryophyte⁩ها، ⁦vascular plant⁩ها و ظهور ⁦angiosperm⁩ها رفت."
+      },
+      "branch_ids": [
+        "evolution-terrestrialization"
       ],
       "branch_role": "complementary_reference"
     }
