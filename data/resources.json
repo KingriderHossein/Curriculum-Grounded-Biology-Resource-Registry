@@ -4292,6 +4292,26 @@
       "publisher_url": "https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14511",
       "verification_status": "verified",
       "verified_on": "2026-09-26"
+    },
+    {
+      "id": "REVIEW-HYPOXIA-ALTITUDE-SPECIES-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Physiological Differences Underlying Divergent Hypoxia Responses and Altitude Adaptations in Humans, Rats and Mice",
+      "authors": [
+        "Johannes Burtscher",
+        "Robert T. Mallet",
+        "Anupam Sah",
+        "Max Gassmann",
+        "Martin Burtscher",
+        "Rodrigo Iturriaga"
+      ],
+      "published_year": 2025,
+      "journal": "Comprehensive Physiology",
+      "doi": "10.1002/cph4.70077",
+      "publisher_url": "https://doi.org/10.1002/cph4.70077",
+      "verification_status": "verified",
+      "verified_on": "2026-09-26"
     }
   ]
 }
