@@ -6562,6 +6562,507 @@
         "how_to_use": "معماری پیشنهادی، منابع داده، پارامترهای فردی، معیار اعتبارسنجی و محدودیت انتقال به کلینیک را جداگانه بررسی کنید.",
         "next_step": "پس از این مرحله می‌توانید یک حوزه بیماری مشخص را انتخاب و چرخه کامل مدل‌سازی–اعتبارسنجی–پیش‌بینی را مطالعه کنید."
       }
+    },
+    {
+      "id": "NEUROSCIENCE::OPENSTAX-BIOLOGY2E-2018",
+      "resource_id": "OPENSTAX-BIOLOGY2E-2018",
+      "subject_id": "NEUROSCIENCE",
+      "learning_stage": "foundation",
+      "role": "foundation",
+      "coverage_concept_ids": [
+        "NS01",
+        "NS02",
+        "NS03"
+      ],
+      "selection_rationale": "Accessible prerequisite review of membranes, cell communication and the nervous system before a dedicated neuroscience text.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که در غشا، انتقال یون، پیام‌رسانی سلولی یا سازمان دستگاه عصبی شکاف پایه دارد.",
+        "why": "یک پیش‌نیاز آزاد و قابل دسترس است؛ مانع می‌شود اصطلاحات سلولی، یادگیری علوم اعصاب را متوقف کنند.",
+        "how_to_use": "بخش‌های غشا و انتقال، ارتباط سلولی و دستگاه عصبی را هدفمند مرور کنید؛ خواندن کل کتاب لازم نیست.",
+        "next_step": "وقتی تفاوت نورون، سیناپس و پیام عصبی روشن شد، وارد کتاب اصلی مسیر شوید."
+      }
+    },
+    {
+      "id": "NEUROSCIENCE::BOOK-NEUROSCIENCE-BEAR5-2026",
+      "resource_id": "BOOK-NEUROSCIENCE-BEAR5-2026",
+      "subject_id": "NEUROSCIENCE",
+      "learning_stage": "core",
+      "role": "core",
+      "coverage_concept_ids": [
+        "NS01",
+        "NS02",
+        "NS03",
+        "NS04",
+        "NS06",
+        "NS07",
+        "NS08",
+        "NS09",
+        "NS12"
+      ],
+      "selection_rationale": "Introductory general neuroscience textbook selected as the first coherent route from neural cells to systems and behavior; the fifth edition is listed by its publisher with copyright 2026.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که زیست‌شناسی پایه را می‌داند، اما هنوز علوم اعصاب را به‌صورت منسجم نخوانده است.",
+        "why": "برای ساختن مسیر نخست از نورون و سیناپس به سامانه‌های عصبی و رفتار انتخاب شده است؛ قرار نیست از سنگین‌ترین مرجع شروع کنید.",
+        "how_to_use": "ابتدا مبانی سلولی و سازمان دستگاه عصبی را بخوانید؛ سپس برای هر سامانه، ورودی، مدار و کارکرد را در یک نقشه مفهومی وصل کنید.",
+        "next_step": "پس از یک دور مطالعه، موضوع‌های مبهم را با کتاب میانی مرور کنید؛ لازم نیست از نو همه فصل‌ها را بخوانید."
+      }
+    },
+    {
+      "id": "NEUROSCIENCE::BOOK-NEUROSCIENCE-OUP7-2023",
+      "resource_id": "BOOK-NEUROSCIENCE-OUP7-2023",
+      "subject_id": "NEUROSCIENCE",
+      "learning_stage": "intermediate",
+      "role": "intermediate",
+      "coverage_concept_ids": [
+        "NS01",
+        "NS02",
+        "NS03",
+        "NS04",
+        "NS06",
+        "NS07",
+        "NS08",
+        "NS09",
+        "NS11",
+        "NS12"
+      ],
+      "selection_rationale": "Second-pass bridge between undergraduate and medical neuroscience, with publisher TOC spanning signaling, sensation, movement, development and cognitive functions.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که یک دور عمومی را گذرانده و می‌خواهد ارتباط سازوکار سلولی، مدار و کارکرد را دقیق‌تر بفهمد.",
+        "why": "فهرست مطالب از پیام‌رسانی تا حس، حرکت، تکوین و شناخت امتداد دارد؛ برای مرور موضوعیِ عمیق‌تر مناسب است.",
+        "how_to_use": "یک سامانه را انتخاب کنید و توضیح آن را با کتاب اصلی مقایسه کنید. مثال‌های جانوری، انسانی و بالینی را از هم جدا نگه دارید.",
+        "next_step": "برای پرسش‌های مکانیزمی عمیق‌تر به مرجع پیشرفته مراجعه کنید؛ مثال بالینی را جایگزین راهنمای درمان نکنید."
+      }
+    },
+    {
+      "id": "NEUROSCIENCE::BOOK-PRINCIPLES-NEURAL-SCIENCE6-2021",
+      "resource_id": "BOOK-PRINCIPLES-NEURAL-SCIENCE6-2021",
+      "subject_id": "NEUROSCIENCE",
+      "learning_stage": "advanced",
+      "role": "advanced",
+      "coverage_concept_ids": [
+        "NS01",
+        "NS02",
+        "NS03",
+        "NS04",
+        "NS05",
+        "NS06",
+        "NS07",
+        "NS08",
+        "NS09",
+        "NS11",
+        "NS12"
+      ],
+      "selection_rationale": "Advanced mechanistic reference connecting cellular mechanisms, neural systems, cognition and neurological disease; used selectively rather than as a beginner's cover-to-cover assignment.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که مبانی را می‌داند و برای یک سؤال مشخص به توضیح مکانیزمی و شواهد بیشتر نیاز دارد.",
+        "why": "مرجعی گسترده برای وصل‌کردن سطح سلولی، سامانه‌ای و رفتاری است؛ نقش آن تعمیق فهم است، نه شروع از صفر.",
+        "how_to_use": "از سؤال خود شروع کنید و فصل مرتبط را بخوانید. سازوکار پیشنهادی، شواهد و موارد نامعلوم را در سه ستون جدا یادداشت کنید.",
+        "next_step": "شاخه تخصصی نزدیک به پرسش خود را انتخاب کنید و مرجع مفهومی آن شاخه را پیش از مقاله جدیدتر بخوانید."
+      }
+    },
+    {
+      "id": "NEUROSCIENCE::REVIEW-SYNAPSE-MOLECULAR-DIVERSITY-2025",
+      "resource_id": "REVIEW-SYNAPSE-MOLECULAR-DIVERSITY-2025",
+      "subject_id": "NEUROSCIENCE",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "NS01",
+        "NS03"
+      ],
+      "selection_rationale": "Introduces molecular heterogeneity as an organizing principle for understanding chemical synapses beyond a single schematic model.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که انتقال سیناپسی پایه را می‌داند و می‌پرسد چرا همه سیناپس‌ها یکسان نیستند.",
+        "why": "تنوع مولکولی را به سازمان سیناپس وصل می‌کند و تصویر ساده یک سیناپس نمونه را گسترش می‌دهد.",
+        "how_to_use": "برای هر نوع تفاوت، جزء مولکولی و پیامد کارکردیِ گزارش‌شده را جدا کنید؛ تنوع اندازه‌گیری‌شده را خودبه‌خود علت رفتار ندانید.",
+        "next_step": "برای مقایسه دو شیوه ارتباط نورونی، مرور سیناپس الکتریکی را بخوانید."
+      },
+      "branch_ids": [
+        "neuronal-signaling-synapses"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "NEUROSCIENCE::REVIEW-ELECTRICAL-SYNAPSE-2026",
+      "resource_id": "REVIEW-ELECTRICAL-SYNAPSE-2026",
+      "subject_id": "NEUROSCIENCE",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "NS02",
+        "NS03"
+      ],
+      "selection_rationale": "Recent review expanding the structural and functional account of electrical synapses, complementary to the molecular-diversity reference.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد سیناپس الکتریکی را فراتر از یک اتصال منفعل بشناسد.",
+        "why": "تعریف و ویژگی‌های سیناپس الکتریکی را بررسی می‌کند و مکمل نگاه غالب به سیناپس شیمیایی است.",
+        "how_to_use": "ساختار، جهت انتقال و تنظیم‌پذیری را با سیناپس شیمیایی مقایسه کنید. برای هر تفاوت، شواهد و حدود تعمیم را مشخص کنید.",
+        "next_step": "یک نقشه مقایسه‌ای از دو نوع سیناپس بسازید و پرسش مربوط به شکل‌گیری مدار را در شاخه تکوین دنبال کنید."
+      },
+      "branch_ids": [
+        "neuronal-signaling-synapses"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "NEUROSCIENCE::REVIEW-INDIRECT-NEUROGENESIS-2024",
+      "resource_id": "REVIEW-INDIRECT-NEUROGENESIS-2024",
+      "subject_id": "NEUROSCIENCE",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "NS04"
+      ],
+      "selection_rationale": "Conceptual entry into progenitor-mediated neuronal production across developmental space and time.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که تمایز سلولی را می‌داند و می‌خواهد منشأ تعداد و تنوع نورون‌ها را بفهمد.",
+        "why": "تولید نورون را با زمان، مکان و نقش پیش‌سازهای میانی مرتبط می‌کند.",
+        "how_to_use": "مسیر مستقیم و غیرمستقیم تولید نورون را رسم کنید؛ مرحله تقسیم را با مرحله بلوغ نورون یکی نگیرید.",
+        "next_step": "سپس مرور بلوغ نورونی انسان را برای فاصله میان تولید نورون و عملکرد بالغ بخوانید."
+      },
+      "branch_ids": [
+        "neural-development-wiring"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "NEUROSCIENCE::REVIEW-HUMAN-NEURONAL-MATURATION-2024",
+      "resource_id": "REVIEW-HUMAN-NEURONAL-MATURATION-2024",
+      "subject_id": "NEUROSCIENCE",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "NS03",
+        "NS04",
+        "NS05"
+      ],
+      "selection_rationale": "Complements neurogenesis with neuronal maturation, intrinsic/extrinsic mechanisms and explicitly species-dependent timescales.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بداند بلوغ نورون انسانی چه تفاوتی با مدل‌های جانوری دارد.",
+        "why": "تولید نورون، بلوغ و اثر محیط سلولی را از هم جدا می‌کند و به تفاوت گونه‌ها توجه دارد.",
+        "how_to_use": "عوامل درونی و بیرونی بلوغ را دسته‌بندی کنید؛ زمان‌بندی یک گونه را بدون شاهد به انسان تعمیم ندهید.",
+        "next_step": "برای نقش محیط غیرنورونی، شاخه گلیا و تعاملات عصبی–ایمنی را بخوانید."
+      },
+      "branch_ids": [
+        "neural-development-wiring"
+      ],
+      "branch_role": "complementary_reference"
+    },
+    {
+      "id": "NEUROSCIENCE::REVIEW-ASTROCYTES-MICROGLIA-CNS-2024",
+      "resource_id": "REVIEW-ASTROCYTES-MICROGLIA-CNS-2024",
+      "subject_id": "NEUROSCIENCE",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "NS04",
+        "NS05"
+      ],
+      "selection_rationale": "Connects astrocyte-microglia interactions to CNS development and homeostasis while distinguishing demonstrated from suggested coordination.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که هنوز دستگاه عصبی را عمدتاً مجموعه نورون‌ها می‌بیند.",
+        "why": "نقش مشترک آستروسیت و میکروگلیا را در تکوین و حفظ محیط عصبی برجسته می‌کند.",
+        "how_to_use": "تعامل‌های مربوط به سیناپس، میلین و پاک‌سازی را جدا کنید؛ موارد اثبات‌شده و پیشنهادشده را با برچسب متفاوت ثبت کنید.",
+        "next_step": "برای پرهیز از دسته‌بندی بیش‌ازحد ساده میکروگلیا، مرور حالت‌های میکروگلیایی را بخوانید."
+      },
+      "branch_ids": [
+        "glia-neuroimmune"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "NEUROSCIENCE::REVIEW-MICROGLIAL-STATES-2026",
+      "resource_id": "REVIEW-MICROGLIAL-STATES-2026",
+      "subject_id": "NEUROSCIENCE",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "NS05",
+        "NS11"
+      ],
+      "selection_rationale": "Updates the conceptual treatment of context-dependent microglial states across homeostasis and disease.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد برچسب‌های حالت میکروگلیا را در داده‌های جدید درست تفسیر کند.",
+        "why": "به تغییرپذیری حالت‌ها با زمینه زیستی می‌پردازد؛ یک برچسب ثابت برای همه شرایط کافی نیست.",
+        "how_to_use": "سن، گونه، بافت و بیماری هر مثال را یادداشت کنید. خوشه بیان ژن را به‌تنهایی اثبات نقش علّی یا هویت ثابت سلول ندانید.",
+        "next_step": "برای ارتباط حالت گلیا با آسیب‌پذیری سلول‌ها، شاخه زوال عصبی را دنبال کنید."
+      },
+      "branch_ids": [
+        "glia-neuroimmune"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "NEUROSCIENCE::REVIEW-NEUROETHOLOGY-MODELS-2024",
+      "resource_id": "REVIEW-NEUROETHOLOGY-MODELS-2024",
+      "subject_id": "NEUROSCIENCE",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "NS06",
+        "NS07"
+      ],
+      "selection_rationale": "Existing registry review used here for comparative links between sensory processing, neural systems and natural behavior, not for laboratory model-organism training.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد رابطه حس، مدار و رفتار را در چند گونه مقایسه کند.",
+        "why": "دیدگاه رفتارشناسی عصبی، کارکرد سامانه حسی را در زمینه رفتار طبیعی قرار می‌دهد.",
+        "how_to_use": "برای هر مثال، محرک، نیاز رفتاری و محاسبه عصبی را مشخص کنید. تمرکز بر منطق زیستی باشد، نه روش اجرای آزمایش.",
+        "next_step": "برای یک مسئله مشخصِ ادغام حس‌ها، مرور حس‌کردن حرکت خود و ناوبری را بخوانید."
+      },
+      "branch_ids": [
+        "sensory-perception"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "NEUROSCIENCE::REVIEW-MULTISENSORY-SELF-MOTION-2025",
+      "resource_id": "REVIEW-MULTISENSORY-SELF-MOTION-2025",
+      "subject_id": "NEUROSCIENCE",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "NS06",
+        "NS07",
+        "NS10"
+      ],
+      "selection_rationale": "Focused update on integrating self-motion signals for navigation; deliberately not presented as an exhaustive review of every sensory modality.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که با سامانه‌های بینایی و دهلیزی آشناست و به ادغام چند حس علاقه دارد.",
+        "why": "ناوبری یک مسئله روشن برای وصل‌کردن ورودی حسی، برآورد حرکت و رفتار فراهم می‌کند.",
+        "how_to_use": "منبع هر سیگنال و چارچوب مختصات آن را مشخص کنید؛ دریافت محرک را با برآورد حالت بدن یکی نگیرید.",
+        "next_step": "برای نقش پیش‌بینی در تبدیل برآورد حسی به حرکت، وارد شاخه کنترل حرکت شوید."
+      },
+      "branch_ids": [
+        "sensory-perception"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "NEUROSCIENCE::REVIEW-COMPUTATIONAL-MOVEMENT-2000",
+      "resource_id": "REVIEW-COMPUTATIONAL-MOVEMENT-2000",
+      "subject_id": "NEUROSCIENCE",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "NS07",
+        "NS10"
+      ],
+      "selection_rationale": "Foundational conceptual framework separating planning, control, prediction, estimation and learning; retained for conceptual value, not claimed to be current coverage.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که توصیف مسیرهای حرکتی را می‌داند و می‌خواهد مسئله محاسباتیِ حرکت را صورت‌بندی کند.",
+        "why": "برنامه‌ریزی، کنترل، پیش‌بینی و یادگیری را در یک چارچوب کلاسیک جدا می‌کند؛ قدیمی است و باید با مرور تازه تکمیل شود.",
+        "how_to_use": "برای یک حرکت ساده، هدف، برآورد حالت، فرمان و بازخورد را رسم کنید؛ مدل توضیحی را با مدار اثبات‌شده برابر نگیرید.",
+        "next_step": "مرور محاسبات مخچه را برای پیوند چارچوب نظری با شواهد مدار بخوانید."
+      },
+      "branch_ids": [
+        "motor-control"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "NEUROSCIENCE::REVIEW-CEREBELLAR-PREDICTIVE-CONTROL-2025",
+      "resource_id": "REVIEW-CEREBELLAR-PREDICTIVE-CONTROL-2025",
+      "subject_id": "NEUROSCIENCE",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "NS03",
+        "NS07",
+        "NS10"
+      ],
+      "selection_rationale": "Evaluates cerebellar circuit evidence relevant to predictive motor control rather than treating the feedforward-control hypothesis as settled.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مدل درونی و پیش‌بینی حرکت را می‌شناسد و می‌خواهد شواهد مخچه را ارزیابی کند.",
+        "why": "میان فرضیه محاسباتی و معماری مدار مخچه ارتباط برقرار می‌کند.",
+        "how_to_use": "شواهد موافق و محدودیت‌های توضیح پیش‌بین را جدا فهرست کنید؛ نقش هر نوع سلول را با نوع اطلاعات ورودی آن مرتبط کنید.",
+        "next_step": "پرسش باز خود را مشخص کنید و برای زبان ریاضی مدل به شاخه علوم اعصاب محاسباتی بروید."
+      },
+      "branch_ids": [
+        "motor-control"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "NEUROSCIENCE::REVIEW-MEMORY-ENGRAMS-2020",
+      "resource_id": "REVIEW-MEMORY-ENGRAMS-2020",
+      "subject_id": "NEUROSCIENCE",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "NS03",
+        "NS08"
+      ],
+      "selection_rationale": "Conceptual foundation for engrams linking cellular excitability, plasticity and memory evidence while distinguishing species and causal inference.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد مفهوم ردّ حافظه را از تعبیر عامیانه ذخیره‌شدن خاطره جدا کند.",
+        "why": "انگرام را به مجموعه سلولی، تغییرپذیری و شواهد حافظه وصل می‌کند.",
+        "how_to_use": "معیار شناسایی انگرام و نوع شاهد هر ادعا را یادداشت کنید. نتیجه مداخله در جانور را بدون شاهد به حافظه انسانی تعمیم ندهید.",
+        "next_step": "مرور ریپل‌ها در حافظه انسان را برای مقایسه سطح سلولی و فعالیت جمعیتی بخوانید."
+      },
+      "branch_ids": [
+        "learning-memory"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "NEUROSCIENCE::REVIEW-HUMAN-MEMORY-RIPPLES-2025",
+      "resource_id": "REVIEW-HUMAN-MEMORY-RIPPLES-2025",
+      "subject_id": "NEUROSCIENCE",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "NS08",
+        "NS12"
+      ],
+      "selection_rationale": "Focused human-memory update on ripple events and the information carried by associated spiking, complementary to the engram framework.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که به ارتباط فعالیت جمعیتی نورون‌ها با تشکیل و بازیابی حافظه انسان علاقه دارد.",
+        "why": "صرف مشاهده نوسان را از محتوای اطلاعاتی فعالیت همراه آن جدا می‌کند.",
+        "how_to_use": "تشکیل و بازیابی حافظه را جدا بررسی کنید؛ هم‌زمانی ریپل با عملکرد حافظه را به‌تنهایی شاهد علّی ندانید.",
+        "next_step": "برای مقایسه نقش حالت مغز در حافظه، شاخه خواب و تنظیم شبانه‌روزی را بخوانید."
+      },
+      "branch_ids": [
+        "learning-memory"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "NEUROSCIENCE::REVIEW-SLEEP-WAKE-CIRCUITRY-2017",
+      "resource_id": "REVIEW-SLEEP-WAKE-CIRCUITRY-2017",
+      "subject_id": "NEUROSCIENCE",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "NS03",
+        "NS09"
+      ],
+      "selection_rationale": "Foundational review of mammalian sleep/wake circuits, mutual inhibition and circadian timing; selected for conceptual structure, not medical advice.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد خواب را به‌صورت حالت تنظیم‌شده مدار عصبی بفهمد.",
+        "why": "بیداری، خواب و زمان‌بندی شبانه‌روزی را در چارچوب مدارهای تنظیمی توضیح می‌دهد.",
+        "how_to_use": "فشار هم‌ایستایی خواب و زمان‌بندی شبانه‌روزی را جدا کنید؛ سپس مدارهای مربوط به بیداری و دو حالت عمده خواب را کنار هم بگذارید.",
+        "next_step": "برای پیامد شناختی خواب، مرور جدید سهم خواب در تشکیل حافظه را بخوانید."
+      },
+      "branch_ids": [
+        "sleep-circadian"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "NEUROSCIENCE::REVIEW-SLEEP-MEMORY-FORMATION-2026",
+      "resource_id": "REVIEW-SLEEP-MEMORY-FORMATION-2026",
+      "subject_id": "NEUROSCIENCE",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "NS03",
+        "NS08",
+        "NS09"
+      ],
+      "selection_rationale": "Recent synthesis of sleep-dependent memory mechanisms, allowing comparison of systems-consolidation and synaptic accounts across humans and rodents.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مبانی خواب و حافظه را می‌داند و می‌خواهد رابطه این دو را مکانیزمی بررسی کند.",
+        "why": "فرایندهای مرتبط با حافظه را در چند سطح به خواب پیوند می‌دهد و برای مقایسه توضیح‌های رقیب مناسب است.",
+        "how_to_use": "برای هر مدل، سطح توضیح و نوع شواهد را مشخص کنید؛ تفاوت نتایج انسان و جوندگان را حفظ کنید.",
+        "next_step": "یک پرسش مقایسه‌ای درباره تثبیت حافظه صورت‌بندی کنید؛ از متن، توصیه شخصی پزشکی استخراج نکنید."
+      },
+      "branch_ids": [
+        "sleep-circadian"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "NEUROSCIENCE::BOOK-THEORETICAL-NEUROSCIENCE-PAPERBACK-2005",
+      "resource_id": "BOOK-THEORETICAL-NEUROSCIENCE-PAPERBACK-2005",
+      "subject_id": "NEUROSCIENCE",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "NS02",
+        "NS03",
+        "NS06",
+        "NS10"
+      ],
+      "selection_rationale": "Foundational mathematical treatment of neural coding, biophysical neuron/circuit models and plasticity; the selected 2005 paperback is not a new scientific edition of the 2001 text.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی با مبانی علوم اعصاب، حساب دیفرانسیل، جبر خطی و احتمال که می‌خواهد مدل‌ها را بفهمد.",
+        "why": "زبان کمیِ کدگذاری عصبی، مدل نورون و مدار، و تغییرپذیری را در یک مرجع نظری جمع می‌کند.",
+        "how_to_use": "برای هر مدل، متغیر، پارامتر، فرض و پیش‌بینی را بنویسید. تمرکز بر استدلال و معادله باشد، نه آموزش نرم‌افزار یا پیاده‌سازی.",
+        "next_step": "برای دیدن یک مسئله نظری باز در سطح شبکه، مقاله چشم‌انداز شبکه‌های توزیع‌شده شناخت را بخوانید."
+      },
+      "branch_ids": [
+        "theoretical-computational"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "NEUROSCIENCE::PERSPECTIVE-DISTRIBUTED-COGNITION-2026",
+      "resource_id": "PERSPECTIVE-DISTRIBUTED-COGNITION-2026",
+      "subject_id": "NEUROSCIENCE",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "NS10",
+        "NS12"
+      ],
+      "selection_rationale": "Peer-reviewed Perspective on distributed cognition, explicitly used to compare interpretations and open questions rather than as a consensus review.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد تفسیرهای محلی و توزیع‌شده از کارکرد شناختی را مقایسه کند.",
+        "why": "یک مقاله چشم‌انداز داوری‌شده است که مسئله نظری را روشن می‌کند؛ نوع آن با مقاله مروری متفاوت است.",
+        "how_to_use": "ادعای نویسندگان، شاهد پشتیبان و تفسیر جایگزین را جدا کنید. گستردگی سیگنال ثبت‌شده را خودبه‌خود گستردگی نقش علّی ندانید.",
+        "next_step": "پیش‌بینی متمایز هر تفسیر را بنویسید و آن را با فرض‌های مدل مرجع مقایسه کنید."
+      },
+      "branch_ids": [
+        "theoretical-computational"
+      ],
+      "branch_role": "current_update"
+    },
+    {
+      "id": "NEUROSCIENCE::REVIEW-NEURODEGENERATION-HALLMARKS-2023",
+      "resource_id": "REVIEW-NEURODEGENERATION-HALLMARKS-2023",
+      "subject_id": "NEUROSCIENCE",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "NS01",
+        "NS03",
+        "NS05",
+        "NS11"
+      ],
+      "selection_rationale": "Organizing review of shared neurodegenerative processes; a conceptual framework rather than proof of one universal causal sequence.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد فرایندهای مشترک زوال عصبی را پیش از ورود به یک بیماری مشخص بشناسد.",
+        "why": "چارچوبی برای کنار هم گذاشتن سازوکارهای سلولی فراهم می‌کند و از مطالعه پراکنده بیماری‌ها می‌کاهد.",
+        "how_to_use": "برای هر ویژگی، سطح سلولی و شواهد بیماری‌محور را ثبت کنید؛ وجود یک ویژگی مشترک را علت یکسان همه بیماری‌ها ندانید.",
+        "next_step": "مرور آسیب‌پذیری و تاب‌آوری سیناپس را برای یک سطح مشخص‌تر از این چارچوب بخوانید."
+      },
+      "branch_ids": [
+        "neurodegeneration-resilience"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "NEUROSCIENCE::REVIEW-SYNAPSE-DEMENTIA-RESILIENCE-2025",
+      "resource_id": "REVIEW-SYNAPSE-DEMENTIA-RESILIENCE-2025",
+      "subject_id": "NEUROSCIENCE",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "NS03",
+        "NS08",
+        "NS11"
+      ],
+      "selection_rationale": "Focused biological account of synaptic vulnerability and resilience across dementias; selected for mechanisms, not diagnostic or treatment recommendations.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که به رابطه تغییر سیناپس، عملکرد شناختی و تفاوت آسیب‌پذیری علاقه دارد.",
+        "why": "چارچوب عمومی زوال عصبی را به یک سطح مشخص، یعنی سیناپس، محدود می‌کند.",
+        "how_to_use": "آسیب‌پذیری و تاب‌آوری را مقایسه کنید؛ ارتباط با افت شناختی، فرضیه سازوکار و شواهد علّی را از هم جدا نگه دارید.",
+        "next_step": "یک سؤال زیستی درباره علت تفاوت آسیب‌پذیری انتخاب کنید؛ این منبع برای تصمیم درمانی شخصی نیست."
+      },
+      "branch_ids": [
+        "neurodegeneration-resilience"
+      ],
+      "branch_role": "current_update"
     }
   ]
 }

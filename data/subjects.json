@@ -1474,6 +1474,114 @@
         "theory_only": true
       },
       "completed_on": "2026-09-26"
+    },
+    {
+      "id": "NEUROSCIENCE",
+      "fa_name": "علوم اعصاب",
+      "en_name": "Neuroscience",
+      "scope": "theoretical",
+      "roadmap_stages": [
+        "foundation",
+        "core",
+        "intermediate",
+        "advanced",
+        "specialized"
+      ],
+      "concepts": [
+        {
+          "id": "NS01",
+          "label": "سلول‌های عصبی، غشا و سازمان دستگاه عصبی"
+        },
+        {
+          "id": "NS02",
+          "label": "پیام‌رسانی الکتریکی و تحریک‌پذیری غشا"
+        },
+        {
+          "id": "NS03",
+          "label": "انتقال سیناپسی و پلاستیسیته"
+        },
+        {
+          "id": "NS04",
+          "label": "تکوین عصبی، بلوغ و شکل‌گیری مدار"
+        },
+        {
+          "id": "NS05",
+          "label": "گلیا، هم‌ایستایی و تعاملات عصبی–ایمنی"
+        },
+        {
+          "id": "NS06",
+          "label": "کدگذاری حسی، ادراک و ناوبری"
+        },
+        {
+          "id": "NS07",
+          "label": "حرکت، مدل‌های درونی و کنترل حرکتی"
+        },
+        {
+          "id": "NS08",
+          "label": "یادگیری، حافظه و انگرام‌ها"
+        },
+        {
+          "id": "NS09",
+          "label": "خواب، بیداری و تنظیم شبانه‌روزی"
+        },
+        {
+          "id": "NS10",
+          "label": "مدل‌های ریاضی و محاسبه عصبی"
+        },
+        {
+          "id": "NS11",
+          "label": "زوال عصبی، آسیب‌پذیری و تاب‌آوری"
+        },
+        {
+          "id": "NS12",
+          "label": "شناخت و مدارهای عصبی توزیع‌شده"
+        }
+      ],
+      "branches": [
+        {
+          "id": "neuronal-signaling-synapses",
+          "label": "پیام‌رسانی نورونی و سیناپس‌ها"
+        },
+        {
+          "id": "neural-development-wiring",
+          "label": "تکوین و اتصال مدارهای عصبی"
+        },
+        {
+          "id": "glia-neuroimmune",
+          "label": "گلیا و تعاملات عصبی–ایمنی"
+        },
+        {
+          "id": "sensory-perception",
+          "label": "سامانه‌های حسی و ادراک"
+        },
+        {
+          "id": "motor-control",
+          "label": "کنترل حرکت"
+        },
+        {
+          "id": "learning-memory",
+          "label": "یادگیری و حافظه"
+        },
+        {
+          "id": "sleep-circadian",
+          "label": "خواب و تنظیم شبانه‌روزی"
+        },
+        {
+          "id": "theoretical-computational",
+          "label": "علوم اعصاب نظری و محاسباتی"
+        },
+        {
+          "id": "neurodegeneration-resilience",
+          "label": "زوال عصبی و تاب‌آوری"
+        }
+      ],
+      "status": "complete_candidate",
+      "completion_criteria": {
+        "general_roadmap_resources": 4,
+        "specialized_branches_required": 9,
+        "student_guidance_required": true,
+        "theory_only": true
+      }
     }
   ]
 }
