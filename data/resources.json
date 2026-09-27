@@ -5638,15 +5638,17 @@
         "source": "VitalSource cover image for the Wiley-Blackwell Ninth Edition eTextbook; Wiley remains the bibliographic authority",
         "source_url": "https://www.vitalsource.com/en-uk/products/hoffbrand-39-s-essential-haematology-a-victor-hoffbrand-v9781394168170",
         "visual_reviewed_on": "2026-09-27",
-        "visual_review_status": "title_and_edition_checked"
+        "visual_review_status": "title_and_edition_checked",
+        "expected_sha256": "284fcc5c14ce6b8f87a547f3e5e3b81784ec098bf76b260949cb9085375d7585"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-27",
       "verification_evidence": {
         "checked_on": "2026-09-27",
-        "scope": "Title, contributors, Ninth Edition, 2024 publication and print ISBN were checked against Wiley; VitalSource independently maps the cover to print ISBN 9781394168156 / 9th Edition. Exact-byte hash remains to be locked by the next repository cover audit.",
+        "scope": "Title, contributors, Ninth Edition, 2024 publication and print ISBN were checked against Wiley; VitalSource independently maps the cover to print ISBN 9781394168156 / 9th Edition. The exact reviewed cover bytes are SHA-256 locked; this is not full-text scientific certification.",
         "sources": [
-          "https://books.wiley.com/titles/9781394168156/"
+          "https://books.wiley.com/titles/9781394168156/",
+          "https://www.vitalsource.com/en-uk/products/hoffbrand-39-s-essential-haematology-a-victor-hoffbrand-v9781394168170"
         ]
       }
     },
@@ -5706,10 +5708,9 @@
       "publisher_url": "https://www.mheducation.com/highered/mhp/product/williams-hematology-10th-edition.html",
       "purchase_url": "https://www.mheducation.com/highered/mhp/product/williams-hematology-10th-edition.html",
       "cover": {
-        "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/a7/40/90/a740906a-ff19-2688-b1c2-7f4020ebf21d/9781260464139.jpg/1200x1200wz.jpg",
-        "source": "Apple Books cover image for the McGraw Hill 10th Edition e-book; McGraw Hill is the bibliographic authority",
-        "source_url": "https://books.apple.com/us/book/williams-hematology-10th-edition/id1529352425",
-        "expected_sha256": "3a648b21a852794eaf129a0daddf676169450e1fb4f91d978885396f51e4274a",
+        "url": "https://covers.vitalsource.com/vbid/9781260464139/width/200",
+        "source": "VitalSource cover image for the McGraw-Hill Education Tenth Edition eTextbook; McGraw Hill remains the bibliographic authority",
+        "source_url": "https://www.vitalsource.com/products/williams-hematology-10th-edition-kenneth-kaushansky-marshall-v9781260464139",
         "visual_reviewed_on": "2026-09-27",
         "visual_review_status": "title_and_edition_checked"
       },
@@ -5717,9 +5718,10 @@
       "verified_on": "2026-09-27",
       "verification_evidence": {
         "checked_on": "2026-09-27",
-        "scope": "Title, six authors/editors, Tenth Edition, 2021 publication and print ISBN 9781260464122 were checked against McGraw Hill. The future Eleventh Edition was not treated as current before its announced publication date. The exact reviewed cover bytes are SHA-256 locked; this is not full-text scientific certification.",
+        "scope": "Title, authors/editors, Tenth Edition, 2021 publication and print ISBN 9781260464122 were checked against McGraw Hill; VitalSource independently maps the cover to print ISBN 9781260464122 / 10th Edition. The future Eleventh Edition was not treated as current before its announced publication date. Exact-byte hash remains to be locked by the next repository cover audit.",
         "sources": [
-          "https://www.mheducation.com/highered/mhp/product/williams-hematology-10th-edition.html"
+          "https://www.mheducation.com/highered/mhp/product/williams-hematology-10th-edition.html",
+          "https://www.vitalsource.com/products/williams-hematology-10th-edition-kenneth-kaushansky-marshall-v9781260464139"
         ]
       }
     },

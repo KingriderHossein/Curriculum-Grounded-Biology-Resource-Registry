@@ -105,7 +105,7 @@
 
 
 <p align="center">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/a7/40/90/a740906a-ff19-2688-b1c2-7f4020ebf21d/9781260464139.jpg/1200x1200wz.jpg" width="155" alt="Williams Hematology 10th Edition cover">
+  <img src="https://covers.vitalsource.com/vbid/9781260464139/width/200" width="155" alt="Williams Hematology 10th Edition cover">
 </p>
 
 ### ⁦Williams Hematology⁩ — ⁦10th Edition⁩

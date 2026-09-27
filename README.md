@@ -669,7 +669,7 @@
 <a href="https://onlinelibrary.wiley.com/doi/book/10.1002/9781119706687">ناشر / دسترسی</a>
 </td>
 <td align="center" width="33%">
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/a7/40/90/a740906a-ff19-2688-b1c2-7f4020ebf21d/9781260464139.jpg/1200x1200wz.jpg" width="145" alt="Williams Hematology 10th Edition cover"><br>
+<img src="https://covers.vitalsource.com/vbid/9781260464139/width/200" width="145" alt="Williams Hematology 10th Edition cover"><br>
 <b>Williams Hematology</b><br>
 منبع پیشرفته · ویرایش ۱۰ · ۲۰۲۱<br>
 <a href="https://www.mheducation.com/highered/mhp/product/williams-hematology-10th-edition.html">ناشر / خرید</a>
