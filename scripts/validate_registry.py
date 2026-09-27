@@ -1,13 +1,14 @@
 #!/usr/bin/env python3
 """Subject, resource-identity, and roadmap-placement integrity validator.
 
-Version: 0.5.0
+Version: 0.6.0
 Uses only the Python standard library.
 """
 
 from __future__ import annotations
 
 import json
+import re
 from pathlib import Path
 from urllib.parse import urlparse
 
@@ -15,6 +16,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SUBJECTS_PATH = ROOT / "data" / "subjects.json"
 RESOURCES_PATH = ROOT / "data" / "resources.json"
 PLACEMENTS_PATH = ROOT / "data" / "placements.json"
+README_PATH = ROOT / "README.md"
 
 ALLOWED_RESOURCE_TYPES = {
     "textbook",
@@ -54,6 +56,137 @@ def assert_unique(values: list[str], label: str) -> None:
     if duplicates:
         raise ValueError(f"Duplicate {label}: {sorted(duplicates)}")
 
+
+DIGIT_TRANSLATION = str.maketrans(
+    "۰۱۲۳۴۵۶۷۸۹٠١٢٣٤٥٦٧٨٩",
+    "01234567890123456789",
+)
+
+
+def parse_localized_int(value: str, label: str) -> int:
+    normalized = value.translate(DIGIT_TRANSLATION)
+    match = re.search(r"\d+", normalized)
+    if not match:
+        raise ValueError(f"{label} does not contain a numeric value: {value!r}")
+    return int(match.group())
+
+
+def normalize_subject_label(value: str) -> str:
+    return " ".join(
+        value.replace("\u2066", "").replace("\u2069", "").split()
+    )
+
+
+def validate_completed_subject_table(subjects: list[dict], placements: list[dict]) -> None:
+    readme = README_PATH.read_text(encoding="utf-8")
+    heading = "## درس‌های تکمیل‌شده"
+    heading_pos = readme.find(heading)
+    if heading_pos == -1:
+        raise ValueError("README is missing the completed-subject table heading.")
+
+    section = readme[heading_pos + len(heading):]
+    section_end = section.find("\n---")
+    if section_end == -1:
+        raise ValueError("README completed-subject table has no closing horizontal rule.")
+    table_text = section[:section_end]
+
+    rows: list[dict] = []
+    for raw_line in table_text.splitlines():
+        line = raw_line.strip()
+        if not line.startswith("| ["):
+            continue
+
+        cells = [cell.strip() for cell in line.strip("|").split("|")]
+        if len(cells) != 4:
+            raise ValueError(f"Malformed README completed-subject row: {line}")
+
+        link_match = re.fullmatch(
+            r"\[(?P<label>.+?)\]\((?P<path>subjects/[^)]+/README\.md)\)",
+            cells[0],
+        )
+        if not link_match:
+            raise ValueError(f"Malformed README subject link: {cells[0]!r}")
+
+        rows.append(
+            {
+                "label": link_match.group("label"),
+                "path": link_match.group("path"),
+                "general": parse_localized_int(cells[1], f"{cells[0]} general-resource count"),
+                "branches": parse_localized_int(cells[2], f"{cells[0]} branch count"),
+                "total": parse_localized_int(cells[3], f"{cells[0]} placement count"),
+            }
+        )
+
+    if not rows:
+        raise ValueError("README completed-subject table contains no subject rows.")
+
+    paths = [row["path"] for row in rows]
+    assert_unique(paths, "README completed-subject paths")
+
+    completed_subjects = [subject for subject in subjects if subject.get("status") == "complete"]
+    expected_by_path: dict[str, dict] = {}
+    for subject in completed_subjects:
+        slug = subject["id"].lower().replace("_", "-")
+        expected_path = f"subjects/{slug}/README.md"
+        expected_by_path[expected_path] = subject
+        if not (ROOT / expected_path).is_file():
+            raise ValueError(
+                f"Completed subject {subject['id']} has no roadmap file at {expected_path}."
+            )
+
+    actual_by_path = {row["path"]: row for row in rows}
+    missing = sorted(set(expected_by_path) - set(actual_by_path))
+    extra = sorted(set(actual_by_path) - set(expected_by_path))
+    if missing:
+        raise ValueError(
+            "README completed-subject table is missing canonical subject row(s): "
+            + ", ".join(missing)
+        )
+    if extra:
+        raise ValueError(
+            "README completed-subject table contains non-canonical or non-complete row(s): "
+            + ", ".join(extra)
+        )
+
+    placements_by_subject: dict[str, list[dict]] = {}
+    for placement in placements:
+        placements_by_subject.setdefault(placement["subject_id"], []).append(placement)
+
+    for path, subject in expected_by_path.items():
+        sid = subject["id"]
+        row = actual_by_path[path]
+        subject_placements = placements_by_subject.get(sid, [])
+        expected_general = sum(
+            1 for placement in subject_placements
+            if placement.get("learning_stage") != "specialized"
+        )
+        expected_branches = len(subject.get("branches", []))
+        expected_total = len(subject_placements)
+        expected_label = normalize_subject_label(
+            f"{subject['fa_name']} {subject['en_name']}"
+        )
+        actual_label = normalize_subject_label(row["label"])
+
+        if actual_label != expected_label:
+            raise ValueError(
+                f"README completed-subject label mismatch for {sid}: "
+                f"{actual_label!r} != canonical {expected_label!r}."
+            )
+        if row["general"] != expected_general:
+            raise ValueError(
+                f"{sid}: README says {row['general']} general resources, "
+                f"canonical registry has {expected_general}."
+            )
+        if row["branches"] != expected_branches:
+            raise ValueError(
+                f"{sid}: README says {row['branches']} branches, "
+                f"canonical registry has {expected_branches}."
+            )
+        if row["total"] != expected_total:
+            raise ValueError(
+                f"{sid}: README says {row['total']} placements, "
+                f"canonical registry has {expected_total}."
+            )
 
 def main() -> None:
     subjects = load_json(SUBJECTS_PATH).get("subjects", [])
@@ -211,6 +344,8 @@ def main() -> None:
 
         if status == "complete" and not subject.get("completed_on"):
             raise ValueError(f"Completed subject {sid} is missing completed_on.")
+
+    validate_completed_subject_table(subjects, placements)
 
     print(
         f"Registry validation passed: {len(subjects)} subject(s), "
