@@ -9804,6 +9804,51 @@
         "how_to_use": "مراحل attachment، internalization و disassembly را جدا کنید و مشخص کنید هر receptor یا جزء capsid در کدام مرحله اثر دارد.",
         "next_step": "پس از تکمیل ورود، به شاخه ایمنی ویروسی بروید و بررسی کنید سلول پس از شناسایی ویروس چگونه پاسخ می‌دهد."
       }
+    },
+    {
+      "id": "VIROLOGY::REVIEW-VIRAL-INTERFERON-EVASION-2023",
+      "resource_id": "REVIEW-VIRAL-INTERFERON-EVASION-2023",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "viral-immunology-evasion"
+      ],
+      "coverage_concept_ids": [
+        "VR07",
+        "VR08"
+      ],
+      "selection_rationale": "A concise mechanistic review linking viral sensing, interferon induction and antiviral signaling to the strategies viruses use to suppress or redirect innate immunity.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مسیر کلی innate immunity را می‌داند و می‌خواهد ببیند ویروس‌ها در کدام نقاط شبکه interferon مداخله می‌کنند.",
+        "why": "به‌جای فهرست‌کردن پروتئین‌های ویروسی، پاسخ interferon را به‌صورت یک مسیر دفاعی می‌سازد و سپس نقاط فرار ویروس را روی همان مسیر قرار می‌دهد.",
+        "how_to_use": "مسیر sensing تا تولید و پاسخ به interferon را رسم کنید و برای هر راهبرد فرار مشخص کنید ویروس کدام گره یا اتصال را هدف می‌گیرد.",
+        "next_step": "پس از innate immunity، مرور neutralizing antibodies را برای لایه adaptive و ارتباط آن با طراحی واکسن بخوانید."
+      }
+    },
+    {
+      "id": "VIROLOGY::REVIEW-ANTIVIRAL-NEUTRALIZING-ANTIBODIES-2023",
+      "resource_id": "REVIEW-ANTIVIRAL-NEUTRALIZING-ANTIBODIES-2023",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "viral-immunology-evasion"
+      ],
+      "coverage_concept_ids": [
+        "VR04",
+        "VR08",
+        "VR12"
+      ],
+      "selection_rationale": "A complementary adaptive-immunity review that separates in-vitro neutralization from in-vivo antiviral activity and connects antibody mechanisms to passive protection and vaccine design.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد نقش آنتی‌بادی ضدویروسی را فراتر از مفهوم ساده «جلوگیری از اتصال» بفهمد.",
+        "why": "تفاوت neutralization آزمایشگاهی، effector functions و حفاظت واقعی در بدن را روشن می‌کند و به منطق طراحی واکسن متصل می‌شود.",
+        "how_to_use": "برای هر سازوکار آنتی‌بادی مشخص کنید چه چیزی در آزمون in vitro اندازه‌گیری می‌شود و کدام عملکردهای Fc یا بافتی فقط در vivo دیده می‌شوند.",
+        "next_step": "سپس وارد شاخه پاتوژنز و نهفتگی شوید تا پاسخ ایمنی را در زمینه نتیجه نهایی عفونت بررسی کنید."
+      }
     }
   ]
 }
