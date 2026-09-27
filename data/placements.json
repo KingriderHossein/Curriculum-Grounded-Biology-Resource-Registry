@@ -9895,6 +9895,52 @@
         "how_to_use": "برای هر مرحله latency مشخص کنید ژنوم ویروسی کجاست، cGAS-STING چه چیزی را می‌تواند حس کند و ویروس با چه نوع راهبردی مسیر را محدود می‌کند.",
         "next_step": "پس از latency، وارد تکامل و emergence شوید تا ببینید تغییر در سطح جمعیت ویروس چگونه به ظهور میزبان یا جمعیت جدید منجر می‌شود."
       }
+    },
+    {
+      "id": "VIROLOGY::REVIEW-ECOLOGY-VIRAL-EMERGENCE-2022",
+      "resource_id": "REVIEW-ECOLOGY-VIRAL-EMERGENCE-2022",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "virus-evolution-emergence"
+      ],
+      "coverage_concept_ids": [
+        "VR09",
+        "VR10",
+        "VR11"
+      ],
+      "selection_rationale": "A general ecological framework for viral emergence that connects host range, cross-species transmission, ecological opportunity and evolutionary change across the virosphere.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد emergence را فراتر از یک فهرست outbreak و به‌عنوان فرایند اکولوژیک–تکاملی بفهمد.",
+        "why": "بین virus diversity، host jumping، تماس اکولوژیک و موانع استقرار در میزبان جدید رابطه برقرار می‌کند.",
+        "how_to_use": "فرایند emergence را به مراحل exposure، spillover، replication در میزبان جدید، onward transmission و establishment تقسیم کنید و برای هر مرحله مانع اصلی را بنویسید.",
+        "next_step": "سپس منبع immunological drivers را بخوانید تا ببینید فشار ایمنی چگونه پس از spillover مسیر evolution و endemicity را تغییر می‌دهد."
+      }
+    },
+    {
+      "id": "VIROLOGY::REVIEW-IMMUNOLOGICAL-ZOONOTIC-EMERGENCE-2025",
+      "resource_id": "REVIEW-IMMUNOLOGICAL-ZOONOTIC-EMERGENCE-2025",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "virus-evolution-emergence"
+      ],
+      "coverage_concept_ids": [
+        "VR08",
+        "VR09",
+        "VR10"
+      ],
+      "selection_rationale": "A current synthesis of how host immunity and antibody landscapes shape zoonotic emergence, viral adaptation, immune escape and the transition toward endemic circulation.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منطق اکولوژیک spillover را فهمیده و می‌خواهد انتخاب ایمنی پس از ورود ویروس به جمعیت جدید را بررسی کند.",
+        "why": "emergence را به پایان spillover محدود نمی‌کند و نشان می‌دهد immunity جمعیتی چگونه fitness، adaptation و immune escape را شکل می‌دهد.",
+        "how_to_use": "یک خط زمانی از spillover تا endemicity بسازید و در هر مرحله نوع فشار انتخابی، تغییر ویروسی و وضعیت immunity میزبان را کنار هم قرار دهید.",
+        "next_step": "پس از تکامل ویروس‌های جانوری، به ویروس‌های پروکاریوتی بروید تا شکل متفاوتی از هم‌تکاملی virus–host را مقایسه کنید."
+      }
     }
   ]
 }
