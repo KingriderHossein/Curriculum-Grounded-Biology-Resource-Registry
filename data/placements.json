@@ -9604,6 +9604,113 @@
         "how_to_use": "نقشه درماتومی را با ریشه‌های نخاعی و نشانه‌های سطحی مقایسه کنید.",
         "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
       }
+    },
+    {
+      "id": "VIROLOGY::OPENSTAX-MICROBIOLOGY-2016",
+      "resource_id": "OPENSTAX-MICROBIOLOGY-2016",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "foundation",
+      "role": "foundation",
+      "coverage_concept_ids": [
+        "VR01",
+        "VR02",
+        "VR03",
+        "VR04",
+        "VR05",
+        "VR06"
+      ],
+      "selection_rationale": "A targeted prerequisite pass through the virus chapter provides basic vocabulary for viral structure, genome types, replication cycles and classification before a dedicated virology textbook.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که هنوز درباره ساختار ویروس، انواع ژنوم یا مراحل کلی چرخه عفونت تصویر منسجمی ندارد.",
+        "why": "فصل ویروس‌های OpenStax یک مرور کوتاه و آزاد فراهم می‌کند و برای ورود به کتاب اصلی، پیش‌نیازهای پایه را بدون بار جزئیات زیاد یکدست می‌کند.",
+        "how_to_use": "فقط فصل مربوط به ویروس‌ها را هدفمند بخوانید و برای هر مرحله از چرخه ویروس یک نمودار ساده بسازید؛ خواندن کل کتاب میکروبیولوژی لازم نیست.",
+        "next_step": "پس از تسلط بر واژگان پایه و چرخه کلی عفونت، وارد Principles of Virology شوید."
+      }
+    },
+    {
+      "id": "VIROLOGY::BOOK-PRINCIPLES-VIROLOGY5-2020",
+      "resource_id": "BOOK-PRINCIPLES-VIROLOGY5-2020",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "core",
+      "role": "core",
+      "coverage_concept_ids": [
+        "VR01",
+        "VR02",
+        "VR03",
+        "VR04",
+        "VR05",
+        "VR06",
+        "VR07",
+        "VR08",
+        "VR09",
+        "VR10",
+        "VR11",
+        "VR12",
+        "VR13"
+      ],
+      "selection_rationale": "A principle-centered textbook that teaches shared mechanisms across virus families and connects molecular virology, host interaction, pathogenesis and control in a coherent first full pass.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مبانی سلول، ژنتیک مولکولی و میکروبیولوژی را می‌داند و می‌خواهد ویروس‌شناسی را برای نخستین بار به‌صورت منظم یاد بگیرد.",
+        "why": "به‌جای حفظ خانواده‌های ویروسی به‌صورت جداگانه، ابتدا اصول مشترک ساختار، ورود، همانندسازی، تعامل با میزبان و پاتوژنز را می‌سازد.",
+        "how_to_use": "مطالعه را بر اصول مشترک و چرخه عفونت متمرکز کنید و برای هر خانواده ویروسی فقط تفاوت‌هایی را ثبت کنید که یک اصل عمومی را تغییر می‌دهند.",
+        "next_step": "پس از این دور، برای عمق مولکولی بیشتر به Fundamentals of Molecular Virology بروید."
+      }
+    },
+    {
+      "id": "VIROLOGY::BOOK-FUNDAMENTALS-MOLECULAR-VIROLOGY3-2025",
+      "resource_id": "BOOK-FUNDAMENTALS-MOLECULAR-VIROLOGY3-2025",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "intermediate",
+      "role": "intermediate_reference",
+      "coverage_concept_ids": [
+        "VR02",
+        "VR03",
+        "VR04",
+        "VR05",
+        "VR06",
+        "VR07",
+        "VR08",
+        "VR09",
+        "VR10",
+        "VR12",
+        "VR13"
+      ],
+      "selection_rationale": "A current molecular virology text that deepens genome strategy, replication, virus-host interactions, immunity and countermeasures after the first principle-based pass.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مسیر عمومی ویروس‌شناسی را یک بار خوانده و اکنون می‌خواهد سازوکارهای مولکولی خانواده‌های ویروسی را دقیق‌تر مقایسه کند.",
+        "why": "ویرایش سوم لایه مولکولی را با پوشش به‌روزتر خانواده‌های ویروسی، ایمنی ضدویروسی، واکسن‌ها و داروهای ضدویروسی تقویت می‌کند.",
+        "how_to_use": "از آن به‌عنوان دور دوم استفاده کنید؛ برای هر فصل، ژنوم، محل همانندسازی، آنزیم‌های کلیدی، راهبرد بیان ژن و نقطه خروج را در یک قالب ثابت خلاصه کنید.",
+        "next_step": "برای پرسش‌های پژوهشی یا جزئیات عمیق خانواده‌های ویروسی به Fields Virology مراجعه کنید."
+      }
+    },
+    {
+      "id": "VIROLOGY::BOOK-FIELDS-VIROLOGY8-2026",
+      "resource_id": "BOOK-FIELDS-VIROLOGY8-2026",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "advanced",
+      "role": "advanced_reference",
+      "coverage_concept_ids": [
+        "VR01",
+        "VR02",
+        "VR03",
+        "VR04",
+        "VR05",
+        "VR06",
+        "VR07",
+        "VR08",
+        "VR09",
+        "VR10",
+        "VR11",
+        "VR12",
+        "VR13"
+      ],
+      "selection_rationale": "The current comprehensive advanced reference integrates fundamental and medical virology across major virus families, including structure, replication, host responses, evolution, persistence, therapeutics and vaccines.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که برای یک خانواده ویروسی یا یک پرسش مکانیزمی مشخص به مرجع عمیق نیاز دارد.",
+        "why": "Fields Virology برای پوشش مرجع و جزئیات خانواده‌محور انتخاب شده است؛ نقش آن جایگزین کتاب شروع نیست.",
+        "how_to_use": "کتاب را از ابتدا تا انتها نخوانید. از یک پرسش مشخص شروع کنید، فصل مرتبط را پیدا کنید و سازوکار، شواهد و نقاط اختلاف با اصول عمومی را استخراج کنید.",
+        "next_step": "پس از مرجع عمیق، وارد شاخه تخصصی مرتبط شوید و منابع مروری آن شاخه را بخوانید."
+      }
     }
   ]
 }
