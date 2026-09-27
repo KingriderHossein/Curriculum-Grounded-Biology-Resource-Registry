@@ -1,0 +1,184 @@
+{
+  "version": "1.0.0",
+  "base": "9464a8504e66d29c8503816fbfd71005b5a12aac",
+  "date": "2026-09-27",
+  "subject": {
+    "id": "NEUROSCIENCE", "fa_name": "علوم اعصاب", "en_name": "Neuroscience", "scope": "theoretical",
+    "roadmap_stages": ["foundation", "core", "intermediate", "advanced", "specialized"],
+    "concepts": [
+      {"id":"NS01","label":"Neural cells, membranes and nervous-system organization"},
+      {"id":"NS02","label":"Electrical signaling and membrane excitability"},
+      {"id":"NS03","label":"Synaptic transmission and plasticity"},
+      {"id":"NS04","label":"Neural development, maturation and circuit assembly"},
+      {"id":"NS05","label":"Glia, homeostasis and neuroimmune interactions"},
+      {"id":"NS06","label":"Sensory coding, perception and navigation"},
+      {"id":"NS07","label":"Movement, internal models and motor control"},
+      {"id":"NS08","label":"Learning, memory and engrams"},
+      {"id":"NS09","label":"Sleep, wakefulness and circadian regulation"},
+      {"id":"NS10","label":"Mathematical models and neural computation"},
+      {"id":"NS11","label":"Neurodegeneration, vulnerability and resilience"},
+      {"id":"NS12","label":"Cognition and distributed neural circuits"}
+    ],
+    "branches": [
+      {"id":"synapses","label":"Neuronal signaling and synapses","fa_label":"پیام‌رسانی نورونی و سیناپس‌ها"},
+      {"id":"development","label":"Neural development and wiring","fa_label":"تکوین و اتصال مدارهای عصبی"},
+      {"id":"glia","label":"Glia and neuroimmune interactions","fa_label":"گلیا و تعاملات عصبی–ایمنی"},
+      {"id":"sensory","label":"Sensory systems and perception","fa_label":"سامانه‌های حسی و ادراک"},
+      {"id":"motor","label":"Motor control","fa_label":"کنترل حرکت"},
+      {"id":"memory","label":"Learning and memory","fa_label":"یادگیری و حافظه"},
+      {"id":"sleep","label":"Sleep and circadian regulation","fa_label":"خواب و تنظیم شبانه‌روزی"},
+      {"id":"computational","label":"Theoretical and computational neuroscience","fa_label":"علوم اعصاب نظری و محاسباتی"},
+      {"id":"degeneration","label":"Neurodegeneration and resilience","fa_label":"زوال عصبی و تاب‌آوری"}
+    ],
+    "status":"complete_candidate",
+    "completion_criteria":{"general_roadmap_resources":4,"specialized_branches_required":9,"student_guidance_required":true,"theory_only":true}
+  },
+  "ui": {
+    "intro":"این مسیر از سلول عصبی و پیام‌رسانی شروع می‌شود؛ سپس مدارهای حسی و حرکتی، یادگیری، خواب و کارکردهای شناختی را به هم وصل می‌کند. هدف، فهم نظری دستگاه عصبی است؛ نه آموزش اجرای آزمایش، کدنویسی یا درمان بیماری.",
+    "reading_plan":"پیش‌نیاز زیستی ← آشنایی منسجم با دستگاه عصبی ← مرور عمیق‌تر سامانه‌ها ← مرجع مکانیزمی ← شاخه تخصصی",
+    "reading_note":"لازم نیست هر سه کتاب اصلی را از ابتدا تا انتها بخوانید. کتاب نخست، مسیر اصلی یادگیری است. کتاب میانی برای مرور دوم و رفع شکاف‌هاست. مرجع پیشرفته را بر اساس سؤال مشخص بخوانید. برای شاخه محاسباتی، حساب دیفرانسیل، جبر خطی و احتمال پیش‌نیاز هستند.",
+    "branch_note":"این ۹ شاخه، مسیرهای ورود گزینش‌شده‌اند؛ فهرست کامل همه زیرحوزه‌های علوم اعصاب نیستند. هر شاخه دو منبع با نقش مشخص دارد. منابع قدیمی‌تر برای ساختن چارچوب مفهومی حفظ شده‌اند؛ جدیدبودن به‌تنهایی معیار برتری نیست.",
+    "verification_note":"عنوان، نویسندگان، ویرایش، سال و شناسه منابع جدید با صفحه ناشر یا ژورنال بررسی شده‌اند. تناسب آموزشی بر اساس معرفی ناشر، فهرست مطالب یا چکیده ارزیابی شده است؛ این کار به معنای داوری کامل متن همه منابع نیست. پیشنهاد ترتیب مطالعه، انتخاب ویراستاری این پروژه است. مقاله چشم‌انداز در شاخه محاسباتی، دیدگاه پژوهشی است و نباید اجماع قطعی تلقی شود.",
+    "edition_note":"سال کتاب‌های اصلی به ویرایش انتخاب‌شده مربوط است. نسخه کاغذی کتاب علوم اعصاب نظری در ۲۰۰۵ منتشر شده؛ متن اصلی آن متعلق به ۲۰۰۱ است و چاپ کاغذی، ویرایش علمی تازه محسوب نمی‌شود. برای مقاله‌ها، سال شماره ژورنال ممکن است با تاریخ انتشار آنلاین تفاوت داشته باشد.",
+    "candidate_status":"پیش‌نویس کامل مسیر؛ بررسی نهایی جلدها و آزمون‌های ادغام باقی مانده است.",
+    "complete_status":"مسیر شامل ۴ مرحله عمومی، ۹ شاخه تخصصی و ۲۲ جایگاه منبع است. جلدهای منابع تازه از نظر عنوان و ویرایش بازبینی شده‌اند؛ وضعیت آزمون‌ها در درخواست ادغام ثبت می‌شود.",
+    "stages":{"foundation":"پایه — پیش‌نیازهای زیستی","core":"اصلی — ورود منسجم به علوم اعصاب","intermediate":"میانی — مرور عمیق‌تر سامانه‌ها","advanced":"پیشرفته — مرجع مکانیزمی"},
+    "roles":{"branch_reference":"مرجع مفهومی شاخه","complementary_reference":"مرجع تکمیلی","current_update":"به‌روزرسانی تخصصی"},
+    "guidance":{"best_for":"مناسب برای","why":"دلیل انتخاب","how_to_use":"شیوه مطالعه","next_step":"ادامه مسیر"},
+    "root_intro":"مسیر از سلول عصبی و پیام‌رسانی تا مدارهای حسی، حرکت، حافظه و شناخت پیش می‌رود و سپس به شاخه‌های زیر می‌رسد:",
+    "root_roles":{"core":"منبع اصلی","intermediate":"منبع تکمیلی","advanced":"منبع پیشرفته"},
+    "main_books":"کتاب‌های اصلی مسیر","roadmap_link":"مشاهده نقشه‌راه علوم اعصاب","publisher_link":"صفحه رسمی منبع","purchase_link":"ناشر / خرید","branches_heading":"شاخه‌های تخصصی","scope_heading":"دامنه و شیوه استفاده","verification_heading":"دامنه بررسی منابع","suggested_heading":"مسیر پیشنهادی","branch_table":"شاخه | ترتیب پیشنهادی","stage_table":"مرحله | منبع"
+  },
+  "entries": [
+    {
+      "reuse_id":"OPENSTAX-BIOLOGY2E-2018","stage":"foundation","concepts":["NS01","NS02","NS03"],
+      "rationale":"Accessible prerequisite review of membranes, cell communication and the nervous system before a dedicated neuroscience text.",
+      "guidance":{"best_for":"دانشجویی که در غشا، انتقال یون، پیام‌رسانی سلولی یا سازمان دستگاه عصبی شکاف پایه دارد.","why":"یک پیش‌نیاز آزاد و قابل دسترس است؛ مانع می‌شود اصطلاحات سلولی، یادگیری علوم اعصاب را متوقف کنند.","how_to_use":"بخش‌های غشا و انتقال، ارتباط سلولی و دستگاه عصبی را هدفمند مرور کنید؛ خواندن کل کتاب لازم نیست.","next_step":"وقتی تفاوت نورون، سیناپس و پیام عصبی روشن شد، وارد کتاب اصلی مسیر شوید."}
+    },
+    {
+      "resource":{"id":"BOOK-NEUROSCIENCE-BEAR5-2026","resource_type":"textbook","title":"Neuroscience: Exploring the Brain","authors":["Mark F. Bear","Barry W. Connors","Michael A. Paradiso"],"published_year":2026,"edition":"5th Edition","isbn":"9781284286878","publisher":"Jones & Bartlett Learning","publisher_url":"https://www.jblearning.com/catalog/productdetails/9781284286878","purchase_url":"https://www.jblearning.com/catalog/productdetails/9781284286878","cover":{"url":"https://covers.vitalsource.com/vbid/9781284286922/width/300","source":"VitalSource same-edition eBook cover; publisher eISBN 9781284286922","source_url":"https://www.jblearning.com/catalog/productdetails/9781284286922"}},
+      "stage":"core","concepts":["NS01","NS02","NS03","NS04","NS06","NS07","NS08","NS09","NS12"],
+      "rationale":"Introductory general neuroscience textbook selected as the first coherent route from neural cells to systems and behavior; the fifth edition is listed by its publisher with copyright 2026.",
+      "guidance":{"best_for":"دانشجویی که زیست‌شناسی پایه را می‌داند، اما هنوز علوم اعصاب را به‌صورت منسجم نخوانده است.","why":"برای ساختن مسیر نخست از نورون و سیناپس به سامانه‌های عصبی و رفتار انتخاب شده است؛ قرار نیست از سنگین‌ترین مرجع شروع کنید.","how_to_use":"ابتدا مبانی سلولی و سازمان دستگاه عصبی را بخوانید؛ سپس برای هر سامانه، ورودی، مدار و کارکرد را در یک نقشه مفهومی وصل کنید.","next_step":"پس از یک دور مطالعه، موضوع‌های مبهم را با کتاب میانی مرور کنید؛ لازم نیست از نو همه فصل‌ها را بخوانید."}
+    },
+    {
+      "resource":{"id":"BOOK-NEUROSCIENCE-OUP7-2023","resource_type":"textbook","title":"Neuroscience","authors":["George J. Augustine","Jennifer M. Groh","Scott A. Huettel","Anthony-Samuel LaMantia","Leonard E. White","Dale Purves"],"contributor_role":"Editors; Dale Purves is emeritus editor","published_year":2023,"edition":"7th Edition","isbn":"9780197616246","publisher":"Oxford University Press / Sinauer","publisher_url":"https://www.oup.com.au/books/higher-education/science/9780197616246","purchase_url":"https://www.oup.com.au/books/higher-education/science/9780197616246","cover":{"url":"https://fdslive.oup.com/covers/anz/desktop/medium/9780197616246.jpg","source":"Oxford University Press cover service","source_url":"https://www.oup.com.au/books/higher-education/science/9780197616246"}},
+      "stage":"intermediate","concepts":["NS01","NS02","NS03","NS04","NS06","NS07","NS08","NS09","NS11","NS12"],
+      "rationale":"Second-pass bridge between undergraduate and medical neuroscience, with publisher TOC spanning signaling, sensation, movement, development and cognitive functions.",
+      "guidance":{"best_for":"دانشجویی که یک دور عمومی را گذرانده و می‌خواهد ارتباط سازوکار سلولی، مدار و کارکرد را دقیق‌تر بفهمد.","why":"فهرست مطالب از پیام‌رسانی تا حس، حرکت، تکوین و شناخت امتداد دارد؛ برای مرور موضوعیِ عمیق‌تر مناسب است.","how_to_use":"یک سامانه را انتخاب کنید و توضیح آن را با کتاب اصلی مقایسه کنید. مثال‌های جانوری، انسانی و بالینی را از هم جدا نگه دارید.","next_step":"برای پرسش‌های مکانیزمی عمیق‌تر به مرجع پیشرفته مراجعه کنید؛ مثال بالینی را جایگزین راهنمای درمان نکنید."}
+    },
+    {
+      "resource":{"id":"BOOK-PRINCIPLES-NEURAL-SCIENCE6-2021","resource_type":"textbook","title":"Principles of Neural Science","authors":["Eric R. Kandel","John D. Koester","Sarah H. Mack","Steven A. Siegelbaum"],"published_year":2021,"edition":"6th Edition","isbn":"9781259642234","publisher":"McGraw Hill","publisher_url":"https://www.mheducation.com/highered/mhp/product/principles-neural-science-sixth-edition.html","purchase_url":"https://www.mheducation.com/highered/mhp/product/principles-neural-science-sixth-edition.html","cover":{"url":"https://www.mheducation.com/cover-images/Webp_400-wide/1259642232.webp","source":"Official McGraw Hill product cover","source_url":"https://www.mheducation.com/highered/mhp/product/principles-neural-science-sixth-edition.html"}},
+      "stage":"advanced","concepts":["NS01","NS02","NS03","NS04","NS05","NS06","NS07","NS08","NS09","NS11","NS12"],
+      "rationale":"Advanced mechanistic reference connecting cellular mechanisms, neural systems, cognition and neurological disease; used selectively rather than as a beginner's cover-to-cover assignment.",
+      "guidance":{"best_for":"دانشجوی پیشرفته‌ای که مبانی را می‌داند و برای یک سؤال مشخص به توضیح مکانیزمی و شواهد بیشتر نیاز دارد.","why":"مرجعی گسترده برای وصل‌کردن سطح سلولی، سامانه‌ای و رفتاری است؛ نقش آن تعمیق فهم است، نه شروع از صفر.","how_to_use":"از سؤال خود شروع کنید و فصل مرتبط را بخوانید. سازوکار پیشنهادی، شواهد و موارد نامعلوم را در سه ستون جدا یادداشت کنید.","next_step":"شاخه تخصصی نزدیک به پرسش خود را انتخاب کنید و مرجع مفهومی آن شاخه را پیش از مقاله جدیدتر بخوانید."}
+    },
+    {
+      "resource":{"id":"REVIEW-SYNAPSE-MOLECULAR-DIVERSITY-2025","resource_type":"review_article","title":"Understanding the molecular diversity of synapses","authors":["Marc van Oostrum","Erin M. Schuman"],"published_year":2025,"online_published_on":"2024-12-05","journal":"Nature Reviews Neuroscience","doi":"10.1038/s41583-024-00888-w","publisher_url":"https://www.nature.com/articles/s41583-024-00888-w"},
+      "branch":"synapses","branch_role":"branch_reference","concepts":["NS01","NS03"],
+      "rationale":"Introduces molecular heterogeneity as an organizing principle for understanding chemical synapses beyond a single schematic model.",
+      "guidance":{"best_for":"دانشجویی که انتقال سیناپسی پایه را می‌داند و می‌پرسد چرا همه سیناپس‌ها یکسان نیستند.","why":"تنوع مولکولی را به سازمان سیناپس وصل می‌کند و تصویر ساده یک سیناپس نمونه را گسترش می‌دهد.","how_to_use":"برای هر نوع تفاوت، جزء مولکولی و پیامد کارکردیِ گزارش‌شده را جدا کنید؛ تنوع اندازه‌گیری‌شده را خودبه‌خود علت رفتار ندانید.","next_step":"برای مقایسه دو شیوه ارتباط نورونی، مرور سیناپس الکتریکی را بخوانید."}
+    },
+    {
+      "resource":{"id":"REVIEW-ELECTRICAL-SYNAPSE-2026","resource_type":"review_article","title":"Defining the electrical synapse","authors":["Alberto E. Pereda","Adam C. Miller"],"published_year":2026,"online_published_on":"2026-09-11","journal":"Nature Reviews Neuroscience","doi":"10.1038/s41583-026-01080-y","publisher_url":"https://www.nature.com/articles/s41583-026-01080-y"},
+      "branch":"synapses","branch_role":"current_update","concepts":["NS02","NS03"],
+      "rationale":"Recent review expanding the structural and functional account of electrical synapses, complementary to the molecular-diversity reference.",
+      "guidance":{"best_for":"دانشجویی که می‌خواهد سیناپس الکتریکی را فراتر از یک اتصال منفعل بشناسد.","why":"تعریف و ویژگی‌های سیناپس الکتریکی را بررسی می‌کند و مکمل نگاه غالب به سیناپس شیمیایی است.","how_to_use":"ساختار، جهت انتقال و تنظیم‌پذیری را با سیناپس شیمیایی مقایسه کنید. برای هر تفاوت، شواهد و حدود تعمیم را مشخص کنید.","next_step":"یک نقشه مقایسه‌ای از دو نوع سیناپس بسازید و پرسش مربوط به شکل‌گیری مدار را در شاخه تکوین دنبال کنید."}
+    },
+    {
+      "resource":{"id":"REVIEW-INDIRECT-NEUROGENESIS-2024","resource_type":"review_article","title":"Indirect neurogenesis in space and time","authors":["Stefan Thor"],"published_year":2024,"journal":"Nature Reviews Neuroscience","doi":"10.1038/s41583-024-00833-x","publisher_url":"https://www.nature.com/articles/s41583-024-00833-x"},
+      "branch":"development","branch_role":"branch_reference","concepts":["NS04"],
+      "rationale":"Conceptual entry into progenitor-mediated neuronal production across developmental space and time.",
+      "guidance":{"best_for":"دانشجویی که تمایز سلولی را می‌داند و می‌خواهد منشأ تعداد و تنوع نورون‌ها را بفهمد.","why":"تولید نورون را با زمان، مکان و نقش پیش‌سازهای میانی مرتبط می‌کند.","how_to_use":"مسیر مستقیم و غیرمستقیم تولید نورون را رسم کنید؛ مرحله تقسیم را با مرحله بلوغ نورون یکی نگیرید.","next_step":"سپس مرور بلوغ نورونی انسان را برای فاصله میان تولید نورون و عملکرد بالغ بخوانید."}
+    },
+    {
+      "resource":{"id":"REVIEW-HUMAN-NEURONAL-MATURATION-2024","resource_type":"review_article","title":"Human neuronal maturation comes of age: cellular mechanisms and species differences","authors":["Jenelle L. Wallace","Alex A. Pollen"],"published_year":2024,"online_published_on":"2023-11-23","journal":"Nature Reviews Neuroscience","doi":"10.1038/s41583-023-00760-3","publisher_url":"https://www.nature.com/articles/s41583-023-00760-3"},
+      "branch":"development","branch_role":"complementary_reference","concepts":["NS03","NS04","NS05"],
+      "rationale":"Complements neurogenesis with neuronal maturation, intrinsic/extrinsic mechanisms and explicitly species-dependent timescales.",
+      "guidance":{"best_for":"دانشجویی که می‌خواهد بداند بلوغ نورون انسانی چه تفاوتی با مدل‌های جانوری دارد.","why":"تولید نورون، بلوغ و اثر محیط سلولی را از هم جدا می‌کند و به تفاوت گونه‌ها توجه دارد.","how_to_use":"عوامل درونی و بیرونی بلوغ را دسته‌بندی کنید؛ زمان‌بندی یک گونه را بدون شاهد به انسان تعمیم ندهید.","next_step":"برای نقش محیط غیرنورونی، شاخه گلیا و تعاملات عصبی–ایمنی را بخوانید."}
+    },
+    {
+      "resource":{"id":"REVIEW-ASTROCYTES-MICROGLIA-CNS-2024","resource_type":"review_article","title":"Astrocytes and microglia in the coordination of CNS development and homeostasis","authors":["Aída Oryza Lopez-Ortiz","Ukpong B. Eyo"],"published_year":2024,"journal":"Journal of Neurochemistry","doi":"10.1111/jnc.16006","publisher_url":"https://onlinelibrary.wiley.com/doi/10.1111/jnc.16006"},
+      "branch":"glia","branch_role":"branch_reference","concepts":["NS04","NS05"],
+      "rationale":"Connects astrocyte-microglia interactions to CNS development and homeostasis while distinguishing demonstrated from suggested coordination.",
+      "guidance":{"best_for":"دانشجویی که هنوز دستگاه عصبی را عمدتاً مجموعه نورون‌ها می‌بیند.","why":"نقش مشترک آستروسیت و میکروگلیا را در تکوین و حفظ محیط عصبی برجسته می‌کند.","how_to_use":"تعامل‌های مربوط به سیناپس، میلین و پاک‌سازی را جدا کنید؛ موارد اثبات‌شده و پیشنهادشده را با برچسب متفاوت ثبت کنید.","next_step":"برای پرهیز از دسته‌بندی بیش‌ازحد ساده میکروگلیا، مرور حالت‌های میکروگلیایی را بخوانید."}
+    },
+    {
+      "resource":{"id":"REVIEW-MICROGLIAL-STATES-2026","resource_type":"review_article","title":"Microglial states revisited: from homeostasis to disease","authors":["Bart J. L. Eggen","Susanne M. Kooistra"],"published_year":2026,"online_published_on":"2026-07-20","journal":"Nature Reviews Neuroscience","doi":"10.1038/s41583-026-01066-w","publisher_url":"https://www.nature.com/articles/s41583-026-01066-w"},
+      "branch":"glia","branch_role":"current_update","concepts":["NS05","NS11"],
+      "rationale":"Updates the conceptual treatment of context-dependent microglial states across homeostasis and disease.",
+      "guidance":{"best_for":"دانشجویی که می‌خواهد برچسب‌های حالت میکروگلیا را در داده‌های جدید درست تفسیر کند.","why":"به تغییرپذیری حالت‌ها با زمینه زیستی می‌پردازد؛ یک برچسب ثابت برای همه شرایط کافی نیست.","how_to_use":"سن، گونه، بافت و بیماری هر مثال را یادداشت کنید. خوشه بیان ژن را به‌تنهایی اثبات نقش علّی یا هویت ثابت سلول ندانید.","next_step":"برای ارتباط حالت گلیا با آسیب‌پذیری سلول‌ها، شاخه زوال عصبی را دنبال کنید."}
+    },
+    {
+      "reuse_id":"REVIEW-NEUROETHOLOGY-MODELS-2024","branch":"sensory","branch_role":"branch_reference","concepts":["NS06","NS07"],
+      "rationale":"Existing registry review used here for comparative links between sensory processing, neural systems and natural behavior, not for laboratory model-organism training.",
+      "guidance":{"best_for":"دانشجویی که می‌خواهد رابطه حس، مدار و رفتار را در چند گونه مقایسه کند.","why":"دیدگاه رفتارشناسی عصبی، کارکرد سامانه حسی را در زمینه رفتار طبیعی قرار می‌دهد.","how_to_use":"برای هر مثال، محرک، نیاز رفتاری و محاسبه عصبی را مشخص کنید. تمرکز بر منطق زیستی باشد، نه روش اجرای آزمایش.","next_step":"برای یک مسئله مشخصِ ادغام حس‌ها، مرور حس‌کردن حرکت خود و ناوبری را بخوانید."}
+    },
+    {
+      "resource":{"id":"REVIEW-MULTISENSORY-SELF-MOTION-2025","resource_type":"review_article","title":"Multisensory coding of self-motion and its contribution to navigation","authors":["Dun Mao","Yong Gu"],"published_year":2025,"journal":"Nature Reviews Neuroscience","doi":"10.1038/s41583-025-00970-x","publisher_url":"https://www.nature.com/articles/s41583-025-00970-x"},
+      "branch":"sensory","branch_role":"current_update","concepts":["NS06","NS07","NS10"],
+      "rationale":"Focused update on integrating self-motion signals for navigation; deliberately not presented as an exhaustive review of every sensory modality.",
+      "guidance":{"best_for":"دانشجویی که با سامانه‌های بینایی و دهلیزی آشناست و به ادغام چند حس علاقه دارد.","why":"ناوبری یک مسئله روشن برای وصل‌کردن ورودی حسی، برآورد حرکت و رفتار فراهم می‌کند.","how_to_use":"منبع هر سیگنال و چارچوب مختصات آن را مشخص کنید؛ دریافت محرک را با برآورد حالت بدن یکی نگیرید.","next_step":"برای نقش پیش‌بینی در تبدیل برآورد حسی به حرکت، وارد شاخه کنترل حرکت شوید."}
+    },
+    {
+      "resource":{"id":"REVIEW-COMPUTATIONAL-MOVEMENT-2000","resource_type":"review_article","title":"Computational principles of movement neuroscience","authors":["Daniel M. Wolpert","Zoubin Ghahramani"],"published_year":2000,"journal":"Nature Neuroscience","doi":"10.1038/81497","publisher_url":"https://www.nature.com/articles/nn1100_1212"},
+      "branch":"motor","branch_role":"branch_reference","concepts":["NS07","NS10"],
+      "rationale":"Foundational conceptual framework separating planning, control, prediction, estimation and learning; retained for conceptual value, not claimed to be current coverage.",
+      "guidance":{"best_for":"دانشجویی که توصیف مسیرهای حرکتی را می‌داند و می‌خواهد مسئله محاسباتیِ حرکت را صورت‌بندی کند.","why":"برنامه‌ریزی، کنترل، پیش‌بینی و یادگیری را در یک چارچوب کلاسیک جدا می‌کند؛ قدیمی است و باید با مرور تازه تکمیل شود.","how_to_use":"برای یک حرکت ساده، هدف، برآورد حالت، فرمان و بازخورد را رسم کنید؛ مدل توضیحی را با مدار اثبات‌شده برابر نگیرید.","next_step":"مرور محاسبات مخچه را برای پیوند چارچوب نظری با شواهد مدار بخوانید."}
+    },
+    {
+      "resource":{"id":"REVIEW-CEREBELLAR-PREDICTIVE-CONTROL-2025","resource_type":"review_article","title":"Cerebellar circuit computations for predictive motor control","authors":["Katrina P. Nguyen","Abigail L. Person"],"published_year":2025,"journal":"Nature Reviews Neuroscience","doi":"10.1038/s41583-025-00936-z","publisher_url":"https://www.nature.com/articles/s41583-025-00936-z"},
+      "branch":"motor","branch_role":"current_update","concepts":["NS03","NS07","NS10"],
+      "rationale":"Evaluates cerebellar circuit evidence relevant to predictive motor control rather than treating the feedforward-control hypothesis as settled.",
+      "guidance":{"best_for":"دانشجویی که مدل درونی و پیش‌بینی حرکت را می‌شناسد و می‌خواهد شواهد مخچه را ارزیابی کند.","why":"میان فرضیه محاسباتی و معماری مدار مخچه ارتباط برقرار می‌کند.","how_to_use":"شواهد موافق و محدودیت‌های توضیح پیش‌بین را جدا فهرست کنید؛ نقش هر نوع سلول را با نوع اطلاعات ورودی آن مرتبط کنید.","next_step":"پرسش باز خود را مشخص کنید و برای زبان ریاضی مدل به شاخه علوم اعصاب محاسباتی بروید."}
+    },
+    {
+      "resource":{"id":"REVIEW-MEMORY-ENGRAMS-2020","resource_type":"review_article","title":"Memory engrams: Recalling the past and imagining the future","authors":["Sheena A. Josselyn","Susumu Tonegawa"],"published_year":2020,"journal":"Science","doi":"10.1126/science.aaw4325","publisher_url":"https://www.science.org/doi/10.1126/science.aaw4325"},
+      "branch":"memory","branch_role":"branch_reference","concepts":["NS03","NS08"],
+      "rationale":"Conceptual foundation for engrams linking cellular excitability, plasticity and memory evidence while distinguishing species and causal inference.",
+      "guidance":{"best_for":"دانشجویی که می‌خواهد مفهوم ردّ حافظه را از تعبیر عامیانه ذخیره‌شدن خاطره جدا کند.","why":"انگرام را به مجموعه سلولی، تغییرپذیری و شواهد حافظه وصل می‌کند.","how_to_use":"معیار شناسایی انگرام و نوع شاهد هر ادعا را یادداشت کنید. نتیجه مداخله در جانور را بدون شاهد به حافظه انسانی تعمیم ندهید.","next_step":"مرور ریپل‌ها در حافظه انسان را برای مقایسه سطح سلولی و فعالیت جمعیتی بخوانید."}
+    },
+    {
+      "resource":{"id":"REVIEW-HUMAN-MEMORY-RIPPLES-2025","resource_type":"review_article","title":"Ripple contributions to human memory: making the spiking content count","authors":["Joel Reithler","Kelsey K. Sundby","Kareem A. Zaghloul"],"published_year":2025,"journal":"Nature Reviews Neuroscience","doi":"10.1038/s41583-025-00971-w","publisher_url":"https://www.nature.com/articles/s41583-025-00971-w"},
+      "branch":"memory","branch_role":"current_update","concepts":["NS08","NS12"],
+      "rationale":"Focused human-memory update on ripple events and the information carried by associated spiking, complementary to the engram framework.",
+      "guidance":{"best_for":"دانشجویی که به ارتباط فعالیت جمعیتی نورون‌ها با تشکیل و بازیابی حافظه انسان علاقه دارد.","why":"صرف مشاهده نوسان را از محتوای اطلاعاتی فعالیت همراه آن جدا می‌کند.","how_to_use":"تشکیل و بازیابی حافظه را جدا بررسی کنید؛ هم‌زمانی ریپل با عملکرد حافظه را به‌تنهایی شاهد علّی ندانید.","next_step":"برای مقایسه نقش حالت مغز در حافظه، شاخه خواب و تنظیم شبانه‌روزی را بخوانید."}
+    },
+    {
+      "resource":{"id":"REVIEW-SLEEP-WAKE-CIRCUITRY-2017","resource_type":"review_article","title":"Neural Circuitry of Wakefulness and Sleep","authors":["Thomas E. Scammell","Elda Arrigoni","Jonathan O. Lipton"],"published_year":2017,"journal":"Neuron","doi":"10.1016/j.neuron.2017.01.014","publisher_url":"https://doi.org/10.1016/j.neuron.2017.01.014","access_url":"https://pmc.ncbi.nlm.nih.gov/articles/PMC5325713/"},
+      "branch":"sleep","branch_role":"branch_reference","concepts":["NS03","NS09"],
+      "rationale":"Foundational review of mammalian sleep/wake circuits, mutual inhibition and circadian timing; selected for conceptual structure, not medical advice.",
+      "guidance":{"best_for":"دانشجویی که می‌خواهد خواب را به‌صورت حالت تنظیم‌شده مدار عصبی بفهمد.","why":"بیداری، خواب و زمان‌بندی شبانه‌روزی را در چارچوب مدارهای تنظیمی توضیح می‌دهد.","how_to_use":"فشار هم‌ایستایی خواب و زمان‌بندی شبانه‌روزی را جدا کنید؛ سپس مدارهای مربوط به بیداری و دو حالت عمده خواب را کنار هم بگذارید.","next_step":"برای پیامد شناختی خواب، مرور جدید سهم خواب در تشکیل حافظه را بخوانید."}
+    },
+    {
+      "resource":{"id":"REVIEW-SLEEP-MEMORY-FORMATION-2026","resource_type":"review_article","title":"Sleep’s contribution to memory formation","authors":["Nicolas D. Lutz","Maximilian Harkotte","Jan Born"],"published_year":2026,"journal":"Physiological Reviews","doi":"10.1152/physrev.00054.2024","publisher_url":"https://journals.physiology.org/doi/10.1152/physrev.00054.2024"},
+      "branch":"sleep","branch_role":"current_update","concepts":["NS03","NS08","NS09"],
+      "rationale":"Recent synthesis of sleep-dependent memory mechanisms, allowing comparison of systems-consolidation and synaptic accounts across humans and rodents.",
+      "guidance":{"best_for":"دانشجویی که مبانی خواب و حافظه را می‌داند و می‌خواهد رابطه این دو را مکانیزمی بررسی کند.","why":"فرایندهای مرتبط با حافظه را در چند سطح به خواب پیوند می‌دهد و برای مقایسه توضیح‌های رقیب مناسب است.","how_to_use":"برای هر مدل، سطح توضیح و نوع شواهد را مشخص کنید؛ تفاوت نتایج انسان و جوندگان را حفظ کنید.","next_step":"یک پرسش مقایسه‌ای درباره تثبیت حافظه صورت‌بندی کنید؛ از متن، توصیه شخصی پزشکی استخراج نکنید."}
+    },
+    {
+      "resource":{"id":"BOOK-THEORETICAL-NEUROSCIENCE-PAPERBACK-2005","resource_type":"textbook","title":"Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems","authors":["Peter Dayan","Laurence F. Abbott"],"published_year":2005,"original_published_year":2001,"edition":"Paperback edition","isbn":"9780262541855","publisher":"The MIT Press","publisher_url":"https://mitpress.mit.edu/9780262541855/theoretical-neuroscience/","purchase_url":"https://mitpress.mit.edu/9780262541855/theoretical-neuroscience/","cover":{"url":"https://mit-press-new-us.imgix.net/covers/9780262541855.jpg?auto=format&w=300","source":"Official MIT Press product cover","source_url":"https://mitpress.mit.edu/9780262541855/theoretical-neuroscience/"}},
+      "branch":"computational","branch_role":"branch_reference","concepts":["NS02","NS03","NS06","NS10"],
+      "rationale":"Foundational mathematical treatment of neural coding, biophysical neuron/circuit models and plasticity; the selected 2005 paperback is not a new scientific edition of the 2001 text.",
+      "guidance":{"best_for":"دانشجویی با مبانی علوم اعصاب، حساب دیفرانسیل، جبر خطی و احتمال که می‌خواهد مدل‌ها را بفهمد.","why":"زبان کمیِ کدگذاری عصبی، مدل نورون و مدار، و تغییرپذیری را در یک مرجع نظری جمع می‌کند.","how_to_use":"برای هر مدل، متغیر، پارامتر، فرض و پیش‌بینی را بنویسید. تمرکز بر استدلال و معادله باشد، نه آموزش نرم‌افزار یا پیاده‌سازی.","next_step":"برای دیدن یک مسئله نظری باز در سطح شبکه، مقاله چشم‌انداز شبکه‌های توزیع‌شده شناخت را بخوانید."}
+    },
+    {
+      "resource":{"id":"PERSPECTIVE-DISTRIBUTED-COGNITION-2026","resource_type":"authoritative_reference","publication_type":"Perspective","title":"How distributed is the brain-wide network that is recruited for cognition?","authors":["Matthew C. Rosen","David J. Freedman"],"published_year":2026,"online_published_on":"2025-12-04","journal":"Nature Reviews Neuroscience","doi":"10.1038/s41583-025-00992-5","publisher_url":"https://www.nature.com/articles/s41583-025-00992-5"},
+      "branch":"computational","branch_role":"current_update","concepts":["NS10","NS12"],
+      "rationale":"Peer-reviewed Perspective on distributed cognition, explicitly used to compare interpretations and open questions rather than as a consensus review.",
+      "guidance":{"best_for":"دانشجویی که می‌خواهد تفسیرهای محلی و توزیع‌شده از کارکرد شناختی را مقایسه کند.","why":"یک مقاله چشم‌انداز داوری‌شده است که مسئله نظری را روشن می‌کند؛ نوع آن با مقاله مروری متفاوت است.","how_to_use":"ادعای نویسندگان، شاهد پشتیبان و تفسیر جایگزین را جدا کنید. گستردگی سیگنال ثبت‌شده را خودبه‌خود گستردگی نقش علّی ندانید.","next_step":"پیش‌بینی متمایز هر تفسیر را بنویسید و آن را با فرض‌های مدل مرجع مقایسه کنید."}
+    },
+    {
+      "resource":{"id":"REVIEW-NEURODEGENERATION-HALLMARKS-2023","resource_type":"review_article","title":"Hallmarks of neurodegenerative diseases","authors":["David M. Wilson III","Mark R. Cookson","Ludo Van Den Bosch","Henrik Zetterberg","David M. Holtzman","Ilse Dewachter"],"published_year":2023,"journal":"Cell","doi":"10.1016/j.cell.2022.12.032","publisher_url":"https://www.sciencedirect.com/science/article/pii/S0092867422015756"},
+      "branch":"degeneration","branch_role":"branch_reference","concepts":["NS01","NS03","NS05","NS11"],
+      "rationale":"Organizing review of shared neurodegenerative processes; a conceptual framework rather than proof of one universal causal sequence.",
+      "guidance":{"best_for":"دانشجویی که می‌خواهد فرایندهای مشترک زوال عصبی را پیش از ورود به یک بیماری مشخص بشناسد.","why":"چارچوبی برای کنار هم گذاشتن سازوکارهای سلولی فراهم می‌کند و از مطالعه پراکنده بیماری‌ها می‌کاهد.","how_to_use":"برای هر ویژگی، سطح سلولی و شواهد بیماری‌محور را ثبت کنید؛ وجود یک ویژگی مشترک را علت یکسان همه بیماری‌ها ندانید.","next_step":"مرور آسیب‌پذیری و تاب‌آوری سیناپس را برای یک سطح مشخص‌تر از این چارچوب بخوانید."}
+    },
+    {
+      "resource":{"id":"REVIEW-SYNAPSE-DEMENTIA-RESILIENCE-2025","resource_type":"review_article","title":"Synapse vulnerability and resilience across the clinical spectrum of dementias","authors":["Raquel N. Taddei","Karen E. Duff"],"published_year":2025,"journal":"Nature Reviews Neurology","doi":"10.1038/s41582-025-01094-7","publisher_url":"https://www.nature.com/articles/s41582-025-01094-7"},
+      "branch":"degeneration","branch_role":"current_update","concepts":["NS03","NS08","NS11"],
+      "rationale":"Focused biological account of synaptic vulnerability and resilience across dementias; selected for mechanisms, not diagnostic or treatment recommendations.",
+      "guidance":{"best_for":"دانشجویی که به رابطه تغییر سیناپس، عملکرد شناختی و تفاوت آسیب‌پذیری علاقه دارد.","why":"چارچوب عمومی زوال عصبی را به یک سطح مشخص، یعنی سیناپس، محدود می‌کند.","how_to_use":"آسیب‌پذیری و تاب‌آوری را مقایسه کنید؛ ارتباط با افت شناختی، فرضیه سازوکار و شواهد علّی را از هم جدا نگه دارید.","next_step":"یک سؤال زیستی درباره علت تفاوت آسیب‌پذیری انتخاب کنید؛ این منبع برای تصمیم درمانی شخصی نیست."}
+    }
+  ]
+}
