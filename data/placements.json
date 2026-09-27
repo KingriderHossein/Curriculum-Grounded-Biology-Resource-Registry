@@ -9758,6 +9758,52 @@
         "how_to_use": "همان قالب مقایسه‌ای منبع RNA را حفظ کنید و مشخص کنید هر خانواده کدام بخش از ماشین سلول میزبان را استفاده یا جایگزین می‌کند.",
         "next_step": "پس از مقایسه RNA و DNA، وارد شاخه ساختار و ورود شوید تا ببینید چرخه همانندسازی چگونه از مرحله ورود آغاز می‌شود."
       }
+    },
+    {
+      "id": "VIROLOGY::REVIEW-VIRAL-MEMBRANE-FUSION-2023",
+      "resource_id": "REVIEW-VIRAL-MEMBRANE-FUSION-2023",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "structural-virology-entry"
+      ],
+      "coverage_concept_ids": [
+        "VR03",
+        "VR04",
+        "VR07"
+      ],
+      "selection_rationale": "A mechanistic review of enveloped-virus fusion proteins, conformational transitions and lipid interactions that connects virion structure to membrane entry.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد ورود ویروس‌های پوشش‌دار را در سطح ساختار پروتئین و غشا بفهمد.",
+        "why": "کلاس‌های اصلی fusion protein و تغییر شکل پیش از همجوشی تا پس از همجوشی را در یک چارچوب فیزیکی و ساختاری قرار می‌دهد.",
+        "how_to_use": "برای هر کلاس fusion protein، محرک فعال‌سازی، intermediate ساختاری، نقش لیپید و مرحله آزادشدن ژنوم را روی یک طرح واحد ثبت کنید.",
+        "next_step": "سپس منبع receptor complexity را بخوانید تا ببینید ورود ویروس فقط مسئله fusion نیست و از attachment و receptor usage آغاز می‌شود."
+      }
+    },
+    {
+      "id": "VIROLOGY::AUTHREF-VIRAL-ENTRY-MULTIPLE-RECEPTORS-2025",
+      "resource_id": "AUTHREF-VIRAL-ENTRY-MULTIPLE-RECEPTORS-2025",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "structural-virology-entry"
+      ],
+      "coverage_concept_ids": [
+        "VR03",
+        "VR04",
+        "VR07"
+      ],
+      "selection_rationale": "A current authoritative perspective showing how multiple capsid–receptor interactions can coordinate attachment, internalization, disassembly, tropism and host range in a non-enveloped virus.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که fusion ویروس‌های پوشش‌دار را فهمیده و می‌خواهد ورود ویروس‌های بدون پوشش و نقش چند گیرنده را مقایسه کند.",
+        "why": "نمونه reovirus نشان می‌دهد receptor usage یک رویداد ساده اتصال نیست و می‌تواند چند مرحله ورود و tropism را کنترل کند.",
+        "how_to_use": "مراحل attachment، internalization و disassembly را جدا کنید و مشخص کنید هر receptor یا جزء capsid در کدام مرحله اثر دارد.",
+        "next_step": "پس از تکمیل ورود، به شاخه ایمنی ویروسی بروید و بررسی کنید سلول پس از شناسایی ویروس چگونه پاسخ می‌دهد."
+      }
     }
   ]
 }
