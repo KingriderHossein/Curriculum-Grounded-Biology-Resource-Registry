@@ -93,5 +93,6 @@ The current reference-quality subjects are:
 - **Bioinformatics / بیوانفورماتیک**
 - **Systems Biology / زیست‌شناسی سامانه‌ها**
 - **Neuroscience / علوم اعصاب**
+- **Hematology / هماتولوژی**
 
 New subjects should reuse this architecture instead of introducing a parallel resource model.

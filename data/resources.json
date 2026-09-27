@@ -5584,6 +5584,585 @@
         ]
       },
       "publication_type": "Review"
+    },
+    {
+      "id": "OPENSTAX-ANATOMY-PHYSIOLOGY2E-2022",
+      "resource_type": "open_academic_resource",
+      "theory_only": true,
+      "title": "Anatomy and Physiology 2e",
+      "authors": [
+        "J. Gordon Betts",
+        "Kelly A. Young",
+        "James A. Wise",
+        "Eddie Johnson",
+        "Brandon Poe",
+        "Dean H. Kruse",
+        "Oksana Korol",
+        "Jody E. Johnson",
+        "Mark Womble",
+        "Peter DeSaix"
+      ],
+      "published_year": 2022,
+      "publisher": "OpenStax",
+      "publisher_url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/1-introduction",
+      "access_url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/1-introduction",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Official OpenStax citation metadata and Chapter 18 blood coverage were checked. Used only as a targeted prerequisite, not as the primary hematology text.",
+        "sources": [
+          "https://openstax.org/books/anatomy-and-physiology-2e/pages/1-introduction"
+        ]
+      }
+    },
+    {
+      "id": "BOOK-HOFFBRAND-ESSENTIAL-HAEMATOLOGY9-2024",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Hoffbrand's Essential Haematology",
+      "authors": [
+        "A. Victor Hoffbrand",
+        "Pratima Chowdary",
+        "Graham P. Collins",
+        "Justin Loke"
+      ],
+      "published_year": 2024,
+      "edition": "9th Edition",
+      "isbn": "9781394168156",
+      "publisher": "Wiley-Blackwell",
+      "publisher_url": "https://books.wiley.com/titles/9781394168156/",
+      "purchase_url": "https://www.wiley.com/en-us/Hoffbrand%27s+Essential+Haematology%2C+9th+Edition-p-9781394168156",
+      "cover": {
+        "url": "https://covers.vitalsource.com/vbid/9781394168170/width/200",
+        "source": "VitalSource cover image for the Wiley-Blackwell Ninth Edition eTextbook; Wiley remains the bibliographic authority",
+        "source_url": "https://www.vitalsource.com/en-uk/products/hoffbrand-39-s-essential-haematology-a-victor-hoffbrand-v9781394168170",
+        "visual_reviewed_on": "2026-09-27",
+        "visual_review_status": "title_and_edition_checked",
+        "expected_sha256": "284fcc5c14ce6b8f87a547f3e5e3b81784ec098bf76b260949cb9085375d7585"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Title, contributors, Ninth Edition, 2024 publication and print ISBN were checked against Wiley; VitalSource independently maps the cover to print ISBN 9781394168156 / 9th Edition. The exact reviewed cover bytes are SHA-256 locked; this is not full-text scientific certification.",
+        "sources": [
+          "https://books.wiley.com/titles/9781394168156/",
+          "https://www.vitalsource.com/en-uk/products/hoffbrand-39-s-essential-haematology-a-victor-hoffbrand-v9781394168170"
+        ]
+      }
+    },
+    {
+      "id": "BOOK-HOFFBRAND-POSTGRADUATE-HAEMATOLOGY8-2025",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Hoffbrand's Postgraduate Haematology",
+      "authors": [
+        "Adam J. Mead",
+        "Michael A. Laffan",
+        "Graham P. Collins",
+        "Deborah Hay",
+        "A. Victor Hoffbrand"
+      ],
+      "published_year": 2025,
+      "edition": "8th Edition",
+      "isbn": "9781119706618",
+      "publisher": "Wiley-Blackwell",
+      "publisher_url": "https://onlinelibrary.wiley.com/doi/book/10.1002/9781119706687",
+      "purchase_url": "https://onlinelibrary.wiley.com/doi/book/10.1002/9781119706687",
+      "cover": {
+        "url": "https://www.nobelkitabevi.com.tr/52830/hoffbrand-s-postgraduate-haematology-8th-edition.jpg",
+        "source": "Exact Eighth Edition cover fallback from Nobel Kitabevi; Wiley-Blackwell remains the bibliographic authority",
+        "source_url": "https://www.nobelkitabevi.com.tr/hematoloji-kitaplari/28146-hoffbrand-s-postgraduate-haematology-8th-edition.html",
+        "expected_sha256": "0aa6ae13249c3fb52b6dd1ccb94bdac1f8b1b19e39e173098ec6ec3d95832d09",
+        "visual_reviewed_on": "2026-09-27",
+        "visual_review_status": "title_and_edition_checked"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Title, editorial team, Eighth Edition, first publication on 4 April 2025, print ISBN and book DOI were checked against Wiley Online Library. The exact reviewed cover bytes are SHA-256 locked; this is not full-text scientific certification.",
+        "sources": [
+          "https://onlinelibrary.wiley.com/doi/book/10.1002/9781119706687"
+        ]
+      }
+    },
+    {
+      "id": "BOOK-WILLIAMS-HEMATOLOGY10-2021",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Williams Hematology",
+      "authors": [
+        "Kenneth Kaushansky",
+        "Marshall A. Lichtman",
+        "Josef T. Prchal",
+        "Marcel M. Levi",
+        "Linda J. Burns",
+        "David C. Linch"
+      ],
+      "published_year": 2021,
+      "edition": "10th Edition",
+      "isbn": "9781260464122",
+      "publisher": "McGraw Hill",
+      "publisher_url": "https://www.mheducation.com/highered/mhp/product/williams-hematology-10th-edition.html",
+      "purchase_url": "https://www.mheducation.com/highered/mhp/product/williams-hematology-10th-edition.html",
+      "cover": {
+        "url": "https://covers.vitalsource.com/vbid/9781260464139/width/200",
+        "source": "VitalSource cover image for the McGraw-Hill Education Tenth Edition eTextbook; McGraw Hill remains the bibliographic authority",
+        "source_url": "https://www.vitalsource.com/products/williams-hematology-10th-edition-kenneth-kaushansky-marshall-v9781260464139",
+        "visual_reviewed_on": "2026-09-27",
+        "visual_review_status": "title_and_edition_checked",
+        "expected_sha256": "ed99cdd0c30014227af3d084dda3839c276148f801b5c8e261f46a08fdbec536"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Title, authors/editors, Tenth Edition, 2021 publication and print ISBN 9781260464122 were checked against McGraw Hill; VitalSource independently maps the cover to print ISBN 9781260464122 / 10th Edition. The future Eleventh Edition was not treated as current before its announced publication date. The exact reviewed cover bytes are SHA-256 locked; this is not full-text scientific certification.",
+        "sources": [
+          "https://www.mheducation.com/highered/mhp/product/williams-hematology-10th-edition.html",
+          "https://www.vitalsource.com/products/williams-hematology-10th-edition-kenneth-kaushansky-marshall-v9781260464139"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-HSC-NICHES-STRESS-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Bone marrow niches for hematopoietic stem cells: life span dynamics and adaptation to acute stress",
+      "authors": [
+        "Johanna Hofmann",
+        "Konstantinos D. Kokkaliaris"
+      ],
+      "published_year": 2024,
+      "journal": "Blood",
+      "doi": "10.1182/blood.2023023788",
+      "publisher_url": "https://ashpublications.org/blood/article/144/1/21/515641/Bone-marrow-niches-for-hematopoietic-stem-cells",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity, publication type and suitability for theory-only hematology were checked against the publisher/journal record and, where useful, PubMed/PMC. Educational placement is editorial judgment; this is not full-text scientific certification.",
+        "sources": [
+          "https://ashpublications.org/blood/article/144/1/21/515641/Bone-marrow-niches-for-hematopoietic-stem-cells"
+        ]
+      },
+      "publication_type": "Review"
+    },
+    {
+      "id": "REVIEW-HSC-NICHE-DEVELOPMENT-AGEING-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "The role of the haematopoietic stem cell niche in development and ageing",
+      "authors": [
+        "Terri L. Cain",
+        "Marta Derecka",
+        "Shannon McKinney-Freeman"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Molecular Cell Biology",
+      "doi": "10.1038/s41580-024-00770-8",
+      "publisher_url": "https://www.nature.com/articles/s41580-024-00770-8",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity, publication type and suitability for theory-only hematology were checked against the publisher/journal record and, where useful, PubMed/PMC. Educational placement is editorial judgment; this is not full-text scientific certification.",
+        "sources": [
+          "https://www.nature.com/articles/s41580-024-00770-8"
+        ]
+      },
+      "publication_type": "Review",
+      "publication_timing_note": "Published online 2024-09-10; issue volume/year 2025."
+    },
+    {
+      "id": "REVIEW-ERYTHROPOIESIS-GENOMICS-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Erythropoiesis: insights from a genomic perspective",
+      "authors": [
+        "Hye Ji Cha"
+      ],
+      "published_year": 2024,
+      "journal": "Experimental & Molecular Medicine",
+      "doi": "10.1038/s12276-024-01311-1",
+      "publisher_url": "https://www.nature.com/articles/s12276-024-01311-1",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity, publication type and suitability for theory-only hematology were checked against the publisher/journal record and, where useful, PubMed/PMC. Educational placement is editorial judgment; this is not full-text scientific certification.",
+        "sources": [
+          "https://www.nature.com/articles/s12276-024-01311-1"
+        ]
+      },
+      "publication_type": "Review"
+    },
+    {
+      "id": "REVIEW-LIVER-IRON-HOMEOSTASIS-2019",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Liver iron sensing and body iron homeostasis",
+      "authors": [
+        "Chia-Yu Wang",
+        "Jodie L. Babitt"
+      ],
+      "published_year": 2019,
+      "journal": "Blood",
+      "doi": "10.1182/blood-2018-06-815894",
+      "publisher_url": "https://ashpublications.org/blood/article/133/1/18/6615/Liver-iron-sensing-and-body-iron-homeostasis",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity, publication type and suitability for theory-only hematology were checked against the publisher/journal record and, where useful, PubMed/PMC. Educational placement is editorial judgment; this is not full-text scientific certification.",
+        "sources": [
+          "https://ashpublications.org/blood/article/133/1/18/6615/Liver-iron-sensing-and-body-iron-homeostasis"
+        ]
+      },
+      "publication_type": "Review"
+    },
+    {
+      "id": "REVIEW-EMERGENCY-MYELOPOIESIS-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Made to order: emergency myelopoiesis and demand-adapted innate immune cell production",
+      "authors": [
+        "James W. Swann",
+        "Oakley C. Olson",
+        "Emmanuelle Passegué"
+      ],
+      "published_year": 2024,
+      "journal": "Nature Reviews Immunology",
+      "doi": "10.1038/s41577-024-00998-7",
+      "publisher_url": "https://www.nature.com/articles/s41577-024-00998-7",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity, publication type and suitability for theory-only hematology were checked against the publisher/journal record and, where useful, PubMed/PMC. Educational placement is editorial judgment; this is not full-text scientific certification.",
+        "sources": [
+          "https://www.nature.com/articles/s41577-024-00998-7"
+        ]
+      },
+      "publication_type": "Review"
+    },
+    {
+      "id": "REVIEW-NEUTROPHILS-DIVERSE-ROLES-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "The diverse roles of neutrophils from protection to pathogenesis",
+      "authors": [
+        "Rana Herro",
+        "H. Leighton Grimes"
+      ],
+      "published_year": 2024,
+      "journal": "Nature Immunology",
+      "doi": "10.1038/s41590-024-02006-5",
+      "publisher_url": "https://www.nature.com/articles/s41590-024-02006-5",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity, publication type and suitability for theory-only hematology were checked against the publisher/journal record and, where useful, PubMed/PMC. Educational placement is editorial judgment; this is not full-text scientific certification.",
+        "sources": [
+          "https://www.nature.com/articles/s41590-024-02006-5"
+        ]
+      },
+      "publication_type": "Review"
+    },
+    {
+      "id": "REVIEW-MEGAKARYOCYTE-NICHE-2022",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "The bone marrow niche from the inside out: how megakaryocytes are shaped by and shape hematopoiesis",
+      "authors": [
+        "Andrew P. Stone",
+        "Thais F. Nascimento",
+        "Maria N. Barrachina"
+      ],
+      "published_year": 2022,
+      "journal": "Blood",
+      "doi": "10.1182/blood.2021012827",
+      "publisher_url": "https://ashpublications.org/blood/article/139/4/483/477078/The-bone-marrow-niche-from-the-inside-out-how",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity, publication type and suitability for theory-only hematology were checked against the publisher/journal record and, where useful, PubMed/PMC. Educational placement is editorial judgment; this is not full-text scientific certification.",
+        "sources": [
+          "https://ashpublications.org/blood/article/139/4/483/477078/The-bone-marrow-niche-from-the-inside-out-how"
+        ]
+      },
+      "publication_type": "Review"
+    },
+    {
+      "id": "REVIEW-PLATELET-BIOLOGY-FUNCTIONS-2019",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Platelet biology and functions: new concepts and clinical perspectives",
+      "authors": [
+        "Paola E. J. van der Meijden",
+        "Johan W. M. Heemskerk"
+      ],
+      "published_year": 2019,
+      "journal": "Nature Reviews Cardiology",
+      "doi": "10.1038/s41569-018-0110-0",
+      "publisher_url": "https://www.nature.com/articles/s41569-018-0110-0",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity, publication type and suitability for theory-only hematology were checked against the publisher/journal record and, where useful, PubMed/PMC. Educational placement is editorial judgment; this is not full-text scientific certification.",
+        "sources": [
+          "https://www.nature.com/articles/s41569-018-0110-0"
+        ]
+      },
+      "publication_type": "Review"
+    },
+    {
+      "id": "PERSPECTIVE-RETHINKING-COAGULATION-2023",
+      "resource_type": "authoritative_reference",
+      "theory_only": true,
+      "title": "Rethinking coagulation: from enzymatic cascade and cell-based reactions to a convergent model involving innate immune activation",
+      "authors": [
+        "Jun Yong",
+        "Cheng-Hock Toh"
+      ],
+      "published_year": 2023,
+      "journal": "Blood",
+      "doi": "10.1182/blood.2023021166",
+      "publisher_url": "https://ashpublications.org/blood/article/142/25/2133/498486/Rethinking-coagulation-from-enzymatic-cascade-and",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity, publication type and suitability for theory-only hematology were checked against the publisher/journal record and, where useful, PubMed/PMC. Educational placement is editorial judgment; this is not full-text scientific certification.",
+        "sources": [
+          "https://ashpublications.org/blood/article/142/25/2133/498486/Rethinking-coagulation-from-enzymatic-cascade-and"
+        ]
+      },
+      "publication_type": "Perspective"
+    },
+    {
+      "id": "REVIEW-FACTOR-XIII-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Factor XIII: driving (cross-)links in hemostasis, thrombosis, and disease",
+      "authors": [
+        "James P. Luyendyk",
+        "Matthew J. Flick",
+        "Alisa S. Wolberg"
+      ],
+      "published_year": 2025,
+      "journal": "Blood",
+      "doi": "10.1182/blood.2024025321",
+      "publisher_url": "https://ashpublications.org/blood/article/doi/10.1182/blood.2024025321/535293/Factor-XIII-Driving-Cross-Links-in-Hemostasis",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity, publication type and suitability for theory-only hematology were checked against the publisher/journal record and, where useful, PubMed/PMC. Educational placement is editorial judgment; this is not full-text scientific certification.",
+        "sources": [
+          "https://ashpublications.org/blood/article/doi/10.1182/blood.2024025321/535293/Factor-XIII-Driving-Cross-Links-in-Hemostasis"
+        ]
+      },
+      "publication_type": "Review"
+    },
+    {
+      "id": "REVIEW-VENOUS-THROMBOGENESIS-INFLAMMATION-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Hot under the clot: venous thrombogenesis is an inflammatory process",
+      "authors": [
+        "Julie Rayes",
+        "Alexander Brill"
+      ],
+      "published_year": 2024,
+      "journal": "Blood",
+      "doi": "10.1182/blood.2023022522",
+      "publisher_url": "https://ashpublications.org/blood/article/144/5/477/516073/Hot-under-the-clot-venous-thrombogenesis-is-an",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity, publication type and suitability for theory-only hematology were checked against the publisher/journal record and, where useful, PubMed/PMC. Educational placement is editorial judgment; this is not full-text scientific certification.",
+        "sources": [
+          "https://ashpublications.org/blood/article/144/5/477/516073/Hot-under-the-clot-venous-thrombogenesis-is-an"
+        ]
+      },
+      "publication_type": "Review"
+    },
+    {
+      "id": "REVIEW-INFLAMMATION-VWF-ADAMTS13-2018",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Inflammation, von Willebrand factor, and ADAMTS13",
+      "authors": [
+        "Junmei Chen",
+        "Dominic W. Chung"
+      ],
+      "published_year": 2018,
+      "journal": "Blood",
+      "doi": "10.1182/blood-2018-02-769000",
+      "publisher_url": "https://ashpublications.org/blood/article/132/2/141/39218/Inflammation-von-Willebrand-factor-and-ADAMTS13",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity, publication type and suitability for theory-only hematology were checked against the publisher/journal record and, where useful, PubMed/PMC. Educational placement is editorial judgment; this is not full-text scientific certification.",
+        "sources": [
+          "https://ashpublications.org/blood/article/132/2/141/39218/Inflammation-von-Willebrand-factor-and-ADAMTS13"
+        ]
+      },
+      "publication_type": "Review"
+    },
+    {
+      "id": "REVIEW-SINGLE-CELL-BONE-MARROW-FAILURE-2023",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Single-cell genomics in acquired bone marrow failure syndromes",
+      "authors": [
+        "Zhijie Wu",
+        "Neal S. Young"
+      ],
+      "published_year": 2023,
+      "journal": "Blood",
+      "doi": "10.1182/blood.2022018581",
+      "publisher_url": "https://ashpublications.org/blood/article/142/14/1193/497006/Single-cell-genomics-in-acquired-bone-marrow",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity, publication type and suitability for theory-only hematology were checked against the publisher/journal record and, where useful, PubMed/PMC. Educational placement is editorial judgment; this is not full-text scientific certification.",
+        "sources": [
+          "https://ashpublications.org/blood/article/142/14/1193/497006/Single-cell-genomics-in-acquired-bone-marrow"
+        ]
+      },
+      "publication_type": "Review"
+    },
+    {
+      "id": "REVIEW-CLONAL-HEMATOPOIESIS-NATURAL-HISTORY-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "The lifelong natural history of clonal hematopoiesis and its links to myeloid neoplasia",
+      "authors": [
+        "Margarete A. Fabre",
+        "George S. Vassiliou"
+      ],
+      "published_year": 2024,
+      "journal": "Blood",
+      "doi": "10.1182/blood.2023019964",
+      "publisher_url": "https://ashpublications.org/blood/article/143/7/573/498850/The-lifelong-natural-history-of-clonal",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity, publication type and suitability for theory-only hematology were checked against the publisher/journal record and, where useful, PubMed/PMC. Educational placement is editorial judgment; this is not full-text scientific certification.",
+        "sources": [
+          "https://ashpublications.org/blood/article/143/7/573/498850/The-lifelong-natural-history-of-clonal"
+        ]
+      },
+      "publication_type": "Review"
+    },
+    {
+      "id": "REVIEW-CLONAL-EVOLUTION-LEUKEMIA-2017",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Clonal evolution in leukemia",
+      "authors": [
+        "Adolfo A. Ferrando",
+        "Carlos López-Otín"
+      ],
+      "published_year": 2017,
+      "journal": "Nature Medicine",
+      "doi": "10.1038/nm.4410",
+      "publisher_url": "https://www.nature.com/articles/nm.4410",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity, publication type and suitability for theory-only hematology were checked against the publisher/journal record and, where useful, PubMed/PMC. Educational placement is editorial judgment; this is not full-text scientific certification.",
+        "sources": [
+          "https://www.nature.com/articles/nm.4410"
+        ]
+      },
+      "publication_type": "Review"
+    },
+    {
+      "id": "REVIEW-PRECURSOR-MULTIPLE-MYELOMA-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "New horizons in our understanding of precursor multiple myeloma and early interception",
+      "authors": [
+        "David M. Cordas dos Santos",
+        "Rosa Toenges",
+        "Luca Bertamini",
+        "Jean-Baptiste Alberge",
+        "Irene M. Ghobrial"
+      ],
+      "published_year": 2024,
+      "journal": "Nature Reviews Cancer",
+      "doi": "10.1038/s41568-024-00755-x",
+      "publisher_url": "https://www.nature.com/articles/s41568-024-00755-x",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity, publication type and suitability for theory-only hematology were checked against the publisher/journal record and, where useful, PubMed/PMC. Educational placement is editorial judgment; this is not full-text scientific certification.",
+        "sources": [
+          "https://www.nature.com/articles/s41568-024-00755-x"
+        ]
+      },
+      "publication_type": "Review"
+    },
+    {
+      "id": "REVIEW-BLOOD-GROUP-GENOTYPING-2019",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Blood group genotyping",
+      "authors": [
+        "Connie M. Westhoff"
+      ],
+      "published_year": 2019,
+      "journal": "Blood",
+      "doi": "10.1182/blood-2018-11-833954",
+      "publisher_url": "https://ashpublications.org/blood/article/133/17/1814/275900/Blood-group-genotyping",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity, publication type and suitability for theory-only hematology were checked against the publisher/journal record and, where useful, PubMed/PMC. Educational placement is editorial judgment; this is not full-text scientific certification.",
+        "sources": [
+          "https://ashpublications.org/blood/article/133/17/1814/275900/Blood-group-genotyping"
+        ]
+      },
+      "publication_type": "Review"
+    },
+    {
+      "id": "REVIEW-RBC-ALLOANTIBODIES-2019",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Transfusion-related red blood cell alloantibodies: induction and consequences",
+      "authors": [
+        "Christopher A. Tormey",
+        "Jeanne E. Hendrickson"
+      ],
+      "published_year": 2019,
+      "journal": "Blood",
+      "doi": "10.1182/blood-2018-08-833962",
+      "publisher_url": "https://ashpublications.org/blood/article/133/17/1821/275904/Transfusion-related-red-blood-cell-alloantibodies",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity, publication type and suitability for theory-only hematology were checked against the publisher/journal record and, where useful, PubMed/PMC. Educational placement is editorial judgment; this is not full-text scientific certification.",
+        "sources": [
+          "https://ashpublications.org/blood/article/133/17/1821/275904/Transfusion-related-red-blood-cell-alloantibodies"
+        ]
+      },
+      "publication_type": "Review"
     }
   ]
 }

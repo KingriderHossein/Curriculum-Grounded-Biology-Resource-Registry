@@ -7063,6 +7063,520 @@
         "neurodegeneration-resilience"
       ],
       "branch_role": "current_update"
+    },
+    {
+      "id": "HEMATOLOGY::OPENSTAX-ANATOMY-PHYSIOLOGY2E-2022",
+      "resource_id": "OPENSTAX-ANATOMY-PHYSIOLOGY2E-2022",
+      "subject_id": "HEMATOLOGY",
+      "learning_stage": "foundation",
+      "role": "foundation",
+      "coverage_concept_ids": [
+        "HM01",
+        "HM03",
+        "HM05",
+        "HM06",
+        "HM07",
+        "HM11"
+      ],
+      "selection_rationale": "Targeted prerequisite review of blood composition, formed elements, hematopoiesis, hemostasis and ABO/Rh before a dedicated hematology text.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که فیزیولوژی خون، اجزای سلولی یا مبانی هموستاز را پراکنده یا ناقص خوانده است.",
+        "why": "فصل خون یک پیش‌نیاز آزاد و منسجم می‌سازد تا اصطلاحات پایه مانع ورود به هماتولوژی نشوند.",
+        "how_to_use": "فقط فصل مربوط به خون و بخش‌های لازم از گردش خون را هدفمند بخوانید؛ خواندن کل کتاب لازم نیست.",
+        "next_step": "وقتی منشأ و نقش RBC، WBC، پلاکت و اصول اولیه انعقاد روشن شد، وارد کتاب اصلی هماتولوژی شوید."
+      }
+    },
+    {
+      "id": "HEMATOLOGY::BOOK-HOFFBRAND-ESSENTIAL-HAEMATOLOGY9-2024",
+      "resource_id": "BOOK-HOFFBRAND-ESSENTIAL-HAEMATOLOGY9-2024",
+      "subject_id": "HEMATOLOGY",
+      "learning_stage": "core",
+      "role": "core",
+      "coverage_concept_ids": [
+        "HM01",
+        "HM02",
+        "HM03",
+        "HM04",
+        "HM05",
+        "HM06",
+        "HM07",
+        "HM08",
+        "HM09",
+        "HM10",
+        "HM11",
+        "HM12"
+      ],
+      "selection_rationale": "Current introductory hematology textbook with a coherent route from hematopoiesis and red/white cells to neoplasia, hemostasis and transfusion.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که پیش‌نیاز زیست و فیزیولوژی خون را دارد و می‌خواهد هماتولوژی را برای نخستین بار منظم یاد بگیرد.",
+        "why": "ساختار آن برای ورود آموزشی مناسب‌تر از شروع با مراجع بسیار حجیم است و میان زیست‌شناسی پایه و پاتوفیزیولوژی پیوند می‌سازد.",
+        "how_to_use": "دور اول را بر سازوکارها، رده‌های سلولی و علت پدیده‌ها متمرکز کنید؛ بخش‌های درمانی را به‌عنوان هدف این پروژه دنبال نکنید.",
+        "next_step": "برای هر موضوع دشوار، همان موضوع را در Postgraduate Haematology با عمق بیشتر مرور کنید."
+      }
+    },
+    {
+      "id": "HEMATOLOGY::BOOK-HOFFBRAND-POSTGRADUATE-HAEMATOLOGY8-2025",
+      "resource_id": "BOOK-HOFFBRAND-POSTGRADUATE-HAEMATOLOGY8-2025",
+      "subject_id": "HEMATOLOGY",
+      "learning_stage": "intermediate",
+      "role": "intermediate_reference",
+      "coverage_concept_ids": [
+        "HM01",
+        "HM02",
+        "HM03",
+        "HM04",
+        "HM05",
+        "HM06",
+        "HM07",
+        "HM08",
+        "HM09",
+        "HM10",
+        "HM11",
+        "HM12"
+      ],
+      "selection_rationale": "Current postgraduate reference that deepens the biological and pathophysiological account across red cells, transfusion, stem/myeloid, lymphoid and hemostatic domains.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که یک دور عمومی هماتولوژی را گذرانده و برای اتصال دقیق‌تر زیست مولکولی، سلولی و پاتوفیزیولوژی به مرجع دوم نیاز دارد.",
+        "why": "ویرایش هشتم ساختار گسترده‌تری از خون‌سازی و ژنتیک بدخیمی تا RBC، انتقال خون، هموستاز و ترومبوز دارد.",
+        "how_to_use": "فصل‌به‌فصل از ابتدا نخوانید؛ بر اساس نقشه مفهومی و شاخه‌ای که در کتاب اصلی برایتان مبهم مانده است مراجعه کنید.",
+        "next_step": "پس از تثبیت این سطح، Williams را فقط برای پرسش‌های عمیق و مکانیزمی مشخص به‌کار ببرید."
+      }
+    },
+    {
+      "id": "HEMATOLOGY::BOOK-WILLIAMS-HEMATOLOGY10-2021",
+      "resource_id": "BOOK-WILLIAMS-HEMATOLOGY10-2021",
+      "subject_id": "HEMATOLOGY",
+      "learning_stage": "advanced",
+      "role": "advanced_reference",
+      "coverage_concept_ids": [
+        "HM01",
+        "HM02",
+        "HM03",
+        "HM04",
+        "HM05",
+        "HM06",
+        "HM07",
+        "HM08",
+        "HM09",
+        "HM10",
+        "HM11",
+        "HM12"
+      ],
+      "selection_rationale": "Comprehensive advanced reference emphasizing basic science, molecular mechanisms and pathophysiology across benign and malignant hematology.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که برای یک پرسش مشخص به مرجع عمیق درباره سازوکارهای خون و مغز استخوان نیاز دارد.",
+        "why": "Williams برای پوشش گسترده و عمق مکانیزمی انتخاب شده است؛ نقش آن مرجع مسئله‌محور است نه کتاب شروع.",
+        "how_to_use": "از پرسش شروع کنید، فصل مرتبط را پیدا کنید و سازوکار، شواهد و نکات نامطمئن را جدا یادداشت کنید؛ بخش درمان را محور مطالعه قرار ندهید.",
+        "next_step": "بعد از مرجع مکانیزمی، شاخه تخصصی مرتبط و دو مرور منتخب آن را بخوانید."
+      }
+    },
+    {
+      "id": "HEMATOLOGY::REVIEW-HSC-NICHES-STRESS-2024",
+      "resource_id": "REVIEW-HSC-NICHES-STRESS-2024",
+      "subject_id": "HEMATOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "hematopoiesis-niche"
+      ],
+      "coverage_concept_ids": [
+        "HM01",
+        "HM02",
+        "HM12"
+      ],
+      "selection_rationale": "Mechanistic review of HSC niches across the life span and their adaptation to acute stress.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد خون‌سازی را از دید تعامل HSC با ریزمحیط مغز استخوان بفهمد.",
+        "why": "به‌جای نگاه صرفاً سلسله‌مراتبی، نقش niche و پاسخ به استرس را در مرکز قرار می‌دهد.",
+        "how_to_use": "نقشه‌ای از سلول‌های niche، سیگنال‌های آن‌ها و اثرشان بر HSC بسازید و بخش‌های مداخله‌ای را حاشیه‌ای نگه دارید.",
+        "next_step": "سپس مرور تکوین و پیری niche را برای دید زمانی بلندمدت بخوانید."
+      }
+    },
+    {
+      "id": "HEMATOLOGY::REVIEW-HSC-NICHE-DEVELOPMENT-AGEING-2025",
+      "resource_id": "REVIEW-HSC-NICHE-DEVELOPMENT-AGEING-2025",
+      "subject_id": "HEMATOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "hematopoiesis-niche"
+      ],
+      "coverage_concept_ids": [
+        "HM02",
+        "HM12"
+      ],
+      "selection_rationale": "Current review connecting developmental establishment of the hematopoietic niche with aging-associated remodeling.",
+      "student_guidance_fa": {
+        "best_for": "کسی که مبانی niche را می‌داند و می‌خواهد تکوین تا پیری را در یک چارچوب ببیند.",
+        "why": "مقیاس زمانی رشد، استقرار مغز استخوان و پیری را به تنظیم HSC وصل می‌کند.",
+        "how_to_use": "تغییرات niche را در سه بازه تکوین، بزرگسالی و پیری مقایسه کنید و پیامد سلولی هر تغییر را بنویسید.",
+        "next_step": "برای شاخه‌های نارسایی مغز استخوان و خون‌سازی کلونال، این زمینه را حفظ کنید."
+      }
+    },
+    {
+      "id": "HEMATOLOGY::REVIEW-ERYTHROPOIESIS-GENOMICS-2024",
+      "resource_id": "REVIEW-ERYTHROPOIESIS-GENOMICS-2024",
+      "subject_id": "HEMATOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "red-cell-iron"
+      ],
+      "coverage_concept_ids": [
+        "HM03",
+        "HM12"
+      ],
+      "selection_rationale": "Compact genomic and epigenetic framework for erythroid differentiation from progenitors to mature red cells.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد اریتروپوئز را فراتر از نمودار رده‌ای و در سطح تنظیم ژن بفهمد.",
+        "why": "فاکتورهای رونویسی و تنظیم اپی‌ژنتیک تمایز اریتروئیدی را به مسیر سلولی وصل می‌کند.",
+        "how_to_use": "مراحل اریتروپوئز را در یک محور و تنظیم‌کننده‌های ژنی مهم را در محور دوم خلاصه کنید.",
+        "next_step": "برای فهم محدودیت آهن و تنظیم سیستمیک، مرور هپسیدین و آهن را بخوانید."
+      }
+    },
+    {
+      "id": "HEMATOLOGY::REVIEW-LIVER-IRON-HOMEOSTASIS-2019",
+      "resource_id": "REVIEW-LIVER-IRON-HOMEOSTASIS-2019",
+      "subject_id": "HEMATOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "red-cell-iron"
+      ],
+      "coverage_concept_ids": [
+        "HM03",
+        "HM04",
+        "HM12"
+      ],
+      "selection_rationale": "Foundational mechanistic review of hepcidin-ferroportin control linking systemic iron availability to erythropoietic demand.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که رابطه آهن، هپسیدین، کبد و نیاز اریتروپوئتیک برایش مبهم است.",
+        "why": "چارچوب هپسیدین–فروپورتین هنوز پایه‌ای‌ترین اتصال بین هم‌ایستایی آهن و تولید RBC است.",
+        "how_to_use": "ورودی آهن، بازیافت ماکروفاژی، ذخیره و خروج آهن را روی یک نمودار جریان رسم کنید و جای هپسیدین را مشخص کنید.",
+        "next_step": "سپس اختلالات RBC را با پرسش «کدام حلقه هم‌ایستایی مختل شده؟» تحلیل کنید."
+      }
+    },
+    {
+      "id": "HEMATOLOGY::REVIEW-EMERGENCY-MYELOPOIESIS-2024",
+      "resource_id": "REVIEW-EMERGENCY-MYELOPOIESIS-2024",
+      "subject_id": "HEMATOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "leukocyte-myeloid"
+      ],
+      "coverage_concept_ids": [
+        "HM01",
+        "HM05",
+        "HM12"
+      ],
+      "selection_rationale": "Modern review of demand-adapted myelopoiesis linking hematopoietic progenitors to innate immune demand.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که تفاوت خون‌سازی پایدار و میلوپوئز اضطراری را می‌خواهد بفهمد.",
+        "why": "نشان می‌دهد تولید سلول‌های ایمنی چگونه با تقاضای بافتی و التهاب تطبیق می‌یابد.",
+        "how_to_use": "سیگنال‌های استرس، تغییر progenitorها و خروجی سلول‌های میلوئیدی را در سه ستون جدا کنید.",
+        "next_step": "برای دید عملکردیِ یکی از مهم‌ترین خروجی‌ها، مرور نوتروفیل را ادامه دهید."
+      }
+    },
+    {
+      "id": "HEMATOLOGY::REVIEW-NEUTROPHILS-DIVERSE-ROLES-2024",
+      "resource_id": "REVIEW-NEUTROPHILS-DIVERSE-ROLES-2024",
+      "subject_id": "HEMATOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "leukocyte-myeloid"
+      ],
+      "coverage_concept_ids": [
+        "HM05",
+        "HM12"
+      ],
+      "selection_rationale": "Current mechanistic synthesis of neutrophil production and diverse protective/pathogenic effector states.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که پس از میلوپوئز می‌خواهد کارکرد و ناهمگنی نوتروفیل را دقیق‌تر ببیند.",
+        "why": "نوتروفیل را از یک سلول صرفاً ضدباکتریایی به مجموعه‌ای از حالت‌های عملکردی مرتبط با بافت و بیماری گسترش می‌دهد.",
+        "how_to_use": "بین تولید، گردش، مهاجرت و مکانیسم‌های اثر نوتروفیل تفکیک کنید؛ جزئیات درمانی را کنار بگذارید.",
+        "next_step": "این منطق «تولید رده‌ای ← حالت عملکردی» را برای دیگر لکوسیت‌ها نیز به‌کار ببرید."
+      }
+    },
+    {
+      "id": "HEMATOLOGY::REVIEW-MEGAKARYOCYTE-NICHE-2022",
+      "resource_id": "REVIEW-MEGAKARYOCYTE-NICHE-2022",
+      "subject_id": "HEMATOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "megakaryocyte-platelet"
+      ],
+      "coverage_concept_ids": [
+        "HM02",
+        "HM06",
+        "HM12"
+      ],
+      "selection_rationale": "Mechanistic review connecting megakaryocyte differentiation, marrow niche interactions and hematopoietic regulation.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد مگاکاریوسیت را هم تولیدکننده پلاکت و هم جزء فعال niche ببیند.",
+        "why": "رابطه دوطرفه مگاکاریوسیت و خون‌سازی را توضیح می‌دهد و مسیرهای متفاوت تولید MK را نشان می‌دهد.",
+        "how_to_use": "مسیرهای تولید مگاکاریوسیت و اثر بازخوردی آن بر HSC/niche را جدا ترسیم کنید.",
+        "next_step": "سپس از منشأ سلولی به زیست‌شناسی و عملکرد خود پلاکت بروید."
+      }
+    },
+    {
+      "id": "HEMATOLOGY::REVIEW-PLATELET-BIOLOGY-FUNCTIONS-2019",
+      "resource_id": "REVIEW-PLATELET-BIOLOGY-FUNCTIONS-2019",
+      "subject_id": "HEMATOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "megakaryocyte-platelet"
+      ],
+      "coverage_concept_ids": [
+        "HM06",
+        "HM07",
+        "HM08"
+      ],
+      "selection_rationale": "Broad mechanistic synthesis of platelet heterogeneity, signaling and functions in hemostasis and thromboinflammation.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد پلاکت را از ساختار و فعال‌سازی تا نقش در ترومبوز و التهاب بفهمد.",
+        "why": "تنوع پلاکت، گیرنده‌ها و مسیرهای سیگنالینگ را به تشکیل thrombus پیوند می‌دهد.",
+        "how_to_use": "گیرنده‌ها را حفظ نکنید؛ آن‌ها را بر اساس چسبندگی، فعال‌سازی، ترشح و تقویت پاسخ گروه‌بندی کنید.",
+        "next_step": "پس از این مرحله وارد مدل‌های انعقاد و ساختار شبکه فیبرین شوید."
+      }
+    },
+    {
+      "id": "HEMATOLOGY::PERSPECTIVE-RETHINKING-COAGULATION-2023",
+      "resource_id": "PERSPECTIVE-RETHINKING-COAGULATION-2023",
+      "subject_id": "HEMATOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "hemostasis-coagulation"
+      ],
+      "coverage_concept_ids": [
+        "HM07",
+        "HM08",
+        "HM12"
+      ],
+      "selection_rationale": "Conceptual perspective integrating cascade, cell-based coagulation and innate-immune activation into a convergent model.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مدل آبشاری را می‌داند اما ارتباط آن با مدل سلولی و ایمونوهموستاز برایش روشن نیست.",
+        "why": "به‌جای حفظ چند مدل جدا، منطق تکامل مفهومی انعقاد را کنار هم می‌گذارد.",
+        "how_to_use": "سه مدل cascade، cell-based و convergent را از نظر واحدهای اصلی، محل واکنش و نقش التهاب مقایسه کنید.",
+        "next_step": "برای دید ساختاری‌ترِ لخته، مرور Factor XIII و cross-linking فیبرین را بخوانید."
+      }
+    },
+    {
+      "id": "HEMATOLOGY::REVIEW-FACTOR-XIII-2025",
+      "resource_id": "REVIEW-FACTOR-XIII-2025",
+      "subject_id": "HEMATOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "hemostasis-coagulation"
+      ],
+      "coverage_concept_ids": [
+        "HM07",
+        "HM08"
+      ],
+      "selection_rationale": "Recent review of factor XIII biology, fibrin cross-linking and the biochemical/biophysical structure of stable clots.",
+      "student_guidance_fa": {
+        "best_for": "کسی که می‌خواهد از تشکیل فیبرین به پایداری و ویژگی مکانیکی لخته برسد.",
+        "why": "نشان می‌دهد پایان cascade فقط «تشکیل فیبرین» نیست و cross-linking چگونه ترکیب و استحکام لخته را تغییر می‌دهد.",
+        "how_to_use": "فعال‌سازی XIII، اهداف cross-link و اثر بر شبکه فیبرین را به‌صورت علت–معلولی خلاصه کنید.",
+        "next_step": "سپس همین ساختار لخته را در بستر ترومبوز و اندوتلیوم بررسی کنید."
+      }
+    },
+    {
+      "id": "HEMATOLOGY::REVIEW-VENOUS-THROMBOGENESIS-INFLAMMATION-2024",
+      "resource_id": "REVIEW-VENOUS-THROMBOGENESIS-INFLAMMATION-2024",
+      "subject_id": "HEMATOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "thrombosis-vascular-tma"
+      ],
+      "coverage_concept_ids": [
+        "HM08",
+        "HM12"
+      ],
+      "selection_rationale": "Current mechanistic review of endothelial activation, innate immunity and coagulation cross-talk in venous thrombogenesis.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد ترومبوز را یک رخداد صرفاً انعقادی نبیند و نقش اندوتلیوم و التهاب را بفهمد.",
+        "why": "مکانیسم‌های اندوتلیال، هیپوکسی، NETها و innate immunity را به آغاز و گسترش VT وصل می‌کند.",
+        "how_to_use": "محرک‌ها را به سه سطح اندوتلیوم، سلول ایمنی و سیستم انعقاد تقسیم و نقاط اتصال را مشخص کنید.",
+        "next_step": "برای پیوند ترومبوز ماکرو و میکرو با VWF/ADAMTS13، مرور بعدی را بخوانید."
+      }
+    },
+    {
+      "id": "HEMATOLOGY::REVIEW-INFLAMMATION-VWF-ADAMTS13-2018",
+      "resource_id": "REVIEW-INFLAMMATION-VWF-ADAMTS13-2018",
+      "subject_id": "HEMATOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "thrombosis-vascular-tma"
+      ],
+      "coverage_concept_ids": [
+        "HM06",
+        "HM08",
+        "HM12"
+      ],
+      "selection_rationale": "Mechanistic review linking inflammation, endothelial VWF release and ADAMTS13 regulation to microvascular and larger-vessel thrombosis.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد نقش VWF/ADAMTS13 و منطق TMA را در متن زیست‌شناسی عروقی بفهمد.",
+        "why": "از فعال‌سازی اندوتلیوم تا رشته‌های VWF، چسبندگی پلاکت و dysregulation در TTP/TMA یک زنجیره مکانیزمی می‌سازد.",
+        "how_to_use": "مسیر «التهاب → اندوتلیوم → VWF → پلاکت → ADAMTS13» را رسم و نقاط تنظیم را علامت بزنید.",
+        "next_step": "در مطالعه TMA، از این چارچوب مکانیزمی استفاده کنید نه از الگوریتم درمانی."
+      }
+    },
+    {
+      "id": "HEMATOLOGY::REVIEW-SINGLE-CELL-BONE-MARROW-FAILURE-2023",
+      "resource_id": "REVIEW-SINGLE-CELL-BONE-MARROW-FAILURE-2023",
+      "subject_id": "HEMATOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "marrow-failure-clonal"
+      ],
+      "coverage_concept_ids": [
+        "HM02",
+        "HM09",
+        "HM12"
+      ],
+      "selection_rationale": "Mechanism-oriented review of immune marrow failure and clonal phenotypes using single-cell genomics as an evidence framework.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که پس از خون‌سازی طبیعی می‌خواهد بفهمد نارسایی مغز استخوان چگونه در سطح جمعیت‌های سلولی و کلون‌ها دیده می‌شود.",
+        "why": "به علت کمیابی سلول‌ها و پیچیدگی ایمنی، داده تک‌سلولی را به پرسش‌های پاتوفیزیولوژی BMF وصل می‌کند.",
+        "how_to_use": "به‌جای یادگیری تکنیک، فقط خروجی مفهومی هر لایه داده را برای effector، target و clone استخراج کنید.",
+        "next_step": "برای دید طول عمر و گذار از CH به نئوپلازی میلوئیدی، مرور بعدی را بخوانید."
+      }
+    },
+    {
+      "id": "HEMATOLOGY::REVIEW-CLONAL-HEMATOPOIESIS-NATURAL-HISTORY-2024",
+      "resource_id": "REVIEW-CLONAL-HEMATOPOIESIS-NATURAL-HISTORY-2024",
+      "subject_id": "HEMATOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "marrow-failure-clonal"
+      ],
+      "coverage_concept_ids": [
+        "HM02",
+        "HM09",
+        "HM10",
+        "HM12"
+      ],
+      "selection_rationale": "Current review of lifelong clonal hematopoiesis dynamics and its mechanistic links to myeloid neoplasia.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد مرز میان پیری خون‌ساز، CH و خطر نئوپلازی را بفهمد.",
+        "why": "انتخاب طبیعی کلون‌ها، التهاب، جهش‌های driver و محیط HSC را در یک مدل زمانی قرار می‌دهد.",
+        "how_to_use": "عامل‌های cell-intrinsic و محیطی را جدا کنید و برای هرکدام اثر بر fitness کلون را بنویسید.",
+        "next_step": "سپس برای بدخیمی‌های خونی، مفهوم تکامل کلونال را در leukemia و myeloma دنبال کنید."
+      }
+    },
+    {
+      "id": "HEMATOLOGY::REVIEW-CLONAL-EVOLUTION-LEUKEMIA-2017",
+      "resource_id": "REVIEW-CLONAL-EVOLUTION-LEUKEMIA-2017",
+      "subject_id": "HEMATOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "hematologic-malignancies"
+      ],
+      "coverage_concept_ids": [
+        "HM09",
+        "HM10",
+        "HM12"
+      ],
+      "selection_rationale": "Foundational mechanistic review of clonal evolution across lymphoid and myeloid leukemias.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بدخیمی خون را به‌جای فهرست بیماری‌ها با منطق تحول کلون‌ها بفهمد.",
+        "why": "هر دو leukemia میلوئیدی و لنفوئیدی را با چارچوب heterogeneity و selection دنبال می‌کند.",
+        "how_to_use": "initiation، progression و relapse را به‌عنوان مراحل تکاملی جدا کنید و منشأ تغییرات ژنتیکی/اپی‌ژنتیکی را مشخص کنید.",
+        "next_step": "برای تکمیل طیف بدخیمی‌ها، زیست‌شناسی تحول سلول پلاسما به myeloma را بخوانید."
+      }
+    },
+    {
+      "id": "HEMATOLOGY::REVIEW-PRECURSOR-MULTIPLE-MYELOMA-2024",
+      "resource_id": "REVIEW-PRECURSOR-MULTIPLE-MYELOMA-2024",
+      "subject_id": "HEMATOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "hematologic-malignancies"
+      ],
+      "coverage_concept_ids": [
+        "HM10",
+        "HM12"
+      ],
+      "selection_rationale": "Current review of the decades-long evolution from precursor plasma-cell states to multiple myeloma.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد زیست‌شناسی نئوپلازی سلول پلاسما و گذار از حالت پیش‌ساز به myeloma را بفهمد.",
+        "why": "مسیر MGUS/smoldering تا myeloma را با ژنتیک clone و microenvironment ترکیب می‌کند.",
+        "how_to_use": "رویدادهای کلونال و تغییرات ریزمحیطی را در دو مسیر موازی یادداشت و نقطه‌های همگرایی را پیدا کنید.",
+        "next_step": "اکنون می‌توانید بدخیمی‌های میلوئیدی، لنفوئیدی و سلول پلاسما را با یک زبان تکاملی مقایسه کنید."
+      }
+    },
+    {
+      "id": "HEMATOLOGY::REVIEW-BLOOD-GROUP-GENOTYPING-2019",
+      "resource_id": "REVIEW-BLOOD-GROUP-GENOTYPING-2019",
+      "subject_id": "HEMATOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "blood-groups-transfusion"
+      ],
+      "coverage_concept_ids": [
+        "HM03",
+        "HM11"
+      ],
+      "selection_rationale": "Review of the molecular genetic basis and genomic typing of red-cell and platelet blood-group antigens.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که ABO/Rh را می‌شناسد و می‌خواهد گروه خونی را در سطح ژن و آنتی‌ژن بفهمد.",
+        "why": "از چند گروه مشهور فراتر می‌رود و نشان می‌دهد polymorphismهای ژنی چگونه profile آنتی‌ژنی می‌سازند.",
+        "how_to_use": "ژن/واریانت، آنتی‌ژن سطحی و پیامد ایمنی را به‌صورت سه لایه از هم جدا کنید؛ وارد workflow آزمایشگاه نشوید.",
+        "next_step": "برای فهم پاسخ ایمنی به آنتی‌ژن‌های ناسازگار، مرور alloantibody را ادامه دهید."
+      }
+    },
+    {
+      "id": "HEMATOLOGY::REVIEW-RBC-ALLOANTIBODIES-2019",
+      "resource_id": "REVIEW-RBC-ALLOANTIBODIES-2019",
+      "subject_id": "HEMATOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "blood-groups-transfusion"
+      ],
+      "coverage_concept_ids": [
+        "HM03",
+        "HM11",
+        "HM12"
+      ],
+      "selection_rationale": "Mechanistic review of induction, persistence/evanescence and consequences of red-cell alloantibodies after transfusion.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد از «آنتی‌ژن گروه خونی» به پاسخ ایمنی گیرنده برسد.",
+        "why": "ایجاد alloantibody را به ویژگی آنتی‌ژن، گیرنده و حافظه/ناپدیدشدن آنتی‌بادی وصل می‌کند.",
+        "how_to_use": "مراحل exposure، recognition، antibody formation و persistence/evanescence را روی یک خط زمانی قرار دهید.",
+        "next_step": "این شاخه را با تمرکز بر immunobiology تمام کنید؛ پروتکل crossmatch یا SOP بانک خون جزو این مسیر نیست."
+      }
     }
   ]
 }
