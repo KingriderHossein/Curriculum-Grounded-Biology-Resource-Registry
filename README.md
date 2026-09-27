@@ -37,6 +37,7 @@
 | [جنین‌شناسی ⁦Embryology⁩](subjects/embryology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
 | [بافت‌شناسی ⁦Histology⁩](subjects/histology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
 | [آناتومی ⁦Anatomy⁩](subjects/anatomy/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
+| [ویروس‌شناسی ⁦Virology⁩](subjects/virology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
 
 
 ---
@@ -855,6 +856,49 @@
 </table>
 
 [مشاهده نقشه‌راه آناتومی](subjects/anatomy/README.md)
+
+---
+
+## ویروس‌شناسی
+
+این مسیر ویروس‌شناسی را از ساختار و ژنوم ویروس تا همانندسازی، تعامل با میزبان، پاتوژنز، تکامل، اکولوژی و مداخلات ضدویروسی دنبال می‌کند. پروتکل کشت ویروس، روش‌های تشخیصی عملی، کار با نمونه عفونی و دستورالعمل‌های آزمایشگاهی خارج از دامنه Registry هستند.
+
+- ویروس‌شناسی مولکولی و همانندسازی؛
+- ویروس‌شناسی ساختاری و ورود به سلول؛
+- ایمنی‌شناسی ویروسی و فرار ایمنی؛
+- پاتوژنز، ماندگاری و نهفتگی ویروسی؛
+- تکامل، ظهور و ویروس‌های زئونوز؛
+- باکتریوفاژها و ویروس‌های پروکاریوتی؛
+- ویروس‌شناسی گیاهی؛
+- ویروس‌شناسی محیطی، ویروُم‌ها و اکولوژی ویروسی؛
+- انکولوژی ویروسی و عوامل ضدویروسی؛
+
+### کتاب‌های اصلی مسیر
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://covers.vitalsource.com/vbid/9781683673583/width/200" width="145" alt="Principles of Virology, Multi-Volume cover"><br>
+<b>Principles of Virology, Multi-Volume</b><br>
+منبع اصلی · 5th Edition<br>
+<a href="https://www.vitalsource.com/products/principles-of-virology-jane-flint-vincent-r-v9781683673583">ناشر / خرید</a>
+</td>
+<td align="center" width="33%">
+<img src="https://covers.vitalsource.com/vbid/9781119885887/width/200" width="145" alt="Fundamentals of Molecular Virology cover"><br>
+<b>Fundamentals of Molecular Virology</b><br>
+منبع تکمیلی · 3rd Edition<br>
+<a href="https://www.vitalsource.com/products/fundamentals-of-molecular-virology-christopher-d-richardson-v9781119885887">ناشر / خرید</a>
+</td>
+<td align="center" width="33%">
+<img src="https://covers.vitalsource.com/vbid/9781975221195/width/200" width="145" alt="Fields Virology cover"><br>
+<b>Fields Virology</b><br>
+منبع پیشرفته · 8th Edition<br>
+<a href="https://shop.lww.com/Fields-Virology/p/9781975221171">ناشر / خرید</a>
+</td>
+</tr>
+</table>
+
+[مشاهده نقشه‌راه ویروس‌شناسی](subjects/virology/README.md)
 
 ---
 

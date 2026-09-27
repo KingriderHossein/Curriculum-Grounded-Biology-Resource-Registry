@@ -2128,6 +2128,119 @@
         "theory_only": true
       },
       "completed_on": "2026-09-27"
+    },
+    {
+      "id": "VIROLOGY",
+      "fa_name": "ویروس‌شناسی",
+      "en_name": "Virology",
+      "scope": "theoretical",
+      "roadmap_stages": [
+        "foundation",
+        "core",
+        "intermediate",
+        "advanced",
+        "specialized"
+      ],
+      "concepts": [
+        {
+          "id": "VR01",
+          "label": "ماهیت ویروس‌ها، تنوع و طبقه‌بندی"
+        },
+        {
+          "id": "VR02",
+          "label": "ژنوم‌های ویروسی و راهبردهای اطلاعات ژنتیکی"
+        },
+        {
+          "id": "VR03",
+          "label": "ساختار ویریون، کپسید، پوشش و پایداری"
+        },
+        {
+          "id": "VR04",
+          "label": "اتصال، ورود، انتقال درون‌سلولی و بازشدن پوشش ویروسی"
+        },
+        {
+          "id": "VR05",
+          "label": "بیان ژن و همانندسازی ژنوم ویروسی"
+        },
+        {
+          "id": "VR06",
+          "label": "مونتاژ، بلوغ و خروج ویروس"
+        },
+        {
+          "id": "VR07",
+          "label": "برهم‌کنش ویروس و سلول میزبان"
+        },
+        {
+          "id": "VR08",
+          "label": "ایمنی ضدویروسی و فرار ایمنی"
+        },
+        {
+          "id": "VR09",
+          "label": "پاتوژنز، انتقال، ماندگاری و نهفتگی"
+        },
+        {
+          "id": "VR10",
+          "label": "تکامل، نوترکیبی، بازآرایی قطعات ژنومی و ظهور ویروس‌ها"
+        },
+        {
+          "id": "VR11",
+          "label": "اکولوژی ویروس‌ها و ویروس‌سپهر"
+        },
+        {
+          "id": "VR12",
+          "label": "زیست‌شناسی واکسن‌ها و عوامل ضدویروسی"
+        },
+        {
+          "id": "VR13",
+          "label": "دگرگونی سلولی و ویروس‌های سرطان‌زا"
+        }
+      ],
+      "branches": [
+        {
+          "id": "molecular-virology-replication",
+          "label": "ویروس‌شناسی مولکولی و همانندسازی"
+        },
+        {
+          "id": "structural-virology-entry",
+          "label": "ویروس‌شناسی ساختاری و ورود به سلول"
+        },
+        {
+          "id": "viral-immunology-evasion",
+          "label": "ایمنی‌شناسی ویروسی و فرار ایمنی"
+        },
+        {
+          "id": "viral-pathogenesis-persistence",
+          "label": "پاتوژنز، ماندگاری و نهفتگی ویروسی"
+        },
+        {
+          "id": "virus-evolution-emergence",
+          "label": "تکامل، ظهور و ویروس‌های زئونوز"
+        },
+        {
+          "id": "prokaryotic-viruses",
+          "label": "باکتریوفاژها و ویروس‌های پروکاریوتی"
+        },
+        {
+          "id": "plant-virology",
+          "label": "ویروس‌شناسی گیاهی"
+        },
+        {
+          "id": "environmental-virology-viromes",
+          "label": "ویروس‌شناسی محیطی، ویروُم‌ها و اکولوژی ویروسی"
+        },
+        {
+          "id": "viral-oncology-antivirals",
+          "label": "انکولوژی ویروسی و عوامل ضدویروسی"
+        }
+      ],
+      "status": "complete",
+      "completion_criteria": {
+        "general_roadmap_resources": 4,
+        "specialized_branches_required": 9,
+        "student_guidance_required": true,
+        "theory_only": true
+      },
+      "completed_on": "2026-09-27"
     }
   ]
 }

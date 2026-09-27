@@ -7889,6 +7889,542 @@
         "Marjorie V. Launico",
         "Oluwaseun O. Adigun"
       ]
+    },
+    {
+      "id": "BOOK-PRINCIPLES-VIROLOGY5-2020",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Principles of Virology, Multi-Volume",
+      "authors": [
+        "Jane Flint",
+        "Vincent R. Racaniello",
+        "Glenn F. Rall",
+        "Theodora Hatziioannou",
+        "Anna Marie Skalka"
+      ],
+      "published_year": 2020,
+      "edition": "5th Edition",
+      "isbn": "9781683670322",
+      "publisher": "ASM Press",
+      "publisher_url": "https://bcs.wiley.com/he-bcs/Books?action=index&bcsId=11893&itemId=1683670329",
+      "purchase_url": "https://www.vitalsource.com/products/principles-of-virology-jane-flint-vincent-r-v9781683673583",
+      "cover": {
+        "url": "https://covers.vitalsource.com/vbid/9781683673583/width/200",
+        "source": "VitalSource exact-edition cover; ASM Press/Wiley remains bibliographic authority",
+        "source_url": "https://www.vitalsource.com/products/principles-of-virology-jane-flint-vincent-r-v9781683673583",
+        "expected_sha256": "2fbbb6fcbbae586ebfecf6ccc46fb489e2c04bdccc42d26d7afcf232cc72b902",
+        "visual_reviewed_on": "2026-09-27",
+        "visual_review_status": "title_and_edition_checked"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Title, authors, Fifth Edition, publication timing and print ISBN were checked against Wiley/ASM and VitalSource exact-edition metadata. Cover bytes still require the repository cover audit before visual identity is locked.",
+        "sources": [
+          "https://www.wiley.com/en-us/Virology-c-LS53",
+          "https://www.vitalsource.com/products/principles-of-virology-jane-flint-vincent-r-v9781683673583"
+        ]
+      }
+    },
+    {
+      "id": "BOOK-FUNDAMENTALS-MOLECULAR-VIROLOGY3-2025",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Fundamentals of Molecular Virology",
+      "authors": [
+        "Christopher D. Richardson",
+        "Nicholas H. Acheson"
+      ],
+      "published_year": 2025,
+      "edition": "3rd Edition",
+      "isbn": "9781119885863",
+      "publisher": "Wiley-Blackwell",
+      "publisher_url": "https://www.wiley.com/en-us/Virology-c-LS53",
+      "purchase_url": "https://www.vitalsource.com/products/fundamentals-of-molecular-virology-christopher-d-richardson-v9781119885887",
+      "cover": {
+        "url": "https://covers.vitalsource.com/vbid/9781119885887/width/200",
+        "source": "VitalSource exact-edition cover; Wiley-Blackwell remains bibliographic authority",
+        "source_url": "https://www.vitalsource.com/products/fundamentals-of-molecular-virology-christopher-d-richardson-v9781119885887",
+        "expected_sha256": "1baeeba9c9850ccd1b8b72005d1fec186b00e759957d368e78193fa1ba27551b",
+        "visual_reviewed_on": "2026-09-27",
+        "visual_review_status": "title_and_edition_checked"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Title, editors/authors, Third Edition, 2025 publication and print ISBN were checked against Wiley and exact-edition VitalSource metadata. Cover bytes still require the repository cover audit before visual identity is locked.",
+        "sources": [
+          "https://www.wiley.com/en-us/Virology-c-LS53",
+          "https://www.vitalsource.com/products/fundamentals-of-molecular-virology-christopher-d-richardson-v9781119885887"
+        ]
+      }
+    },
+    {
+      "id": "BOOK-FIELDS-VIROLOGY8-2026",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Fields Virology",
+      "authors": [
+        "Peter M. Howley",
+        "David M. Knipe"
+      ],
+      "published_year": 2026,
+      "edition": "8th Edition",
+      "isbn": "9781975221171",
+      "publisher": "Wolters Kluwer Health",
+      "publisher_url": "https://shop.lww.com/Fields-Virology/p/9781975221171",
+      "purchase_url": "https://shop.lww.com/Fields-Virology/p/9781975221171",
+      "cover": {
+        "url": "https://covers.vitalsource.com/vbid/9781975221195/width/200",
+        "source": "VitalSource exact-edition cover; Wolters Kluwer remains bibliographic authority",
+        "source_url": "https://www.vitalsource.com/products/fields-virology-peter-m-howley-david-m-v9781975221195",
+        "expected_sha256": "e2293a7707ba9ef6dcd5d4a750c6d22f47f8b565eed48131029229b10d991a8f",
+        "visual_reviewed_on": "2026-09-27",
+        "visual_review_status": "title_and_edition_checked"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Title, editors, Eighth Edition, 2026 publication date and hardcover ISBN were checked against Wolters Kluwer and VitalSource. Cover bytes still require the repository cover audit before visual identity is locked.",
+        "sources": [
+          "https://shop.lww.com/Fields-Virology/p/9781975221171",
+          "https://www.vitalsource.com/products/fields-virology-peter-m-howley-david-m-v9781975221195"
+        ]
+      }
+    },
+    {
+      "id": "CHAPTER-RNA-VIRUS-REPLICATION-2024",
+      "resource_type": "book_chapter",
+      "theory_only": true,
+      "title": "RNA virus replication",
+      "authors": [
+        "Paloma Hidalgo",
+        "Ramon A. Gonzalez"
+      ],
+      "published_year": 2024,
+      "publisher": "Elsevier",
+      "doi": "10.1016/B978-0-12-818619-0.00130-1",
+      "publisher_url": "https://doi.org/10.1016/B978-0-12-818619-0.00130-1",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Chapter title, book context, year and DOI were checked against the ScienceDirect record.",
+        "sources": [
+          "https://doi.org/10.1016/B978-0-12-818619-0.00130-1"
+        ]
+      }
+    },
+    {
+      "id": "CHAPTER-DNA-VIRUS-REPLICATION-2024",
+      "resource_type": "book_chapter",
+      "theory_only": true,
+      "title": "DNA virus replication",
+      "authors": [
+        "Paloma Hidalgo",
+        "Ramon A. Gonzalez"
+      ],
+      "published_year": 2024,
+      "publisher": "Elsevier",
+      "doi": "10.1016/B978-0-12-818619-0.00080-0",
+      "publisher_url": "https://doi.org/10.1016/B978-0-12-818619-0.00080-0",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Chapter title, book context, year and DOI were checked against the ScienceDirect record.",
+        "sources": [
+          "https://doi.org/10.1016/B978-0-12-818619-0.00080-0"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-VIRAL-MEMBRANE-FUSION-2023",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Viral Membrane Fusion: A Dance Between Proteins and Lipids",
+      "authors": [
+        "Judith M. White",
+        "Amanda E. Ward",
+        "Laura Odongo",
+        "Lukas K. Tamm"
+      ],
+      "published_year": 2023,
+      "journal": "Annual Review of Virology",
+      "doi": "10.1146/annurev-virology-111821-093413",
+      "publisher_url": "https://doi.org/10.1146/annurev-virology-111821-093413",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity, review status, authors, year and DOI were checked against Annual Reviews.",
+        "sources": [
+          "https://doi.org/10.1146/annurev-virology-111821-093413"
+        ]
+      }
+    },
+    {
+      "id": "AUTHREF-VIRAL-ENTRY-MULTIPLE-RECEPTORS-2025",
+      "resource_type": "authoritative_reference",
+      "theory_only": true,
+      "title": "mGem: The complexity of viral entry—one virus, many receptors",
+      "authors": [
+        "Terence S. Dermody",
+        "Danica M. Sutherland"
+      ],
+      "published_year": 2025,
+      "journal": "mBio",
+      "doi": "10.1128/mbio.02964-24",
+      "publisher_url": "https://journals.asm.org/doi/10.1128/mbio.02964-24",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity, article type, authors, year and DOI were checked against ASM/mBio. It is used as an authoritative perspective, not represented as a review article.",
+        "sources": [
+          "https://journals.asm.org/doi/10.1128/mbio.02964-24"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-VIRAL-INTERFERON-EVASION-2023",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Viral evasion of the interferon response at a glance",
+      "authors": [
+        "Junji Zhu",
+        "Cindy Chiang",
+        "Michaela U. Gack"
+      ],
+      "published_year": 2023,
+      "journal": "Journal of Cell Science",
+      "doi": "10.1242/jcs.260682",
+      "publisher_url": "https://doi.org/10.1242/jcs.260682",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity, authors, publication type, year and DOI were checked against the journal/PubMed record.",
+        "sources": [
+          "https://doi.org/10.1242/jcs.260682"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-ANTIVIRAL-NEUTRALIZING-ANTIBODIES-2023",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Antiviral neutralizing antibodies: from in vitro to in vivo activity",
+      "authors": [
+        "Dennis R. Burton"
+      ],
+      "published_year": 2023,
+      "journal": "Nature Reviews Immunology",
+      "doi": "10.1038/s41577-023-00858-w",
+      "publisher_url": "https://www.nature.com/articles/s41577-023-00858-w",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity, review status, authorship, year and DOI were checked against Nature Reviews Immunology.",
+        "sources": [
+          "https://www.nature.com/articles/s41577-023-00858-w"
+        ]
+      }
+    },
+    {
+      "id": "CHAPTER-VIRAL-PATHOGENESIS-2024",
+      "resource_type": "book_chapter",
+      "theory_only": true,
+      "title": "Pathogenesis of viral infection",
+      "authors": [
+        "Wenjing Zai",
+        "Zhenghong Yuan"
+      ],
+      "published_year": 2024,
+      "publisher": "Elsevier",
+      "doi": "10.1016/B978-0-12-818619-0.00033-2",
+      "publisher_url": "https://doi.org/10.1016/B978-0-12-818619-0.00033-2",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Chapter identity, authors, 2024 third-edition book context and DOI were checked against ScienceDirect.",
+        "sources": [
+          "https://doi.org/10.1016/B978-0-12-818619-0.00033-2"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-CGAS-STING-VIRAL-LATENCY-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Roles of the cGAS-STING signaling pathway in viral latency",
+      "authors": [
+        "Qirou Wu",
+        "Qiongyu Xu",
+        "Jie Liu",
+        "Tiejun Zhao"
+      ],
+      "published_year": 2026,
+      "journal": "Journal of Virology",
+      "doi": "10.1128/jvi.01756-25",
+      "publisher_url": "https://journals.asm.org/doi/10.1128/jvi.01756-25",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity, Minireview status, authors, publication date and DOI were checked against Journal of Virology.",
+        "sources": [
+          "https://journals.asm.org/doi/10.1128/jvi.01756-25"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-ECOLOGY-VIRAL-EMERGENCE-2022",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "The Ecology of Viral Emergence",
+      "authors": [
+        "Edward C. Holmes"
+      ],
+      "published_year": 2022,
+      "journal": "Annual Review of Virology",
+      "doi": "10.1146/annurev-virology-100120-015057",
+      "publisher_url": "https://doi.org/10.1146/annurev-virology-100120-015057",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity, review status, author, year and DOI were checked against Annual Reviews.",
+        "sources": [
+          "https://doi.org/10.1146/annurev-virology-100120-015057"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-IMMUNOLOGICAL-ZOONOTIC-EMERGENCE-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Immunological drivers of zoonotic virus emergence, evolution, and endemicity",
+      "authors": [
+        "Jyothi N. Purushotham",
+        "Holly L. Lutz",
+        "Edyth Parker",
+        "Kristian G. Andersen"
+      ],
+      "published_year": 2025,
+      "journal": "Immunity",
+      "doi": "10.1016/j.immuni.2025.03.014",
+      "publisher_url": "https://doi.org/10.1016/j.immuni.2025.03.014",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity, Perspective/review-style synthesis, authors, year and DOI were checked against Immunity/PubMed. It is retained as a theoretical synthesis for emergence and endemicity.",
+        "sources": [
+          "https://doi.org/10.1016/j.immuni.2025.03.014"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-TEMPERATE-PHAGE-LIFECYCLE-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Revisiting the life cycle of temperate phages",
+      "authors": [
+        "Jakob T. Rostøl",
+        "Cora Chmielowska",
+        "Alberto Marina",
+        "José R. Penadés"
+      ],
+      "published_year": 2026,
+      "journal": "Nature Reviews Microbiology",
+      "doi": "10.1038/s41579-026-01318-7",
+      "publisher_url": "https://www.nature.com/articles/s41579-026-01318-7",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity, review status, authors, publication date and DOI were checked against Nature Reviews Microbiology.",
+        "sources": [
+          "https://www.nature.com/articles/s41579-026-01318-7"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-ARCHAEAL-VIRUS-ENTRY-EGRESS-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Archaeal virus entry and egress",
+      "authors": [
+        "Bastiaan P. Kuiper",
+        "Anna M. C. Schöntag",
+        "Hanna M. Oksanen",
+        "Bertram Daum",
+        "Tessa E. F. Quax"
+      ],
+      "published_year": 2024,
+      "journal": "microLife",
+      "doi": "10.1093/femsml/uqad048",
+      "publisher_url": "https://doi.org/10.1093/femsml/uqad048",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity, authors, year and DOI were checked against Oxford Academic/PubMed.",
+        "sources": [
+          "https://doi.org/10.1093/femsml/uqad048"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-PLANT-VIRAL-RECOGNITION-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Viral Recognition and Evasion in Plants",
+      "authors": [
+        "Rosa Lozano-Durán"
+      ],
+      "published_year": 2024,
+      "journal": "Annual Review of Plant Biology",
+      "doi": "10.1146/annurev-arplant-060223-030224",
+      "publisher_url": "https://doi.org/10.1146/annurev-arplant-060223-030224",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity, review status, author, year and DOI were checked against Annual Reviews.",
+        "sources": [
+          "https://doi.org/10.1146/annurev-arplant-060223-030224"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-PLANT-VIRUS-TRANSMISSION-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Vertical and horizontal transmission of plant viruses: two extremes of a continuum?",
+      "authors": [
+        "Lucía García-Ordóñez",
+        "Israel Pagán"
+      ],
+      "published_year": 2024,
+      "journal": "npj Viruses",
+      "doi": "10.1038/s44298-024-00030-8",
+      "publisher_url": "https://www.nature.com/articles/s44298-024-00030-8",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity, Review status, authors, year and DOI were checked against npj Viruses.",
+        "sources": [
+          "https://www.nature.com/articles/s44298-024-00030-8"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-VIROMICS-DIVERSITY-ECOLOGY-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Viromics approaches for the study of viral diversity and ecology in microbiomes",
+      "authors": [
+        "Simon Roux",
+        "Clement Coclet"
+      ],
+      "published_year": 2026,
+      "journal": "Nature Reviews Genetics",
+      "doi": "10.1038/s41576-025-00871-w",
+      "publisher_url": "https://www.nature.com/articles/s41576-025-00871-w",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "publication_timing_note": "Published online 2025-07-21; issue volume/year 2026.",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity, review status, authors, online publication timing, 2026 issue year and DOI were checked against Nature Reviews Genetics.",
+        "sources": [
+          "https://www.nature.com/articles/s41576-025-00871-w"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-ENVIRONMENTAL-VIRUS-ECOSYSTEM-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Understanding the roles of viruses as key players in environmental dynamics and ecosystem functioning",
+      "authors": [
+        "Mazharul Abbasi",
+        "Masrure Alam"
+      ],
+      "published_year": 2025,
+      "journal": "Discover Viruses",
+      "doi": "10.1007/s44370-025-00015-y",
+      "publisher_url": "https://doi.org/10.1007/s44370-025-00015-y",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity, Review status, authors, year and DOI were checked against Springer Nature.",
+        "sources": [
+          "https://doi.org/10.1007/s44370-025-00015-y"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-DEFECTIVE-ONCOVIRUSES-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Defective but tumorigenic: the evolutionary and functional roles of mutated oncoviruses",
+      "authors": [
+        "Yoshitaka Sato",
+        "Yusuke Okuno",
+        "Takayuki Murata",
+        "Hiroshi Kimura"
+      ],
+      "published_year": 2025,
+      "journal": "FEMS Microbiology Reviews",
+      "doi": "10.1093/femsre/fuaf048",
+      "publisher_url": "https://doi.org/10.1093/femsre/fuaf048",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity, review status, authors, year and DOI were checked against Oxford Academic/FEMS.",
+        "sources": [
+          "https://doi.org/10.1093/femsre/fuaf048"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-ANTIVIRAL-DRUG-DISCOVERY-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Antiviral drug discovery and development: challenges and future directions",
+      "authors": [
+        "Shaoqing Du",
+        "Xueping Hu",
+        "Ping Li",
+        "Shujing Xu",
+        "Meehyein Kim",
+        "Xinyong Liu",
+        "Peng Zhan"
+      ],
+      "published_year": 2026,
+      "journal": "Signal Transduction and Targeted Therapy",
+      "doi": "10.1038/s41392-025-02539-7",
+      "publisher_url": "https://www.nature.com/articles/s41392-025-02539-7",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity, Review Article status, authors, publication date and DOI were checked against Signal Transduction and Targeted Therapy.",
+        "sources": [
+          "https://www.nature.com/articles/s41392-025-02539-7"
+        ]
+      }
     }
   ]
 }

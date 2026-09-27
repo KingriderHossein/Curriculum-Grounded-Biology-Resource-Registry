@@ -9604,6 +9604,534 @@
         "how_to_use": "نقشه درماتومی را با ریشه‌های نخاعی و نشانه‌های سطحی مقایسه کنید.",
         "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
       }
+    },
+    {
+      "id": "VIROLOGY::OPENSTAX-MICROBIOLOGY-2016",
+      "resource_id": "OPENSTAX-MICROBIOLOGY-2016",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "foundation",
+      "role": "foundation",
+      "coverage_concept_ids": [
+        "VR01",
+        "VR02",
+        "VR03",
+        "VR04",
+        "VR05",
+        "VR06"
+      ],
+      "selection_rationale": "A targeted prerequisite pass through the virus chapter provides basic vocabulary for viral structure, genome types, replication cycles and classification before a dedicated virology textbook.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که هنوز درباره ساختار ویروس، انواع ژنوم یا مراحل کلی چرخه عفونت تصویر منسجمی ندارد.",
+        "why": "فصل ویروس‌های OpenStax یک مرور کوتاه و آزاد فراهم می‌کند و برای ورود به کتاب اصلی، پیش‌نیازهای پایه را بدون بار جزئیات زیاد یکدست می‌کند.",
+        "how_to_use": "فقط فصل مربوط به ویروس‌ها را هدفمند بخوانید و برای هر مرحله از چرخه ویروس یک نمودار ساده بسازید؛ خواندن کل کتاب میکروبیولوژی لازم نیست.",
+        "next_step": "پس از تسلط بر واژگان پایه و چرخه کلی عفونت، وارد Principles of Virology شوید."
+      }
+    },
+    {
+      "id": "VIROLOGY::BOOK-PRINCIPLES-VIROLOGY5-2020",
+      "resource_id": "BOOK-PRINCIPLES-VIROLOGY5-2020",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "core",
+      "role": "core",
+      "coverage_concept_ids": [
+        "VR01",
+        "VR02",
+        "VR03",
+        "VR04",
+        "VR05",
+        "VR06",
+        "VR07",
+        "VR08",
+        "VR09",
+        "VR10",
+        "VR11",
+        "VR12",
+        "VR13"
+      ],
+      "selection_rationale": "A principle-centered textbook that teaches shared mechanisms across virus families and connects molecular virology, host interaction, pathogenesis and control in a coherent first full pass.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مبانی سلول، ژنتیک مولکولی و میکروبیولوژی را می‌داند و می‌خواهد ویروس‌شناسی را برای نخستین بار به‌صورت منظم یاد بگیرد.",
+        "why": "به‌جای حفظ خانواده‌های ویروسی به‌صورت جداگانه، ابتدا اصول مشترک ساختار، ورود، همانندسازی، تعامل با میزبان و پاتوژنز را می‌سازد.",
+        "how_to_use": "مطالعه را بر اصول مشترک و چرخه عفونت متمرکز کنید و برای هر خانواده ویروسی فقط تفاوت‌هایی را ثبت کنید که یک اصل عمومی را تغییر می‌دهند.",
+        "next_step": "پس از این دور، برای عمق مولکولی بیشتر به Fundamentals of Molecular Virology بروید."
+      }
+    },
+    {
+      "id": "VIROLOGY::BOOK-FUNDAMENTALS-MOLECULAR-VIROLOGY3-2025",
+      "resource_id": "BOOK-FUNDAMENTALS-MOLECULAR-VIROLOGY3-2025",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "intermediate",
+      "role": "intermediate_reference",
+      "coverage_concept_ids": [
+        "VR02",
+        "VR03",
+        "VR04",
+        "VR05",
+        "VR06",
+        "VR07",
+        "VR08",
+        "VR09",
+        "VR10",
+        "VR12",
+        "VR13"
+      ],
+      "selection_rationale": "A current molecular virology text that deepens genome strategy, replication, virus-host interactions, immunity and countermeasures after the first principle-based pass.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مسیر عمومی ویروس‌شناسی را یک بار خوانده و اکنون می‌خواهد سازوکارهای مولکولی خانواده‌های ویروسی را دقیق‌تر مقایسه کند.",
+        "why": "ویرایش سوم لایه مولکولی را با پوشش به‌روزتر خانواده‌های ویروسی، ایمنی ضدویروسی، واکسن‌ها و داروهای ضدویروسی تقویت می‌کند.",
+        "how_to_use": "از آن به‌عنوان دور دوم استفاده کنید؛ برای هر فصل، ژنوم، محل همانندسازی، آنزیم‌های کلیدی، راهبرد بیان ژن و نقطه خروج را در یک قالب ثابت خلاصه کنید.",
+        "next_step": "برای پرسش‌های پژوهشی یا جزئیات عمیق خانواده‌های ویروسی به Fields Virology مراجعه کنید."
+      }
+    },
+    {
+      "id": "VIROLOGY::BOOK-FIELDS-VIROLOGY8-2026",
+      "resource_id": "BOOK-FIELDS-VIROLOGY8-2026",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "advanced",
+      "role": "advanced_reference",
+      "coverage_concept_ids": [
+        "VR01",
+        "VR02",
+        "VR03",
+        "VR04",
+        "VR05",
+        "VR06",
+        "VR07",
+        "VR08",
+        "VR09",
+        "VR10",
+        "VR11",
+        "VR12",
+        "VR13"
+      ],
+      "selection_rationale": "The current comprehensive advanced reference integrates fundamental and medical virology across major virus families, including structure, replication, host responses, evolution, persistence, therapeutics and vaccines.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که برای یک خانواده ویروسی یا یک پرسش مکانیزمی مشخص به مرجع عمیق نیاز دارد.",
+        "why": "Fields Virology برای پوشش مرجع و جزئیات خانواده‌محور انتخاب شده است؛ نقش آن جایگزین کتاب شروع نیست.",
+        "how_to_use": "کتاب را از ابتدا تا انتها نخوانید. از یک پرسش مشخص شروع کنید، فصل مرتبط را پیدا کنید و سازوکار، شواهد و نقاط اختلاف با اصول عمومی را استخراج کنید.",
+        "next_step": "پس از مرجع عمیق، وارد شاخه تخصصی مرتبط شوید و منابع مروری آن شاخه را بخوانید."
+      }
+    },
+    {
+      "id": "VIROLOGY::CHAPTER-RNA-VIRUS-REPLICATION-2024",
+      "resource_id": "CHAPTER-RNA-VIRUS-REPLICATION-2024",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "molecular-virology-replication"
+      ],
+      "coverage_concept_ids": [
+        "VR02",
+        "VR05",
+        "VR06",
+        "VR10"
+      ],
+      "selection_rationale": "A focused molecular account of the distinct replication and transcription strategies used by positive-sense, negative-sense, double-stranded and reverse-transcribing RNA viruses.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد تفاوت راهبردهای همانندسازی ویروس‌های RNA را به‌جای حفظ خانواده‌ها از روی منطق ژنوم بفهمد.",
+        "why": "این فصل polarity و topology ژنوم را مستقیماً به نیاز به RdRp یا reverse transcriptase و راهبرد تولید mRNA وصل می‌کند.",
+        "how_to_use": "برای هر گروه RNA یک جدول با ستون‌های نوع ژنوم، آنزیم لازم، محل همانندسازی، قالب تولید mRNA و مسیر ساخت ژنوم نسل بعد بسازید.",
+        "next_step": "پس از تثبیت منطق ویروس‌های RNA، فصل DNA virus replication را برای مقایسه نظام‌مند بخوانید."
+      }
+    },
+    {
+      "id": "VIROLOGY::CHAPTER-DNA-VIRUS-REPLICATION-2024",
+      "resource_id": "CHAPTER-DNA-VIRUS-REPLICATION-2024",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "molecular-virology-replication"
+      ],
+      "coverage_concept_ids": [
+        "VR02",
+        "VR05",
+        "VR06"
+      ],
+      "selection_rationale": "A complementary molecular framework for DNA-virus genome replication and gene expression, including the influence of genome topology and intracellular replication site.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که راهبردهای RNA virus replication را فهمیده و اکنون می‌خواهد منطق همانندسازی ویروس‌های DNA را با آن مقایسه کند.",
+        "why": "تفاوت وابستگی به هسته یا سیتوپلاسم، ماشین همانندسازی DNA، رونویسی و پردازش RNA را در یک چارچوب واحد نشان می‌دهد.",
+        "how_to_use": "همان قالب مقایسه‌ای منبع RNA را حفظ کنید و مشخص کنید هر خانواده کدام بخش از ماشین سلول میزبان را استفاده یا جایگزین می‌کند.",
+        "next_step": "پس از مقایسه RNA و DNA، وارد شاخه ساختار و ورود شوید تا ببینید چرخه همانندسازی چگونه از مرحله ورود آغاز می‌شود."
+      }
+    },
+    {
+      "id": "VIROLOGY::REVIEW-VIRAL-MEMBRANE-FUSION-2023",
+      "resource_id": "REVIEW-VIRAL-MEMBRANE-FUSION-2023",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "structural-virology-entry"
+      ],
+      "coverage_concept_ids": [
+        "VR03",
+        "VR04",
+        "VR07"
+      ],
+      "selection_rationale": "A mechanistic review of enveloped-virus fusion proteins, conformational transitions and lipid interactions that connects virion structure to membrane entry.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد ورود ویروس‌های پوشش‌دار را در سطح ساختار پروتئین و غشا بفهمد.",
+        "why": "کلاس‌های اصلی fusion protein و تغییر شکل پیش از همجوشی تا پس از همجوشی را در یک چارچوب فیزیکی و ساختاری قرار می‌دهد.",
+        "how_to_use": "برای هر کلاس fusion protein، محرک فعال‌سازی، intermediate ساختاری، نقش لیپید و مرحله آزادشدن ژنوم را روی یک طرح واحد ثبت کنید.",
+        "next_step": "سپس منبع receptor complexity را بخوانید تا ببینید ورود ویروس فقط مسئله fusion نیست و از attachment و receptor usage آغاز می‌شود."
+      }
+    },
+    {
+      "id": "VIROLOGY::AUTHREF-VIRAL-ENTRY-MULTIPLE-RECEPTORS-2025",
+      "resource_id": "AUTHREF-VIRAL-ENTRY-MULTIPLE-RECEPTORS-2025",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "structural-virology-entry"
+      ],
+      "coverage_concept_ids": [
+        "VR03",
+        "VR04",
+        "VR07"
+      ],
+      "selection_rationale": "A current authoritative perspective showing how multiple capsid–receptor interactions can coordinate attachment, internalization, disassembly, tropism and host range in a non-enveloped virus.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که fusion ویروس‌های پوشش‌دار را فهمیده و می‌خواهد ورود ویروس‌های بدون پوشش و نقش چند گیرنده را مقایسه کند.",
+        "why": "نمونه reovirus نشان می‌دهد receptor usage یک رویداد ساده اتصال نیست و می‌تواند چند مرحله ورود و tropism را کنترل کند.",
+        "how_to_use": "مراحل attachment، internalization و disassembly را جدا کنید و مشخص کنید هر receptor یا جزء capsid در کدام مرحله اثر دارد.",
+        "next_step": "پس از تکمیل ورود، به شاخه ایمنی ویروسی بروید و بررسی کنید سلول پس از شناسایی ویروس چگونه پاسخ می‌دهد."
+      }
+    },
+    {
+      "id": "VIROLOGY::REVIEW-VIRAL-INTERFERON-EVASION-2023",
+      "resource_id": "REVIEW-VIRAL-INTERFERON-EVASION-2023",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "viral-immunology-evasion"
+      ],
+      "coverage_concept_ids": [
+        "VR07",
+        "VR08"
+      ],
+      "selection_rationale": "A concise mechanistic review linking viral sensing, interferon induction and antiviral signaling to the strategies viruses use to suppress or redirect innate immunity.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مسیر کلی innate immunity را می‌داند و می‌خواهد ببیند ویروس‌ها در کدام نقاط شبکه interferon مداخله می‌کنند.",
+        "why": "به‌جای فهرست‌کردن پروتئین‌های ویروسی، پاسخ interferon را به‌صورت یک مسیر دفاعی می‌سازد و سپس نقاط فرار ویروس را روی همان مسیر قرار می‌دهد.",
+        "how_to_use": "مسیر sensing تا تولید و پاسخ به interferon را رسم کنید و برای هر راهبرد فرار مشخص کنید ویروس کدام گره یا اتصال را هدف می‌گیرد.",
+        "next_step": "پس از innate immunity، مرور neutralizing antibodies را برای لایه adaptive و ارتباط آن با طراحی واکسن بخوانید."
+      }
+    },
+    {
+      "id": "VIROLOGY::REVIEW-ANTIVIRAL-NEUTRALIZING-ANTIBODIES-2023",
+      "resource_id": "REVIEW-ANTIVIRAL-NEUTRALIZING-ANTIBODIES-2023",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "viral-immunology-evasion"
+      ],
+      "coverage_concept_ids": [
+        "VR04",
+        "VR08",
+        "VR12"
+      ],
+      "selection_rationale": "A complementary adaptive-immunity review that separates in-vitro neutralization from in-vivo antiviral activity and connects antibody mechanisms to passive protection and vaccine design.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد نقش آنتی‌بادی ضدویروسی را فراتر از مفهوم ساده «جلوگیری از اتصال» بفهمد.",
+        "why": "تفاوت neutralization آزمایشگاهی، effector functions و حفاظت واقعی در بدن را روشن می‌کند و به منطق طراحی واکسن متصل می‌شود.",
+        "how_to_use": "برای هر سازوکار آنتی‌بادی مشخص کنید چه چیزی در آزمون in vitro اندازه‌گیری می‌شود و کدام عملکردهای Fc یا بافتی فقط در vivo دیده می‌شوند.",
+        "next_step": "سپس وارد شاخه پاتوژنز و نهفتگی شوید تا پاسخ ایمنی را در زمینه نتیجه نهایی عفونت بررسی کنید."
+      }
+    },
+    {
+      "id": "VIROLOGY::CHAPTER-VIRAL-PATHOGENESIS-2024",
+      "resource_id": "CHAPTER-VIRAL-PATHOGENESIS-2024",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "viral-pathogenesis-persistence"
+      ],
+      "coverage_concept_ids": [
+        "VR07",
+        "VR08",
+        "VR09"
+      ],
+      "selection_rationale": "A broad conceptual chapter that organizes viral and host determinants of disease, tissue damage, tropism, immune responses and infection outcomes before focusing on persistence and latency.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که چرخه تکثیر را می‌داند اما هنوز نمی‌تواند توضیح دهد چرا عفونت در یک میزبان بدون علامت و در میزبان دیگر بیماری‌زا می‌شود.",
+        "why": "پاتوژنز را از خود replication جدا می‌کند و نتیجه عفونت را حاصل تعامل ویژگی ویروس، بافت هدف، پاسخ میزبان و شدت آسیب می‌بیند.",
+        "how_to_use": "یک زنجیره از ورود ویروس تا tropism، replication، پاسخ ایمنی، آسیب بافتی و outcome بسازید و برای هر گام عوامل ویروسی و میزبان را جدا کنید.",
+        "next_step": "سپس منبع cGAS-STING و latency را بخوانید تا یکی از مهم‌ترین outcomeهای بلندمدت عفونت را در سطح مکانیزمی بررسی کنید."
+      }
+    },
+    {
+      "id": "VIROLOGY::REVIEW-CGAS-STING-VIRAL-LATENCY-2026",
+      "resource_id": "REVIEW-CGAS-STING-VIRAL-LATENCY-2026",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "viral-pathogenesis-persistence"
+      ],
+      "coverage_concept_ids": [
+        "VR07",
+        "VR08",
+        "VR09"
+      ],
+      "selection_rationale": "A current mechanistic review of how latent viruses interact with DNA sensing and cGAS-STING during establishment, maintenance and reactivation of latency.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مفهوم latency را می‌شناسد و می‌خواهد بداند خاموش‌ماندن ژنوم ویروسی چگونه با sensing و فرار ایمنی پیوند دارد.",
+        "why": "سه مرحله establishment، maintenance و reactivation را به یک مسیر innate sensing مشخص وصل می‌کند و persistence را از یک اصطلاح توصیفی به مسئله مکانیزمی تبدیل می‌کند.",
+        "how_to_use": "برای هر مرحله latency مشخص کنید ژنوم ویروسی کجاست، cGAS-STING چه چیزی را می‌تواند حس کند و ویروس با چه نوع راهبردی مسیر را محدود می‌کند.",
+        "next_step": "پس از latency، وارد تکامل و emergence شوید تا ببینید تغییر در سطح جمعیت ویروس چگونه به ظهور میزبان یا جمعیت جدید منجر می‌شود."
+      }
+    },
+    {
+      "id": "VIROLOGY::REVIEW-ECOLOGY-VIRAL-EMERGENCE-2022",
+      "resource_id": "REVIEW-ECOLOGY-VIRAL-EMERGENCE-2022",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "virus-evolution-emergence"
+      ],
+      "coverage_concept_ids": [
+        "VR09",
+        "VR10",
+        "VR11"
+      ],
+      "selection_rationale": "A general ecological framework for viral emergence that connects host range, cross-species transmission, ecological opportunity and evolutionary change across the virosphere.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد emergence را فراتر از یک فهرست outbreak و به‌عنوان فرایند اکولوژیک–تکاملی بفهمد.",
+        "why": "بین virus diversity، host jumping، تماس اکولوژیک و موانع استقرار در میزبان جدید رابطه برقرار می‌کند.",
+        "how_to_use": "فرایند emergence را به مراحل exposure، spillover، replication در میزبان جدید، onward transmission و establishment تقسیم کنید و برای هر مرحله مانع اصلی را بنویسید.",
+        "next_step": "سپس منبع immunological drivers را بخوانید تا ببینید فشار ایمنی چگونه پس از spillover مسیر evolution و endemicity را تغییر می‌دهد."
+      }
+    },
+    {
+      "id": "VIROLOGY::REVIEW-IMMUNOLOGICAL-ZOONOTIC-EMERGENCE-2025",
+      "resource_id": "REVIEW-IMMUNOLOGICAL-ZOONOTIC-EMERGENCE-2025",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "virus-evolution-emergence"
+      ],
+      "coverage_concept_ids": [
+        "VR08",
+        "VR09",
+        "VR10"
+      ],
+      "selection_rationale": "A current synthesis of how host immunity and antibody landscapes shape zoonotic emergence, viral adaptation, immune escape and the transition toward endemic circulation.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منطق اکولوژیک spillover را فهمیده و می‌خواهد انتخاب ایمنی پس از ورود ویروس به جمعیت جدید را بررسی کند.",
+        "why": "emergence را به پایان spillover محدود نمی‌کند و نشان می‌دهد immunity جمعیتی چگونه fitness، adaptation و immune escape را شکل می‌دهد.",
+        "how_to_use": "یک خط زمانی از spillover تا endemicity بسازید و در هر مرحله نوع فشار انتخابی، تغییر ویروسی و وضعیت immunity میزبان را کنار هم قرار دهید.",
+        "next_step": "پس از تکامل ویروس‌های جانوری، به ویروس‌های پروکاریوتی بروید تا شکل متفاوتی از هم‌تکاملی virus–host را مقایسه کنید."
+      }
+    },
+    {
+      "id": "VIROLOGY::REVIEW-TEMPERATE-PHAGE-LIFECYCLE-2026",
+      "resource_id": "REVIEW-TEMPERATE-PHAGE-LIFECYCLE-2026",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "prokaryotic-viruses"
+      ],
+      "coverage_concept_ids": [
+        "VR02",
+        "VR05",
+        "VR06",
+        "VR07",
+        "VR09",
+        "VR10",
+        "VR11"
+      ],
+      "selection_rationale": "A current synthesis of temperate phage lytic and lysogenic cycles, prophage biology, transduction and phage-host co-evolution that provides the main framework for bacterial viruses.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که چرخه lytic را می‌شناسد اما می‌خواهد lysogeny، prophage و نقش فاژ در تکامل باکتری را عمیق‌تر بفهمد.",
+        "why": "چرخه temperate phage را از یک دوگانه ساده lytic/lysogenic فراتر می‌برد و آن را به انتقال ژن و هم‌تکاملی میزبان وصل می‌کند.",
+        "how_to_use": "یک نقشه تصمیم برای ورود به lytic یا lysogenic state بسازید و سپس prophage induction، transduction و اثر بر fitness باکتری را به آن اضافه کنید.",
+        "next_step": "پس از فاژهای باکتریایی، منبع archaeal virus entry and egress را بخوانید تا تنوع ویروس‌های پروکاریوتی را خارج از مدل کلاسیک فاژ ببینید."
+      }
+    },
+    {
+      "id": "VIROLOGY::REVIEW-ARCHAEAL-VIRUS-ENTRY-EGRESS-2024",
+      "resource_id": "REVIEW-ARCHAEAL-VIRUS-ENTRY-EGRESS-2024",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "prokaryotic-viruses"
+      ],
+      "coverage_concept_ids": [
+        "VR01",
+        "VR03",
+        "VR04",
+        "VR06",
+        "VR07",
+        "VR11"
+      ],
+      "selection_rationale": "A complementary review of the unusual structural diversity and cell-entry and egress mechanisms of archaeal viruses, expanding prokaryotic virology beyond bacteriophage paradigms.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که فاژهای باکتریایی را مطالعه کرده و می‌خواهد بداند ویروس‌های آرکی چه ساختارها و راهبردهای متفاوتی دارند.",
+        "why": "ویروس‌های آرکی شکل‌ها و سازوکارهای entry/egress متنوعی دارند و نشان می‌دهند مدل‌های کلاسیک باکتریوفاژ کل virosphere پروکاریوتی را توضیح نمی‌دهند.",
+        "how_to_use": "ساختار ویریون، گیرنده یا سطح میزبان، مسیر ورود و شیوه خروج را با فاژهای باکتریایی در یک جدول مقایسه کنید.",
+        "next_step": "سپس وارد Plant Virology شوید تا اثر نوع میزبان بر انتقال، دفاع و تکامل ویروس را در یک سیستم یوکاریوتی متفاوت بررسی کنید."
+      }
+    },
+    {
+      "id": "VIROLOGY::REVIEW-PLANT-VIRAL-RECOGNITION-2024",
+      "resource_id": "REVIEW-PLANT-VIRAL-RECOGNITION-2024",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "plant-virology"
+      ],
+      "coverage_concept_ids": [
+        "VR07",
+        "VR08"
+      ],
+      "selection_rationale": "A current conceptual review of how plants recognize viral invasion and how plant viruses evade or suppress RNA-silencing and innate antiviral defenses.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بداند دفاع ضدویروسی در گیاهان چه تفاوتی با چارچوب جانوری دارد.",
+        "why": "recognition، RNA silencing و immune evasion را در یک سیستم میزبان متفاوت کنار هم قرار می‌دهد و از تقلیل Plant Virology به بیماری‌شناسی گیاهی جلوگیری می‌کند.",
+        "how_to_use": "سیگنال‌های تشخیص ویروس، مسیرهای دفاعی گیاه و راهبردهای suppression ویروس را در سه ستون جدا مقایسه کنید.",
+        "next_step": "سپس منبع انتقال عمودی و افقی را بخوانید تا دفاع میزبان را به fitness و انتشار ویروس در جمعیت گیاهی وصل کنید."
+      }
+    },
+    {
+      "id": "VIROLOGY::REVIEW-PLANT-VIRUS-TRANSMISSION-2024",
+      "resource_id": "REVIEW-PLANT-VIRUS-TRANSMISSION-2024",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "plant-virology"
+      ],
+      "coverage_concept_ids": [
+        "VR09",
+        "VR10",
+        "VR11"
+      ],
+      "selection_rationale": "A complementary evolutionary-ecology review of vertical and horizontal plant-virus transmission and the trade-offs connecting transmission mode, virulence and host fitness.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد انتقال ویروس گیاهی را از دید تکامل و fitness بفهمد، نه فقط به‌عنوان فهرست vectorها.",
+        "why": "vertical و horizontal transmission را روی یک continuum تکاملی قرار می‌دهد و رابطه نوع انتقال با virulence و تولیدمثل میزبان را توضیح می‌دهد.",
+        "how_to_use": "برای هر mode انتقال، وابستگی ویروس به بقا و تولیدمثل میزبان، فرصت انتشار و فشار انتخابی بر virulence را ثبت کنید.",
+        "next_step": "پس از Plant Virology وارد ویروس‌شناسی محیطی شوید تا نقش ویروس را در سطح community و ecosystem بررسی کنید."
+      }
+    },
+    {
+      "id": "VIROLOGY::REVIEW-VIROMICS-DIVERSITY-ECOLOGY-2026",
+      "resource_id": "REVIEW-VIROMICS-DIVERSITY-ECOLOGY-2026",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "environmental-virology-viromes"
+      ],
+      "coverage_concept_ids": [
+        "VR01",
+        "VR10",
+        "VR11"
+      ],
+      "selection_rationale": "A modern conceptual review of viromics as a window into uncultivated viral diversity, virus-host associations and viral community ecology across microbiomes.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد مفهوم virome و تنوع واقعی ویروس‌ها را فراتر از ویروس‌های قابل‌کشت یا بیماری‌زا بفهمد.",
+        "why": "نشان می‌دهد داده‌های توالی چگونه تصویر ما از گستره virosphere، ارتباط virus-host و ساختار community را تغییر داده‌اند.",
+        "how_to_use": "روی خروجی زیستی viromics تمرکز کنید: چه نوع ویروس‌هایی دیده می‌شوند، چگونه host association استنباط می‌شود و چه الگوهای اکولوژیک از داده حاصل می‌شود؛ جزئیات پروتکل عملی خارج از هدف است.",
+        "next_step": "سپس مرور ecosystem functioning را بخوانید تا تنوع ویروس‌ها را به چرخه‌های ماده و کارکرد اکوسیستم وصل کنید."
+      }
+    },
+    {
+      "id": "VIROLOGY::REVIEW-ENVIRONMENTAL-VIRUS-ECOSYSTEM-2025",
+      "resource_id": "REVIEW-ENVIRONMENTAL-VIRUS-ECOSYSTEM-2025",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "environmental-virology-viromes"
+      ],
+      "coverage_concept_ids": [
+        "VR10",
+        "VR11"
+      ],
+      "selection_rationale": "A complementary ecosystem-level review covering viral diversity, biogeochemical cycles, auxiliary metabolic genes, lateral gene transfer and ecological interactions.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که virome را شناخته و اکنون می‌خواهد بداند ویروس‌ها چه نقشی در عملکرد اکوسیستم دارند.",
+        "why": "ویروس را از یک عامل عفونت به یک بازیگر اکولوژیک تبدیل می‌کند و اثر آن را بر nutrient cycling، gene flow و community dynamics نشان می‌دهد.",
+        "how_to_use": "چهار ستون برای viral lysis، biogeochemical cycling، auxiliary metabolic genes و lateral gene transfer بسازید و اثر هرکدام را بر ecosystem function خلاصه کنید.",
+        "next_step": "پس از مقیاس اکوسیستم، وارد شاخه انکولوژی ویروسی و ضدویروس‌ها شوید تا اثر ویروس و کنترل آن را در سطح بیماری مزمن و مداخله مولکولی بررسی کنید."
+      }
+    },
+    {
+      "id": "VIROLOGY::REVIEW-DEFECTIVE-ONCOVIRUSES-2025",
+      "resource_id": "REVIEW-DEFECTIVE-ONCOVIRUSES-2025",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "viral-oncology-antivirals"
+      ],
+      "coverage_concept_ids": [
+        "VR07",
+        "VR09",
+        "VR13"
+      ],
+      "selection_rationale": "A current cross-virus review of human oncoviruses focusing on persistence, integration, defective viral genomes, immune evasion and their functional contribution to tumor evolution.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بفهمد چرا حضور یک ویروس در تومور با «ایجاد سرطان» یکسان نیست و چه سازوکارهایی واقعاً به oncogenesis کمک می‌کنند.",
+        "why": "هفت oncovirus انسانی را در یک چارچوب مقایسه‌ای قرار می‌دهد و persistence، integration، mutation و immune evasion را به انتخاب کلونال و پیشرفت تومور وصل می‌کند.",
+        "how_to_use": "برای هر oncovirus مشخص کنید ژنوم ویروسی در سلول چگونه باقی می‌ماند، کدام عملکردهای ویروسی حفظ یا از دست می‌روند و این تغییر چگونه به fitness سلول توموری کمک می‌کند.",
+        "next_step": "سپس منبع antiviral drug discovery را بخوانید تا از سازوکار بیماری به منطق انتخاب target و مهار چرخه ویروسی بروید."
+      }
+    },
+    {
+      "id": "VIROLOGY::REVIEW-ANTIVIRAL-DRUG-DISCOVERY-2026",
+      "resource_id": "REVIEW-ANTIVIRAL-DRUG-DISCOVERY-2026",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "viral-oncology-antivirals"
+      ],
+      "coverage_concept_ids": [
+        "VR05",
+        "VR06",
+        "VR07",
+        "VR10",
+        "VR12"
+      ],
+      "selection_rationale": "A current review linking viral and host targets to modern antiviral discovery, resistance, broad-spectrum strategies and emerging structure- and mechanism-guided approaches.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که چرخه ویروس را می‌داند و می‌خواهد بفهمد یک مرحله یا پروتئین چگونه به antiviral target تبدیل می‌شود.",
+        "why": "داروی ضدویروسی را به‌صورت فهرست داروها آموزش نمی‌دهد؛ target selection، resistance، broad-spectrum design و محدودیت‌های کشف دارو را در یک چارچوب قرار می‌دهد.",
+        "how_to_use": "برای هر target مشخص کنید ویروسی است یا میزبان، در کدام مرحله چرخه قرار دارد، چه مزیت انتخابی دارد و مقاومت چگونه می‌تواند ایجاد شود.",
+        "next_step": "پس از این شاخه، مسیر تخصصی ویروس‌شناسی کامل است و می‌توانید بر اساس سؤال پژوهشی خود یکی از نه شاخه را عمیق‌تر دنبال کنید."
+      }
     }
   ]
 }

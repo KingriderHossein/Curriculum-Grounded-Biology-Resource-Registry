@@ -39,3 +39,4 @@ This file is a navigation index, not a status log.
 - Embryology: Foundation → Core → Intermediate → Advanced → 9 specialized branches.
 - Histology: Foundation → Core → Intermediate → Advanced → 9 specialized branches.
 - Anatomy: Foundation → Core → Intermediate → Advanced → 9 specialized branches.
+- Virology: Foundation → Core → Intermediate → Advanced → 9 specialized branches.
