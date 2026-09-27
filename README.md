@@ -18,21 +18,21 @@
 
 | درس | مسیر عمومی | شاخه تخصصی | منابع در مسیر |
 |---|---:|---:|---:|
-| [زیست‌شناسی سلولی ⁦Cell Biology⁩](subjects/cell-biology/README.md) | 4 منبع | 9 شاخه | 22 |
-| [بیوشیمی ⁦Biochemistry⁩](subjects/biochemistry/README.md) | 4 منبع | 9 شاخه | 22 |
-| [ژنتیک ⁦Genetics⁩](subjects/genetics/README.md) | 4 منبع | 9 شاخه | 22 |
-| [زیست‌شناسی مولکولی ⁦Molecular Biology⁩](subjects/molecular-biology/README.md) | 4 منبع | 9 شاخه | 22 |
-| [میکروبیولوژی ⁦Microbiology⁩](subjects/microbiology/README.md) | 4 منبع | 9 شاخه | 22 |
-| [زیست‌شناسی تکاملی ⁦Evolutionary Biology⁩](subjects/evolutionary-biology/README.md) | 4 منبع | 9 شاخه | 22 |
-| [اکولوژی ⁦Ecology⁩](subjects/ecology/README.md) | 4 منبع | 9 شاخه | 22 |
-| [زیست‌شناسی گیاهی ⁦Plant Biology⁩](subjects/plant-biology/README.md) | 4 منبع | 9 شاخه | 22 |
-| [زیست‌شناسی تکوینی ⁦Developmental Biology⁩](subjects/developmental-biology/README.md) | 4 منبع | 9 شاخه | 22 |
-| [ایمونولوژی ⁦Immunology⁩](subjects/immunology/README.md) | 4 منبع | 9 شاخه | 22 |
-| [فیزیولوژی جانوری ⁦Animal Physiology⁩](subjects/animal-physiology/README.md) | 4 منبع | 9 شاخه | 22 |
-| [بیوانفورماتیک ⁦Bioinformatics⁩](subjects/bioinformatics/README.md) | 4 منبع | 9 شاخه | 22 |
-| [زیست‌شناسی سامانه‌ها ⁦Systems Biology⁩](subjects/systems-biology/README.md) | 4 منبع | 9 شاخه | 22 |
-| [علوم اعصاب ⁦Neuroscience⁩](subjects/neuroscience/README.md) | 4 منبع | 9 شاخه | 22 |
-| [هماتولوژی ⁦Hematology⁩](subjects/hematology/README.md) | 4 منبع | 9 شاخه | 22 |
+| [زیست‌شناسی سلولی ⁦Cell Biology⁩](subjects/cell-biology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
+| [بیوشیمی ⁦Biochemistry⁩](subjects/biochemistry/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
+| [ژنتیک ⁦Genetics⁩](subjects/genetics/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
+| [زیست‌شناسی مولکولی ⁦Molecular Biology⁩](subjects/molecular-biology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
+| [میکروبیولوژی ⁦Microbiology⁩](subjects/microbiology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
+| [زیست‌شناسی تکاملی ⁦Evolutionary Biology⁩](subjects/evolutionary-biology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
+| [اکولوژی ⁦Ecology⁩](subjects/ecology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
+| [زیست‌شناسی گیاهی ⁦Plant Biology⁩](subjects/plant-biology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
+| [زیست‌شناسی تکوینی ⁦Developmental Biology⁩](subjects/developmental-biology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
+| [ایمونولوژی ⁦Immunology⁩](subjects/immunology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
+| [فیزیولوژی جانوری ⁦Animal Physiology⁩](subjects/animal-physiology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
+| [بیوانفورماتیک ⁦Bioinformatics⁩](subjects/bioinformatics/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
+| [زیست‌شناسی سامانه‌ها ⁦Systems Biology⁩](subjects/systems-biology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
+| [علوم اعصاب ⁦Neuroscience⁩](subjects/neuroscience/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
+| [هماتولوژی ⁦Hematology⁩](subjects/hematology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
 
 ---
 
