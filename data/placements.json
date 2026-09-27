@@ -9849,6 +9849,52 @@
         "how_to_use": "برای هر سازوکار آنتی‌بادی مشخص کنید چه چیزی در آزمون in vitro اندازه‌گیری می‌شود و کدام عملکردهای Fc یا بافتی فقط در vivo دیده می‌شوند.",
         "next_step": "سپس وارد شاخه پاتوژنز و نهفتگی شوید تا پاسخ ایمنی را در زمینه نتیجه نهایی عفونت بررسی کنید."
       }
+    },
+    {
+      "id": "VIROLOGY::CHAPTER-VIRAL-PATHOGENESIS-2024",
+      "resource_id": "CHAPTER-VIRAL-PATHOGENESIS-2024",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "viral-pathogenesis-persistence"
+      ],
+      "coverage_concept_ids": [
+        "VR07",
+        "VR08",
+        "VR09"
+      ],
+      "selection_rationale": "A broad conceptual chapter that organizes viral and host determinants of disease, tissue damage, tropism, immune responses and infection outcomes before focusing on persistence and latency.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که چرخه تکثیر را می‌داند اما هنوز نمی‌تواند توضیح دهد چرا عفونت در یک میزبان بدون علامت و در میزبان دیگر بیماری‌زا می‌شود.",
+        "why": "پاتوژنز را از خود replication جدا می‌کند و نتیجه عفونت را حاصل تعامل ویژگی ویروس، بافت هدف، پاسخ میزبان و شدت آسیب می‌بیند.",
+        "how_to_use": "یک زنجیره از ورود ویروس تا tropism، replication، پاسخ ایمنی، آسیب بافتی و outcome بسازید و برای هر گام عوامل ویروسی و میزبان را جدا کنید.",
+        "next_step": "سپس منبع cGAS-STING و latency را بخوانید تا یکی از مهم‌ترین outcomeهای بلندمدت عفونت را در سطح مکانیزمی بررسی کنید."
+      }
+    },
+    {
+      "id": "VIROLOGY::REVIEW-CGAS-STING-VIRAL-LATENCY-2026",
+      "resource_id": "REVIEW-CGAS-STING-VIRAL-LATENCY-2026",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "viral-pathogenesis-persistence"
+      ],
+      "coverage_concept_ids": [
+        "VR07",
+        "VR08",
+        "VR09"
+      ],
+      "selection_rationale": "A current mechanistic review of how latent viruses interact with DNA sensing and cGAS-STING during establishment, maintenance and reactivation of latency.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مفهوم latency را می‌شناسد و می‌خواهد بداند خاموش‌ماندن ژنوم ویروسی چگونه با sensing و فرار ایمنی پیوند دارد.",
+        "why": "سه مرحله establishment، maintenance و reactivation را به یک مسیر innate sensing مشخص وصل می‌کند و persistence را از یک اصطلاح توصیفی به مسئله مکانیزمی تبدیل می‌کند.",
+        "how_to_use": "برای هر مرحله latency مشخص کنید ژنوم ویروسی کجاست، cGAS-STING چه چیزی را می‌تواند حس کند و ویروس با چه نوع راهبردی مسیر را محدود می‌کند.",
+        "next_step": "پس از latency، وارد تکامل و emergence شوید تا ببینید تغییر در سطح جمعیت ویروس چگونه به ظهور میزبان یا جمعیت جدید منجر می‌شود."
+      }
     }
   ]
 }
