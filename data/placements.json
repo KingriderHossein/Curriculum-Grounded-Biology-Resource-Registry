@@ -10132,6 +10132,109 @@
         "how_to_use": "برای هر target مشخص کنید ویروسی است یا میزبان، در کدام مرحله چرخه قرار دارد، چه مزیت انتخابی دارد و مقاومت چگونه می‌تواند ایجاد شود.",
         "next_step": "پس از این شاخه، مسیر تخصصی ویروس‌شناسی کامل است و می‌توانید بر اساس سؤال پژوهشی خود یکی از نه شاخه را عمیق‌تر دنبال کنید."
       }
+    },
+    {
+      "id": "BIOPHYSICS::BOOK-INTRODUCTORY-PHYSICS-BIO-SCIENTISTS-2018",
+      "resource_id": "BOOK-INTRODUCTORY-PHYSICS-BIO-SCIENTISTS-2018",
+      "subject_id": "BIOPHYSICS",
+      "learning_stage": "foundation",
+      "role": "foundation",
+      "coverage_concept_ids": [
+        "BPH01",
+        "BPH02",
+        "BPH04",
+        "BPH07",
+        "BPH08",
+        "BPH11",
+        "BPH12",
+        "BPH13"
+      ],
+      "selection_rationale": "A biology-oriented physics text that repairs the quantitative prerequisites needed for biophysics, including scale, mechanics, transport, thermodynamics, electricity, fluids and physical measurement, without assuming a physics-major background.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که زیست‌شناسی را می‌داند اما در فیزیک پایه، تحلیل ابعادی، ترمودینامیک، الکتریسیته یا مکانیک احساس ضعف می‌کند.",
+        "why": "این منبع فیزیک را با مسئله‌ها و مثال‌های زیستی پیوند می‌دهد و شکاف میان فیزیک عمومی و ورود به بیوفیزیک را پر می‌کند.",
+        "how_to_use": "مطالعه را انتخابی انجام دهید؛ روی واحدها و مقیاس، انرژی و ترمودینامیک، انتشار و انتقال، الکتریسیته، سیالات و اصول اندازه‌گیری تمرکز کنید و تمرین‌های کمی اصلی را حل کنید.",
+        "next_step": "پس از تثبیت پیش‌نیازهای کمی، وارد Quantitative Understanding of Biosystems شوید."
+      }
+    },
+    {
+      "id": "BIOPHYSICS::BOOK-QUANTITATIVE-BIOSYSTEMS2-2019",
+      "resource_id": "BOOK-QUANTITATIVE-BIOSYSTEMS2-2019",
+      "subject_id": "BIOPHYSICS",
+      "learning_stage": "core",
+      "role": "core",
+      "coverage_concept_ids": [
+        "BPH01",
+        "BPH02",
+        "BPH03",
+        "BPH04",
+        "BPH05",
+        "BPH06",
+        "BPH07",
+        "BPH08",
+        "BPH09",
+        "BPH10",
+        "BPH11",
+        "BPH12"
+      ],
+      "selection_rationale": "A dedicated introductory biophysics textbook that provides a coherent first full pass from molecular interactions and statistical physics to membranes, transport, molecular machines and cell-scale physical behavior.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که پیش‌نیازهای فیزیک و زیست پایه را دارد و می‌خواهد برای نخستین بار بیوفیزیک را به‌صورت منظم و کمی یاد بگیرد.",
+        "why": "این کتاب به‌جای ارائه مجموعه‌ای پراکنده از مثال‌های فیزیکی، مفاهیم اصلی بیوفیزیک را در یک مسیر آموزشی واحد به هم متصل می‌کند.",
+        "how_to_use": "فصل‌ها را به‌ترتیب مسیر کتاب بخوانید و برای هر مبحث سه چیز را ثبت کنید: کمیت‌های اصلی، مدل یا معادله مرکزی و معنای زیستی آن.",
+        "next_step": "پس از این دور، برای دید مدل‌محورتر در مقیاس سلول و مولکول به Physical Biology of the Cell بروید."
+      }
+    },
+    {
+      "id": "BIOPHYSICS::BOOK-PHYSICAL-BIOLOGY-CELL2-2013",
+      "resource_id": "BOOK-PHYSICAL-BIOLOGY-CELL2-2013",
+      "subject_id": "BIOPHYSICS",
+      "learning_stage": "intermediate",
+      "role": "intermediate_reference",
+      "coverage_concept_ids": [
+        "BPH01",
+        "BPH02",
+        "BPH03",
+        "BPH04",
+        "BPH05",
+        "BPH06",
+        "BPH07",
+        "BPH08",
+        "BPH09",
+        "BPH10",
+        "BPH11",
+        "BPH12"
+      ],
+      "selection_rationale": "A model-centered physical biology text that deepens the quantitative interpretation of cellular systems through statistical mechanics, elasticity, membrane physics, biological electricity, molecular motors and dynamical models.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که اصول عمومی بیوفیزیک را یک بار آموخته و اکنون می‌خواهد آن‌ها را در مدل‌های واقعی‌تر سلولی و مولکولی به کار بگیرد.",
+        "why": "قدرت اصلی کتاب در تبدیل پدیده‌های زیستی به مدل‌های کمی قابل‌تحلیل است؛ بنابراین برای دور دوم و عمیق‌تر از یادگیری مناسب‌تر است.",
+        "how_to_use": "هر فصل را با تمرکز بر فرایند مدل‌سازی بخوانید: فرض‌ها را مشخص کنید، کمیت‌های قابل‌اندازه‌گیری را جدا کنید، معادلات را به پدیده زیستی برگردانید و محدودیت مدل را بنویسید.",
+        "next_step": "پس از تسلط بر این سطح، برای تمرکز بر اصول نظری عمومی‌تر و استدلال پژوهشی به Biophysics: Searching for Principles بروید."
+      }
+    },
+    {
+      "id": "BIOPHYSICS::BOOK-BIOPHYSICS-SEARCHING-PRINCIPLES-2012",
+      "resource_id": "BOOK-BIOPHYSICS-SEARCHING-PRINCIPLES-2012",
+      "subject_id": "BIOPHYSICS",
+      "learning_stage": "advanced",
+      "role": "advanced_reference",
+      "coverage_concept_ids": [
+        "BPH01",
+        "BPH03",
+        "BPH04",
+        "BPH05",
+        "BPH06",
+        "BPH08",
+        "BPH09"
+      ],
+      "selection_rationale": "An advanced theoretical treatment that looks for general physical principles in biological systems, emphasizing quantitative reasoning, fluctuations, inference and principled model construction rather than broad introductory coverage.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که با فیزیک، احتمال و مدل‌سازی کمی راحت است و می‌خواهد از سطح کاربرد فرمول‌ها به سطح استخراج اصول عمومی در زیست برسد.",
+        "why": "این کتاب یک مرجع مقدماتی نیست؛ ارزش آن در نوع استدلال نظری و ساخت مدل‌هایی است که از جزئیات یک سامانه خاص فراتر می‌روند.",
+        "how_to_use": "آن را مسئله‌محور بخوانید. پیش از دنبال‌کردن مشتق‌ها، سؤال فیزیکی هر بخش، فرض‌های مدل، کمیت قابل پیش‌بینی و نوع شواهد لازم برای آزمون مدل را مشخص کنید.",
+        "next_step": "پس از این مرحله، وارد شاخه تخصصی موردنظر شوید و منابع مروری همان شاخه را کنار این چارچوب نظری مطالعه کنید."
+      }
     }
   ]
 }
