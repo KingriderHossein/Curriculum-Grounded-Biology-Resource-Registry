@@ -33,3 +33,4 @@ This file is a navigation index, not a status log.
 - Animal Physiology: Foundation → Core → Intermediate → Advanced → 9 specialized branches.
 - Bioinformatics: Foundation → Core → Intermediate → Advanced → 9 specialized branches.
 - Systems Biology: Foundation → Core → Intermediate → Advanced → 9 specialized branches.
+- Neuroscience: Foundation → Core → Intermediate → Advanced → 9 specialized branches.

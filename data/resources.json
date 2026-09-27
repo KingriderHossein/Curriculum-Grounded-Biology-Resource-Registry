@@ -5032,6 +5032,558 @@
       "publisher_url": "https://royalsocietypublishing.org/doi/10.1098/rsta.2023.0384",
       "verification_status": "verified",
       "verified_on": "2026-09-26"
+    },
+    {
+      "id": "BOOK-NEUROSCIENCE-BEAR5-2026",
+      "resource_type": "textbook",
+      "title": "Neuroscience: Exploring the Brain",
+      "authors": [
+        "Mark F. Bear",
+        "Barry W. Connors",
+        "Michael A. Paradiso"
+      ],
+      "published_year": 2026,
+      "edition": "5th Edition",
+      "isbn": "9781284286878",
+      "publisher": "Jones & Bartlett Learning",
+      "publisher_url": "https://www.jblearning.com/catalog/productdetails/9781284286878",
+      "purchase_url": "https://www.jblearning.com/catalog/productdetails/9781284286878",
+      "cover": {
+        "url": "https://neurobiology.northwestern.edu/courses/undergraduate-courses/2026-2027/class-schedules/fall-2026-class-schedule/26-202_book.jpg",
+        "source": "Northwestern University Neurobiology course page image of the Jones & Bartlett Learning 5th edition; exact title/edition visually cross-checked against the publisher record",
+        "source_url": "https://neurobiology.northwestern.edu/courses/undergraduate-courses/2026-2027/class-schedules/fall-2026-class-schedule/",
+        "expected_sha256": "9b26182897d2ec1239de74b64a5407d349d84068bb5feafc4d07b5703eadad96",
+        "visual_reviewed_on": "2026-09-27",
+        "visual_review_status": "title_and_edition_checked"
+      },
+      "theory_only": true,
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity matches the Jones & Bartlett Learning Fifth Edition record (print ISBN 9781284286878). The former VitalSource endpoint returned a generic placeholder and was replaced. The replacement cover was visually reviewed from the CI artifact and exact bytes were locked by SHA-256; this is not full-text scientific certification.",
+        "sources": [
+          "https://www.jblearning.com/catalog/productdetails/9781284286878",
+          "https://samples.jblearning.com/9781284286878/OR-9383354299-FLYR.pdf",
+          "https://neurobiology.northwestern.edu/courses/undergraduate-courses/2026-2027/class-schedules/fall-2026-class-schedule/"
+        ]
+      }
+    },
+    {
+      "id": "BOOK-NEUROSCIENCE-OUP7-2023",
+      "resource_type": "textbook",
+      "title": "Neuroscience",
+      "authors": [
+        "George J. Augustine",
+        "Jennifer M. Groh",
+        "Scott A. Huettel",
+        "Anthony-Samuel LaMantia",
+        "Leonard E. White",
+        "Dale Purves"
+      ],
+      "contributor_role": "Editors; Dale Purves is emeritus editor",
+      "published_year": 2023,
+      "edition": "7th Edition",
+      "isbn": "9780197616246",
+      "publisher": "Oxford University Press / Sinauer",
+      "publisher_url": "https://www.oup.com.au/books/higher-education/science/9780197616246",
+      "purchase_url": "https://www.oup.com.au/books/higher-education/science/9780197616246",
+      "cover": {
+        "url": "https://fdslive.oup.com/covers/anz/desktop/medium/9780197616246.jpg",
+        "source": "Oxford University Press cover service",
+        "source_url": "https://www.oup.com.au/books/higher-education/science/9780197616246",
+        "expected_sha256": "5a261a78359ba5fd14c14b26862f69fd579bf42db165b82a3e288c6a58f09421",
+        "visual_reviewed_on": "2026-09-27",
+        "visual_review_status": "title_and_edition_checked"
+      },
+      "theory_only": true,
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity and learning placement were prepared from publisher/journal records in the staged review. Final cover-byte identity and final-candidate audit remain pending; this is not full-text scientific certification.",
+        "sources": [
+          "https://www.oup.com.au/books/higher-education/science/9780197616246"
+        ]
+      }
+    },
+    {
+      "id": "BOOK-PRINCIPLES-NEURAL-SCIENCE6-2021",
+      "resource_type": "textbook",
+      "title": "Principles of Neural Science",
+      "authors": [
+        "Eric R. Kandel",
+        "John D. Koester",
+        "Sarah H. Mack",
+        "Steven A. Siegelbaum"
+      ],
+      "published_year": 2021,
+      "edition": "6th Edition",
+      "isbn": "9781259642234",
+      "publisher": "McGraw Hill",
+      "publisher_url": "https://www.mheducation.com/highered/mhp/product/principles-neural-science-sixth-edition.html",
+      "purchase_url": "https://www.mheducation.com/highered/mhp/product/principles-neural-science-sixth-edition.html",
+      "cover": {
+        "url": "https://www.mheducation.com/cover-images/Webp_400-wide/1259642232.webp",
+        "source": "Official McGraw Hill product cover",
+        "source_url": "https://www.mheducation.com/highered/mhp/product/principles-neural-science-sixth-edition.html",
+        "expected_sha256": "14985a6efbcbe4582810331bb978253a9bcc1d642dab493725265e1ff680aa46",
+        "visual_reviewed_on": "2026-09-27",
+        "visual_review_status": "title_and_edition_checked"
+      },
+      "theory_only": true,
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity and learning placement were prepared from publisher/journal records in the staged review. Final cover-byte identity and final-candidate audit remain pending; this is not full-text scientific certification.",
+        "sources": [
+          "https://www.mheducation.com/highered/mhp/product/principles-neural-science-sixth-edition.html"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-SYNAPSE-MOLECULAR-DIVERSITY-2025",
+      "resource_type": "review_article",
+      "title": "Understanding the molecular diversity of synapses",
+      "authors": [
+        "Marc van Oostrum",
+        "Erin M. Schuman"
+      ],
+      "published_year": 2025,
+      "online_published_on": "2024-12-05",
+      "journal": "Nature Reviews Neuroscience",
+      "doi": "10.1038/s41583-024-00888-w",
+      "publisher_url": "https://www.nature.com/articles/s41583-024-00888-w",
+      "theory_only": true,
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Exact title, author list, journal, DOI, publication/issue year and article type were independently cross-checked against the journal/publisher record; PubMed/PMC was used as an additional bibliographic authority where useful. Educational placement remains an editorial judgment and this verification is not a full-text scientific certification.",
+        "sources": [
+          "https://www.nature.com/articles/s41583-024-00888-w"
+        ]
+      },
+      "publication_type": "Review",
+      "publication_timing_note": "Issue year 2025; version of record published online 2024-12-05."
+    },
+    {
+      "id": "REVIEW-ELECTRICAL-SYNAPSE-2026",
+      "resource_type": "review_article",
+      "title": "Defining the electrical synapse",
+      "authors": [
+        "Alberto E. Pereda",
+        "Adam C. Miller"
+      ],
+      "published_year": 2026,
+      "online_published_on": "2026-09-11",
+      "journal": "Nature Reviews Neuroscience",
+      "doi": "10.1038/s41583-026-01080-y",
+      "publisher_url": "https://www.nature.com/articles/s41583-026-01080-y",
+      "theory_only": true,
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Exact title, author list, journal, DOI, publication/issue year and article type were independently cross-checked against the journal/publisher record; PubMed/PMC was used as an additional bibliographic authority where useful. Educational placement remains an editorial judgment and this verification is not a full-text scientific certification.",
+        "sources": [
+          "https://www.nature.com/articles/s41583-026-01080-y"
+        ]
+      },
+      "publication_type": "Review"
+    },
+    {
+      "id": "REVIEW-INDIRECT-NEUROGENESIS-2024",
+      "resource_type": "review_article",
+      "title": "Indirect neurogenesis in space and time",
+      "authors": [
+        "Stefan Thor"
+      ],
+      "published_year": 2024,
+      "journal": "Nature Reviews Neuroscience",
+      "doi": "10.1038/s41583-024-00833-x",
+      "publisher_url": "https://www.nature.com/articles/s41583-024-00833-x",
+      "theory_only": true,
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Exact title, author list, journal, DOI, publication/issue year and article type were independently cross-checked against the journal/publisher record; PubMed/PMC was used as an additional bibliographic authority where useful. Educational placement remains an editorial judgment and this verification is not a full-text scientific certification.",
+        "sources": [
+          "https://www.nature.com/articles/s41583-024-00833-x"
+        ]
+      },
+      "publication_type": "Review"
+    },
+    {
+      "id": "REVIEW-HUMAN-NEURONAL-MATURATION-2024",
+      "resource_type": "review_article",
+      "title": "Human neuronal maturation comes of age: cellular mechanisms and species differences",
+      "authors": [
+        "Jenelle L. Wallace",
+        "Alex A. Pollen"
+      ],
+      "published_year": 2024,
+      "online_published_on": "2023-11-23",
+      "journal": "Nature Reviews Neuroscience",
+      "doi": "10.1038/s41583-023-00760-3",
+      "publisher_url": "https://www.nature.com/articles/s41583-023-00760-3",
+      "theory_only": true,
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Exact title, author list, journal, DOI, publication/issue year and article type were independently cross-checked against the journal/publisher record; PubMed/PMC was used as an additional bibliographic authority where useful. Educational placement remains an editorial judgment and this verification is not a full-text scientific certification.",
+        "sources": [
+          "https://www.nature.com/articles/s41583-023-00760-3"
+        ]
+      },
+      "publication_type": "Review",
+      "publication_timing_note": "Issue year 2024; version of record published online 2023-11-23."
+    },
+    {
+      "id": "REVIEW-ASTROCYTES-MICROGLIA-CNS-2024",
+      "resource_type": "review_article",
+      "title": "Astrocytes and microglia in the coordination of CNS development and homeostasis",
+      "authors": [
+        "Aída Oryza Lopez-Ortiz",
+        "Ukpong B. Eyo"
+      ],
+      "published_year": 2024,
+      "journal": "Journal of Neurochemistry",
+      "doi": "10.1111/jnc.16006",
+      "publisher_url": "https://onlinelibrary.wiley.com/doi/10.1111/jnc.16006",
+      "theory_only": true,
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Exact title, author list, journal, DOI, publication/issue year and article type were independently cross-checked against the journal/publisher record; PubMed/PMC was used as an additional bibliographic authority where useful. Educational placement remains an editorial judgment and this verification is not a full-text scientific certification.",
+        "sources": [
+          "https://onlinelibrary.wiley.com/doi/10.1111/jnc.16006",
+          "https://pubmed.ncbi.nlm.nih.gov/37985374/"
+        ]
+      },
+      "publication_type": "Review",
+      "publication_timing_note": "Issue year 2024; first published online 2023-11-20."
+    },
+    {
+      "id": "REVIEW-MICROGLIAL-STATES-2026",
+      "resource_type": "review_article",
+      "title": "Microglial states revisited: from homeostasis to disease",
+      "authors": [
+        "Bart J. L. Eggen",
+        "Susanne M. Kooistra"
+      ],
+      "published_year": 2026,
+      "online_published_on": "2026-07-20",
+      "journal": "Nature Reviews Neuroscience",
+      "doi": "10.1038/s41583-026-01066-w",
+      "publisher_url": "https://www.nature.com/articles/s41583-026-01066-w",
+      "theory_only": true,
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Exact title, author list, journal, DOI, publication/issue year and article type were independently cross-checked against the journal/publisher record; PubMed/PMC was used as an additional bibliographic authority where useful. Educational placement remains an editorial judgment and this verification is not a full-text scientific certification.",
+        "sources": [
+          "https://www.nature.com/articles/s41583-026-01066-w"
+        ]
+      },
+      "publication_type": "Review"
+    },
+    {
+      "id": "REVIEW-MULTISENSORY-SELF-MOTION-2025",
+      "resource_type": "review_article",
+      "title": "Multisensory coding of self-motion and its contribution to navigation",
+      "authors": [
+        "Dun Mao",
+        "Yong Gu"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Neuroscience",
+      "doi": "10.1038/s41583-025-00970-x",
+      "publisher_url": "https://www.nature.com/articles/s41583-025-00970-x",
+      "theory_only": true,
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Exact title, author list, journal, DOI, publication/issue year and article type were independently cross-checked against the journal/publisher record; PubMed/PMC was used as an additional bibliographic authority where useful. Educational placement remains an editorial judgment and this verification is not a full-text scientific certification.",
+        "sources": [
+          "https://www.nature.com/articles/s41583-025-00970-x"
+        ]
+      },
+      "publication_type": "Review"
+    },
+    {
+      "id": "REVIEW-COMPUTATIONAL-MOVEMENT-2000",
+      "resource_type": "review_article",
+      "title": "Computational principles of movement neuroscience",
+      "authors": [
+        "Daniel M. Wolpert",
+        "Zoubin Ghahramani"
+      ],
+      "published_year": 2000,
+      "journal": "Nature Neuroscience",
+      "doi": "10.1038/81497",
+      "publisher_url": "https://www.nature.com/articles/nn1100_1212",
+      "theory_only": true,
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Exact title, author list, journal, DOI, publication/issue year and article type were independently cross-checked against the journal/publisher record; PubMed/PMC was used as an additional bibliographic authority where useful. Educational placement remains an editorial judgment and this verification is not a full-text scientific certification.",
+        "sources": [
+          "https://www.nature.com/articles/nn1100_1212",
+          "https://pubmed.ncbi.nlm.nih.gov/11127840/"
+        ]
+      },
+      "publication_type": "Review"
+    },
+    {
+      "id": "REVIEW-CEREBELLAR-PREDICTIVE-CONTROL-2025",
+      "resource_type": "review_article",
+      "title": "Cerebellar circuit computations for predictive motor control",
+      "authors": [
+        "Katrina P. Nguyen",
+        "Abigail L. Person"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Neuroscience",
+      "doi": "10.1038/s41583-025-00936-z",
+      "publisher_url": "https://www.nature.com/articles/s41583-025-00936-z",
+      "theory_only": true,
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Exact title, author list, journal, DOI, publication/issue year and article type were independently cross-checked against the journal/publisher record; PubMed/PMC was used as an additional bibliographic authority where useful. Educational placement remains an editorial judgment and this verification is not a full-text scientific certification.",
+        "sources": [
+          "https://www.nature.com/articles/s41583-025-00936-z",
+          "https://pubmed.ncbi.nlm.nih.gov/40523942/"
+        ]
+      },
+      "publication_type": "Review"
+    },
+    {
+      "id": "REVIEW-MEMORY-ENGRAMS-2020",
+      "resource_type": "review_article",
+      "title": "Memory engrams: Recalling the past and imagining the future",
+      "authors": [
+        "Sheena A. Josselyn",
+        "Susumu Tonegawa"
+      ],
+      "published_year": 2020,
+      "journal": "Science",
+      "doi": "10.1126/science.aaw4325",
+      "publisher_url": "https://www.science.org/doi/10.1126/science.aaw4325",
+      "theory_only": true,
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Exact title, author list, journal, DOI, publication/issue year and article type were independently cross-checked against the journal/publisher record; PubMed/PMC was used as an additional bibliographic authority where useful. Educational placement remains an editorial judgment and this verification is not a full-text scientific certification.",
+        "sources": [
+          "https://www.science.org/doi/10.1126/science.aaw4325",
+          "https://pubmed.ncbi.nlm.nih.gov/31896692/"
+        ]
+      },
+      "publication_type": "Review"
+    },
+    {
+      "id": "REVIEW-HUMAN-MEMORY-RIPPLES-2025",
+      "resource_type": "review_article",
+      "title": "Ripple contributions to human memory: making the spiking content count",
+      "authors": [
+        "Joel Reithler",
+        "Kelsey K. Sundby",
+        "Kareem A. Zaghloul"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Neuroscience",
+      "doi": "10.1038/s41583-025-00971-w",
+      "publisher_url": "https://www.nature.com/articles/s41583-025-00971-w",
+      "theory_only": true,
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Exact title, author list, journal, DOI, publication/issue year and article type were independently cross-checked against the journal/publisher record; PubMed/PMC was used as an additional bibliographic authority where useful. Educational placement remains an editorial judgment and this verification is not a full-text scientific certification.",
+        "sources": [
+          "https://www.nature.com/articles/s41583-025-00971-w"
+        ]
+      },
+      "publication_type": "Review"
+    },
+    {
+      "id": "REVIEW-SLEEP-WAKE-CIRCUITRY-2017",
+      "resource_type": "review_article",
+      "title": "Neural Circuitry of Wakefulness and Sleep",
+      "authors": [
+        "Thomas E. Scammell",
+        "Elda Arrigoni",
+        "Jonathan O. Lipton"
+      ],
+      "published_year": 2017,
+      "journal": "Neuron",
+      "doi": "10.1016/j.neuron.2017.01.014",
+      "publisher_url": "https://doi.org/10.1016/j.neuron.2017.01.014",
+      "access_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5325713/",
+      "theory_only": true,
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Exact title, author list, journal, DOI, publication/issue year and article type were independently cross-checked against the journal/publisher record; PubMed/PMC was used as an additional bibliographic authority where useful. Educational placement remains an editorial judgment and this verification is not a full-text scientific certification.",
+        "sources": [
+          "https://doi.org/10.1016/j.neuron.2017.01.014",
+          "https://pubmed.ncbi.nlm.nih.gov/28231463/",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC5325713/"
+        ]
+      },
+      "publication_type": "Review"
+    },
+    {
+      "id": "REVIEW-SLEEP-MEMORY-FORMATION-2026",
+      "resource_type": "review_article",
+      "title": "Sleep’s contribution to memory formation",
+      "authors": [
+        "Nicolas D. Lutz",
+        "Maximilian Harkotte",
+        "Jan Born"
+      ],
+      "published_year": 2026,
+      "journal": "Physiological Reviews",
+      "doi": "10.1152/physrev.00054.2024",
+      "publisher_url": "https://journals.physiology.org/doi/10.1152/physrev.00054.2024",
+      "theory_only": true,
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Exact title, author list, journal, DOI, publication/issue year and article type were independently cross-checked against the journal/publisher record; PubMed/PMC was used as an additional bibliographic authority where useful. Educational placement remains an editorial judgment and this verification is not a full-text scientific certification.",
+        "sources": [
+          "https://journals.physiology.org/doi/10.1152/physrev.00054.2024"
+        ]
+      },
+      "publication_type": "Review",
+      "publication_timing_note": "Print issue year 2026; final version published online 2025-10-15."
+    },
+    {
+      "id": "BOOK-THEORETICAL-NEUROSCIENCE-PAPERBACK-2005",
+      "resource_type": "textbook",
+      "title": "Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems",
+      "authors": [
+        "Peter Dayan",
+        "Laurence F. Abbott"
+      ],
+      "published_year": 2005,
+      "original_published_year": 2001,
+      "edition": "Paperback edition",
+      "isbn": "9780262541855",
+      "publisher": "The MIT Press",
+      "publisher_url": "https://mitpress.mit.edu/9780262541855/theoretical-neuroscience/",
+      "purchase_url": "https://mitpress.mit.edu/9780262541855/theoretical-neuroscience/",
+      "cover": {
+        "url": "https://mit-press-new-us.imgix.net/covers/9780262541855.jpg?auto=format&w=300",
+        "source": "Official MIT Press product cover",
+        "source_url": "https://mitpress.mit.edu/9780262541855/theoretical-neuroscience/",
+        "expected_sha256": "3e4035c750ccd3d11119ab25e27e5c2e7341a58677b06478e8b9d9db3cfc99b6",
+        "visual_reviewed_on": "2026-09-27",
+        "visual_review_status": "title_and_edition_checked"
+      },
+      "theory_only": true,
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity and learning placement were prepared from publisher/journal records in the staged review. Final cover-byte identity and final-candidate audit remain pending; this is not full-text scientific certification.",
+        "sources": [
+          "https://mitpress.mit.edu/9780262541855/theoretical-neuroscience/"
+        ]
+      }
+    },
+    {
+      "id": "PERSPECTIVE-DISTRIBUTED-COGNITION-2026",
+      "resource_type": "authoritative_reference",
+      "publication_type": "Perspective",
+      "title": "How distributed is the brain-wide network that is recruited for cognition?",
+      "authors": [
+        "Matthew C. Rosen",
+        "David J. Freedman"
+      ],
+      "published_year": 2026,
+      "online_published_on": "2025-12-04",
+      "journal": "Nature Reviews Neuroscience",
+      "doi": "10.1038/s41583-025-00992-5",
+      "publisher_url": "https://www.nature.com/articles/s41583-025-00992-5",
+      "theory_only": true,
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Exact title, author list, journal, DOI, publication/issue year and article type were independently cross-checked against the journal/publisher record; PubMed/PMC was used as an additional bibliographic authority where useful. Educational placement remains an editorial judgment and this verification is not a full-text scientific certification.",
+        "sources": [
+          "https://www.nature.com/articles/s41583-025-00992-5"
+        ]
+      },
+      "publication_timing_note": "Issue year 2026; version of record published online 2025-12-04."
+    },
+    {
+      "id": "REVIEW-NEURODEGENERATION-HALLMARKS-2023",
+      "resource_type": "review_article",
+      "title": "Hallmarks of neurodegenerative diseases",
+      "authors": [
+        "David M. Wilson III",
+        "Mark R. Cookson",
+        "Ludo Van Den Bosch",
+        "Henrik Zetterberg",
+        "David M. Holtzman",
+        "Ilse Dewachter"
+      ],
+      "published_year": 2023,
+      "journal": "Cell",
+      "doi": "10.1016/j.cell.2022.12.032",
+      "publisher_url": "https://www.sciencedirect.com/science/article/pii/S0092867422015756",
+      "theory_only": true,
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Exact title, author list, journal, DOI, publication/issue year and article type were independently cross-checked against the journal/publisher record; PubMed/PMC was used as an additional bibliographic authority where useful. Educational placement remains an editorial judgment and this verification is not a full-text scientific certification.",
+        "sources": [
+          "https://www.sciencedirect.com/science/article/pii/S0092867422015756",
+          "https://pubmed.ncbi.nlm.nih.gov/36803602/"
+        ]
+      },
+      "publication_type": "Review"
+    },
+    {
+      "id": "REVIEW-SYNAPSE-DEMENTIA-RESILIENCE-2025",
+      "resource_type": "review_article",
+      "title": "Synapse vulnerability and resilience across the clinical spectrum of dementias",
+      "authors": [
+        "Raquel N. Taddei",
+        "Karen E. Duff"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Neurology",
+      "doi": "10.1038/s41582-025-01094-7",
+      "publisher_url": "https://www.nature.com/articles/s41582-025-01094-7",
+      "theory_only": true,
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Exact title, author list, journal, DOI, publication/issue year and article type were independently cross-checked against the journal/publisher record; PubMed/PMC was used as an additional bibliographic authority where useful. Educational placement remains an editorial judgment and this verification is not a full-text scientific certification.",
+        "sources": [
+          "https://www.nature.com/articles/s41582-025-01094-7",
+          "https://pubmed.ncbi.nlm.nih.gov/40404832/"
+        ]
+      },
+      "publication_type": "Review"
     }
   ]
 }

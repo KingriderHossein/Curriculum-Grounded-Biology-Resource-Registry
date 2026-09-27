@@ -595,6 +595,49 @@
 
 ---
 
+## علوم اعصاب
+
+مسیر از پیش‌نیازهای زیستی و سازمان دستگاه عصبی تا فهم عمیق مدارها و سپس شاخه‌های زیر ادامه پیدا می‌کند:
+
+- پیام‌رسانی نورونی و سیناپس‌ها؛
+- تکوین و اتصال مدارهای عصبی؛
+- گلیا و تعاملات عصبی–ایمنی؛
+- سامانه‌های حسی و ادراک؛
+- کنترل حرکت؛
+- یادگیری و حافظه؛
+- خواب و تنظیم شبانه‌روزی؛
+- علوم اعصاب نظری و محاسباتی؛
+- زوال عصبی و تاب‌آوری.
+
+### کتاب‌های اصلی مسیر
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://neurobiology.northwestern.edu/courses/undergraduate-courses/2026-2027/class-schedules/fall-2026-class-schedule/26-202_book.jpg" width="145" alt="Neuroscience: Exploring the Brain 5th Edition cover"><br>
+<b>Neuroscience: Exploring the Brain</b><br>
+منبع اصلی · ویرایش ۵ · ۲۰۲۶<br>
+<a href="https://www.jblearning.com/catalog/productdetails/9781284286878">ناشر / خرید</a>
+</td>
+<td align="center" width="33%">
+<img src="https://fdslive.oup.com/covers/anz/desktop/medium/9780197616246.jpg" width="145" alt="Neuroscience 7th Edition cover"><br>
+<b>Neuroscience</b><br>
+منبع تکمیلی · ویرایش ۷ · ۲۰۲۳<br>
+<a href="https://www.oup.com.au/books/higher-education/science/9780197616246">ناشر / خرید</a>
+</td>
+<td align="center" width="33%">
+<img src="https://www.mheducation.com/cover-images/Webp_400-wide/1259642232.webp" width="145" alt="Principles of Neural Science 6th Edition cover"><br>
+<b>Principles of Neural Science</b><br>
+منبع پیشرفته · ویرایش ۶ · ۲۰۲۱<br>
+<a href="https://www.mheducation.com/highered/mhp/product/principles-neural-science-sixth-edition.html">ناشر / خرید</a>
+</td>
+</tr>
+</table>
+
+[مشاهده نقشه‌راه علوم اعصاب](subjects/neuroscience/README.md)
+
+---
+
 ## منطق انتخاب منابع
 
 یک منبع فقط به‌دلیل مشهوربودن، جدیدبودن یا تعداد استناد بالا وارد پروژه نمی‌شود. برای هر جایگاه باید روشن باشد:
