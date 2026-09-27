@@ -1468,7 +1468,7 @@
       ],
       "status": "complete",
       "completion_criteria": {
-        "general_roadmap_resources": 4,
+        "general_roadmap_resources": 6,
         "specialized_branches_required": 9,
         "student_guidance_required": true,
         "theory_only": true
