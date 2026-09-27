@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.12.0",
+  "schema_version": "0.13.0",
   "subjects": [
     {
       "id": "CELL-BIOLOGY",
@@ -1682,6 +1682,442 @@
         {
           "id": "blood-groups-transfusion",
           "label": "زیست‌شناسی گروه‌های خونی و ایمنوهماتولوژی انتقال خون"
+        }
+      ],
+      "status": "complete",
+      "completion_criteria": {
+        "general_roadmap_resources": 4,
+        "specialized_branches_required": 9,
+        "student_guidance_required": true,
+        "theory_only": true
+      },
+      "completed_on": "2026-09-27"
+    },
+    {
+      "id": "MARINE-BIOLOGY",
+      "fa_name": "زیست‌شناسی دریایی",
+      "en_name": "Marine Biology",
+      "scope": "theoretical",
+      "roadmap_stages": [
+        "foundation",
+        "core",
+        "intermediate",
+        "advanced",
+        "specialized"
+      ],
+      "concepts": [
+        {
+          "id": "MB01",
+          "label": "محیط فیزیکی–شیمیایی دریا، پهنه‌بندی و محدودیت‌های زیستی"
+        },
+        {
+          "id": "MB02",
+          "label": "سازگاری فیزیولوژیک با شوری، فشار، دما و اکسیژن"
+        },
+        {
+          "id": "MB03",
+          "label": "تولید اولیه، فیتوپلانکتون و چرخه مواد"
+        },
+        {
+          "id": "MB04",
+          "label": "شبکه‌های غذایی پلاژیک، زئوپلانکتون و نکتون"
+        },
+        {
+          "id": "MB05",
+          "label": "بنتوس، سواحل و فلات قاره"
+        },
+        {
+          "id": "MB06",
+          "label": "مصب‌ها، علفزارهای دریایی و زیست‌بوم‌های ساحلی"
+        },
+        {
+          "id": "MB07",
+          "label": "صخره‌های مرجانی، همزیستی و کارکرد اکوسیستم"
+        },
+        {
+          "id": "MB08",
+          "label": "اکولوژی میکروبی دریا و تجزیه مواد"
+        },
+        {
+          "id": "MB09",
+          "label": "زیست‌بوم‌های اعماق دریا"
+        },
+        {
+          "id": "MB10",
+          "label": "زیست‌بوم‌های دریایی قطبی"
+        },
+        {
+          "id": "MB11",
+          "label": "زیست‌شناسی و فیزیولوژی مهره‌داران و پستانداران دریایی"
+        },
+        {
+          "id": "MB12",
+          "label": "حفاظت، شیلات، تغییر اقلیم و فشارهای انسانی"
+        }
+      ],
+      "branches": [
+        {
+          "id": "plankton-pelagic",
+          "label": "پلانکتون و زیست‌بوم‌های پلاژیک"
+        },
+        {
+          "id": "benthic-shores-shelf",
+          "label": "بنتوس، سواحل و فلات قاره"
+        },
+        {
+          "id": "estuaries-coastal-wetlands",
+          "label": "مصب‌ها و زیست‌بوم‌های ساحلی"
+        },
+        {
+          "id": "coral-reefs",
+          "label": "صخره‌های مرجانی"
+        },
+        {
+          "id": "marine-microbial-ecology",
+          "label": "اکولوژی میکروبی دریا"
+        },
+        {
+          "id": "deep-sea",
+          "label": "زیست‌بوم‌های اعماق دریا"
+        },
+        {
+          "id": "polar-marine-ecosystems",
+          "label": "زیست‌بوم‌های دریایی قطبی"
+        },
+        {
+          "id": "marine-vertebrate-physiology",
+          "label": "فیزیولوژی مهره‌داران و پستانداران دریایی"
+        },
+        {
+          "id": "conservation-fisheries-climate",
+          "label": "حفاظت، شیلات و تغییر اقلیم"
+        }
+      ],
+      "status": "complete",
+      "completion_criteria": {
+        "general_roadmap_resources": 4,
+        "specialized_branches_required": 9,
+        "student_guidance_required": true,
+        "theory_only": true
+      },
+      "completed_on": "2026-09-27"
+    },
+    {
+      "id": "EMBRYOLOGY",
+      "fa_name": "جنین‌شناسی",
+      "en_name": "Embryology",
+      "scope": "theoretical",
+      "roadmap_stages": [
+        "foundation",
+        "core",
+        "intermediate",
+        "advanced",
+        "specialized"
+      ],
+      "concepts": [
+        {
+          "id": "EM01",
+          "label": "لقاح، کلیواژ، بلاستوسیست و آغاز تکوین"
+        },
+        {
+          "id": "EM02",
+          "label": "لانه‌گزینی، بافت‌های خارج‌جنینی، جفت و پرده‌های جنینی"
+        },
+        {
+          "id": "EM03",
+          "label": "گاسترولاسیون، لایه‌های زاینده و تعیین محورهای بدن"
+        },
+        {
+          "id": "EM04",
+          "label": "نورولاسیون و تکوین دستگاه عصبی مرکزی"
+        },
+        {
+          "id": "EM05",
+          "label": "تاج عصبی، قوس‌های حلقی و تکوین کرانیوفاسیال"
+        },
+        {
+          "id": "EM06",
+          "label": "تاخوردگی جنین، حفره‌های بدن و سازمان نقشه بدنی"
+        },
+        {
+          "id": "EM07",
+          "label": "تکوین قلب و عروق"
+        },
+        {
+          "id": "EM08",
+          "label": "تکوین دستگاه تنفسی و گوارشی"
+        },
+        {
+          "id": "EM09",
+          "label": "تکوین ادراری–تناسلی و رده زایشی"
+        },
+        {
+          "id": "EM10",
+          "label": "تکوین اسکلتی–عضلانی و اندام‌ها"
+        },
+        {
+          "id": "EM11",
+          "label": "رشد جنینی، ارتباط مادر–جنین و عملکرد جفت"
+        },
+        {
+          "id": "EM12",
+          "label": "مبانی نظری ناهنجاری‌های مادرزادی و تراتوژنز"
+        }
+      ],
+      "branches": [
+        {
+          "id": "early-embryogenesis-implantation",
+          "label": "جنین‌زایی اولیه و لانه‌گزینی"
+        },
+        {
+          "id": "placenta-extraembryonic",
+          "label": "جفت و بافت‌های خارج‌جنینی"
+        },
+        {
+          "id": "gastrulation-axis-patterning",
+          "label": "گاسترولاسیون و تعیین محورهای بدن"
+        },
+        {
+          "id": "neural-development-sensory",
+          "label": "نورولاسیون و تکوین عصبی"
+        },
+        {
+          "id": "craniofacial-pharyngeal",
+          "label": "تاج عصبی و تکوین کرانیوفاسیال"
+        },
+        {
+          "id": "cardiovascular",
+          "label": "تکوین قلب و عروق"
+        },
+        {
+          "id": "respiratory-digestive",
+          "label": "تکوین دستگاه تنفسی و گوارشی"
+        },
+        {
+          "id": "urogenital-germline",
+          "label": "تکوین ادراری–تناسلی و رده زایشی"
+        },
+        {
+          "id": "musculoskeletal-limbs",
+          "label": "تکوین اسکلتی–عضلانی و اندام‌ها"
+        }
+      ],
+      "status": "complete",
+      "completion_criteria": {
+        "general_roadmap_resources": 4,
+        "specialized_branches_required": 9,
+        "student_guidance_required": true,
+        "theory_only": true
+      },
+      "completed_on": "2026-09-27"
+    },
+    {
+      "id": "HISTOLOGY",
+      "fa_name": "بافت‌شناسی",
+      "en_name": "Histology",
+      "scope": "theoretical",
+      "roadmap_stages": [
+        "foundation",
+        "core",
+        "intermediate",
+        "advanced",
+        "specialized"
+      ],
+      "concepts": [
+        {
+          "id": "HST01",
+          "label": "سازمان بافتی، مقیاس‌های مشاهده و منطق ساختار–عملکرد"
+        },
+        {
+          "id": "HST02",
+          "label": "اپی‌تلیوم، قطبیت، اتصالات و غشاهای پوششی"
+        },
+        {
+          "id": "HST03",
+          "label": "بافت همبند، ماتریکس خارج‌سلولی و بافت چربی"
+        },
+        {
+          "id": "HST04",
+          "label": "غضروف، استخوان و بازسازی بافت اسکلتی"
+        },
+        {
+          "id": "HST05",
+          "label": "عضله اسکلتی، قلبی و صاف"
+        },
+        {
+          "id": "HST06",
+          "label": "بافت عصبی، نورون‌ها و گلیا"
+        },
+        {
+          "id": "HST07",
+          "label": "خون، مغز استخوان و خون‌سازی"
+        },
+        {
+          "id": "HST08",
+          "label": "عروق، قلب و زیست‌شناسی اندوتلیوم"
+        },
+        {
+          "id": "HST09",
+          "label": "بافت‌های لنفاوی و سازمان ایمنی"
+        },
+        {
+          "id": "HST10",
+          "label": "مخاط دستگاه گوارش و تنفس"
+        },
+        {
+          "id": "HST11",
+          "label": "غدد درون‌ریز و بافت‌های ادراری–تناسلی"
+        },
+        {
+          "id": "HST12",
+          "label": "پوست، ضمائم و سد اپیدرمی"
+        }
+      ],
+      "branches": [
+        {
+          "id": "epithelial-barrier-junctions",
+          "label": "اپی‌تلیوم، سدها و اتصالات سلولی"
+        },
+        {
+          "id": "connective-ecm",
+          "label": "بافت همبند و ماتریکس خارج‌سلولی"
+        },
+        {
+          "id": "cartilage-bone",
+          "label": "غضروف و استخوان"
+        },
+        {
+          "id": "muscle-tissue",
+          "label": "بافت عضلانی"
+        },
+        {
+          "id": "nervous-glia",
+          "label": "بافت عصبی و گلیا"
+        },
+        {
+          "id": "blood-hematopoietic",
+          "label": "خون و بافت‌های خون‌ساز"
+        },
+        {
+          "id": "cardiovascular-endothelium",
+          "label": "قلب، عروق و اندوتلیوم"
+        },
+        {
+          "id": "respiratory-mucosa",
+          "label": "بافت دستگاه تنفسی"
+        },
+        {
+          "id": "integument",
+          "label": "پوست و دستگاه پوششی"
+        }
+      ],
+      "status": "complete",
+      "completion_criteria": {
+        "general_roadmap_resources": 4,
+        "specialized_branches_required": 9,
+        "student_guidance_required": true,
+        "theory_only": true
+      },
+      "completed_on": "2026-09-27"
+    },
+    {
+      "id": "ANATOMY",
+      "fa_name": "آناتومی",
+      "en_name": "Anatomy",
+      "scope": "theoretical",
+      "roadmap_stages": [
+        "foundation",
+        "core",
+        "intermediate",
+        "advanced",
+        "specialized"
+      ],
+      "concepts": [
+        {
+          "id": "AN01",
+          "label": "اصطلاحات آناتومیک، صفحات، محورها و سازمان بدن"
+        },
+        {
+          "id": "AN02",
+          "label": "پشت، ستون مهره‌ها و دیواره خلفی تنه"
+        },
+        {
+          "id": "AN03",
+          "label": "قفسه سینه و احشای توراکس"
+        },
+        {
+          "id": "AN04",
+          "label": "شکم و روابط احشای شکمی"
+        },
+        {
+          "id": "AN05",
+          "label": "لگن و پرینه"
+        },
+        {
+          "id": "AN06",
+          "label": "اندام فوقانی"
+        },
+        {
+          "id": "AN07",
+          "label": "اندام تحتانی"
+        },
+        {
+          "id": "AN08",
+          "label": "سر و گردن"
+        },
+        {
+          "id": "AN09",
+          "label": "آناتومی دستگاه عصبی مرکزی و محیطی"
+        },
+        {
+          "id": "AN10",
+          "label": "عروق، لنفاتیک و مسیرهای نوروواسکولار"
+        },
+        {
+          "id": "AN11",
+          "label": "آناتومی سطحی، ناحیه‌ای و روابط توپوگرافیک"
+        },
+        {
+          "id": "AN12",
+          "label": "تنوع آناتومیک و همبستگی نظری با تصویربرداری"
+        }
+      ],
+      "branches": [
+        {
+          "id": "back-spine",
+          "label": "پشت و ستون مهره‌ها"
+        },
+        {
+          "id": "thorax",
+          "label": "قفسه سینه"
+        },
+        {
+          "id": "abdomen",
+          "label": "شکم"
+        },
+        {
+          "id": "pelvis-perineum",
+          "label": "لگن و پرینه"
+        },
+        {
+          "id": "upper-limb",
+          "label": "اندام فوقانی"
+        },
+        {
+          "id": "lower-limb-neurovascular",
+          "label": "اندام تحتانی و مسیرهای نوروواسکولار"
+        },
+        {
+          "id": "head-neck",
+          "label": "سر و گردن"
+        },
+        {
+          "id": "neuroanatomy",
+          "label": "نورواناتومی"
+        },
+        {
+          "id": "surface-topographic-anatomy",
+          "label": "آناتومی سطحی و توپوگرافیک"
         }
       ],
       "status": "complete",

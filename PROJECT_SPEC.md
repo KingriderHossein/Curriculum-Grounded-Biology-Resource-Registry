@@ -95,4 +95,9 @@ The current reference-quality subjects are:
 - **Neuroscience / علوم اعصاب**
 - **Hematology / هماتولوژی**
 
+- **Marine Biology / زیست‌شناسی دریایی**
+- **Embryology / جنین‌شناسی**
+- **Histology / بافت‌شناسی**
+- **Anatomy / آناتومی**
+
 New subjects should reuse this architecture instead of introducing a parallel resource model.

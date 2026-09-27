@@ -33,6 +33,11 @@
 | [زیست‌شناسی سامانه‌ها ⁦Systems Biology⁩](subjects/systems-biology/README.md) | ۶ منبع | ۹ شاخه | ۲۴ |
 | [علوم اعصاب ⁦Neuroscience⁩](subjects/neuroscience/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
 | [هماتولوژی ⁦Hematology⁩](subjects/hematology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
+| [زیست‌شناسی دریایی ⁦Marine Biology⁩](subjects/marine-biology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
+| [جنین‌شناسی ⁦Embryology⁩](subjects/embryology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
+| [بافت‌شناسی ⁦Histology⁩](subjects/histology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
+| [آناتومی ⁦Anatomy⁩](subjects/anatomy/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
+
 
 ---
 
@@ -678,6 +683,178 @@
 </table>
 
 [مشاهده نقشه‌راه هماتولوژی](subjects/hematology/README.md)
+
+---
+
+## زیست‌شناسی دریایی
+
+این نقشه‌راه زیست‌شناسی دریایی را به‌عنوان مطالعه موجودات دریایی در پیوند با محیط فیزیکی، شبکه‌های غذایی، زیست‌بوم‌ها و سازگاری‌های آن‌ها می‌بیند. هدف، آموزش نظری از مبانی اکولوژی تا زیست‌بوم‌های تخصصی و حفاظت است؛ نه آموزش میدانی، نمونه‌برداری یا تکنیک‌های عملی.
+
+- پلانکتون و زیست‌بوم‌های پلاژیک؛
+- بنتوس، سواحل و فلات قاره؛
+- مصب‌ها و زیست‌بوم‌های ساحلی؛
+- صخره‌های مرجانی؛
+- اکولوژی میکروبی دریا؛
+- زیست‌بوم‌های اعماق دریا؛
+- زیست‌بوم‌های دریایی قطبی؛
+- فیزیولوژی مهره‌داران و پستانداران دریایی؛
+- حفاظت، شیلات و تغییر اقلیم؛
+
+### کتاب‌های اصلی مسیر
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://covers.vitalsource.com/vbid/9781266564451/width/200" width="145" alt="Marine Biology cover"><br>
+<b>Marine Biology</b><br>
+منبع اصلی · 12th Edition<br>
+<a href="https://www.mheducation.com/highered/product/Marine-Biology-Castro.html">ناشر / خرید</a>
+</td>
+<td align="center" width="33%">
+<img src="https://covers.vitalsource.com/vbid/9780197543535/width/200" width="145" alt="Marine Biology: Function, Biodiversity, Ecology cover"><br>
+<b>Marine Biology: Function, Biodiversity, Ecology</b><br>
+منبع تکمیلی · 6th Edition<br>
+<a href="https://www.vitalsource.com/products/marine-biology-jeffrey-levinton-v9780197543535">ناشر / خرید</a>
+</td>
+<td align="center" width="33%">
+<img src="https://covers.vitalsource.com/vbid/9780192522856/width/200" width="145" alt="Marine Ecology: Processes, Systems, and Impacts cover"><br>
+<b>Marine Ecology: Processes, Systems, and Impacts</b><br>
+منبع پیشرفته · 3rd Edition<br>
+<a href="https://www.vitalsource.com/products/marine-ecology-v9780192522856">ناشر / خرید</a>
+</td>
+</tr>
+</table>
+
+[مشاهده نقشه‌راه زیست‌شناسی دریایی](subjects/marine-biology/README.md)
+
+---
+
+## جنین‌شناسی
+
+این مسیر بر تکوین جنین انسان از لقاح تا شکل‌گیری دستگاه‌های اصلی تمرکز دارد. جنین‌شناسی در این Registry با Developmental Biology یکسان نیست: این درس سازمان زمانی و آناتومیک تکوین انسان را دنبال می‌کند، در حالی که Developmental Biology بر سازوکارهای عمومی و مقایسه‌ای تکوین تمرکز دارد.
+
+- جنین‌زایی اولیه و لانه‌گزینی؛
+- جفت و بافت‌های خارج‌جنینی؛
+- گاسترولاسیون و تعیین محورهای بدن؛
+- نورولاسیون و تکوین عصبی؛
+- تاج عصبی و تکوین کرانیوفاسیال؛
+- تکوین قلب و عروق؛
+- تکوین دستگاه تنفسی و گوارشی؛
+- تکوین ادراری–تناسلی و رده زایشی؛
+- تکوین اسکلتی–عضلانی و اندام‌ها؛
+
+### کتاب‌های اصلی مسیر
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://covers.vitalsource.com/vbid/9781975179984/width/200" width="145" alt="Langman's Medical Embryology cover"><br>
+<b>Langman's Medical Embryology</b><br>
+منبع اصلی · 15th Edition<br>
+<a href="https://shop.lww.com/Langman-s-Medical-Embryology/p/9781975179960">ناشر / خرید</a>
+</td>
+<td align="center" width="33%">
+<img src="https://covers.vitalsource.com/vbid/9780443117411/width/200" width="145" alt="The Developing Human: Clinically Oriented Embryology cover"><br>
+<b>The Developing Human: Clinically Oriented Embryology</b><br>
+منبع تکمیلی · 12th Edition<br>
+<a href="https://evolve.elsevier.com/cs/product/9780443116988?role=student">ناشر / خرید</a>
+</td>
+<td align="center" width="33%">
+<img src="https://covers.vitalsource.com/vbid/9780323696869/width/200" width="145" alt="Larsen's Human Embryology cover"><br>
+<b>Larsen's Human Embryology</b><br>
+منبع پیشرفته · 6th Edition<br>
+<a href="https://evolve.elsevier.com/cs/product/9780323696043?role=student">ناشر / خرید</a>
+</td>
+</tr>
+</table>
+
+[مشاهده نقشه‌راه جنین‌شناسی](subjects/embryology/README.md)
+
+---
+
+## بافت‌شناسی
+
+این نقشه‌راه بافت‌شناسی را به‌عنوان مطالعه ریزساختار بافت‌ها و اندام‌ها و رابطه ساختار–عملکرد آن‌ها سازمان می‌دهد. آموزش آماده‌سازی لام، رنگ‌آمیزی، میکروسکوپی عملی و تشخیص پاتولوژی خارج از دامنه این مسیر است.
+
+- اپی‌تلیوم، سدها و اتصالات سلولی؛
+- بافت همبند و ماتریکس خارج‌سلولی؛
+- غضروف و استخوان؛
+- بافت عضلانی؛
+- بافت عصبی و گلیا؛
+- خون و بافت‌های خون‌ساز؛
+- قلب، عروق و اندوتلیوم؛
+- بافت دستگاه تنفسی؛
+- پوست و دستگاه پوششی؛
+
+### کتاب‌های اصلی مسیر
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://covers.vitalsource.com/vbid/9780702083372/width/200" width="145" alt="Wheater's Functional Histology: A Text and Colour Atlas cover"><br>
+<b>Wheater's Functional Histology: A Text and Colour Atlas</b><br>
+منبع اصلی · 7th Edition<br>
+<a href="https://evolve.elsevier.com/cs/product/9780702083341?role=student">ناشر / خرید</a>
+</td>
+<td align="center" width="33%">
+<img src="https://covers.vitalsource.com/vbid/9781264528677/width/200" width="145" alt="Junqueira's Basic Histology: Text and Atlas cover"><br>
+<b>Junqueira's Basic Histology: Text and Atlas</b><br>
+منبع تکمیلی · 18th Edition<br>
+<a href="https://www.mheducation.com/highered/mhp/product/junqueira-s-basic-histology-text-atlas-18th-edition.html">ناشر / خرید</a>
+</td>
+<td align="center" width="33%">
+<img src="https://covers.vitalsource.com/vbid/9781975181536/width/200" width="145" alt="Histology: A Text and Atlas: With Correlated Cell and Molecular Biology cover"><br>
+<b>Histology: A Text and Atlas: With Correlated Cell and Molecular Biology</b><br>
+منبع پیشرفته · 9th Edition<br>
+<a href="https://shop.lww.com/Histology--A-Text-and-Atlas/p/9781975181512">ناشر / خرید</a>
+</td>
+</tr>
+</table>
+
+[مشاهده نقشه‌راه بافت‌شناسی](subjects/histology/README.md)
+
+---
+
+## آناتومی
+
+این مسیر آناتومی ماکروسکوپی انسان را از زبان و جهت‌یابی آناتومیک تا نواحی بدن و روابط فضایی ساختارها دنبال می‌کند. آموزش تشریح عملی، مهارت‌های بالینی، تکنیک‌های تصویربرداری و پروتکل‌های آموزشی کاداور خارج از دامنه Registry هستند.
+
+- پشت و ستون مهره‌ها؛
+- قفسه سینه؛
+- شکم؛
+- لگن و پرینه؛
+- اندام فوقانی؛
+- اندام تحتانی و مسیرهای نوروواسکولار؛
+- سر و گردن؛
+- نورواناتومی؛
+- آناتومی سطحی و توپوگرافیک؛
+
+### کتاب‌های اصلی مسیر
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://covers.vitalsource.com/vbid/9780323935067/width/200" width="145" alt="Gray's Anatomy for Students cover"><br>
+<b>Gray's Anatomy for Students</b><br>
+منبع اصلی · 5th Edition<br>
+<a href="https://evolve.elsevier.com/cs/product/9780323934237?role=student">ناشر / خرید</a>
+</td>
+<td align="center" width="33%">
+<img src="https://covers.vitalsource.com/vbid/9781975241650/width/200" width="145" alt="Moore's Clinically Oriented Anatomy cover"><br>
+<b>Moore's Clinically Oriented Anatomy</b><br>
+منبع تکمیلی · 10th Edition<br>
+<a href="https://shop.lww.com/Moore-s-Clinically-Oriented-Anatomy/p/9781975241582">ناشر / خرید</a>
+</td>
+<td align="center" width="33%">
+<img src="https://covers.vitalsource.com/vbid/9780443125973/width/200" width="145" alt="Gray's Anatomy: The Anatomical Basis of Clinical Practice cover"><br>
+<b>Gray's Anatomy: The Anatomical Basis of Clinical Practice</b><br>
+منبع پیشرفته · 43rd Edition<br>
+<a href="https://evolve.elsevier.com/cs/product/9780443124785?role=student">ناشر / خرید</a>
+</td>
+</tr>
+</table>
+
+[مشاهده نقشه‌راه آناتومی](subjects/anatomy/README.md)
 
 ---
 

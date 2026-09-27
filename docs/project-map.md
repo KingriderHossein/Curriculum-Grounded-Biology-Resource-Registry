@@ -35,3 +35,7 @@ This file is a navigation index, not a status log.
 - Systems Biology: Foundation → Core → Intermediate → Advanced → 9 specialized branches.
 - Neuroscience: Foundation → Core → Intermediate → Advanced → 9 specialized branches.
 - Hematology: Foundation → Core → Intermediate → Advanced → 9 specialized branches.
+- Marine Biology: Foundation → Core → Intermediate → Advanced → 9 specialized branches.
+- Embryology: Foundation → Core → Intermediate → Advanced → 9 specialized branches.
+- Histology: Foundation → Core → Intermediate → Advanced → 9 specialized branches.
+- Anatomy: Foundation → Core → Intermediate → Advanced → 9 specialized branches.

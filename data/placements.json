@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.12.0",
+  "schema_version": "0.13.0",
   "placements": [
     {
       "id": "CELL-BIOLOGY::OPENSTAX-BIOLOGY2E-2018",
@@ -7624,6 +7624,1985 @@
         "why": "ویرایش سوم پوشش گسترده‌ای از مدل‌های ایستا، گسسته و پیوسته تا سامانه‌های ژنی، پروتئینی، متابولیک، پیام‌رسانی، مدل‌سازی چندمقیاسی و کاربردهای پزشکی ارائه می‌دهد.",
         "how_to_use": "فصل‌های مبانی مدل‌سازی را پیوسته بخوانید و سپس برای هر خانواده مدل، متغیر حالت، فرض‌های ساختاری، نوع داده، روش تحلیل و دامنه پیش‌بینی را ثبت کنید؛ کدهای همراه کتاب برای این مسیر الزامی نیستند.",
         "next_step": "پس از این کتاب، برای پوشش روش‌شناختی جامع‌تر به ⁦Systems Biology: A Textbook⁩ و برای تحلیل ریاضی عمیق‌تر به ⁦Mathematical Modeling in Systems Biology⁩ بروید."
+      }
+    },
+    {
+      "id": "MARINE-BIOLOGY::BOOK-ECOLOGY-ECONOMY10-2025",
+      "resource_id": "BOOK-ECOLOGY-ECONOMY10-2025",
+      "subject_id": "MARINE-BIOLOGY",
+      "learning_stage": "foundation",
+      "role": "foundation",
+      "coverage_concept_ids": [
+        "MB01",
+        "MB03",
+        "MB04",
+        "MB05",
+        "MB12"
+      ],
+      "selection_rationale": "Provides the ecological vocabulary and population-to-ecosystem logic needed before applying those ideas specifically to marine systems.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که اکولوژی پایه را منسجم نخوانده است.",
+        "why": "زیست‌شناسی دریایی بدون مفاهیم جمعیت، جامعه، شبکه غذایی و اکوسیستم پراکنده می‌شود.",
+        "how_to_use": "فصل‌های اکولوژی جمعیت، جامعه، شبکه‌های غذایی و اکوسیستم را هدفمند مرور کنید.",
+        "next_step": "سپس وارد Marine Biology شوید و همان مفاهیم را در محیط دریا بازسازی کنید."
+      }
+    },
+    {
+      "id": "MARINE-BIOLOGY::BOOK-MARINE-BIOLOGY12-2024",
+      "resource_id": "BOOK-MARINE-BIOLOGY12-2024",
+      "subject_id": "MARINE-BIOLOGY",
+      "learning_stage": "core",
+      "role": "core",
+      "coverage_concept_ids": [
+        "MB01",
+        "MB02",
+        "MB03",
+        "MB04",
+        "MB05",
+        "MB06",
+        "MB07",
+        "MB08",
+        "MB09",
+        "MB10",
+        "MB11",
+        "MB12"
+      ],
+      "selection_rationale": "Current broad introductory marine biology text spanning ocean environment, organismal diversity, ecology and human impacts.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد برای نخستین بار زیست‌شناسی دریایی را منظم بخواند.",
+        "why": "یک مسیر عمومی از محیط دریا و تنوع زیستی تا اکولوژی و اثرات انسانی می‌سازد.",
+        "how_to_use": "دور اول را برای ساخت نقشه کلی بخوانید و از حفظ جزئیات گونه‌ای پرهیز کنید.",
+        "next_step": "برای عمق بیشتر در کارکرد، تنوع و اکولوژی به Levinton بروید."
+      }
+    },
+    {
+      "id": "MARINE-BIOLOGY::BOOK-LEVINTON-MARINE-BIOLOGY6-2021",
+      "resource_id": "BOOK-LEVINTON-MARINE-BIOLOGY6-2021",
+      "subject_id": "MARINE-BIOLOGY",
+      "learning_stage": "intermediate",
+      "role": "intermediate_reference",
+      "coverage_concept_ids": [
+        "MB01",
+        "MB02",
+        "MB03",
+        "MB04",
+        "MB05",
+        "MB06",
+        "MB07",
+        "MB08",
+        "MB09",
+        "MB10",
+        "MB11",
+        "MB12"
+      ],
+      "selection_rationale": "Second-pass text emphasizing function, biodiversity and ecological mechanisms across marine organisms and habitats.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مسیر عمومی را گذرانده و می‌خواهد رابطه سازگاری، تنوع و اکولوژی را عمیق‌تر ببیند.",
+        "why": "کتاب موضوعات زیستی را از فهرست گونه‌ها فراتر می‌برد و به سازوکار و تنوع وصل می‌کند.",
+        "how_to_use": "با پرسش‌های مقایسه‌ای میان زیستگاه‌ها و گروه‌های جانداری مطالعه کنید.",
+        "next_step": "برای تحلیل اکوسیستم‌ها و فشارهای انسانی از Marine Ecology استفاده کنید."
+      }
+    },
+    {
+      "id": "MARINE-BIOLOGY::BOOK-MARINE-ECOLOGY3-2020",
+      "resource_id": "BOOK-MARINE-ECOLOGY3-2020",
+      "subject_id": "MARINE-BIOLOGY",
+      "learning_stage": "advanced",
+      "role": "advanced_reference",
+      "coverage_concept_ids": [
+        "MB01",
+        "MB03",
+        "MB04",
+        "MB05",
+        "MB06",
+        "MB07",
+        "MB08",
+        "MB09",
+        "MB10",
+        "MB12"
+      ],
+      "selection_rationale": "Advanced ecosystem-focused synthesis of marine processes, habitats, impacts and conservation.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد سامانه‌های دریایی را به‌صورت فرایندی و اکوسیستمی تحلیل کند.",
+        "why": "به‌جای مرور عمومی جانداران، فرایندها، زیستگاه‌ها و اثرات انسانی را در یک چارچوب واحد قرار می‌دهد.",
+        "how_to_use": "فصل‌ها را بر اساس زیست‌بوم یا مسئله تخصصی انتخاب کنید و روابط علت–معلولی را استخراج کنید.",
+        "next_step": "سپس وارد یکی از ۹ شاخه تخصصی شوید."
+      }
+    },
+    {
+      "id": "MARINE-BIOLOGY::CHAPTER-MARINE-PELAGIC-2023",
+      "resource_id": "CHAPTER-MARINE-PELAGIC-2023",
+      "subject_id": "MARINE-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "MB03",
+        "MB04"
+      ],
+      "selection_rationale": "Focused peer-reviewed synthesis of pelagic ecosystem structure and processes.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد ستون آب و شبکه پلاژیک را جداگانه تحلیل کند.",
+        "why": "ساختار اکوسیستم پلاژیک را از تولید اولیه تا سطوح تروفیک به هم وصل می‌کند.",
+        "how_to_use": "جریان انرژی و مواد را از فیتوپلانکتون تا نکتون رسم کنید.",
+        "next_step": "سپس شاخه‌های اعماق یا قطبی را با این مدل مقایسه کنید."
+      },
+      "branch_ids": [
+        "plankton-pelagic"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "MARINE-BIOLOGY::CHAPTER-MARINE-ROCKY-SANDY-2023",
+      "resource_id": "CHAPTER-MARINE-ROCKY-SANDY-2023",
+      "subject_id": "MARINE-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "MB05"
+      ],
+      "selection_rationale": "Focused treatment of rocky and sandy shore ecology.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که به اکولوژی ساحل و بنتوس علاقه دارد.",
+        "why": "دو بستر فیزیکی متفاوت را برای فهم محدودیت‌ها و سازمان جامعه مقایسه می‌کند.",
+        "how_to_use": "گرادیان جزرومدی، بستر و آشفتگی را محور یادداشت‌ها قرار دهید.",
+        "next_step": "در ادامه مصب‌ها را به‌عنوان محیط ساحلی انتقالی بخوانید."
+      },
+      "branch_ids": [
+        "benthic-shores-shelf"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "MARINE-BIOLOGY::CHAPTER-MARINE-ESTUARIES-2023",
+      "resource_id": "CHAPTER-MARINE-ESTUARIES-2023",
+      "subject_id": "MARINE-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "MB06"
+      ],
+      "selection_rationale": "Focused synthesis of estuarine structure, gradients and ecological processes.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد زیست‌بوم‌های انتقالی دریا–خشکی را بفهمد.",
+        "why": "مصب نمونه روشنی از اثر هم‌زمان شوری، مواد مغذی و هیدرودینامیک بر جامعه است.",
+        "how_to_use": "گرادیان شوری و مواد را به پاسخ زیستی وصل کنید.",
+        "next_step": "سپس حفاظت زیست‌بوم‌های ساحلی را بررسی کنید."
+      },
+      "branch_ids": [
+        "estuaries-coastal-wetlands"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "MARINE-BIOLOGY::REVIEW-CORAL-REEF-ECOLOGY-2024",
+      "resource_id": "REVIEW-CORAL-REEF-ECOLOGY-2024",
+      "subject_id": "MARINE-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "MB07",
+        "MB12"
+      ],
+      "selection_rationale": "Recent review revisiting coral reef ecosystem ecology and nutrient/energy dynamics.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مبانی صخره مرجانی را می‌داند و دنبال نگاه اکوسیستمی است.",
+        "why": "فراتر از توصیف مرجان، کارکرد صخره و چرخه مواد را بازبینی می‌کند.",
+        "how_to_use": "همزیستی، تولید و بازیافت مواد را به‌صورت یک شبکه خلاصه کنید.",
+        "next_step": "در مرحله بعد اثر تغییر اقلیم و فشارهای انسانی را با شاخه حفاظت پیوند دهید."
+      },
+      "branch_ids": [
+        "coral-reefs"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "MARINE-BIOLOGY::CHAPTER-MARINE-MICROBIAL-2023",
+      "resource_id": "CHAPTER-MARINE-MICROBIAL-2023",
+      "subject_id": "MARINE-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "MB03",
+        "MB08"
+      ],
+      "selection_rationale": "Peer-reviewed chapter on microbial secondary production and its role in marine food webs.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که نقش میکروب‌ها در جریان کربن دریایی برایش مبهم است.",
+        "why": "تولید میکروبی را به شبکه غذایی و چرخه مواد متصل می‌کند.",
+        "how_to_use": "مسیر کربن آلی حل‌شده تا زی‌توده میکروبی را ترسیم کنید.",
+        "next_step": "سپس آن را با تولید اولیه و شبکه پلاژیک مقایسه کنید."
+      },
+      "branch_ids": [
+        "marine-microbial-ecology"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "MARINE-BIOLOGY::CHAPTER-MARINE-DEEP-SEA-2023",
+      "resource_id": "CHAPTER-MARINE-DEEP-SEA-2023",
+      "subject_id": "MARINE-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "MB02",
+        "MB09"
+      ],
+      "selection_rationale": "Peer-reviewed synthesis of deep-sea environment, biodiversity and ecosystem processes.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد محدودیت‌های فشار، تاریکی و کمبود انرژی را در یک زیست‌بوم واقعی ببیند.",
+        "why": "اعماق دریا نمونه روشن پیوند محیط فیزیکی با سازگاری و ساختار جامعه است.",
+        "how_to_use": "هر محدودیت محیطی را به پاسخ فیزیولوژیک یا اکولوژیک مرتبط کنید.",
+        "next_step": "برای مقایسه، زیست‌بوم‌های قطبی را بخوانید."
+      },
+      "branch_ids": [
+        "deep-sea"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "MARINE-BIOLOGY::CHAPTER-MARINE-POLAR-2023",
+      "resource_id": "CHAPTER-MARINE-POLAR-2023",
+      "subject_id": "MARINE-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "MB02",
+        "MB10",
+        "MB12"
+      ],
+      "selection_rationale": "Peer-reviewed synthesis of polar marine systems and their environmental constraints.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که به اکولوژی در دماهای پایین و تغییر اقلیم علاقه دارد.",
+        "why": "سامانه‌های قطبی اثر یخ، نور فصلی و دمای پایین را در مقیاس اکوسیستم نشان می‌دهند.",
+        "how_to_use": "فصل‌مندی و یخ را به تولید اولیه و شبکه غذایی وصل کنید.",
+        "next_step": "سپس شاخه حفاظت و تغییر اقلیم را مرور کنید."
+      },
+      "branch_ids": [
+        "polar-marine-ecosystems"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "MARINE-BIOLOGY::REVIEW-CARDIORESPIRATORY-MARINE-MAMMALS-2024",
+      "resource_id": "REVIEW-CARDIORESPIRATORY-MARINE-MAMMALS-2024",
+      "subject_id": "MARINE-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "MB02",
+        "MB11"
+      ],
+      "selection_rationale": "Mechanistic review of cardiorespiratory adaptations in cetaceans and marine mammals.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد سازگاری مهره‌داران دریایی را مکانیزمی بفهمد.",
+        "why": "غوص و محدودیت اکسیژن را به پاسخ قلبی–تنفسی وصل می‌کند.",
+        "how_to_use": "سازگاری‌ها را به مسئله فیزیولوژیک اصلی که حل می‌کنند نگاشت کنید.",
+        "next_step": "بعد تفاوت سازگاری ارگانیسمی و پاسخ اکوسیستمی را جمع‌بندی کنید."
+      },
+      "branch_ids": [
+        "marine-vertebrate-physiology"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "MARINE-BIOLOGY::CHAPTER-MARINE-CONSERVATION-2023",
+      "resource_id": "CHAPTER-MARINE-CONSERVATION-2023",
+      "subject_id": "MARINE-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "MB12"
+      ],
+      "selection_rationale": "Peer-reviewed theoretical overview of conservation concepts in marine systems.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که بعد از فهم اکوسیستم‌ها می‌خواهد فشارهای انسانی و حفاظت را تحلیل کند.",
+        "why": "حفاظت را بر مبنای فرایندهای زیستی و اکولوژیک قرار می‌دهد، نه صرفاً فهرست تهدیدها.",
+        "how_to_use": "برای هر فشار، سطح زیستی اثر و پاسخ اکوسیستم را مشخص کنید.",
+        "next_step": "این شاخه نقطه جمع‌بندی مسیر زیست‌شناسی دریایی است."
+      },
+      "branch_ids": [
+        "conservation-fisheries-climate"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "EMBRYOLOGY::BOOK-ESSENTIAL-DEVBIO4-2021",
+      "resource_id": "BOOK-ESSENTIAL-DEVBIO4-2021",
+      "subject_id": "EMBRYOLOGY",
+      "learning_stage": "foundation",
+      "role": "foundation",
+      "coverage_concept_ids": [
+        "EM01",
+        "EM03",
+        "EM04",
+        "EM05",
+        "EM10"
+      ],
+      "selection_rationale": "Provides mechanistic developmental-biology prerequisites before the human-embryology sequence.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که سیگنالینگ تکوینی، تعیین سرنوشت و الگوسازی را خوب نمی‌شناسد.",
+        "why": "پیش‌نیاز مکانیزمی لازم را پیش از ورود به توالی زمانی جنین انسان فراهم می‌کند.",
+        "how_to_use": "فقط فصل‌های مربوط به جنین‌زایی اولیه، الگوسازی و اندام‌زایی را هدفمند بخوانید.",
+        "next_step": "سپس با Langman توالی تکوین انسان را منظم کنید."
+      }
+    },
+    {
+      "id": "EMBRYOLOGY::BOOK-LANGMANS-EMBRYOLOGY15-2023",
+      "resource_id": "BOOK-LANGMANS-EMBRYOLOGY15-2023",
+      "subject_id": "EMBRYOLOGY",
+      "learning_stage": "core",
+      "role": "core",
+      "coverage_concept_ids": [
+        "EM01",
+        "EM02",
+        "EM03",
+        "EM04",
+        "EM05",
+        "EM06",
+        "EM07",
+        "EM08",
+        "EM09",
+        "EM10",
+        "EM11",
+        "EM12"
+      ],
+      "selection_rationale": "Current published core textbook for a structured first pass through human embryology and major organ systems.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد جنین‌شناسی انسان را برای نخستین بار منظم یاد بگیرد.",
+        "why": "ساختار زمانی و دستگاه‌محور آن برای مسیر اصلی مناسب است.",
+        "how_to_use": "هر هفته تکوینی را با شکل و جدول زمانی خلاصه کنید و نکات بالینی را در حاشیه نگه دارید.",
+        "next_step": "برای عمق آناتومیک و ارتباطات جنینی به The Developing Human بروید."
+      }
+    },
+    {
+      "id": "EMBRYOLOGY::BOOK-DEVELOPING-HUMAN12-2024",
+      "resource_id": "BOOK-DEVELOPING-HUMAN12-2024",
+      "subject_id": "EMBRYOLOGY",
+      "learning_stage": "intermediate",
+      "role": "intermediate_reference",
+      "coverage_concept_ids": [
+        "EM01",
+        "EM02",
+        "EM03",
+        "EM04",
+        "EM05",
+        "EM06",
+        "EM07",
+        "EM08",
+        "EM09",
+        "EM10",
+        "EM11",
+        "EM12"
+      ],
+      "selection_rationale": "Second-pass human embryology text with deeper clinically oriented anatomical development.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که Langman را خوانده و برای فهم روابط فضایی و اندام‌زایی به دور دوم نیاز دارد.",
+        "why": "تکوین ساختارهای بدن را با جزئیات آناتومیک بیشتری دنبال می‌کند.",
+        "how_to_use": "بر نقاط تغییر شکل، جابه‌جایی و مشتقات لایه‌های زاینده تمرکز کنید.",
+        "next_step": "برای سازوکارهای عمیق‌تر و ادغام با زیست‌شناسی تکوینی به Larsen مراجعه کنید."
+      }
+    },
+    {
+      "id": "EMBRYOLOGY::BOOK-LARSEN-HUMAN-EMBRYOLOGY6-2021",
+      "resource_id": "BOOK-LARSEN-HUMAN-EMBRYOLOGY6-2021",
+      "subject_id": "EMBRYOLOGY",
+      "learning_stage": "advanced",
+      "role": "advanced_reference",
+      "coverage_concept_ids": [
+        "EM01",
+        "EM02",
+        "EM03",
+        "EM04",
+        "EM05",
+        "EM06",
+        "EM07",
+        "EM08",
+        "EM09",
+        "EM10",
+        "EM11",
+        "EM12"
+      ],
+      "selection_rationale": "Advanced mechanistic human embryology reference linking molecular developmental mechanisms to morphogenesis.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که می‌خواهد فراتر از جدول زمانی، چرایی تکوین ساختارها را بفهمد.",
+        "why": "سازوکارهای سلولی و مولکولی را به مورفوژنز انسان متصل می‌کند.",
+        "how_to_use": "مسئله‌محور مطالعه کنید؛ برای هر ساختار مسیر سلولی، سیگنال و تغییر شکل را کنار هم بگذارید.",
+        "next_step": "سپس شاخه تخصصی مرتبط را با مرور جدید دنبال کنید."
+      }
+    },
+    {
+      "id": "EMBRYOLOGY::REVIEW-EARLY-EMBRYO-EPIGENOME-2025",
+      "resource_id": "REVIEW-EARLY-EMBRYO-EPIGENOME-2025",
+      "subject_id": "EMBRYOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "EM01"
+      ],
+      "selection_rationale": "Recent mechanistic review of epigenome dynamics during early mammalian embryogenesis.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که جنین‌زایی اولیه را می‌داند و دنبال لایه تنظیم اپی‌ژنتیک است.",
+        "why": "بازبرنامه‌ریزی اپی‌ژنوم را به مراحل اولیه جنین وصل می‌کند.",
+        "how_to_use": "رویدادهای اپی‌ژنتیک را روی خط زمانی لقاح تا بلاستوسیست قرار دهید.",
+        "next_step": "سپس لانه‌گزینی و بافت‌های خارج‌جنینی را بررسی کنید."
+      },
+      "branch_ids": [
+        "early-embryogenesis-implantation"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "EMBRYOLOGY::REVIEW-EXTRAEMBRYONIC-TISSUES-2025",
+      "resource_id": "REVIEW-EXTRAEMBRYONIC-TISSUES-2025",
+      "subject_id": "EMBRYOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "EM02",
+        "EM11"
+      ],
+      "selection_rationale": "Current review of origin, fate and function of mammalian extraembryonic tissues.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد جفت و بافت‌های خارج‌جنینی را از منشأ تا عملکرد دنبال کند.",
+        "why": "منشأ سلولی و سرنوشت بافت‌ها را به عملکرد آن‌ها در رشد جنین متصل می‌کند.",
+        "how_to_use": "برای هر بافت منشأ، مسیر تمایز و نقش فیزیولوژیک را ثبت کنید.",
+        "next_step": "سپس ارتباط آن‌ها با لانه‌گزینی و رشد جنینی را جمع‌بندی کنید."
+      },
+      "branch_ids": [
+        "placenta-extraembryonic"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "EMBRYOLOGY::REVIEW-NODAL-SIGNALING-2025",
+      "resource_id": "REVIEW-NODAL-SIGNALING-2025",
+      "subject_id": "EMBRYOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "EM03"
+      ],
+      "selection_rationale": "Mechanistic review of Nodal signaling as a central organizer of embryonic patterning.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد تعیین محور و گاسترولاسیون را مکانیزمی بفهمد.",
+        "why": "Nodal نمونه مرکزی پیوند سیگنالینگ با تعیین محور و سرنوشت سلولی است.",
+        "how_to_use": "مسیر سیگنال را به پیامدهای فضایی در جنین نگاشت کنید.",
+        "next_step": "سپس تکوین عصبی و تاج عصبی را دنبال کنید."
+      },
+      "branch_ids": [
+        "gastrulation-axis-patterning"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "EMBRYOLOGY::REVIEW-EARLY-SPINAL-CORD-2025",
+      "resource_id": "REVIEW-EARLY-SPINAL-CORD-2025",
+      "subject_id": "EMBRYOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "EM04"
+      ],
+      "selection_rationale": "Current review spanning neural tube formation through neurogenesis in early spinal cord development.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که نورولاسیون پایه را خوانده و دنبال تداوم آن تا نوروجنز است.",
+        "why": "تشکیل لوله عصبی را به الگوسازی و تولید نورون وصل می‌کند.",
+        "how_to_use": "مراحل مورفولوژیک و سیگنال‌های الگوساز را در دو ستون کنار هم بنویسید.",
+        "next_step": "سپس تاج عصبی و تکوین کرانیوفاسیال را بخوانید."
+      },
+      "branch_ids": [
+        "neural-development-sensory"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "EMBRYOLOGY::REVIEW-NEURAL-CREST-GRN-2026",
+      "resource_id": "REVIEW-NEURAL-CREST-GRN-2026",
+      "subject_id": "EMBRYOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "EM05"
+      ],
+      "selection_rationale": "Recent synthesis of neural crest gene-regulatory networks, development and diversification.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مشتقات تاج عصبی را می‌شناسد و دنبال منطق تنظیمی آن است.",
+        "why": "شبکه تنظیم ژن را به مهاجرت، سرنوشت و تنوع مشتقات تاج عصبی متصل می‌کند.",
+        "how_to_use": "گره‌های اصلی شبکه و مرحله‌ای که اثر می‌گذارند را مشخص کنید.",
+        "next_step": "بعد آن را با تکوین سر و گردن در منابع اصلی تطبیق دهید."
+      },
+      "branch_ids": [
+        "craniofacial-pharyngeal"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "EMBRYOLOGY::REVIEW-CARDIOGENESIS-2026",
+      "resource_id": "REVIEW-CARDIOGENESIS-2026",
+      "subject_id": "EMBRYOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "EM07"
+      ],
+      "selection_rationale": "Current review of coordinated cardiogenesis in vivo and in vitro.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مراحل قلب‌زایی را خوانده و دنبال هماهنگی سلولی و بافتی است.",
+        "why": "ساخت قلب را به تعامل جمعیت‌های سلولی و مورفوژنز متصل می‌کند.",
+        "how_to_use": "خط زمانی قلب‌زایی را با منشأ سلولی و رویداد شکل‌گیری هم‌تراز کنید.",
+        "next_step": "سپس تکوین دستگاه‌های احشایی را مقایسه کنید."
+      },
+      "branch_ids": [
+        "cardiovascular"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "EMBRYOLOGY::REVIEW-EARLY-LUNG-DEVELOPMENT-2024",
+      "resource_id": "REVIEW-EARLY-LUNG-DEVELOPMENT-2024",
+      "subject_id": "EMBRYOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "EM08"
+      ],
+      "selection_rationale": "Mechanistic review of the cellular and molecular choreography of early mammalian lung development.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مشتقات لوله گوارش و جوانه تنفسی را می‌داند.",
+        "why": "نمونه‌ای دقیق از تبدیل اپی‌تلیوم و مزانشیم به یک اندام شاخه‌دار ارائه می‌کند.",
+        "how_to_use": "تعامل اپی‌تلیوم–مزانشیم و مراحل شاخه‌زایی را خلاصه کنید.",
+        "next_step": "این الگو را با سایر اندام‌های مشتق از لوله گوارش مقایسه کنید."
+      },
+      "branch_ids": [
+        "respiratory-digestive"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "EMBRYOLOGY::REVIEW-HUMAN-GERM-CELL-2026",
+      "resource_id": "REVIEW-HUMAN-GERM-CELL-2026",
+      "subject_id": "EMBRYOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "EM09"
+      ],
+      "selection_rationale": "Current review of mechanisms governing human germ-cell development.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که تکوین دستگاه تناسلی را خوانده و دنبال رده زایشی است.",
+        "why": "برنامه تکوینی سلول‌های زایا را در زمینه انسانی جمع‌بندی می‌کند.",
+        "how_to_use": "مهاجرت، تعیین سرنوشت و بلوغ رده زایشی را روی خط زمانی قرار دهید.",
+        "next_step": "سپس آن را با تکوین گنادها در کتاب اصلی ادغام کنید."
+      },
+      "branch_ids": [
+        "urogenital-germline"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "EMBRYOLOGY::REVIEW-VERTEBRATE-SOMITOGENESIS-2024",
+      "resource_id": "REVIEW-VERTEBRATE-SOMITOGENESIS-2024",
+      "subject_id": "EMBRYOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "EM10"
+      ],
+      "selection_rationale": "Mechanistic review of vertebrate somitogenesis, segmentation and tissue patterning.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مشتقات سومیت را می‌داند و می‌خواهد منطق تشکیل قطعه‌ای بدن را بفهمد.",
+        "why": "ساعت قطعه‌بندی و الگوسازی سومیت را به تکوین عضله و اسکلت محوری وصل می‌کند.",
+        "how_to_use": "چرخه زمانی، مرز سومیت و مشتقات بعدی را در یک نمودار پیوند دهید.",
+        "next_step": "سپس تکوین اندام‌ها را در Larsen تکمیل کنید."
+      },
+      "branch_ids": [
+        "musculoskeletal-limbs"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "HISTOLOGY::OPENSTAX-ANATOMY-PHYSIOLOGY2E-2022",
+      "resource_id": "OPENSTAX-ANATOMY-PHYSIOLOGY2E-2022",
+      "subject_id": "HISTOLOGY",
+      "learning_stage": "foundation",
+      "role": "foundation",
+      "coverage_concept_ids": [
+        "HST01",
+        "HST02",
+        "HST03",
+        "HST04",
+        "HST05",
+        "HST06",
+        "HST07",
+        "HST08",
+        "HST10",
+        "HST12"
+      ],
+      "selection_rationale": "Open prerequisite review of basic tissues and organ-system context before a dedicated histology text.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که چهار بافت اصلی و رابطه ساختار–عملکرد را خوب به یاد ندارد.",
+        "why": "پیش‌نیاز ساده و آزاد برای ورود به بافت‌شناسی فراهم می‌کند.",
+        "how_to_use": "فقط بخش‌های بافت‌ها و ساختمان پایه دستگاه‌ها را مرور کنید.",
+        "next_step": "سپس Wheater را به‌عنوان متن اصلی شروع کنید."
+      }
+    },
+    {
+      "id": "HISTOLOGY::BOOK-WHEATERS-HISTOLOGY7-2023",
+      "resource_id": "BOOK-WHEATERS-HISTOLOGY7-2023",
+      "subject_id": "HISTOLOGY",
+      "learning_stage": "core",
+      "role": "core",
+      "coverage_concept_ids": [
+        "HST01",
+        "HST02",
+        "HST03",
+        "HST04",
+        "HST05",
+        "HST06",
+        "HST07",
+        "HST08",
+        "HST09",
+        "HST10",
+        "HST11",
+        "HST12"
+      ],
+      "selection_rationale": "Student-oriented core histology text emphasizing functional interpretation of tissues and organs.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بافت‌شناسی را برای نخستین بار منظم و تصویری یاد بگیرد.",
+        "why": "تمرکز بر ریزساختار و عملکرد، آن را برای دور اول مناسب می‌کند.",
+        "how_to_use": "هر فصل را با سه سؤال بخوانید: ساختار چیست، کجا دیده می‌شود، چه کارکردی را ممکن می‌کند؟",
+        "next_step": "برای دور دوم و عمق سلولی به Junqueira بروید."
+      }
+    },
+    {
+      "id": "HISTOLOGY::BOOK-JUNQUEIRA-HISTOLOGY18-2026",
+      "resource_id": "BOOK-JUNQUEIRA-HISTOLOGY18-2026",
+      "subject_id": "HISTOLOGY",
+      "learning_stage": "intermediate",
+      "role": "intermediate_reference",
+      "coverage_concept_ids": [
+        "HST01",
+        "HST02",
+        "HST03",
+        "HST04",
+        "HST05",
+        "HST06",
+        "HST07",
+        "HST08",
+        "HST09",
+        "HST10",
+        "HST11",
+        "HST12"
+      ],
+      "selection_rationale": "Current comprehensive second-pass histology text integrating cells, tissues and organ microanatomy.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که دور اول بافت‌شناسی را گذرانده و برای یکپارچه‌سازی به متن جامع‌تر نیاز دارد.",
+        "why": "ویرایش جدید، بافت‌ها و اندام‌ها را در پیوند با زیست سلولی و مولکولی مرور می‌کند.",
+        "how_to_use": "بخش‌های متن و اطلس را هم‌زمان بخوانید و تفاوت ساختارهای مشابه را مقایسه کنید.",
+        "next_step": "برای مرجع دقیق‌تر ساختار–مولکول از Pawlina استفاده کنید."
+      }
+    },
+    {
+      "id": "HISTOLOGY::BOOK-PAWLINA-HISTOLOGY9-2023",
+      "resource_id": "BOOK-PAWLINA-HISTOLOGY9-2023",
+      "subject_id": "HISTOLOGY",
+      "learning_stage": "advanced",
+      "role": "advanced_reference",
+      "coverage_concept_ids": [
+        "HST01",
+        "HST02",
+        "HST03",
+        "HST04",
+        "HST05",
+        "HST06",
+        "HST07",
+        "HST08",
+        "HST09",
+        "HST10",
+        "HST11",
+        "HST12"
+      ],
+      "selection_rationale": "Advanced text-and-atlas reference correlating histology with cell and molecular biology.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که برای یک بافت یا اندام خاص به مرجع دقیق نیاز دارد.",
+        "why": "ارتباط ریزساختار با سلول و مولکول را پررنگ می‌کند و برای مطالعه مسئله‌محور مناسب است.",
+        "how_to_use": "به‌جای خواندن کامل، بافت هدف را انتخاب و معماری، انواع سلولی و ماتریکس آن را تحلیل کنید.",
+        "next_step": "سپس مرور تخصصی همان بافت را بخوانید."
+      }
+    },
+    {
+      "id": "HISTOLOGY::REVIEW-ADHERENS-2024",
+      "resource_id": "REVIEW-ADHERENS-2024",
+      "subject_id": "HISTOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "HST02"
+      ],
+      "selection_rationale": "Mechanistic review connecting adherens junctions to epithelial organization and tissue mechanics.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که ساختار اپی‌تلیوم را می‌داند و دنبال منطق اتصالات سلولی است.",
+        "why": "نشان می‌دهد اتصالات چگونه معماری و مکانیک بافت را شکل می‌دهند.",
+        "how_to_use": "اجزای اتصال را به پیامد بافتی آن‌ها نگاشت کنید.",
+        "next_step": "سپس ماتریکس خارج‌سلولی را برای سوی دیگر معماری بافت بخوانید."
+      },
+      "branch_ids": [
+        "epithelial-barrier-junctions"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "HISTOLOGY::REVIEW-ECM-2024",
+      "resource_id": "REVIEW-ECM-2024",
+      "subject_id": "HISTOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "HST03"
+      ],
+      "selection_rationale": "Current review of extracellular-matrix assembly and remodeling.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که بافت همبند را فراتر از نام‌بردن فیبرها می‌خواهد بفهمد.",
+        "why": "مونتاژ و بازسازی ECM را به رفتار بافت متصل می‌کند.",
+        "how_to_use": "اجزای ماتریکس، منبع سلولی و نقش مکانیکی آن‌ها را کنار هم بنویسید.",
+        "next_step": "بعد آن را در غضروف، استخوان و عروق مقایسه کنید."
+      },
+      "branch_ids": [
+        "connective-ecm"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "HISTOLOGY::REVIEW-SKELETAL-CELL-METABOLISM-2024",
+      "resource_id": "REVIEW-SKELETAL-CELL-METABOLISM-2024",
+      "subject_id": "HISTOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "HST04"
+      ],
+      "selection_rationale": "Recent review linking metabolism to skeletal-cell fate and bone/cartilage function.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که ریزساختار استخوان را می‌شناسد و دنبال زیست‌شناسی سلولی آن است.",
+        "why": "تمایز و عملکرد سلول‌های اسکلتی را به وضعیت متابولیک متصل می‌کند.",
+        "how_to_use": "استئوبلاست، استئوکلاست و کندروسیت را از نظر نیاز و نقش متابولیک مقایسه کنید.",
+        "next_step": "سپس بازسازی بافت اسکلتی را در متن اصلی مرور کنید."
+      },
+      "branch_ids": [
+        "cartilage-bone"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "HISTOLOGY::REVIEW-COMPARATIVE-SKELETAL-MUSCLE-2023",
+      "resource_id": "REVIEW-COMPARATIVE-SKELETAL-MUSCLE-2023",
+      "subject_id": "HISTOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "HST05"
+      ],
+      "selection_rationale": "Comparative mechanistic review of skeletal-muscle structure, physiology and mechanics.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که انواع بافت عضلانی را می‌داند و می‌خواهد ساختار را به عملکرد وصل کند.",
+        "why": "مکانیک و تنوع عضله اسکلتی را در قالب مقایسه‌ای نشان می‌دهد.",
+        "how_to_use": "ساختار فیبر و آرایش بافتی را به خروجی مکانیکی مرتبط کنید.",
+        "next_step": "برای تمایز با عضله قلبی و صاف به Pawlina برگردید."
+      },
+      "branch_ids": [
+        "muscle-tissue"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "HISTOLOGY::REVIEW-ASTROCYTES-MICROGLIA-CNS-2024",
+      "resource_id": "REVIEW-ASTROCYTES-MICROGLIA-CNS-2024",
+      "subject_id": "HISTOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "HST06"
+      ],
+      "selection_rationale": "Review of glial cell types and their coordinated roles in CNS development and homeostasis.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که بافت عصبی را بیش از نورون‌ها می‌خواهد بفهمد.",
+        "why": "گلیا را به‌عنوان اجزای فعال سازمان بافت عصبی نشان می‌دهد.",
+        "how_to_use": "مورفولوژی، جایگاه و نقش آستروسیت و میکروگلیا را مقایسه کنید.",
+        "next_step": "سپس آن‌ها را در اطلس بافت عصبی پیدا و تثبیت کنید."
+      },
+      "branch_ids": [
+        "nervous-glia"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "HISTOLOGY::REVIEW-HSC-NICHES-STRESS-2024",
+      "resource_id": "REVIEW-HSC-NICHES-STRESS-2024",
+      "subject_id": "HISTOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "HST07"
+      ],
+      "selection_rationale": "Mechanistic review of the bone-marrow niche supporting hematopoietic stem cells.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که ساختمان مغز استخوان را می‌شناسد و دنبال سازمان عملکردی آن است.",
+        "why": "ریزمعماری مغز استخوان را به تنظیم HSC و خون‌سازی وصل می‌کند.",
+        "how_to_use": "سلول‌های niche و موقعیت فضایی آن‌ها را به نقش تنظیمی متصل کنید.",
+        "next_step": "برای فیزیولوژی خون به مسیر Hematology ارجاع دهید."
+      },
+      "branch_ids": [
+        "blood-hematopoietic"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "HISTOLOGY::REVIEW-ENDOTHELIAL-HETEROGENEITY-2025",
+      "resource_id": "REVIEW-ENDOTHELIAL-HETEROGENEITY-2025",
+      "subject_id": "HISTOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "HST08"
+      ],
+      "selection_rationale": "Current review of microenvironmental determinants of endothelial heterogeneity.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که اندوتلیوم را یک لایه یکنواخت تصور می‌کند.",
+        "why": "تنوع اندوتلیوم را میان بافت‌ها به میکرو‌محیط و عملکرد پیوند می‌دهد.",
+        "how_to_use": "ویژگی‌های اندوتلیوم چند اندام را در یک جدول مقایسه کنید.",
+        "next_step": "سپس آن را با ساختار دیواره عروق در متن اصلی ادغام کنید."
+      },
+      "branch_ids": [
+        "cardiovascular-endothelium"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "HISTOLOGY::STATPEARLS-HISTOLOGY-LUNG-2025",
+      "resource_id": "STATPEARLS-HISTOLOGY-LUNG-2025",
+      "subject_id": "HISTOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "HST10"
+      ],
+      "selection_rationale": "Authoritative concise reference for theoretical lung histology and structure-function relationships.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد ریزساختار مجاری تنفسی تا آلوئول را یکجا مرور کند.",
+        "why": "مرجع جمع‌وجوری برای سازمان لایه‌ها و انواع سلولی ریه است.",
+        "how_to_use": "مسیر هوا را دنبال کنید و در هر بخش اپی‌تلیوم و سلول شاخص را ثبت کنید.",
+        "next_step": "سپس بافت تنفسی را در اطلس اصلی مرور کنید."
+      },
+      "branch_ids": [
+        "respiratory-mucosa"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "HISTOLOGY::STATPEARLS-HISTOLOGY-SKIN-2023",
+      "resource_id": "STATPEARLS-HISTOLOGY-SKIN-2023",
+      "subject_id": "HISTOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "HST12"
+      ],
+      "selection_rationale": "Authoritative concise reference for theoretical skin histology.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که لایه‌های پوست و ضمائم را می‌خواهد منظم مرور کند.",
+        "why": "ساختار اپیدرم، درم و ضمائم را در یک مرجع نظری کوتاه جمع می‌کند.",
+        "how_to_use": "از سطح به عمق، لایه‌ها و انواع سلولی را روی یک طرح برچسب بزنید.",
+        "next_step": "برای مکانیزم سد اپی‌تلیال به شاخه اپی‌تلیوم برگردید."
+      },
+      "branch_ids": [
+        "integument"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "ANATOMY::OPENSTAX-ANATOMY-PHYSIOLOGY2E-2022",
+      "resource_id": "OPENSTAX-ANATOMY-PHYSIOLOGY2E-2022",
+      "subject_id": "ANATOMY",
+      "learning_stage": "foundation",
+      "role": "foundation",
+      "coverage_concept_ids": [
+        "AN01",
+        "AN02",
+        "AN03",
+        "AN04",
+        "AN05",
+        "AN06",
+        "AN07",
+        "AN08",
+        "AN09",
+        "AN10"
+      ],
+      "selection_rationale": "Open prerequisite review of anatomical terminology and organ-system orientation.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که زبان جهت‌یابی آناتومیک و نمای کلی دستگاه‌ها را کامل به یاد ندارد.",
+        "why": "بدون ورود مستقیم به متن سنگین، اصطلاحات و نقشه کلی بدن را تثبیت می‌کند.",
+        "how_to_use": "فصل مقدماتی و مرور دستگاه‌ها را هدفمند بخوانید؛ کل کتاب لازم نیست.",
+        "next_step": "سپس Gray's Anatomy for Students را به‌صورت ناحیه‌ای شروع کنید."
+      }
+    },
+    {
+      "id": "ANATOMY::BOOK-GRAYS-STUDENTS5-2023",
+      "resource_id": "BOOK-GRAYS-STUDENTS5-2023",
+      "subject_id": "ANATOMY",
+      "learning_stage": "core",
+      "role": "core",
+      "coverage_concept_ids": [
+        "AN01",
+        "AN02",
+        "AN03",
+        "AN04",
+        "AN05",
+        "AN06",
+        "AN07",
+        "AN08",
+        "AN09",
+        "AN10",
+        "AN11",
+        "AN12"
+      ],
+      "selection_rationale": "Current student-focused regional anatomy textbook with clear spatial organization.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد آناتومی انسان را برای نخستین بار ناحیه‌ای و منسجم یاد بگیرد.",
+        "why": "ساختارها را در زمینه فضایی و ناحیه‌ای مناسب آموزش می‌دهد.",
+        "how_to_use": "هر ناحیه را از استخوان و فاسیا به عضله، عصب و عروق پیش ببرید و روابط را رسم کنید.",
+        "next_step": "برای دور دوم و همبستگی‌های بیشتر به Moore بروید."
+      }
+    },
+    {
+      "id": "ANATOMY::BOOK-MOORE-ANATOMY10-2026",
+      "resource_id": "BOOK-MOORE-ANATOMY10-2026",
+      "subject_id": "ANATOMY",
+      "learning_stage": "intermediate",
+      "role": "intermediate_reference",
+      "coverage_concept_ids": [
+        "AN01",
+        "AN02",
+        "AN03",
+        "AN04",
+        "AN05",
+        "AN06",
+        "AN07",
+        "AN08",
+        "AN09",
+        "AN10",
+        "AN11",
+        "AN12"
+      ],
+      "selection_rationale": "Current clinically oriented second-pass regional anatomy reference.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که یک دور آناتومی را گذرانده و به روابط ناحیه‌ای دقیق‌تر نیاز دارد.",
+        "why": "روابط آناتومیک را با چارچوب منظم ناحیه‌ای و نکات کاربردی تثبیت می‌کند.",
+        "how_to_use": "روی مسیر ساختارها و روابط سه‌بعدی تمرکز کنید؛ بخش‌های مهارتی را محور قرار ندهید.",
+        "next_step": "برای پرسش‌های عمیق و جزئی از Gray's Anatomy استفاده کنید."
+      }
+    },
+    {
+      "id": "ANATOMY::BOOK-GRAYS-ANATOMY43-2025",
+      "resource_id": "BOOK-GRAYS-ANATOMY43-2025",
+      "subject_id": "ANATOMY",
+      "learning_stage": "advanced",
+      "role": "advanced_reference",
+      "coverage_concept_ids": [
+        "AN01",
+        "AN02",
+        "AN03",
+        "AN04",
+        "AN05",
+        "AN06",
+        "AN07",
+        "AN08",
+        "AN09",
+        "AN10",
+        "AN11",
+        "AN12"
+      ],
+      "selection_rationale": "Comprehensive advanced anatomical reference for detailed structural and regional questions.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که برای یک ساختار یا رابطه مشخص به مرجع جامع نیاز دارد.",
+        "why": "نقش آن مرجع مسئله‌محور است، نه کتاب شروع، و عمق بسیار بیشتری از جزئیات آناتومیک دارد.",
+        "how_to_use": "از سؤال مشخص شروع کنید و فقط بخش مرتبط را با شکل‌ها و روابط مجاور بخوانید.",
+        "next_step": "سپس همان ناحیه را در شاخه تخصصی مربوط تثبیت کنید."
+      }
+    },
+    {
+      "id": "ANATOMY::STATPEARLS-ANATOMY-VERTEBRAL-COLUMN-2023",
+      "resource_id": "STATPEARLS-ANATOMY-VERTEBRAL-COLUMN-2023",
+      "subject_id": "ANATOMY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "AN02",
+        "AN11"
+      ],
+      "selection_rationale": "Authoritative concise regional review of vertebral-column anatomy.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد ستون مهره‌ها را پس از متن اصلی جمع‌بندی کند.",
+        "why": "ساختارهای اصلی ستون مهره را در قالب ناحیه‌ای فشرده مرور می‌کند.",
+        "how_to_use": "مهره‌ها، مفاصل و روابط کانال مهره‌ای را روی یک طرح سه‌بعدی نگاشت کنید.",
+        "next_step": "سپس ناحیه توراکس را ادامه دهید."
+      },
+      "branch_ids": [
+        "back-spine"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "ANATOMY::STATPEARLS-ANATOMY-THORAX-2023",
+      "resource_id": "STATPEARLS-ANATOMY-THORAX-2023",
+      "subject_id": "ANATOMY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "AN03",
+        "AN10",
+        "AN11"
+      ],
+      "selection_rationale": "Authoritative regional synthesis of thoracic anatomy.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که برای مرور ناحیه‌ای توراکس به متن کوتاه نیاز دارد.",
+        "why": "دیواره قفسه سینه و محتویات توراکس را در یک چارچوب منطقه‌ای جمع می‌کند.",
+        "how_to_use": "فضاها، احشا و مسیرهای عروقی–عصبی را جدا رسم کنید.",
+        "next_step": "سپس شکم را با همان روش ادامه دهید."
+      },
+      "branch_ids": [
+        "thorax"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "ANATOMY::STATPEARLS-ANATOMY-ABDOMEN-2023",
+      "resource_id": "STATPEARLS-ANATOMY-ABDOMEN-2023",
+      "subject_id": "ANATOMY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "AN04",
+        "AN10",
+        "AN11"
+      ],
+      "selection_rationale": "Authoritative regional synthesis of abdominal anatomy.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که روابط احشای شکم را می‌خواهد فشرده مرور کند.",
+        "why": "برای تثبیت موقعیت، حفرات و روابط احشایی مناسب است.",
+        "how_to_use": "روابط صفاقی، عروق و موقعیت احشا را روی یک نقشه ناحیه‌ای بنویسید.",
+        "next_step": "سپس لگن و پرینه را ادامه دهید."
+      },
+      "branch_ids": [
+        "abdomen"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "ANATOMY::STATPEARLS-ANATOMY-PELVIS-2023",
+      "resource_id": "STATPEARLS-ANATOMY-PELVIS-2023",
+      "subject_id": "ANATOMY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "AN05",
+        "AN10",
+        "AN11"
+      ],
+      "selection_rationale": "Authoritative regional review of pelvic anatomy.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که هندسه لگن و روابط احشای لگنی برایش دشوار است.",
+        "why": "ساختارهای لگن را در یک چارچوب ناحیه‌ای جمع‌بندی می‌کند.",
+        "how_to_use": "دیواره، کف، احشا و مسیرهای عروقی–عصبی را لایه‌به‌لایه رسم کنید.",
+        "next_step": "برای پرینه و تفاوت‌های جنسی به فصل‌های متن اصلی برگردید."
+      },
+      "branch_ids": [
+        "pelvis-perineum"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "ANATOMY::STATPEARLS-ANATOMY-UPPER-LIMB-2023",
+      "resource_id": "STATPEARLS-ANATOMY-UPPER-LIMB-2023",
+      "subject_id": "ANATOMY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "AN06",
+        "AN10",
+        "AN11"
+      ],
+      "selection_rationale": "Authoritative concise review of arm structure and function.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد مسیر ساختارهای اندام فوقانی را تثبیت کند.",
+        "why": "مرور فشرده ناحیه بازو را برای اتصال عضله، عصب و عروق فراهم می‌کند.",
+        "how_to_use": "هر کمپارتمان را با عضله، عصب و خون‌رسانی متناظر خلاصه کنید.",
+        "next_step": "سپس همین روش را برای اندام تحتانی به‌کار ببرید."
+      },
+      "branch_ids": [
+        "upper-limb"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "ANATOMY::STATPEARLS-ANATOMY-LOWER-LIMB-NERVES-2023",
+      "resource_id": "STATPEARLS-ANATOMY-LOWER-LIMB-NERVES-2023",
+      "subject_id": "ANATOMY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "AN07",
+        "AN10"
+      ],
+      "selection_rationale": "Authoritative review emphasizing nerve organization in the lower limb.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مسیرهای عصبی اندام تحتانی برایش پراکنده است.",
+        "why": "یک محور نوروواسکولار برای سازمان‌دهی ناحیه‌ای اندام تحتانی می‌دهد.",
+        "how_to_use": "اعصاب اصلی را از منشأ تا شاخه‌ها و ناحیه توزیع دنبال کنید.",
+        "next_step": "برای عضلات و مفاصل، متن اصلی را موازی مرور کنید."
+      },
+      "branch_ids": [
+        "lower-limb-neurovascular"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "ANATOMY::STATPEARLS-ANATOMY-HEAD-NECK-2023",
+      "resource_id": "STATPEARLS-ANATOMY-HEAD-NECK-2023",
+      "subject_id": "ANATOMY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "AN08",
+        "AN10",
+        "AN11"
+      ],
+      "selection_rationale": "Authoritative concise regional review of neck anatomy.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که تراکم ساختارهای سر و گردن را سخت می‌یابد.",
+        "why": "مرور ناحیه گردن یک چارچوب فضایی برای عروق، اعصاب و عضلات می‌سازد.",
+        "how_to_use": "فاسیا، فضاها و مثلث‌ها را ابتدا رسم و سپس ساختارها را روی آن سوار کنید.",
+        "next_step": "برای جزئیات سر و اعصاب جمجمه‌ای به متن اصلی و نورواناتومی برگردید."
+      },
+      "branch_ids": [
+        "head-neck"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "ANATOMY::BOOK-PRINCIPLES-NEURAL-SCIENCE6-2021",
+      "resource_id": "BOOK-PRINCIPLES-NEURAL-SCIENCE6-2021",
+      "subject_id": "ANATOMY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "AN09"
+      ],
+      "selection_rationale": "Existing advanced reference reused for structural neuroanatomy in the broader nervous-system context.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که آناتومی پایه دستگاه عصبی را می‌داند و دنبال مرجع عمیق‌تر است.",
+        "why": "ساختار عصبی را به سازمان عملکردی دستگاه عصبی متصل می‌کند.",
+        "how_to_use": "فقط فصل‌های نورواناتومی و سازمان دستگاه‌ها را هدفمند بخوانید.",
+        "next_step": "برای مسیر کامل علوم اعصاب به roadmap مستقل Neuroscience مراجعه کنید."
+      },
+      "branch_ids": [
+        "neuroanatomy"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "ANATOMY::STATPEARLS-ANATOMY-NECK-TRIANGLE-2026",
+      "resource_id": "STATPEARLS-ANATOMY-NECK-TRIANGLE-2026",
+      "subject_id": "ANATOMY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "coverage_concept_ids": [
+        "AN08",
+        "AN11"
+      ],
+      "selection_rationale": "Current concise reference illustrating surface and topographic organization through neck triangles.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد آناتومی سطحی و مرزبندی‌های ناحیه‌ای را با یک مثال روشن تمرین کند.",
+        "why": "مثلث‌های گردن نمونه کلاسیک تبدیل نشانه‌های سطحی به روابط عمقی هستند.",
+        "how_to_use": "مرز هر مثلث و محتویات آن را بدون نگاه به شکل بازسازی کنید.",
+        "next_step": "همین روش را برای سایر نواحی بدن به‌کار ببرید."
+      },
+      "branch_ids": [
+        "surface-topographic-anatomy"
+      ],
+      "branch_role": "branch_reference"
+    },
+    {
+      "id": "MARINE-BIOLOGY::REVIEW-MARINE-PLANKTON-FUNCTION-2026",
+      "resource_id": "REVIEW-MARINE-PLANKTON-FUNCTION-2026",
+      "subject_id": "MARINE-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "plankton-pelagic"
+      ],
+      "coverage_concept_ids": [
+        "MB03",
+        "MB04"
+      ],
+      "selection_rationale": "این مرور نظام‌مند نقش پلانکتون را در کارکرد، تنوع و پایداری شبکه‌های غذایی دریایی جمع‌بندی می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منبع مرجع شاخه «پلانکتون و زیست‌بوم‌های پلاژیک» را خوانده و به زاویه مکمل نیاز دارد.",
+        "why": "این مرور نظام‌مند نقش پلانکتون را در کارکرد، تنوع و پایداری شبکه‌های غذایی دریایی جمع‌بندی می‌کند.",
+        "how_to_use": "نتایج را در سه ستون تولید، شبکه غذایی و پاسخ به تنش‌های محیطی خلاصه کنید.",
+        "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
+      }
+    },
+    {
+      "id": "MARINE-BIOLOGY::REVIEW-KELP-FORESTS-URCHIN-BARRENS-2024",
+      "resource_id": "REVIEW-KELP-FORESTS-URCHIN-BARRENS-2024",
+      "subject_id": "MARINE-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "benthic-shores-shelf"
+      ],
+      "coverage_concept_ids": [
+        "MB05",
+        "MB12"
+      ],
+      "selection_rationale": "مقایسه جنگل‌های کلپ و barrenهای خارپشت دریایی نشان می‌دهد تغییر حالت اکوسیستم چگونه کارکرد بنتیک را دگرگون می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منبع مرجع شاخه «بنتوس، سواحل و فلات قاره» را خوانده و به زاویه مکمل نیاز دارد.",
+        "why": "مقایسه جنگل‌های کلپ و barrenهای خارپشت دریایی نشان می‌دهد تغییر حالت اکوسیستم چگونه کارکرد بنتیک را دگرگون می‌کند.",
+        "how_to_use": "دو حالت پایدار را از نظر ساختار جامعه، تولید و خدمات اکوسیستمی مقایسه کنید.",
+        "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
+      }
+    },
+    {
+      "id": "MARINE-BIOLOGY::REVIEW-ESTUARINE-MICROBIAL-ECOLOGY-2024",
+      "resource_id": "REVIEW-ESTUARINE-MICROBIAL-ECOLOGY-2024",
+      "subject_id": "MARINE-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "estuaries-coastal-wetlands"
+      ],
+      "coverage_concept_ids": [
+        "MB06",
+        "MB08"
+      ],
+      "selection_rationale": "زاویه میکروبی، گرادیان‌های مصبی را به چرخه مواد و ساختار جامعه وصل می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منبع مرجع شاخه «مصب‌ها و زیست‌بوم‌های ساحلی» را خوانده و به زاویه مکمل نیاز دارد.",
+        "why": "زاویه میکروبی، گرادیان‌های مصبی را به چرخه مواد و ساختار جامعه وصل می‌کند.",
+        "how_to_use": "گرادیان شوری و مواد آلی را به تغییر جامعه میکروبی و شار مواد مرتبط کنید.",
+        "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
+      }
+    },
+    {
+      "id": "MARINE-BIOLOGY::REVIEW-CORAL-DISEASE-2025",
+      "resource_id": "REVIEW-CORAL-DISEASE-2025",
+      "subject_id": "MARINE-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "coral-reefs"
+      ],
+      "coverage_concept_ids": [
+        "MB07",
+        "MB12"
+      ],
+      "selection_rationale": "بیماری مرجان زاویه مکملی برای فهم تاب‌آوری صخره در برابر عوامل مستقیم و غیرمستقیم فراهم می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منبع مرجع شاخه «صخره‌های مرجانی» را خوانده و به زاویه مکمل نیاز دارد.",
+        "why": "بیماری مرجان زاویه مکملی برای فهم تاب‌آوری صخره در برابر عوامل مستقیم و غیرمستقیم فراهم می‌کند.",
+        "how_to_use": "عامل، سازوکار آسیب و پیامد اکوسیستمی را برای هر گروه تهدید تفکیک کنید.",
+        "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
+      }
+    },
+    {
+      "id": "MARINE-BIOLOGY::REVIEW-MARINE-MICROBIAL-CARBON-2025",
+      "resource_id": "REVIEW-MARINE-MICROBIAL-CARBON-2025",
+      "subject_id": "MARINE-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "marine-microbial-ecology"
+      ],
+      "coverage_concept_ids": [
+        "MB03",
+        "MB08"
+      ],
+      "selection_rationale": "این مرور مقیاس سلولی میکروب‌ها را به چرخه جهانی کربن و مدل‌های اقیانوسی متصل می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منبع مرجع شاخه «اکولوژی میکروبی دریا» را خوانده و به زاویه مکمل نیاز دارد.",
+        "why": "این مرور مقیاس سلولی میکروب‌ها را به چرخه جهانی کربن و مدل‌های اقیانوسی متصل می‌کند.",
+        "how_to_use": "از ژنوم و متابولیسم میکروبی تا شار کربن یک زنجیره مقیاس بسازید.",
+        "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
+      }
+    },
+    {
+      "id": "MARINE-BIOLOGY::REVIEW-DEEP-SEA-INDIAN-OCEAN-2024",
+      "resource_id": "REVIEW-DEEP-SEA-INDIAN-OCEAN-2024",
+      "subject_id": "MARINE-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "deep-sea"
+      ],
+      "coverage_concept_ids": [
+        "MB09",
+        "MB12"
+      ],
+      "selection_rationale": "مرور اعماق اقیانوس هند تنوع زیستگاه‌های عمیق، شکاف داده و فشارهای انسانی را در یک چارچوب واقعی نشان می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منبع مرجع شاخه «زیست‌بوم‌های اعماق دریا» را خوانده و به زاویه مکمل نیاز دارد.",
+        "why": "مرور اعماق اقیانوس هند تنوع زیستگاه‌های عمیق، شکاف داده و فشارهای انسانی را در یک چارچوب واقعی نشان می‌دهد.",
+        "how_to_use": "زیستگاه‌های عمیق را با محدودیت محیطی، داده موجود و تهدید اصلی مقایسه کنید.",
+        "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
+      }
+    },
+    {
+      "id": "MARINE-BIOLOGY::REVIEW-ANTARCTIC-BENTHIC-CHANGE-2024",
+      "resource_id": "REVIEW-ANTARCTIC-BENTHIC-CHANGE-2024",
+      "subject_id": "MARINE-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "polar-marine-ecosystems"
+      ],
+      "coverage_concept_ids": [
+        "MB10",
+        "MB12"
+      ],
+      "selection_rationale": "مرور تغییرات بنتیک جنوبگان شواهد مشاهده‌ای، آزمایشی و مدل‌سازی را برای پاسخ به گرمایش و تغییر یخ ادغام می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منبع مرجع شاخه «زیست‌بوم‌های دریایی قطبی» را خوانده و به زاویه مکمل نیاز دارد.",
+        "why": "مرور تغییرات بنتیک جنوبگان شواهد مشاهده‌ای، آزمایشی و مدل‌سازی را برای پاسخ به گرمایش و تغییر یخ ادغام می‌کند.",
+        "how_to_use": "برای هر محرک اقلیمی، پاسخ مشاهده‌شده و جهت عدم قطعیت را ثبت کنید.",
+        "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
+      }
+    },
+    {
+      "id": "MARINE-BIOLOGY::REVIEW-AQUATIC-IONIC-OSMOTIC-2023",
+      "resource_id": "REVIEW-AQUATIC-IONIC-OSMOTIC-2023",
+      "subject_id": "MARINE-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "marine-vertebrate-physiology"
+      ],
+      "coverage_concept_ids": [
+        "MB02",
+        "MB11"
+      ],
+      "selection_rationale": "تنظیم یونی، اسمزی و اسید–باز زاویه مکملی برای سازگاری فیزیولوژیک جانوران آبزی فراهم می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منبع مرجع شاخه «فیزیولوژی مهره‌داران و پستانداران دریایی» را خوانده و به زاویه مکمل نیاز دارد.",
+        "why": "تنظیم یونی، اسمزی و اسید–باز زاویه مکملی برای سازگاری فیزیولوژیک جانوران آبزی فراهم می‌کند.",
+        "how_to_use": "مسئله اسمزی آب دریا را به ساختارهای تبادلی و سازوکارهای تنظیم یونی پیوند دهید.",
+        "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
+      }
+    },
+    {
+      "id": "MARINE-BIOLOGY::REVIEW-MARINE-COASTAL-CLIMATE-2024",
+      "resource_id": "REVIEW-MARINE-COASTAL-CLIMATE-2024",
+      "subject_id": "MARINE-BIOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "conservation-fisheries-climate"
+      ],
+      "coverage_concept_ids": [
+        "MB12"
+      ],
+      "selection_rationale": "این مرور اثرات تغییر اقلیم بر اکوسیستم‌های ساحلی را برای اتصال شواهد زیستی به مدیریت جمع‌بندی می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منبع مرجع شاخه «حفاظت، شیلات و تغییر اقلیم» را خوانده و به زاویه مکمل نیاز دارد.",
+        "why": "این مرور اثرات تغییر اقلیم بر اکوسیستم‌های ساحلی را برای اتصال شواهد زیستی به مدیریت جمع‌بندی می‌کند.",
+        "how_to_use": "محرک اقلیمی، سطح اثر زیستی و پیامد مدیریتی را در یک ماتریس خلاصه کنید.",
+        "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
+      }
+    },
+    {
+      "id": "EMBRYOLOGY::REVIEW-MZT-2025",
+      "resource_id": "REVIEW-MZT-2025",
+      "subject_id": "EMBRYOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "early-embryogenesis-implantation"
+      ],
+      "coverage_concept_ids": [
+        "EM01"
+      ],
+      "selection_rationale": "گذار مادری–زیگوتی زاویه مکملی برای فهم بازبرنامه‌ریزی هسته و سیتوپلاسم در آغاز جنین‌زایی می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منبع مرجع شاخه «جنین‌زایی اولیه و لانه‌گزینی» را خوانده و به زاویه مکمل نیاز دارد.",
+        "why": "گذار مادری–زیگوتی زاویه مکملی برای فهم بازبرنامه‌ریزی هسته و سیتوپلاسم در آغاز جنین‌زایی می‌دهد.",
+        "how_to_use": "رویدادهای MZT را روی خط زمانی کلیواژ تا فعال‌شدن ژنوم زیگوت قرار دهید.",
+        "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
+      }
+    },
+    {
+      "id": "EMBRYOLOGY::REVIEW-TROPHOBLAST-PLACENTA-2024",
+      "resource_id": "REVIEW-TROPHOBLAST-PLACENTA-2024",
+      "subject_id": "EMBRYOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "placenta-extraembryonic"
+      ],
+      "coverage_concept_ids": [
+        "EM02",
+        "EM11"
+      ],
+      "selection_rationale": "این مرور مهاجرت و تمایز تروفوبلاست را به مسیرهای سیگنالینگ و شکل‌گیری جفت متصل می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منبع مرجع شاخه «جفت و بافت‌های خارج‌جنینی» را خوانده و به زاویه مکمل نیاز دارد.",
+        "why": "این مرور مهاجرت و تمایز تروفوبلاست را به مسیرهای سیگنالینگ و شکل‌گیری جفت متصل می‌کند.",
+        "how_to_use": "Wnt، Notch، TGF-β و VEGF را به مرحله و رفتار تروفوبلاست نگاشت کنید.",
+        "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
+      }
+    },
+    {
+      "id": "EMBRYOLOGY::REVIEW-MAMMALIAN-GASTRULATION-MODELS-2025",
+      "resource_id": "REVIEW-MAMMALIAN-GASTRULATION-MODELS-2025",
+      "subject_id": "EMBRYOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "gastrulation-axis-patterning"
+      ],
+      "coverage_concept_ids": [
+        "EM03"
+      ],
+      "selection_rationale": "مدل‌های فضایی–زمانی گاسترولاسیون مکمل فهم هماهنگی تعیین سرنوشت و مورفوژنز هستند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منبع مرجع شاخه «گاسترولاسیون و تعیین محورهای بدن» را خوانده و به زاویه مکمل نیاز دارد.",
+        "why": "مدل‌های فضایی–زمانی گاسترولاسیون مکمل فهم هماهنگی تعیین سرنوشت و مورفوژنز هستند.",
+        "how_to_use": "زمان، موقعیت و هویت سلولی را به‌عنوان سه محور یک مدل واحد بازسازی کنید.",
+        "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
+      }
+    },
+    {
+      "id": "EMBRYOLOGY::REVIEW-EMBRYONIC-NEURODEVELOPMENT-MODELS-2024",
+      "resource_id": "REVIEW-EMBRYONIC-NEURODEVELOPMENT-MODELS-2024",
+      "subject_id": "EMBRYOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "neural-development-sensory"
+      ],
+      "coverage_concept_ids": [
+        "EM04"
+      ],
+      "selection_rationale": "مرور مدل‌های نوروتکوینی پلی میان تشکیل سلول عصبی، لوله عصبی و صورت‌بندی کمی فرایند ایجاد می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منبع مرجع شاخه «نورولاسیون و تکوین عصبی» را خوانده و به زاویه مکمل نیاز دارد.",
+        "why": "مرور مدل‌های نوروتکوینی پلی میان تشکیل سلول عصبی، لوله عصبی و صورت‌بندی کمی فرایند ایجاد می‌کند.",
+        "how_to_use": "مراحل زیستی را جدا از مفروضات مدل‌سازی فهرست و سپس ارتباط آن‌ها را مشخص کنید.",
+        "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
+      }
+    },
+    {
+      "id": "EMBRYOLOGY::REVIEW-CRANIOFACIAL-NEURAL-CREST-2025",
+      "resource_id": "REVIEW-CRANIOFACIAL-NEURAL-CREST-2025",
+      "subject_id": "EMBRYOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "craniofacial-pharyngeal"
+      ],
+      "coverage_concept_ids": [
+        "EM05"
+      ],
+      "selection_rationale": "این مرور نقش‌های تاج عصبی را در تکوین کرانیوفاسیال از زاویه مننژها تکمیل می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منبع مرجع شاخه «تاج عصبی و تکوین کرانیوفاسیال» را خوانده و به زاویه مکمل نیاز دارد.",
+        "why": "این مرور نقش‌های تاج عصبی را در تکوین کرانیوفاسیال از زاویه مننژها تکمیل می‌کند.",
+        "how_to_use": "مشتقات تاج عصبی را به بافت هدف و نقش سیگنال‌دهی آن‌ها وصل کنید.",
+        "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
+      }
+    },
+    {
+      "id": "EMBRYOLOGY::REVIEW-EARLY-HEART-DEVELOPMENT-2024",
+      "resource_id": "REVIEW-EARLY-HEART-DEVELOPMENT-2024",
+      "subject_id": "EMBRYOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "cardiovascular"
+      ],
+      "coverage_concept_ids": [
+        "EM07"
+      ],
+      "selection_rationale": "تمرکز بر ظهور هم‌زمان فرم و عملکرد، تصویر مکملی از مراحل اولیه قلب‌زایی می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منبع مرجع شاخه «تکوین قلب و عروق» را خوانده و به زاویه مکمل نیاز دارد.",
+        "why": "تمرکز بر ظهور هم‌زمان فرم و عملکرد، تصویر مکملی از مراحل اولیه قلب‌زایی می‌دهد.",
+        "how_to_use": "رویداد مورفولوژیک و تغییر عملکردی متناظر را روی یک خط زمانی قرار دهید.",
+        "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
+      }
+    },
+    {
+      "id": "EMBRYOLOGY::REVIEW-VERTEBRATE-INTESTINE-MORPHOGENESIS-2025",
+      "resource_id": "REVIEW-VERTEBRATE-INTESTINE-MORPHOGENESIS-2025",
+      "subject_id": "EMBRYOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "respiratory-digestive"
+      ],
+      "coverage_concept_ids": [
+        "EM08"
+      ],
+      "selection_rationale": "مورفوژنز روده الگوی مکملی برای فهم تبدیل لوله ساده جنینی به اندام چندلایه و عملکردی است.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منبع مرجع شاخه «تکوین دستگاه تنفسی و گوارشی» را خوانده و به زاویه مکمل نیاز دارد.",
+        "why": "مورفوژنز روده الگوی مکملی برای فهم تبدیل لوله ساده جنینی به اندام چندلایه و عملکردی است.",
+        "how_to_use": "تشکیل لوله، چرخش، عدم تقارن و الگوسازی شعاعی را مرحله‌بندی کنید.",
+        "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
+      }
+    },
+    {
+      "id": "EMBRYOLOGY::REVIEW-URETER-DEVELOPMENT-2025",
+      "resource_id": "REVIEW-URETER-DEVELOPMENT-2025",
+      "subject_id": "EMBRYOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "urogenital-germline"
+      ],
+      "coverage_concept_ids": [
+        "EM09"
+      ],
+      "selection_rationale": "تکوین حالب نمونه دقیقی از هماهنگی اپی‌تلیوم و مزانشیم در دستگاه ادراری و منشأ ناهنجاری‌ها است.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منبع مرجع شاخه «تکوین ادراری–تناسلی و رده زایشی» را خوانده و به زاویه مکمل نیاز دارد.",
+        "why": "تکوین حالب نمونه دقیقی از هماهنگی اپی‌تلیوم و مزانشیم در دستگاه ادراری و منشأ ناهنجاری‌ها است.",
+        "how_to_use": "جوانه حالبی، مزانشیم و اتصال به مثانه را در یک زنجیره علّی ترسیم کنید.",
+        "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
+      }
+    },
+    {
+      "id": "EMBRYOLOGY::REVIEW-MECHANICAL-FORCES-DEVELOPMENT-2025",
+      "resource_id": "REVIEW-MECHANICAL-FORCES-DEVELOPMENT-2025",
+      "subject_id": "EMBRYOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "musculoskeletal-limbs"
+      ],
+      "coverage_concept_ids": [
+        "EM10"
+      ],
+      "selection_rationale": "نیروهای مکانیکی زاویه مکملی برای فهم شکل‌گیری بافت‌ها و اندام‌ها فراتر از الگوهای ژنی فراهم می‌کنند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منبع مرجع شاخه «تکوین اسکلتی–عضلانی و اندام‌ها» را خوانده و به زاویه مکمل نیاز دارد.",
+        "why": "نیروهای مکانیکی زاویه مکملی برای فهم شکل‌گیری بافت‌ها و اندام‌ها فراتر از الگوهای ژنی فراهم می‌کنند.",
+        "how_to_use": "برای هر رویداد مورفوژنتیک، منبع نیرو، بافت پاسخ‌دهنده و تغییر شکل را مشخص کنید.",
+        "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
+      }
+    },
+    {
+      "id": "HISTOLOGY::REVIEW-EPITHELIAL-TISSUE-MECHANICS-2025",
+      "resource_id": "REVIEW-EPITHELIAL-TISSUE-MECHANICS-2025",
+      "subject_id": "HISTOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "epithelial-barrier-junctions"
+      ],
+      "coverage_concept_ids": [
+        "HST02"
+      ],
+      "selection_rationale": "مکانیک سلول‌های بنیادی اپی‌تلیال نشان می‌دهد چگونه نیرو و سیگنالینگ معماری بافت را می‌سازند و حفظ می‌کنند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منبع مرجع شاخه «اپی‌تلیوم، سدها و اتصالات سلولی» را خوانده و به زاویه مکمل نیاز دارد.",
+        "why": "مکانیک سلول‌های بنیادی اپی‌تلیال نشان می‌دهد چگونه نیرو و سیگنالینگ معماری بافت را می‌سازند و حفظ می‌کنند.",
+        "how_to_use": "نیروهای سلولی، اتصال‌ها و تغییر شکل بافتی را در یک نقشه علت–معلولی قرار دهید.",
+        "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
+      }
+    },
+    {
+      "id": "HISTOLOGY::REVIEW-FIBROBLAST-TISSUE-REPAIR-2024",
+      "resource_id": "REVIEW-FIBROBLAST-TISSUE-REPAIR-2024",
+      "subject_id": "HISTOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "connective-ecm"
+      ],
+      "coverage_concept_ids": [
+        "HST03"
+      ],
+      "selection_rationale": "فعال‌شدن فیبروبلاست و میوفیبروبلاست نقش سلولی بافت همبند را در نگهداری، ترمیم و فیبروز روشن می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منبع مرجع شاخه «بافت همبند و ماتریکس خارج‌سلولی» را خوانده و به زاویه مکمل نیاز دارد.",
+        "why": "فعال‌شدن فیبروبلاست و میوفیبروبلاست نقش سلولی بافت همبند را در نگهداری، ترمیم و فیبروز روشن می‌کند.",
+        "how_to_use": "حالت پایه، ترمیمی و فیبروتیک فیبروبلاست را با ECM تولیدی مقایسه کنید.",
+        "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
+      }
+    },
+    {
+      "id": "HISTOLOGY::REVIEW-OSTEOBLAST-LINEAGE-2024",
+      "resource_id": "REVIEW-OSTEOBLAST-LINEAGE-2024",
+      "subject_id": "HISTOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "cartilage-bone"
+      ],
+      "coverage_concept_ids": [
+        "HST04"
+      ],
+      "selection_rationale": "مرور تبار استئوبلاست، سیگنالینگ و تنظیم رونویسی مکملی برای ریزساختار پویا و هم‌ایستایی استخوان است.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منبع مرجع شاخه «غضروف و استخوان» را خوانده و به زاویه مکمل نیاز دارد.",
+        "why": "مرور تبار استئوبلاست، سیگنالینگ و تنظیم رونویسی مکملی برای ریزساختار پویا و هم‌ایستایی استخوان است.",
+        "how_to_use": "تمایز استئوبلاست را به تولید ماتریکس، معدنی‌شدن و هم‌ایستایی متصل کنید.",
+        "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
+      }
+    },
+    {
+      "id": "HISTOLOGY::REVIEW-COMPARATIVE-CAT-WALKING-2025",
+      "resource_id": "REVIEW-COMPARATIVE-CAT-WALKING-2025",
+      "subject_id": "HISTOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "muscle-tissue"
+      ],
+      "coverage_concept_ids": [
+        "HST05"
+      ],
+      "selection_rationale": "مقایسه عضلات تک‌مفصلی و دومفصلی در حرکت، رابطه معماری عضله با عملکرد را تکمیل می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منبع مرجع شاخه «بافت عضلانی» را خوانده و به زاویه مکمل نیاز دارد.",
+        "why": "مقایسه عضلات تک‌مفصلی و دومفصلی در حرکت، رابطه معماری عضله با عملکرد را تکمیل می‌کند.",
+        "how_to_use": "آرایش عضله را به مفصل‌های درگیر و نقش مکانیکی در چرخه حرکت نگاشت کنید.",
+        "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
+      }
+    },
+    {
+      "id": "HISTOLOGY::REVIEW-MICROGLIAL-STATES-2026",
+      "resource_id": "REVIEW-MICROGLIAL-STATES-2026",
+      "subject_id": "HISTOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "nervous-glia"
+      ],
+      "coverage_concept_ids": [
+        "HST06"
+      ],
+      "selection_rationale": "حالت‌های مختلف میکروگلیا نشان می‌دهند یک نوع سلولی بافت عصبی چگونه با زمینه بافتی تغییر می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منبع مرجع شاخه «بافت عصبی و گلیا» را خوانده و به زاویه مکمل نیاز دارد.",
+        "why": "حالت‌های مختلف میکروگلیا نشان می‌دهند یک نوع سلولی بافت عصبی چگونه با زمینه بافتی تغییر می‌کند.",
+        "how_to_use": "حالت هم‌ایستا و حالت‌های فعال را از نظر مورفولوژی، محیط و عملکرد مقایسه کنید.",
+        "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
+      }
+    },
+    {
+      "id": "HISTOLOGY::REVIEW-HSC-NICHE-DEVELOPMENT-AGEING-2025",
+      "resource_id": "REVIEW-HSC-NICHE-DEVELOPMENT-AGEING-2025",
+      "subject_id": "HISTOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "blood-hematopoietic"
+      ],
+      "coverage_concept_ids": [
+        "HST07"
+      ],
+      "selection_rationale": "تحول niche خون‌ساز از تکوین تا پیری، بعد زمانی ریزمعماری مغز استخوان را تکمیل می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منبع مرجع شاخه «خون و بافت‌های خون‌ساز» را خوانده و به زاویه مکمل نیاز دارد.",
+        "why": "تحول niche خون‌ساز از تکوین تا پیری، بعد زمانی ریزمعماری مغز استخوان را تکمیل می‌کند.",
+        "how_to_use": "تغییر ترکیب niche را در تکوین، بزرگسالی و پیری با پیامد HSC مقایسه کنید.",
+        "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
+      }
+    },
+    {
+      "id": "HISTOLOGY::REVIEW-ENDOTHELIAL-TOOLS-2025",
+      "resource_id": "REVIEW-ENDOTHELIAL-TOOLS-2025",
+      "subject_id": "HISTOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "cardiovascular-endothelium"
+      ],
+      "coverage_concept_ids": [
+        "HST08"
+      ],
+      "selection_rationale": "ابزارهای جدید برای تفکیک ناهمگنی اندوتلیال مکملی برای فهم تفاوت عروقی میان بافت‌ها هستند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منبع مرجع شاخه «قلب، عروق و اندوتلیوم» را خوانده و به زاویه مکمل نیاز دارد.",
+        "why": "ابزارهای جدید برای تفکیک ناهمگنی اندوتلیال مکملی برای فهم تفاوت عروقی میان بافت‌ها هستند.",
+        "how_to_use": "نوع عروق، فنوتیپ اندوتلیال و ابزار آشکارساز آن را در یک جدول قرار دهید.",
+        "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
+      }
+    },
+    {
+      "id": "HISTOLOGY::ARTICLE-LUNG-HOMEOSTASIS-ATLAS-2024",
+      "resource_id": "ARTICLE-LUNG-HOMEOSTASIS-ATLAS-2024",
+      "subject_id": "HISTOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "respiratory-mucosa"
+      ],
+      "coverage_concept_ids": [
+        "HST10"
+      ],
+      "selection_rationale": "اطلس تک‌سلولی ریه، انواع سلولی و تغییرات آن‌ها در تکوین و پیری را به ریزساختار کلاسیک اضافه می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منبع مرجع شاخه «بافت دستگاه تنفسی» را خوانده و به زاویه مکمل نیاز دارد.",
+        "why": "اطلس تک‌سلولی ریه، انواع سلولی و تغییرات آن‌ها در تکوین و پیری را به ریزساختار کلاسیک اضافه می‌کند.",
+        "how_to_use": "انواع سلولی اطلس را به جایگاه آناتومیک در مجاری یا آلوئول‌ها نگاشت کنید.",
+        "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
+      }
+    },
+    {
+      "id": "HISTOLOGY::REVIEW-SKIN-BARRIER-TOPOGRAPHY-2025",
+      "resource_id": "REVIEW-SKIN-BARRIER-TOPOGRAPHY-2025",
+      "subject_id": "HISTOLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "integument"
+      ],
+      "coverage_concept_ids": [
+        "HST12"
+      ],
+      "selection_rationale": "تفاوت‌های موضعی سد پوست نشان می‌دهد ریزساختار پوست در نواحی بدن یکنواخت نیست.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منبع مرجع شاخه «پوست و دستگاه پوششی» را خوانده و به زاویه مکمل نیاز دارد.",
+        "why": "تفاوت‌های موضعی سد پوست نشان می‌دهد ریزساختار پوست در نواحی بدن یکنواخت نیست.",
+        "how_to_use": "ناحیه پوستی، ویژگی سد و پیامد عملکردی را مقایسه کنید.",
+        "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
+      }
+    },
+    {
+      "id": "ANATOMY::STATPEARLS-ANATOMY-BACK-MUSCLES-2023",
+      "resource_id": "STATPEARLS-ANATOMY-BACK-MUSCLES-2023",
+      "subject_id": "ANATOMY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "back-spine"
+      ],
+      "coverage_concept_ids": [
+        "AN02",
+        "AN11"
+      ],
+      "selection_rationale": "مرور عضلات پشت، ستون مهره را با لایه‌های عضلانی و روابط سطحی تکمیل می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منبع مرجع شاخه «پشت و ستون مهره‌ها» را خوانده و به زاویه مکمل نیاز دارد.",
+        "why": "مرور عضلات پشت، ستون مهره را با لایه‌های عضلانی و روابط سطحی تکمیل می‌کند.",
+        "how_to_use": "عضلات را بر اساس لایه، اتصال و عصب‌گیری سازمان دهید.",
+        "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
+      }
+    },
+    {
+      "id": "ANATOMY::STATPEARLS-ANATOMY-THORAX-HEART-2023",
+      "resource_id": "STATPEARLS-ANATOMY-THORAX-HEART-2023",
+      "subject_id": "ANATOMY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "thorax"
+      ],
+      "coverage_concept_ids": [
+        "AN03",
+        "AN10"
+      ],
+      "selection_rationale": "آناتومی قلب جزئیات مکملی از روابط درون توراکس و مسیرهای عروقی فراهم می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منبع مرجع شاخه «قفسه سینه» را خوانده و به زاویه مکمل نیاز دارد.",
+        "why": "آناتومی قلب جزئیات مکملی از روابط درون توراکس و مسیرهای عروقی فراهم می‌کند.",
+        "how_to_use": "سطوح، حفره‌ها، عروق بزرگ و روابط پریکاردی را در نمای سه‌بعدی کنار هم بگذارید.",
+        "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
+      }
+    },
+    {
+      "id": "ANATOMY::STATPEARLS-ANATOMY-ABDOMINAL-WALL-2023",
+      "resource_id": "STATPEARLS-ANATOMY-ABDOMINAL-WALL-2023",
+      "subject_id": "ANATOMY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "abdomen"
+      ],
+      "coverage_concept_ids": [
+        "AN04",
+        "AN11"
+      ],
+      "selection_rationale": "دیواره شکم چارچوب سطحی–لایه‌ای مکملی برای روابط احشایی داخل شکم می‌دهد.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منبع مرجع شاخه «شکم» را خوانده و به زاویه مکمل نیاز دارد.",
+        "why": "دیواره شکم چارچوب سطحی–لایه‌ای مکملی برای روابط احشایی داخل شکم می‌دهد.",
+        "how_to_use": "از پوست تا صفاق لایه‌ها را به ترتیب و همراه با عصب‌گیری و عروق بازسازی کنید.",
+        "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
+      }
+    },
+    {
+      "id": "ANATOMY::STATPEARLS-ANATOMY-PELVIC-FLOOR-2026",
+      "resource_id": "STATPEARLS-ANATOMY-PELVIC-FLOOR-2026",
+      "subject_id": "ANATOMY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "pelvis-perineum"
+      ],
+      "coverage_concept_ids": [
+        "AN05",
+        "AN11"
+      ],
+      "selection_rationale": "کف لگن زاویه مکملی برای فهم مرزها، عضلات و حمایت از احشای لگنی است.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منبع مرجع شاخه «لگن و پرینه» را خوانده و به زاویه مکمل نیاز دارد.",
+        "why": "کف لگن زاویه مکملی برای فهم مرزها، عضلات و حمایت از احشای لگنی است.",
+        "how_to_use": "عضلات، فاسیا و سوراخ‌های عبوری را روی یک مقطع شماتیک مشخص کنید.",
+        "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
+      }
+    },
+    {
+      "id": "ANATOMY::STATPEARLS-ANATOMY-BRACHIAL-PLEXUS-2023",
+      "resource_id": "STATPEARLS-ANATOMY-BRACHIAL-PLEXUS-2023",
+      "subject_id": "ANATOMY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "upper-limb"
+      ],
+      "coverage_concept_ids": [
+        "AN06",
+        "AN10"
+      ],
+      "selection_rationale": "شبکه بازویی محور عصبی مکملی برای سازمان آناتومی اندام فوقانی فراهم می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منبع مرجع شاخه «اندام فوقانی» را خوانده و به زاویه مکمل نیاز دارد.",
+        "why": "شبکه بازویی محور عصبی مکملی برای سازمان آناتومی اندام فوقانی فراهم می‌کند.",
+        "how_to_use": "ریشه تا شاخه انتهایی را همراه با قلمرو حرکتی و حسی ترسیم کنید.",
+        "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
+      }
+    },
+    {
+      "id": "ANATOMY::STATPEARLS-ANATOMY-FEMORAL-REGION-2024",
+      "resource_id": "STATPEARLS-ANATOMY-FEMORAL-REGION-2024",
+      "subject_id": "ANATOMY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "lower-limb-neurovascular"
+      ],
+      "coverage_concept_ids": [
+        "AN07",
+        "AN10",
+        "AN11"
+      ],
+      "selection_rationale": "ناحیه فمورال روابط فضایی عروق، اعصاب و فاسیا را در اندام تحتانی تکمیل می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منبع مرجع شاخه «اندام تحتانی و مسیرهای نوروواسکولار» را خوانده و به زاویه مکمل نیاز دارد.",
+        "why": "ناحیه فمورال روابط فضایی عروق، اعصاب و فاسیا را در اندام تحتانی تکمیل می‌کند.",
+        "how_to_use": "مثلث فمورال و مسیر ساختارها را با مرزهای ناحیه‌ای بازسازی کنید.",
+        "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
+      }
+    },
+    {
+      "id": "ANATOMY::STATPEARLS-ANATOMY-CAROTID-SHEATH-2023",
+      "resource_id": "STATPEARLS-ANATOMY-CAROTID-SHEATH-2023",
+      "subject_id": "ANATOMY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "head-neck"
+      ],
+      "coverage_concept_ids": [
+        "AN08",
+        "AN10"
+      ],
+      "selection_rationale": "غلاف کاروتید یک محور توپوگرافیک برای روابط عروقی و عصبی گردن فراهم می‌کند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منبع مرجع شاخه «سر و گردن» را خوانده و به زاویه مکمل نیاز دارد.",
+        "why": "غلاف کاروتید یک محور توپوگرافیک برای روابط عروقی و عصبی گردن فراهم می‌کند.",
+        "how_to_use": "محتویات غلاف و روابط آن با فاسیا و ساختارهای مجاور را رسم کنید.",
+        "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
+      }
+    },
+    {
+      "id": "ANATOMY::STATPEARLS-NEUROANATOMY-MIDBRAIN-2024",
+      "resource_id": "STATPEARLS-NEUROANATOMY-MIDBRAIN-2024",
+      "subject_id": "ANATOMY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "neuroanatomy"
+      ],
+      "coverage_concept_ids": [
+        "AN09"
+      ],
+      "selection_rationale": "مرور میان‌مغز یک مطالعه ناحیه‌ای مکمل برای تثبیت روابط ساختاری CNS است.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منبع مرجع شاخه «نورواناتومی» را خوانده و به زاویه مکمل نیاز دارد.",
+        "why": "مرور میان‌مغز یک مطالعه ناحیه‌ای مکمل برای تثبیت روابط ساختاری CNS است.",
+        "how_to_use": "سطوح، هسته‌ها و راه‌های عبوری را در مقاطع عرضی ساده برچسب‌گذاری کنید.",
+        "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
+      }
+    },
+    {
+      "id": "ANATOMY::STATPEARLS-ANATOMY-DERMATOMES-2023",
+      "resource_id": "STATPEARLS-ANATOMY-DERMATOMES-2023",
+      "subject_id": "ANATOMY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "surface-topographic-anatomy"
+      ],
+      "coverage_concept_ids": [
+        "AN11",
+        "AN12"
+      ],
+      "selection_rationale": "درماتوم‌ها نمونه‌ای روشن از نگاشت ساختار عصبی عمقی به سطح بدن هستند.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که منبع مرجع شاخه «آناتومی سطحی و توپوگرافیک» را خوانده و به زاویه مکمل نیاز دارد.",
+        "why": "درماتوم‌ها نمونه‌ای روشن از نگاشت ساختار عصبی عمقی به سطح بدن هستند.",
+        "how_to_use": "نقشه درماتومی را با ریشه‌های نخاعی و نشانه‌های سطحی مقایسه کنید.",
+        "next_step": "دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید."
       }
     }
   ]
