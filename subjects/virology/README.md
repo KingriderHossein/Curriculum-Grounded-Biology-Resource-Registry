@@ -23,6 +23,10 @@
 
 ## مرحله پایه — واژگان و چرخه پایه ویروس‌ها
 
+<p align="center">
+  <img src="https://storage.pardot.com/218812/1766081609HKLHNnmZ/microbiology.svg" width="155" alt="Microbiology cover">
+</p>
+
 ### ⁦Microbiology⁩
 
 **مناسب برای:** دانشجویی که هنوز درباره ساختار ویروس، انواع ژنوم یا مراحل کلی چرخه عفونت تصویر منسجمی ندارد.
