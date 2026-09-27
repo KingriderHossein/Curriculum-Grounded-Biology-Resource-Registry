@@ -9994,6 +9994,51 @@
         "how_to_use": "ساختار ویریون، گیرنده یا سطح میزبان، مسیر ورود و شیوه خروج را با فاژهای باکتریایی در یک جدول مقایسه کنید.",
         "next_step": "سپس وارد Plant Virology شوید تا اثر نوع میزبان بر انتقال، دفاع و تکامل ویروس را در یک سیستم یوکاریوتی متفاوت بررسی کنید."
       }
+    },
+    {
+      "id": "VIROLOGY::REVIEW-PLANT-VIRAL-RECOGNITION-2024",
+      "resource_id": "REVIEW-PLANT-VIRAL-RECOGNITION-2024",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "plant-virology"
+      ],
+      "coverage_concept_ids": [
+        "VR07",
+        "VR08"
+      ],
+      "selection_rationale": "A current conceptual review of how plants recognize viral invasion and how plant viruses evade or suppress RNA-silencing and innate antiviral defenses.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بداند دفاع ضدویروسی در گیاهان چه تفاوتی با چارچوب جانوری دارد.",
+        "why": "recognition، RNA silencing و immune evasion را در یک سیستم میزبان متفاوت کنار هم قرار می‌دهد و از تقلیل Plant Virology به بیماری‌شناسی گیاهی جلوگیری می‌کند.",
+        "how_to_use": "سیگنال‌های تشخیص ویروس، مسیرهای دفاعی گیاه و راهبردهای suppression ویروس را در سه ستون جدا مقایسه کنید.",
+        "next_step": "سپس منبع انتقال عمودی و افقی را بخوانید تا دفاع میزبان را به fitness و انتشار ویروس در جمعیت گیاهی وصل کنید."
+      }
+    },
+    {
+      "id": "VIROLOGY::REVIEW-PLANT-VIRUS-TRANSMISSION-2024",
+      "resource_id": "REVIEW-PLANT-VIRUS-TRANSMISSION-2024",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "plant-virology"
+      ],
+      "coverage_concept_ids": [
+        "VR09",
+        "VR10",
+        "VR11"
+      ],
+      "selection_rationale": "A complementary evolutionary-ecology review of vertical and horizontal plant-virus transmission and the trade-offs connecting transmission mode, virulence and host fitness.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد انتقال ویروس گیاهی را از دید تکامل و fitness بفهمد، نه فقط به‌عنوان فهرست vectorها.",
+        "why": "vertical و horizontal transmission را روی یک continuum تکاملی قرار می‌دهد و رابطه نوع انتقال با virulence و تولیدمثل میزبان را توضیح می‌دهد.",
+        "how_to_use": "برای هر mode انتقال، وابستگی ویروس به بقا و تولیدمثل میزبان، فرصت انتشار و فشار انتخابی بر virulence را ثبت کنید.",
+        "next_step": "پس از Plant Virology وارد ویروس‌شناسی محیطی شوید تا نقش ویروس را در سطح community و ecosystem بررسی کنید."
+      }
     }
   ]
 }
