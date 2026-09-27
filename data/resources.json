@@ -5712,13 +5712,14 @@
         "source": "VitalSource cover image for the McGraw-Hill Education Tenth Edition eTextbook; McGraw Hill remains the bibliographic authority",
         "source_url": "https://www.vitalsource.com/products/williams-hematology-10th-edition-kenneth-kaushansky-marshall-v9781260464139",
         "visual_reviewed_on": "2026-09-27",
-        "visual_review_status": "title_and_edition_checked"
+        "visual_review_status": "title_and_edition_checked",
+        "expected_sha256": "ed99cdd0c30014227af3d084dda3839c276148f801b5c8e261f46a08fdbec536"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-27",
       "verification_evidence": {
         "checked_on": "2026-09-27",
-        "scope": "Title, authors/editors, Tenth Edition, 2021 publication and print ISBN 9781260464122 were checked against McGraw Hill; VitalSource independently maps the cover to print ISBN 9781260464122 / 10th Edition. The future Eleventh Edition was not treated as current before its announced publication date. Exact-byte hash remains to be locked by the next repository cover audit.",
+        "scope": "Title, authors/editors, Tenth Edition, 2021 publication and print ISBN 9781260464122 were checked against McGraw Hill; VitalSource independently maps the cover to print ISBN 9781260464122 / 10th Edition. The future Eleventh Edition was not treated as current before its announced publication date. The exact reviewed cover bytes are SHA-256 locked; this is not full-text scientific certification.",
         "sources": [
           "https://www.mheducation.com/highered/mhp/product/williams-hematology-10th-edition.html",
           "https://www.vitalsource.com/products/williams-hematology-10th-edition-kenneth-kaushansky-marshall-v9781260464139"
