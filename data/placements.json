@@ -10039,6 +10039,51 @@
         "how_to_use": "برای هر mode انتقال، وابستگی ویروس به بقا و تولیدمثل میزبان، فرصت انتشار و فشار انتخابی بر virulence را ثبت کنید.",
         "next_step": "پس از Plant Virology وارد ویروس‌شناسی محیطی شوید تا نقش ویروس را در سطح community و ecosystem بررسی کنید."
       }
+    },
+    {
+      "id": "VIROLOGY::REVIEW-VIROMICS-DIVERSITY-ECOLOGY-2026",
+      "resource_id": "REVIEW-VIROMICS-DIVERSITY-ECOLOGY-2026",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "environmental-virology-viromes"
+      ],
+      "coverage_concept_ids": [
+        "VR01",
+        "VR10",
+        "VR11"
+      ],
+      "selection_rationale": "A modern conceptual review of viromics as a window into uncultivated viral diversity, virus-host associations and viral community ecology across microbiomes.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد مفهوم virome و تنوع واقعی ویروس‌ها را فراتر از ویروس‌های قابل‌کشت یا بیماری‌زا بفهمد.",
+        "why": "نشان می‌دهد داده‌های توالی چگونه تصویر ما از گستره virosphere، ارتباط virus-host و ساختار community را تغییر داده‌اند.",
+        "how_to_use": "روی خروجی زیستی viromics تمرکز کنید: چه نوع ویروس‌هایی دیده می‌شوند، چگونه host association استنباط می‌شود و چه الگوهای اکولوژیک از داده حاصل می‌شود؛ جزئیات پروتکل عملی خارج از هدف است.",
+        "next_step": "سپس مرور ecosystem functioning را بخوانید تا تنوع ویروس‌ها را به چرخه‌های ماده و کارکرد اکوسیستم وصل کنید."
+      }
+    },
+    {
+      "id": "VIROLOGY::REVIEW-ENVIRONMENTAL-VIRUS-ECOSYSTEM-2025",
+      "resource_id": "REVIEW-ENVIRONMENTAL-VIRUS-ECOSYSTEM-2025",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "environmental-virology-viromes"
+      ],
+      "coverage_concept_ids": [
+        "VR10",
+        "VR11"
+      ],
+      "selection_rationale": "A complementary ecosystem-level review covering viral diversity, biogeochemical cycles, auxiliary metabolic genes, lateral gene transfer and ecological interactions.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که virome را شناخته و اکنون می‌خواهد بداند ویروس‌ها چه نقشی در عملکرد اکوسیستم دارند.",
+        "why": "ویروس را از یک عامل عفونت به یک بازیگر اکولوژیک تبدیل می‌کند و اثر آن را بر nutrient cycling، gene flow و community dynamics نشان می‌دهد.",
+        "how_to_use": "چهار ستون برای viral lysis، biogeochemical cycling، auxiliary metabolic genes و lateral gene transfer بسازید و اثر هرکدام را بر ecosystem function خلاصه کنید.",
+        "next_step": "پس از مقیاس اکوسیستم، وارد شاخه انکولوژی ویروسی و ضدویروس‌ها شوید تا اثر ویروس و کنترل آن را در سطح بیماری مزمن و مداخله مولکولی بررسی کنید."
+      }
     }
   ]
 }
