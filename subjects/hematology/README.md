@@ -49,7 +49,7 @@
 
 
 <p align="center">
-  <img src="https://www.nobelkitabevi.com.tr/52395/hoffbrand-s-essential-haematology9th-edition.jpg" width="155" alt="Hoffbrand's Essential Haematology 9th Edition cover">
+  <img src="https://covers.vitalsource.com/vbid/9781394168170/width/200" width="155" alt="Hoffbrand's Essential Haematology 9th Edition cover">
 </p>
 
 ### ⁦Hoffbrand's Essential Haematology⁩ — ⁦9th Edition⁩

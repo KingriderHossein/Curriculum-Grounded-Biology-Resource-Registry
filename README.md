@@ -657,7 +657,7 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://www.nobelkitabevi.com.tr/52395/hoffbrand-s-essential-haematology9th-edition.jpg" width="145" alt="Hoffbrand's Essential Haematology 9th Edition cover"><br>
+<img src="https://covers.vitalsource.com/vbid/9781394168170/width/200" width="145" alt="Hoffbrand's Essential Haematology 9th Edition cover"><br>
 <b>Hoffbrand's Essential Haematology</b><br>
 منبع اصلی · ویرایش ۹ · ۲۰۲۴<br>
 <a href="https://books.wiley.com/titles/9781394168156/">ناشر / خرید</a>

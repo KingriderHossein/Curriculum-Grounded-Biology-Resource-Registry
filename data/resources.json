@@ -5634,15 +5634,17 @@
       "publisher_url": "https://books.wiley.com/titles/9781394168156/",
       "purchase_url": "https://www.wiley.com/en-us/Hoffbrand%27s+Essential+Haematology%2C+9th+Edition-p-9781394168156",
       "cover": {
-        "url": "https://www.nobelkitabevi.com.tr/52395/hoffbrand-s-essential-haematology9th-edition.jpg",
-        "source": "Exact Ninth Edition cover fallback from Nobel Kitabevi; Wiley-Blackwell remains the bibliographic authority",
-        "source_url": "https://www.nobelkitabevi.com.tr/hematoloji-kitaplari/8202-hoffbrand-s-essential-haematology9th-edition.html"
+        "url": "https://covers.vitalsource.com/vbid/9781394168170/width/200",
+        "source": "VitalSource cover image for the Wiley-Blackwell Ninth Edition eTextbook; Wiley remains the bibliographic authority",
+        "source_url": "https://www.vitalsource.com/en-uk/products/hoffbrand-39-s-essential-haematology-a-victor-hoffbrand-v9781394168170",
+        "visual_reviewed_on": "2026-09-27",
+        "visual_review_status": "title_and_edition_checked"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-27",
       "verification_evidence": {
         "checked_on": "2026-09-27",
-        "scope": "Title, authorship/contributors, Ninth Edition, 2024 publication and print ISBN were checked against Wiley. Cover title and edition were visually matched; exact-byte hash remains to be locked by the repository cover audit.",
+        "scope": "Title, contributors, Ninth Edition, 2024 publication and print ISBN were checked against Wiley; VitalSource independently maps the cover to print ISBN 9781394168156 / 9th Edition. Exact-byte hash remains to be locked by the next repository cover audit.",
         "sources": [
           "https://books.wiley.com/titles/9781394168156/"
         ]
@@ -5669,13 +5671,16 @@
       "cover": {
         "url": "https://www.nobelkitabevi.com.tr/52830/hoffbrand-s-postgraduate-haematology-8th-edition.jpg",
         "source": "Exact Eighth Edition cover fallback from Nobel Kitabevi; Wiley-Blackwell remains the bibliographic authority",
-        "source_url": "https://www.nobelkitabevi.com.tr/hematoloji-kitaplari/28146-hoffbrand-s-postgraduate-haematology-8th-edition.html"
+        "source_url": "https://www.nobelkitabevi.com.tr/hematoloji-kitaplari/28146-hoffbrand-s-postgraduate-haematology-8th-edition.html",
+        "expected_sha256": "0aa6ae13249c3fb52b6dd1ccb94bdac1f8b1b19e39e173098ec6ec3d95832d09",
+        "visual_reviewed_on": "2026-09-27",
+        "visual_review_status": "title_and_edition_checked"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-27",
       "verification_evidence": {
         "checked_on": "2026-09-27",
-        "scope": "Title, editorial team, Eighth Edition, first publication on 4 April 2025, print ISBN and book DOI were checked against Wiley Online Library. Cover title and edition were visually matched; exact-byte hash remains to be locked by the repository cover audit.",
+        "scope": "Title, editorial team, Eighth Edition, first publication on 4 April 2025, print ISBN and book DOI were checked against Wiley Online Library. The exact reviewed cover bytes are SHA-256 locked; this is not full-text scientific certification.",
         "sources": [
           "https://onlinelibrary.wiley.com/doi/book/10.1002/9781119706687"
         ]
@@ -5703,13 +5708,16 @@
       "cover": {
         "url": "https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/a7/40/90/a740906a-ff19-2688-b1c2-7f4020ebf21d/9781260464139.jpg/1200x1200wz.jpg",
         "source": "Apple Books cover image for the McGraw Hill 10th Edition e-book; McGraw Hill is the bibliographic authority",
-        "source_url": "https://books.apple.com/us/book/williams-hematology-10th-edition/id1529352425"
+        "source_url": "https://books.apple.com/us/book/williams-hematology-10th-edition/id1529352425",
+        "expected_sha256": "3a648b21a852794eaf129a0daddf676169450e1fb4f91d978885396f51e4274a",
+        "visual_reviewed_on": "2026-09-27",
+        "visual_review_status": "title_and_edition_checked"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-27",
       "verification_evidence": {
         "checked_on": "2026-09-27",
-        "scope": "Title, six authors/editors, Tenth Edition, 2021 publication and print ISBN 9781260464122 were checked against McGraw Hill. The future Eleventh Edition was not treated as current before its announced publication date. Cover title and edition were visually matched; exact-byte hash remains to be locked by the repository cover audit.",
+        "scope": "Title, six authors/editors, Tenth Edition, 2021 publication and print ISBN 9781260464122 were checked against McGraw Hill. The future Eleventh Edition was not treated as current before its announced publication date. The exact reviewed cover bytes are SHA-256 locked; this is not full-text scientific certification.",
         "sources": [
           "https://www.mheducation.com/highered/mhp/product/williams-hematology-10th-edition.html"
         ]
