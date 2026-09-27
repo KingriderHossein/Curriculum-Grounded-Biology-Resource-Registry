@@ -9711,6 +9711,53 @@
         "how_to_use": "کتاب را از ابتدا تا انتها نخوانید. از یک پرسش مشخص شروع کنید، فصل مرتبط را پیدا کنید و سازوکار، شواهد و نقاط اختلاف با اصول عمومی را استخراج کنید.",
         "next_step": "پس از مرجع عمیق، وارد شاخه تخصصی مرتبط شوید و منابع مروری آن شاخه را بخوانید."
       }
+    },
+    {
+      "id": "VIROLOGY::CHAPTER-RNA-VIRUS-REPLICATION-2024",
+      "resource_id": "CHAPTER-RNA-VIRUS-REPLICATION-2024",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "molecular-virology-replication"
+      ],
+      "coverage_concept_ids": [
+        "VR02",
+        "VR05",
+        "VR06",
+        "VR10"
+      ],
+      "selection_rationale": "A focused molecular account of the distinct replication and transcription strategies used by positive-sense, negative-sense, double-stranded and reverse-transcribing RNA viruses.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد تفاوت راهبردهای همانندسازی ویروس‌های RNA را به‌جای حفظ خانواده‌ها از روی منطق ژنوم بفهمد.",
+        "why": "این فصل polarity و topology ژنوم را مستقیماً به نیاز به RdRp یا reverse transcriptase و راهبرد تولید mRNA وصل می‌کند.",
+        "how_to_use": "برای هر گروه RNA یک جدول با ستون‌های نوع ژنوم، آنزیم لازم، محل همانندسازی، قالب تولید mRNA و مسیر ساخت ژنوم نسل بعد بسازید.",
+        "next_step": "پس از تثبیت منطق ویروس‌های RNA، فصل DNA virus replication را برای مقایسه نظام‌مند بخوانید."
+      }
+    },
+    {
+      "id": "VIROLOGY::CHAPTER-DNA-VIRUS-REPLICATION-2024",
+      "resource_id": "CHAPTER-DNA-VIRUS-REPLICATION-2024",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "molecular-virology-replication"
+      ],
+      "coverage_concept_ids": [
+        "VR02",
+        "VR05",
+        "VR06"
+      ],
+      "selection_rationale": "A complementary molecular framework for DNA-virus genome replication and gene expression, including the influence of genome topology and intracellular replication site.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که راهبردهای RNA virus replication را فهمیده و اکنون می‌خواهد منطق همانندسازی ویروس‌های DNA را با آن مقایسه کند.",
+        "why": "تفاوت وابستگی به هسته یا سیتوپلاسم، ماشین همانندسازی DNA، رونویسی و پردازش RNA را در یک چارچوب واحد نشان می‌دهد.",
+        "how_to_use": "همان قالب مقایسه‌ای منبع RNA را حفظ کنید و مشخص کنید هر خانواده کدام بخش از ماشین سلول میزبان را استفاده یا جایگزین می‌کند.",
+        "next_step": "پس از مقایسه RNA و DNA، وارد شاخه ساختار و ورود شوید تا ببینید چرخه همانندسازی چگونه از مرحله ورود آغاز می‌شود."
+      }
     }
   ]
 }
