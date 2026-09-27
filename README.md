@@ -638,6 +638,49 @@
 
 ---
 
+## هماتولوژی
+
+مسیر از فیزیولوژی پایه خون و خون‌سازی تا فهم عمیق سلول‌های خونی، هموستاز، ترومبوز و زیست‌شناسی بیماری‌های خون و مغز استخوان ادامه پیدا می‌کند:
+
+- خون‌سازی، سلول‌های بنیادی/پیش‌ساز و ریزمحیط مغز استخوان؛
+- زیست‌شناسی گلبول قرمز، اریتروپوئز، هموگلوبین، هم و آهن؛
+- زیست‌شناسی لکوسیت‌ها، میلوپوئز و عملکرد ایمنی سلول‌های خونی؛
+- مگاکاریوپوئز و زیست‌شناسی پلاکت؛
+- هموستاز، انعقاد و فیبرینولیز؛
+- ترومبوز، زیست‌شناسی عروقی و میکروآنژیوپاتی ترومبوتیک؛
+- نارسایی مغز استخوان، سیتوپنی‌ها و خون‌سازی کلونال؛
+- زیست‌شناسی بدخیمی‌های خونی میلوئیدی، لنفوئیدی و سلول پلاسما؛
+- زیست‌شناسی گروه‌های خونی و ایمنوهماتولوژی انتقال خون؛
+
+### کتاب‌های اصلی مسیر
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://www.nobelkitabevi.com.tr/52395/hoffbrand-s-essential-haematology9th-edition.jpg" width="145" alt="Hoffbrand's Essential Haematology 9th Edition cover"><br>
+<b>Hoffbrand's Essential Haematology</b><br>
+منبع اصلی · ویرایش ۹ · ۲۰۲۴<br>
+<a href="https://books.wiley.com/titles/9781394168156/">ناشر / خرید</a>
+</td>
+<td align="center" width="33%">
+<img src="https://www.nobelkitabevi.com.tr/52830/hoffbrand-s-postgraduate-haematology-8th-edition.jpg" width="145" alt="Hoffbrand's Postgraduate Haematology 8th Edition cover"><br>
+<b>Hoffbrand's Postgraduate Haematology</b><br>
+منبع تکمیلی · ویرایش ۸ · ۲۰۲۵<br>
+<a href="https://onlinelibrary.wiley.com/doi/book/10.1002/9781119706687">ناشر / دسترسی</a>
+</td>
+<td align="center" width="33%">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Publication114/v4/a7/40/90/a740906a-ff19-2688-b1c2-7f4020ebf21d/9781260464139.jpg/1200x1200wz.jpg" width="145" alt="Williams Hematology 10th Edition cover"><br>
+<b>Williams Hematology</b><br>
+منبع پیشرفته · ویرایش ۱۰ · ۲۰۲۱<br>
+<a href="https://www.mheducation.com/highered/mhp/product/williams-hematology-10th-edition.html">ناشر / خرید</a>
+</td>
+</tr>
+</table>
+
+[مشاهده نقشه‌راه هماتولوژی](subjects/hematology/README.md)
+
+---
+
 ## منطق انتخاب منابع
 
 یک منبع فقط به‌دلیل مشهوربودن، جدیدبودن یا تعداد استناد بالا وارد پروژه نمی‌شود. برای هر جایگاه باید روشن باشد:
