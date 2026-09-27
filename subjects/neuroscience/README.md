@@ -51,7 +51,7 @@
 ## مرحله اصلی — ورود منسجم به علوم اعصاب
 
 <p align="center">
-  <img src="https://covers.vitalsource.com/vbid/9781284286922/width/300" width="155" alt="Neuroscience: Exploring the Brain 5th Edition cover">
+  <img src="https://neurobiology.northwestern.edu/courses/undergraduate-courses/2026-2027/class-schedules/fall-2026-class-schedule/26-202_book.jpg" width="155" alt="Neuroscience: Exploring the Brain 5th Edition cover">
 </p>
 
 ### ⁦Neuroscience: Exploring the Brain⁩ — ⁦5th Edition⁩

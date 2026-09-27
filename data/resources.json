@@ -5049,18 +5049,20 @@
       "publisher_url": "https://www.jblearning.com/catalog/productdetails/9781284286878",
       "purchase_url": "https://www.jblearning.com/catalog/productdetails/9781284286878",
       "cover": {
-        "url": "https://covers.vitalsource.com/vbid/9781284286922/width/300",
-        "source": "VitalSource same-edition eBook cover; publisher eISBN 9781284286922",
-        "source_url": "https://www.jblearning.com/catalog/productdetails/9781284286922"
+        "url": "https://neurobiology.northwestern.edu/courses/undergraduate-courses/2026-2027/class-schedules/fall-2026-class-schedule/26-202_book.jpg",
+        "source": "Northwestern University Neurobiology course page image of the Jones & Bartlett Learning 5th edition; exact title/edition visually cross-checked against the publisher record",
+        "source_url": "https://neurobiology.northwestern.edu/courses/undergraduate-courses/2026-2027/class-schedules/fall-2026-class-schedule/"
       },
       "theory_only": true,
       "verification_status": "provisional",
       "verified_on": "2026-09-27",
       "verification_evidence": {
         "checked_on": "2026-09-27",
-        "scope": "Bibliographic identity and learning placement were prepared from publisher/journal records in the staged review. Final cover-byte identity and final-candidate audit remain pending; this is not full-text scientific certification.",
+        "scope": "Bibliographic identity matches the Jones & Bartlett Learning Fifth Edition record (print ISBN 9781284286878). The former VitalSource image endpoint returned a generic placeholder in the cover audit and was replaced. Exact-byte locking for the replacement image is pending the next audit run.",
         "sources": [
-          "https://www.jblearning.com/catalog/productdetails/9781284286878"
+          "https://www.jblearning.com/catalog/productdetails/9781284286878",
+          "https://samples.jblearning.com/9781284286878/OR-9383354299-FLYR.pdf",
+          "https://neurobiology.northwestern.edu/courses/undergraduate-courses/2026-2027/class-schedules/fall-2026-class-schedule/"
         ]
       }
     },
@@ -5086,10 +5088,13 @@
       "cover": {
         "url": "https://fdslive.oup.com/covers/anz/desktop/medium/9780197616246.jpg",
         "source": "Oxford University Press cover service",
-        "source_url": "https://www.oup.com.au/books/higher-education/science/9780197616246"
+        "source_url": "https://www.oup.com.au/books/higher-education/science/9780197616246",
+        "expected_sha256": "5a261a78359ba5fd14c14b26862f69fd579bf42db165b82a3e288c6a58f09421",
+        "visual_reviewed_on": "2026-09-27",
+        "visual_review_status": "title_and_edition_checked"
       },
       "theory_only": true,
-      "verification_status": "provisional",
+      "verification_status": "verified",
       "verified_on": "2026-09-27",
       "verification_evidence": {
         "checked_on": "2026-09-27",
@@ -5118,10 +5123,13 @@
       "cover": {
         "url": "https://www.mheducation.com/cover-images/Webp_400-wide/1259642232.webp",
         "source": "Official McGraw Hill product cover",
-        "source_url": "https://www.mheducation.com/highered/mhp/product/principles-neural-science-sixth-edition.html"
+        "source_url": "https://www.mheducation.com/highered/mhp/product/principles-neural-science-sixth-edition.html",
+        "expected_sha256": "14985a6efbcbe4582810331bb978253a9bcc1d642dab493725265e1ff680aa46",
+        "visual_reviewed_on": "2026-09-27",
+        "visual_review_status": "title_and_edition_checked"
       },
       "theory_only": true,
-      "verification_status": "provisional",
+      "verification_status": "verified",
       "verified_on": "2026-09-27",
       "verification_evidence": {
         "checked_on": "2026-09-27",
@@ -5455,10 +5463,13 @@
       "cover": {
         "url": "https://mit-press-new-us.imgix.net/covers/9780262541855.jpg?auto=format&w=300",
         "source": "Official MIT Press product cover",
-        "source_url": "https://mitpress.mit.edu/9780262541855/theoretical-neuroscience/"
+        "source_url": "https://mitpress.mit.edu/9780262541855/theoretical-neuroscience/",
+        "expected_sha256": "3e4035c750ccd3d11119ab25e27e5c2e7341a58677b06478e8b9d9db3cfc99b6",
+        "visual_reviewed_on": "2026-09-27",
+        "visual_review_status": "title_and_edition_checked"
       },
       "theory_only": true,
-      "verification_status": "provisional",
+      "verification_status": "verified",
       "verified_on": "2026-09-27",
       "verification_evidence": {
         "checked_on": "2026-09-27",
