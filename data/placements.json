@@ -7577,6 +7577,54 @@
         "how_to_use": "مراحل exposure، recognition، antibody formation و persistence/evanescence را روی یک خط زمانی قرار دهید.",
         "next_step": "این شاخه را با تمرکز بر immunobiology تمام کنید؛ پروتکل crossmatch یا SOP بانک خون جزو این مسیر نیست."
       }
+    },
+    {
+      "id": "SYSTEMS-BIOLOGY::BOOK-INTRO-SYSTEMS-BIOLOGY-WORKBOOK-2023",
+      "resource_id": "BOOK-INTRO-SYSTEMS-BIOLOGY-WORKBOOK-2023",
+      "subject_id": "SYSTEMS-BIOLOGY",
+      "learning_stage": "core",
+      "role": "guided_core_workbook",
+      "coverage_concept_ids": [
+        "SB01",
+        "SB02",
+        "SB05",
+        "SB07",
+        "SB08",
+        "SB11"
+      ],
+      "selection_rationale": "Guided, self-paced introduction that bridges mathematical language with biochemical networks, metabolic modelling, dynamical change and nonlinear enzyme models without becoming a software or laboratory manual.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که زیست‌شناسی پایه را می‌داند اما هنوز در عبور از مفاهیم زیستی به زبان ریاضی، ماتریس، معادله و مدل احساس گسست می‌کند.",
+        "why": "این کتاب مفاهیم ریاضی را قدم‌به‌قدم به شبکه‌های بیوشیمیایی، مدل‌سازی متابولیک، تغییرات دینامیکی و مدل‌های غیرخطی وصل می‌کند و برای یادگیری خودآموز طراحی شده است.",
+        "how_to_use": "فصل‌ها را همراه با حل تمرین‌های مفهومی پیش ببرید و برای هر مثال مشخص کنید متغیرها، روابط، فرض‌ها و رفتار سامانه چه هستند؛ تمرکز این مسیر بر فهم مدل است، نه اجرای نرم‌افزار.",
+        "next_step": "پس از ساختن زبان ریاضی و مدلی، کتاب ⁦An Introduction to Systems Biology⁩ را برای اصول طراحی شبکه‌ها و سپس ⁦A First Course in Systems Biology⁩ را برای گسترش مدل‌های محاسباتی ادامه دهید."
+      }
+    },
+    {
+      "id": "SYSTEMS-BIOLOGY::BOOK-FIRST-COURSE-SYSTEMS-BIOLOGY3-2025",
+      "resource_id": "BOOK-FIRST-COURSE-SYSTEMS-BIOLOGY3-2025",
+      "subject_id": "SYSTEMS-BIOLOGY",
+      "learning_stage": "intermediate",
+      "role": "intermediate_supplementary_textbook",
+      "coverage_concept_ids": [
+        "SB01",
+        "SB02",
+        "SB03",
+        "SB04",
+        "SB05",
+        "SB07",
+        "SB08",
+        "SB10",
+        "SB11",
+        "SB12"
+      ],
+      "selection_rationale": "Broad current systems-biology textbook spanning static, discrete and continuous models, optimization, gene/protein/metabolic/signalling systems, multiscale and agent-based modelling, physiology, systems medicine and emerging applications.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که یک دور مفهومی از شبکه و دینامیک را گذرانده و می‌خواهد انواع اصلی مدل‌های محاسباتی زیست‌شناسی سامانه‌ها را در یک کتاب واحد و به‌روز کنار هم ببیند.",
+        "why": "ویرایش سوم پوشش گسترده‌ای از مدل‌های ایستا، گسسته و پیوسته تا سامانه‌های ژنی، پروتئینی، متابولیک، پیام‌رسانی، مدل‌سازی چندمقیاسی و کاربردهای پزشکی ارائه می‌دهد.",
+        "how_to_use": "فصل‌های مبانی مدل‌سازی را پیوسته بخوانید و سپس برای هر خانواده مدل، متغیر حالت، فرض‌های ساختاری، نوع داده، روش تحلیل و دامنه پیش‌بینی را ثبت کنید؛ کدهای همراه کتاب برای این مسیر الزامی نیستند.",
+        "next_step": "پس از این کتاب، برای پوشش روش‌شناختی جامع‌تر به ⁦Systems Biology: A Textbook⁩ و برای تحلیل ریاضی عمیق‌تر به ⁦Mathematical Modeling in Systems Biology⁩ بروید."
+      }
     }
   ]
 }

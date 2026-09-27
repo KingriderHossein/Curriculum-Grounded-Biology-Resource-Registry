@@ -2,7 +2,7 @@
 
 # زیست‌شناسی سامانه‌ها — ⁦Systems Biology⁩
 
-> **وضعیت:** ⁦Complete⁩ — مسیر علمی شامل ۴ مرحله عمومی، ۹ شاخه تخصصی و ۲۲ جایگاه منبع کامل شده است و جلدهای سه کتاب اصلی با بایت‌های قفل‌شده و رندر واقعی ⁦GitHub⁩ بازبینی شده‌اند.
+> **وضعیت:** ⁦Complete⁩ — مسیر علمی شامل ۴ مرحله عمومی با ۶ منبع، ۹ شاخه تخصصی و ۲۴ جایگاه منبع است. جلد کتاب‌های مسیر با بایت‌های قفل‌شده و رندر واقعی ⁦GitHub⁩ بازبینی می‌شوند.
 
 این نقشه‌راه فقط منابع **نظری** را پوشش می‌دهد. هدف، فهم رفتار سامانه‌ای، شبکه، دینامیک، عدم‌قطعیت، یکپارچه‌سازی داده و مدل‌های پیش‌بین است؛ نه آموزش اجرای نرم‌افزار، pipeline، کدنویسی یا پروتکل آزمایشگاهی.
 
@@ -18,7 +18,9 @@
 |---|---|
 | پایه — پیش‌نیاز زیستی | ⁦Biology 2e⁩ |
 | اصلی — اصول طراحی سامانه‌ها | ⁦An Introduction to Systems Biology: Design Principles of Biological Circuits⁩ — ⁦2nd Edition⁩ |
+| تکمیلی مرحله اصلی — پل ریاضی و مدل‌سازی | ⁦Introduction to Systems Biology: Workbook for Flipped-classroom Teaching⁩ — ⁦Paperback edition⁩ |
 | میانی — مدل‌ها و روش‌های جامع | ⁦Systems Biology: A Textbook⁩ — ⁦2nd Edition⁩ |
+| تکمیلی مرحله میانی — مدل‌سازی محاسباتی گسترده | ⁦A First Course in Systems Biology⁩ — ⁦3rd Edition⁩ |
 | پیشرفته — مدل‌سازی ریاضی | ⁦Mathematical Modeling in Systems Biology: An Introduction⁩ — ⁦Paperback edition⁩ |
 
 ---
@@ -73,6 +75,28 @@
 
 [صفحه رسمی منبع](https://www.routledge.com/9781439837177)
 
+### کتاب تکمیلی مرحله اصلی — ⁦Introduction to Systems Biology: Workbook for Flipped-classroom Teaching⁩
+
+<p align="center">
+  <img src="https://cdn.openbookpublishers.com/covers/10.11647/obp.0291.jpg" width="155" alt="Introduction to Systems Biology Workbook for Flipped-classroom Teaching cover">
+</p>
+
+**مناسب برای:** دانشجویی که زیست‌شناسی پایه را می‌داند اما هنوز در عبور از مفاهیم زیستی به زبان ریاضی، ماتریس، معادله و مدل احساس گسست می‌کند.
+
+**دلیل انتخاب:** این کتاب مفاهیم ریاضی را قدم‌به‌قدم به شبکه‌های بیوشیمیایی، مدل‌سازی متابولیک، تغییرات دینامیکی و مدل‌های غیرخطی وصل می‌کند و برای یادگیری خودآموز طراحی شده است.
+
+**شیوه مطالعه:** فصل‌ها را همراه با حل تمرین‌های مفهومی پیش ببرید و برای هر مثال مشخص کنید متغیرها، روابط، فرض‌ها و رفتار سامانه چه هستند؛ تمرکز این مسیر بر فهم مدل است، نه اجرای نرم‌افزار.
+
+**ادامه مسیر:** پس از ساختن زبان ریاضی و مدلی، کتاب ⁦An Introduction to Systems Biology⁩ را برای اصول طراحی شبکه‌ها و سپس ⁦A First Course in Systems Biology⁩ را برای گسترش مدل‌های محاسباتی ادامه دهید.
+
+<div dir="ltr" align="left">
+
+⁦Thomas Sauter⁩، ⁦Marco Albrecht⁩ · ⁦Open Book Publishers⁩ · ⁦2023⁩ · ⁦Paperback edition⁩ · ⁦ISBN⁩: ⁦9781800644106⁩ · ⁦DOI⁩: ⁦10.11647/OBP.0291⁩
+
+</div>
+
+[صفحه رسمی و دسترسی آزاد](https://www.openbookpublishers.com/books/10.11647/obp.0291)
+
 ---
 
 ## مرحله میانی — مدل‌ها و روش‌های جامع زیست‌شناسی سامانه‌ها
@@ -98,6 +122,28 @@
 </div>
 
 [صفحه رسمی منبع](https://www.wiley.com/en-us/Systems+Biology%3A+A+Textbook%2C+2nd+Edition-p-9783527336364)
+
+### کتاب تکمیلی مرحله میانی — ⁦A First Course in Systems Biology⁩ — ⁦3rd Edition⁩
+
+<p align="center">
+  <img src="https://covers.vitalsource.com/vbid/9781040165553/width/200" width="155" alt="A First Course in Systems Biology 3rd Edition cover">
+</p>
+
+**مناسب برای:** دانشجویی که یک دور مفهومی از شبکه و دینامیک را گذرانده و می‌خواهد انواع اصلی مدل‌های محاسباتی زیست‌شناسی سامانه‌ها را در یک کتاب واحد و به‌روز کنار هم ببیند.
+
+**دلیل انتخاب:** ویرایش سوم پوشش گسترده‌ای از مدل‌های ایستا، گسسته و پیوسته تا سامانه‌های ژنی، پروتئینی، متابولیک، پیام‌رسانی، مدل‌سازی چندمقیاسی و کاربردهای پزشکی ارائه می‌دهد.
+
+**شیوه مطالعه:** فصل‌های مبانی مدل‌سازی را پیوسته بخوانید و سپس برای هر خانواده مدل، متغیر حالت، فرض‌های ساختاری، نوع داده، روش تحلیل و دامنه پیش‌بینی را ثبت کنید؛ کدهای همراه کتاب برای این مسیر الزامی نیستند.
+
+**ادامه مسیر:** پس از این کتاب، برای پوشش روش‌شناختی جامع‌تر به ⁦Systems Biology: A Textbook⁩ و برای تحلیل ریاضی عمیق‌تر به ⁦Mathematical Modeling in Systems Biology⁩ بروید.
+
+<div dir="ltr" align="left">
+
+⁦Eberhard O. Voit⁩، ⁦Melissa L. Kemp⁩ · ⁦Garland Science / CRC Press⁩ · ⁦2025⁩ · ویرایش ⁦3rd Edition⁩ · ⁦ISBN⁩: ⁦9781032515434⁩ · ⁦DOI⁩: ⁦10.1201/9781003402770⁩
+
+</div>
+
+[صفحه رسمی منبع](https://www.routledge.com/A-First-Course-in-Systems-Biology/Voit-Kemp/p/book/9781032515434)
 
 ---
 

@@ -30,7 +30,7 @@
 | [ایمونولوژی ⁦Immunology⁩](subjects/immunology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
 | [فیزیولوژی جانوری ⁦Animal Physiology⁩](subjects/animal-physiology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
 | [بیوانفورماتیک ⁦Bioinformatics⁩](subjects/bioinformatics/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
-| [زیست‌شناسی سامانه‌ها ⁦Systems Biology⁩](subjects/systems-biology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
+| [زیست‌شناسی سامانه‌ها ⁦Systems Biology⁩](subjects/systems-biology/README.md) | ۶ منبع | ۹ شاخه | ۲۴ |
 | [علوم اعصاب ⁦Neuroscience⁩](subjects/neuroscience/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
 | [هماتولوژی ⁦Hematology⁩](subjects/hematology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
 
