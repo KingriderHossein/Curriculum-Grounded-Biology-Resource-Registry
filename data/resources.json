@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.12.0",
+  "schema_version": "0.13.0",
   "resources": [
     {
       "id": "OPENSTAX-BIOLOGY2E-2018",
@@ -6231,6 +6231,961 @@
         "sources": [
           "https://www.routledge.com/A-First-Course-in-Systems-Biology/Voit-Kemp/p/book/9781032515434",
           "https://www.vitalsource.com/products/a-first-course-in-systems-biology-eberhard-voit-melissa-l-kemp-v9781040165553"
+        ]
+      }
+    },
+    {
+      "id": "BOOK-MARINE-BIOLOGY12-2024",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Marine Biology",
+      "authors": [
+        "Peter Castro",
+        "Michael E. Huber"
+      ],
+      "published_year": 2024,
+      "edition": "12th Edition",
+      "isbn": "9781260722192",
+      "publisher": "McGraw Hill",
+      "publisher_url": "https://www.mheducation.com/highered/product/Marine-Biology-Castro.html",
+      "purchase_url": "https://www.mheducation.com/highered/product/Marine-Biology-Castro.html",
+      "cover": {
+        "url": "https://covers.vitalsource.com/vbid/9781266564451/width/200",
+        "source": "VitalSource exact-edition cover; publisher remains bibliographic authority",
+        "source_url": "https://www.vitalsource.com/products/marine-biology-peter-castro-v9781266564451",
+        "visual_reviewed_on": "2026-09-27",
+        "visual_review_status": "title_and_edition_checked",
+        "expected_sha256": "PENDING"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Exact title, edition, publication year and ISBN verified against the publisher; cover identity cross-checked with the cited VitalSource edition.",
+        "sources": [
+          "https://www.mheducation.com/highered/product/Marine-Biology-Castro.html",
+          "https://www.vitalsource.com/products/marine-biology-peter-castro-v9781266564451"
+        ]
+      }
+    },
+    {
+      "id": "BOOK-LEVINTON-MARINE-BIOLOGY6-2021",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Marine Biology: Function, Biodiversity, Ecology",
+      "authors": [
+        "Jeffrey S. Levinton"
+      ],
+      "published_year": 2021,
+      "edition": "6th Edition",
+      "isbn": "9780197543504",
+      "publisher": "Oxford University Press",
+      "publisher_url": "https://learninglink.oup.com/access/levinton6e",
+      "purchase_url": "https://www.vitalsource.com/products/marine-biology-jeffrey-levinton-v9780197543535",
+      "cover": {
+        "url": "https://covers.vitalsource.com/vbid/9780197543535/width/200",
+        "source": "VitalSource exact-edition cover; publisher remains bibliographic authority",
+        "source_url": "https://www.vitalsource.com/products/marine-biology-jeffrey-levinton-v9780197543535",
+        "visual_reviewed_on": "2026-09-27",
+        "visual_review_status": "title_and_edition_checked",
+        "expected_sha256": "PENDING"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Exact title, edition, publication year and ISBN verified against the publisher; cover identity cross-checked with the cited VitalSource edition.",
+        "sources": [
+          "https://learninglink.oup.com/access/levinton6e",
+          "https://www.vitalsource.com/products/marine-biology-jeffrey-levinton-v9780197543535"
+        ]
+      }
+    },
+    {
+      "id": "BOOK-MARINE-ECOLOGY3-2020",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Marine Ecology: Processes, Systems, and Impacts",
+      "authors": [
+        "Michel J. Kaiser",
+        "Martin J. Attrill",
+        "Simon Jennings",
+        "David N. Thomas",
+        "David K. A. Barnes",
+        "Andrew S. Brierley",
+        "Nicholas A. J. Graham",
+        "Jan Geert Hiddink",
+        "Kerry L. Howell",
+        "Hermanni Kaartokallio"
+      ],
+      "published_year": 2020,
+      "edition": "3rd Edition",
+      "isbn": "9780198717850",
+      "publisher": "Oxford University Press",
+      "publisher_url": "https://www.oup.com.au/books/higher-education/biological-sciences/9780198717850",
+      "purchase_url": "https://www.vitalsource.com/products/marine-ecology-v9780192522856",
+      "cover": {
+        "url": "https://covers.vitalsource.com/vbid/9780192522856/width/200",
+        "source": "VitalSource exact-edition cover; publisher remains bibliographic authority",
+        "source_url": "https://www.vitalsource.com/products/marine-ecology-v9780192522856",
+        "visual_reviewed_on": "2026-09-27",
+        "visual_review_status": "title_and_edition_checked",
+        "expected_sha256": "PENDING"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Exact title, edition, publication year and ISBN verified against the publisher; cover identity cross-checked with the cited VitalSource edition.",
+        "sources": [
+          "https://www.oup.com.au/books/higher-education/biological-sciences/9780198717850",
+          "https://www.vitalsource.com/products/marine-ecology-v9780192522856"
+        ]
+      }
+    },
+    {
+      "id": "CHAPTER-MARINE-PELAGIC-2023",
+      "resource_type": "book_chapter",
+      "theory_only": true,
+      "title": "Pelagic Ecosystems",
+      "published_year": 2023,
+      "publisher": "Oxford University Press",
+      "doi": "10.1093/hesc/9780198717850.003.0009",
+      "publisher_url": "https://doi.org/10.1093/hesc/9780198717850.003.0009",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Chapter identity and DOI were checked against the Oxford Academic record for Marine Ecology: Processes, Systems, and Impacts.",
+        "sources": [
+          "https://doi.org/10.1093/hesc/9780198717850.003.0009"
+        ]
+      }
+    },
+    {
+      "id": "CHAPTER-MARINE-ROCKY-SANDY-2023",
+      "resource_type": "book_chapter",
+      "theory_only": true,
+      "title": "Rocky and Sandy Shores",
+      "published_year": 2023,
+      "publisher": "Oxford University Press",
+      "doi": "10.1093/hesc/9780198717850.003.0008",
+      "publisher_url": "https://doi.org/10.1093/hesc/9780198717850.003.0008",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Chapter identity and DOI were checked against the Oxford Academic record for Marine Ecology: Processes, Systems, and Impacts.",
+        "sources": [
+          "https://doi.org/10.1093/hesc/9780198717850.003.0008"
+        ]
+      }
+    },
+    {
+      "id": "CHAPTER-MARINE-ESTUARIES-2023",
+      "resource_type": "book_chapter",
+      "theory_only": true,
+      "title": "Estuaries",
+      "published_year": 2023,
+      "publisher": "Oxford University Press",
+      "doi": "10.1093/hesc/9780198717850.003.0007",
+      "publisher_url": "https://doi.org/10.1093/hesc/9780198717850.003.0007",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Chapter identity and DOI were checked against the Oxford Academic record for Marine Ecology: Processes, Systems, and Impacts.",
+        "sources": [
+          "https://doi.org/10.1093/hesc/9780198717850.003.0007"
+        ]
+      }
+    },
+    {
+      "id": "CHAPTER-MARINE-MICROBIAL-2023",
+      "resource_type": "book_chapter",
+      "theory_only": true,
+      "title": "Marine Microbial Secondary Production",
+      "published_year": 2023,
+      "publisher": "Oxford University Press",
+      "doi": "10.1093/hesc/9780198717850.003.0004",
+      "publisher_url": "https://doi.org/10.1093/hesc/9780198717850.003.0004",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Chapter identity and DOI were checked against the Oxford Academic record for Marine Ecology: Processes, Systems, and Impacts.",
+        "sources": [
+          "https://doi.org/10.1093/hesc/9780198717850.003.0004"
+        ]
+      }
+    },
+    {
+      "id": "CHAPTER-MARINE-DEEP-SEA-2023",
+      "resource_type": "book_chapter",
+      "theory_only": true,
+      "title": "The Deep Sea",
+      "published_year": 2023,
+      "publisher": "Oxford University Press",
+      "doi": "10.1093/hesc/9780198717850.003.0011",
+      "publisher_url": "https://doi.org/10.1093/hesc/9780198717850.003.0011",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Chapter identity and DOI were checked against the Oxford Academic record for Marine Ecology: Processes, Systems, and Impacts.",
+        "sources": [
+          "https://doi.org/10.1093/hesc/9780198717850.003.0011"
+        ]
+      }
+    },
+    {
+      "id": "CHAPTER-MARINE-POLAR-2023",
+      "resource_type": "book_chapter",
+      "theory_only": true,
+      "title": "Polar Regions",
+      "published_year": 2023,
+      "publisher": "Oxford University Press",
+      "doi": "10.1093/hesc/9780198717850.003.0014",
+      "publisher_url": "https://doi.org/10.1093/hesc/9780198717850.003.0014",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Chapter identity and DOI were checked against the Oxford Academic record for Marine Ecology: Processes, Systems, and Impacts.",
+        "sources": [
+          "https://doi.org/10.1093/hesc/9780198717850.003.0014"
+        ]
+      }
+    },
+    {
+      "id": "CHAPTER-MARINE-CONSERVATION-2023",
+      "resource_type": "book_chapter",
+      "theory_only": true,
+      "title": "Conservation",
+      "published_year": 2023,
+      "publisher": "Oxford University Press",
+      "doi": "10.1093/hesc/9780198717850.003.0019",
+      "publisher_url": "https://doi.org/10.1093/hesc/9780198717850.003.0019",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Chapter identity and DOI were checked against the Oxford Academic record for Marine Ecology: Processes, Systems, and Impacts.",
+        "sources": [
+          "https://doi.org/10.1093/hesc/9780198717850.003.0019"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-CORAL-REEF-ECOLOGY-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "The Ecosystem Ecology of Coral Reefs Revisited",
+      "authors": [
+        "Jacob E. Allgeier"
+      ],
+      "published_year": 2024,
+      "journal": "Annual Review of Ecology, Evolution, and Systematics",
+      "doi": "10.1146/annurev-ecolsys-102722-124549",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-102722-124549",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "publication_type": "Review",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity and suitability as a theory-only review were checked against the publisher record.",
+        "sources": [
+          "https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-102722-124549"
+        ]
+      }
+    },
+    {
+      "id": "BOOK-LANGMANS-EMBRYOLOGY15-2023",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Langman's Medical Embryology",
+      "authors": [
+        "T. W. Sadler"
+      ],
+      "published_year": 2023,
+      "edition": "15th Edition",
+      "isbn": "9781975179960",
+      "publisher": "Wolters Kluwer",
+      "publisher_url": "https://shop.lww.com/Langman-s-Medical-Embryology/p/9781975179960",
+      "purchase_url": "https://shop.lww.com/Langman-s-Medical-Embryology/p/9781975179960",
+      "cover": {
+        "url": "https://covers.vitalsource.com/vbid/9781975179984/width/200",
+        "source": "VitalSource exact-edition cover; publisher remains bibliographic authority",
+        "source_url": "https://www.vitalsource.com/products/langman-s-medical-embryology-t-w-sadler-v9781975179984",
+        "visual_reviewed_on": "2026-09-27",
+        "visual_review_status": "title_and_edition_checked",
+        "expected_sha256": "PENDING"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Exact title, edition, publication year and ISBN verified against the publisher; cover identity cross-checked with the cited VitalSource edition.",
+        "sources": [
+          "https://shop.lww.com/Langman-s-Medical-Embryology/p/9781975179960",
+          "https://www.vitalsource.com/products/langman-s-medical-embryology-t-w-sadler-v9781975179984"
+        ]
+      }
+    },
+    {
+      "id": "BOOK-DEVELOPING-HUMAN12-2024",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "The Developing Human: Clinically Oriented Embryology",
+      "authors": [
+        "Mark G. Torchia",
+        "T. V. N. Persaud"
+      ],
+      "published_year": 2024,
+      "edition": "12th Edition",
+      "isbn": "9780443116988",
+      "publisher": "Elsevier",
+      "publisher_url": "https://evolve.elsevier.com/cs/product/9780443116988?role=student",
+      "purchase_url": "https://evolve.elsevier.com/cs/product/9780443116988?role=student",
+      "cover": {
+        "url": "https://covers.vitalsource.com/vbid/9780443117411/width/200",
+        "source": "VitalSource exact-edition cover; publisher remains bibliographic authority",
+        "source_url": "https://www.vitalsource.com/products/the-developing-human-mark-g-torchia-t-v-n-v9780443117411",
+        "visual_reviewed_on": "2026-09-27",
+        "visual_review_status": "title_and_edition_checked",
+        "expected_sha256": "PENDING"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Exact title, edition, publication year and ISBN verified against the publisher; cover identity cross-checked with the cited VitalSource edition.",
+        "sources": [
+          "https://evolve.elsevier.com/cs/product/9780443116988?role=student",
+          "https://www.vitalsource.com/products/the-developing-human-mark-g-torchia-t-v-n-v9780443117411"
+        ]
+      }
+    },
+    {
+      "id": "BOOK-LARSEN-HUMAN-EMBRYOLOGY6-2021",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Larsen's Human Embryology",
+      "authors": [
+        "Gary C. Schoenwolf",
+        "Steven B. Bleyl",
+        "Philip R. Brauer",
+        "Philippa H. Francis-West"
+      ],
+      "published_year": 2021,
+      "edition": "6th Edition",
+      "isbn": "9780323696043",
+      "publisher": "Elsevier",
+      "publisher_url": "https://evolve.elsevier.com/cs/product/9780323696043?role=student",
+      "purchase_url": "https://evolve.elsevier.com/cs/product/9780323696043?role=student",
+      "cover": {
+        "url": "https://covers.vitalsource.com/vbid/9780323696869/width/200",
+        "source": "VitalSource exact-edition cover; publisher remains bibliographic authority",
+        "source_url": "https://www.vitalsource.com/products/larsen-39-s-human-embryology-gary-schoenwolf-steven-bleyl-v9780323696869",
+        "visual_reviewed_on": "2026-09-27",
+        "visual_review_status": "title_and_edition_checked",
+        "expected_sha256": "PENDING"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Exact title, edition, publication year and ISBN verified against the publisher; cover identity cross-checked with the cited VitalSource edition.",
+        "sources": [
+          "https://evolve.elsevier.com/cs/product/9780323696043?role=student",
+          "https://www.vitalsource.com/products/larsen-39-s-human-embryology-gary-schoenwolf-steven-bleyl-v9780323696869"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-EXTRAEMBRYONIC-TISSUES-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Origin, fate and function of extraembryonic tissues during mammalian development",
+      "authors": [
+        "Shifaan Thowfeequ",
+        "Courtney W. Hanna",
+        "Shankar Srinivas"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Molecular Cell Biology",
+      "doi": "10.1038/s41580-024-00809-w",
+      "publisher_url": "https://www.nature.com/articles/s41580-024-00809-w",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "publication_type": "Review",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity and suitability as a theory-only review were checked against the publisher record.",
+        "sources": [
+          "https://www.nature.com/articles/s41580-024-00809-w"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-EARLY-SPINAL-CORD-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Early spinal cord development: from neural tube formation to neurogenesis",
+      "authors": [
+        "Murielle Saade",
+        "Elisa Martí"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Neuroscience",
+      "doi": "10.1038/s41583-025-00906-5",
+      "publisher_url": "https://www.nature.com/articles/s41583-025-00906-5",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "publication_type": "Review",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity and suitability as a theory-only review were checked against the publisher record.",
+        "sources": [
+          "https://www.nature.com/articles/s41583-025-00906-5"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-EARLY-LUNG-DEVELOPMENT-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "The molecular and cellular choreography of early mammalian lung development",
+      "authors": [
+        "Xianfa Yang",
+        "Yingying Chen",
+        "Yun Yang",
+        "Shiting Li",
+        "Panpan Mi",
+        "Naihe Jing"
+      ],
+      "published_year": 2024,
+      "journal": "Medical Review",
+      "doi": "10.1515/mr-2023-0064",
+      "publisher_url": "https://www.degruyterbrill.com/document/doi/10.1515/mr-2023-0064/html",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "publication_type": "Review",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity and suitability as a theory-only review were checked against the publisher record.",
+        "sources": [
+          "https://www.degruyterbrill.com/document/doi/10.1515/mr-2023-0064/html"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-VERTEBRATE-SOMITOGENESIS-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Cellular and molecular control of vertebrate somitogenesis",
+      "authors": [
+        "Yuchuan Miao",
+        "Olivier Pourquié"
+      ],
+      "published_year": 2024,
+      "journal": "Nature Reviews Molecular Cell Biology",
+      "doi": "10.1038/s41580-024-00709-z",
+      "publisher_url": "https://www.nature.com/articles/s41580-024-00709-z",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "publication_type": "Review",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity and suitability as a theory-only review were checked against the publisher record.",
+        "sources": [
+          "https://www.nature.com/articles/s41580-024-00709-z"
+        ]
+      }
+    },
+    {
+      "id": "BOOK-WHEATERS-HISTOLOGY7-2023",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Wheater's Functional Histology: A Text and Colour Atlas",
+      "authors": [
+        "Geraldine O'Dowd",
+        "Sarah Bell",
+        "Sylvia Wright"
+      ],
+      "published_year": 2023,
+      "edition": "7th Edition",
+      "isbn": "9780702083341",
+      "publisher": "Elsevier",
+      "publisher_url": "https://evolve.elsevier.com/cs/product/9780702083341?role=student",
+      "purchase_url": "https://evolve.elsevier.com/cs/product/9780702083341?role=student",
+      "cover": {
+        "url": "https://covers.vitalsource.com/vbid/9780702083372/width/200",
+        "source": "VitalSource exact-edition cover; publisher remains bibliographic authority",
+        "source_url": "https://www.vitalsource.com/en-uk/products/wheater-39-s-functional-histology-geraldine-o-39-dowd-sarah-bell-v9780702083372",
+        "visual_reviewed_on": "2026-09-27",
+        "visual_review_status": "title_and_edition_checked",
+        "expected_sha256": "PENDING"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Exact title, edition, publication year and ISBN verified against the publisher; cover identity cross-checked with the cited VitalSource edition.",
+        "sources": [
+          "https://evolve.elsevier.com/cs/product/9780702083341?role=student",
+          "https://www.vitalsource.com/en-uk/products/wheater-39-s-functional-histology-geraldine-o-39-dowd-sarah-bell-v9780702083372"
+        ]
+      }
+    },
+    {
+      "id": "BOOK-JUNQUEIRA-HISTOLOGY18-2026",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Junqueira's Basic Histology: Text and Atlas",
+      "authors": [
+        "Anthony L. Mescher"
+      ],
+      "published_year": 2026,
+      "edition": "18th Edition",
+      "isbn": "9781266217289",
+      "publisher": "McGraw Hill",
+      "publisher_url": "https://www.mheducation.com/highered/mhp/product/junqueira-s-basic-histology-text-atlas-18th-edition.html",
+      "purchase_url": "https://www.mheducation.com/highered/mhp/product/junqueira-s-basic-histology-text-atlas-18th-edition.html",
+      "cover": {
+        "url": "https://covers.vitalsource.com/vbid/9781264528677/width/200",
+        "source": "VitalSource exact-edition cover; publisher remains bibliographic authority",
+        "source_url": "https://www.vitalsource.com/products/junqueira-39-s-basic-histology-text-and-atlas-anthony-l-mescher-v9781264528677",
+        "visual_reviewed_on": "2026-09-27",
+        "visual_review_status": "title_and_edition_checked",
+        "expected_sha256": "PENDING"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Exact title, edition, publication year and ISBN verified against the publisher; cover identity cross-checked with the cited VitalSource edition.",
+        "sources": [
+          "https://www.mheducation.com/highered/mhp/product/junqueira-s-basic-histology-text-atlas-18th-edition.html",
+          "https://www.vitalsource.com/products/junqueira-39-s-basic-histology-text-and-atlas-anthony-l-mescher-v9781264528677"
+        ]
+      }
+    },
+    {
+      "id": "BOOK-PAWLINA-HISTOLOGY9-2023",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Histology: A Text and Atlas: With Correlated Cell and Molecular Biology",
+      "authors": [
+        "Wojciech Pawlina"
+      ],
+      "published_year": 2023,
+      "edition": "9th Edition",
+      "isbn": "9781975181512",
+      "publisher": "Wolters Kluwer",
+      "publisher_url": "https://shop.lww.com/Histology--A-Text-and-Atlas/p/9781975181512",
+      "purchase_url": "https://shop.lww.com/Histology--A-Text-and-Atlas/p/9781975181512",
+      "cover": {
+        "url": "https://covers.vitalsource.com/vbid/9781975181536/width/200",
+        "source": "VitalSource exact-edition cover; publisher remains bibliographic authority",
+        "source_url": "https://www.vitalsource.com/products/histology-a-text-and-atlas-wojciech-pawlina-v9781975181536",
+        "visual_reviewed_on": "2026-09-27",
+        "visual_review_status": "title_and_edition_checked",
+        "expected_sha256": "PENDING"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Exact title, edition, publication year and ISBN verified against the publisher; cover identity cross-checked with the cited VitalSource edition.",
+        "sources": [
+          "https://shop.lww.com/Histology--A-Text-and-Atlas/p/9781975181512",
+          "https://www.vitalsource.com/products/histology-a-text-and-atlas-wojciech-pawlina-v9781975181536"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-SKELETAL-CELL-METABOLISM-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Metabolic regulation of skeletal cell fate and function",
+      "authors": [
+        "Steve Stegen",
+        "Geert Carmeliet"
+      ],
+      "published_year": 2024,
+      "journal": "Nature Reviews Endocrinology",
+      "doi": "10.1038/s41574-024-00969-x",
+      "publisher_url": "https://www.nature.com/articles/s41574-024-00969-x",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "publication_type": "Review",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity and suitability as a theory-only review were checked against the publisher record.",
+        "sources": [
+          "https://www.nature.com/articles/s41574-024-00969-x"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-ENDOTHELIAL-HETEROGENEITY-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Microenvironmental determinants of endothelial cell heterogeneity",
+      "authors": [
+        "Jesus M. Gomez-Salinero",
+        "David Redmond",
+        "Shahin Rafii"
+      ],
+      "published_year": 2025,
+      "journal": "Nature Reviews Molecular Cell Biology",
+      "doi": "10.1038/s41580-024-00825-w",
+      "publisher_url": "https://www.nature.com/articles/s41580-024-00825-w",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "publication_type": "Review",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Bibliographic identity and suitability as a theory-only review were checked against the publisher record.",
+        "sources": [
+          "https://www.nature.com/articles/s41580-024-00825-w"
+        ]
+      }
+    },
+    {
+      "id": "STATPEARLS-HISTOLOGY-LUNG-2025",
+      "resource_type": "authoritative_reference",
+      "theory_only": true,
+      "title": "Histology, Lung",
+      "authors": [
+        "Yusuf S. Khan",
+        "Frederick J. Carey"
+      ],
+      "published_year": 2025,
+      "publisher": "StatPearls Publishing / NCBI Bookshelf",
+      "publisher_url": "https://www.ncbi.nlm.nih.gov/books/NBK534789/",
+      "access_url": "https://www.ncbi.nlm.nih.gov/books/NBK534789/",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Authoritative NCBI Bookshelf record checked; used only for theoretical regional/tissue anatomy or histology.",
+        "sources": [
+          "https://www.ncbi.nlm.nih.gov/books/NBK534789/"
+        ]
+      }
+    },
+    {
+      "id": "STATPEARLS-HISTOLOGY-SKIN-2023",
+      "resource_type": "authoritative_reference",
+      "theory_only": true,
+      "title": "Histology, Skin",
+      "authors": [
+        "Sanjay Agarwal",
+        "Karthik Krishnamurthy"
+      ],
+      "published_year": 2023,
+      "publisher": "StatPearls Publishing / NCBI Bookshelf",
+      "publisher_url": "https://www.ncbi.nlm.nih.gov/books/NBK537325/",
+      "access_url": "https://www.ncbi.nlm.nih.gov/books/NBK537325/",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Authoritative NCBI Bookshelf record checked; used only for theoretical regional/tissue anatomy or histology.",
+        "sources": [
+          "https://www.ncbi.nlm.nih.gov/books/NBK537325/"
+        ]
+      }
+    },
+    {
+      "id": "BOOK-GRAYS-STUDENTS5-2023",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Gray's Anatomy for Students",
+      "authors": [
+        "Richard L. Drake",
+        "A. Wayne Vogl",
+        "Adam W. M. Mitchell"
+      ],
+      "published_year": 2023,
+      "edition": "5th Edition",
+      "isbn": "9780323934237",
+      "publisher": "Elsevier",
+      "publisher_url": "https://evolve.elsevier.com/cs/product/9780323934237?role=student",
+      "purchase_url": "https://evolve.elsevier.com/cs/product/9780323934237?role=student",
+      "cover": {
+        "url": "https://covers.vitalsource.com/vbid/9780323935067/width/200",
+        "source": "VitalSource exact-edition cover; publisher remains bibliographic authority",
+        "source_url": "https://www.vitalsource.com/products/gray-39-s-anatomy-for-students-richard-l-drake-a-wayne-v9780323935067",
+        "visual_reviewed_on": "2026-09-27",
+        "visual_review_status": "title_and_edition_checked",
+        "expected_sha256": "PENDING"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Exact title, edition, publication year and ISBN verified against the publisher; cover identity cross-checked with the cited VitalSource edition.",
+        "sources": [
+          "https://evolve.elsevier.com/cs/product/9780323934237?role=student",
+          "https://www.vitalsource.com/products/gray-39-s-anatomy-for-students-richard-l-drake-a-wayne-v9780323935067"
+        ]
+      }
+    },
+    {
+      "id": "BOOK-MOORE-ANATOMY10-2026",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Moore's Clinically Oriented Anatomy",
+      "authors": [
+        "Arthur F. Dalley II",
+        "Anne M. R. Agur"
+      ],
+      "published_year": 2026,
+      "edition": "10th Edition",
+      "isbn": "9781975241582",
+      "publisher": "Wolters Kluwer",
+      "publisher_url": "https://shop.lww.com/Moore-s-Clinically-Oriented-Anatomy/p/9781975241582",
+      "purchase_url": "https://shop.lww.com/Moore-s-Clinically-Oriented-Anatomy/p/9781975241582",
+      "cover": {
+        "url": "https://covers.vitalsource.com/vbid/9781975241650/width/200",
+        "source": "VitalSource exact-edition cover; publisher remains bibliographic authority",
+        "source_url": "https://www.vitalsource.com/products/moore-39-s-clinically-oriented-anatomy-arthur-f-dalley-anne-m-r-v9781975241650",
+        "visual_reviewed_on": "2026-09-27",
+        "visual_review_status": "title_and_edition_checked",
+        "expected_sha256": "PENDING"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Exact title, edition, publication year and ISBN verified against the publisher; cover identity cross-checked with the cited VitalSource edition.",
+        "sources": [
+          "https://shop.lww.com/Moore-s-Clinically-Oriented-Anatomy/p/9781975241582",
+          "https://www.vitalsource.com/products/moore-39-s-clinically-oriented-anatomy-arthur-f-dalley-anne-m-r-v9781975241650"
+        ]
+      }
+    },
+    {
+      "id": "BOOK-GRAYS-ANATOMY43-2025",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Gray's Anatomy: The Anatomical Basis of Clinical Practice",
+      "authors": [
+        "Susan Standring",
+        "Shane R. Tubbs"
+      ],
+      "published_year": 2025,
+      "edition": "43rd Edition",
+      "isbn": "9780443124785",
+      "publisher": "Elsevier",
+      "publisher_url": "https://evolve.elsevier.com/cs/product/9780443124785?role=student",
+      "purchase_url": "https://evolve.elsevier.com/cs/product/9780443124785?role=student",
+      "cover": {
+        "url": "https://covers.vitalsource.com/vbid/9780443125973/width/200",
+        "source": "VitalSource exact-edition cover; publisher remains bibliographic authority",
+        "source_url": "https://www.vitalsource.com/products/gray-39-s-anatomy-e-book-susan-standring-v9780443125973",
+        "visual_reviewed_on": "2026-09-27",
+        "visual_review_status": "title_and_edition_checked",
+        "expected_sha256": "PENDING"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Exact title, edition, publication year and ISBN verified against the publisher; cover identity cross-checked with the cited VitalSource edition.",
+        "sources": [
+          "https://evolve.elsevier.com/cs/product/9780443124785?role=student",
+          "https://www.vitalsource.com/products/gray-39-s-anatomy-e-book-susan-standring-v9780443125973"
+        ]
+      }
+    },
+    {
+      "id": "STATPEARLS-ANATOMY-VERTEBRAL-COLUMN-2023",
+      "resource_type": "authoritative_reference",
+      "theory_only": true,
+      "title": "Anatomy, Back, Vertebral Column",
+      "authors": [
+        "Charisma DeSai",
+        "Vamsi Reddy",
+        "Amit Agarwal"
+      ],
+      "published_year": 2023,
+      "publisher": "StatPearls Publishing / NCBI Bookshelf",
+      "publisher_url": "https://www.ncbi.nlm.nih.gov/books/NBK525969/",
+      "access_url": "https://www.ncbi.nlm.nih.gov/books/NBK525969/",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Authoritative NCBI Bookshelf record checked; used only for theoretical regional/tissue anatomy or histology.",
+        "sources": [
+          "https://www.ncbi.nlm.nih.gov/books/NBK525969/"
+        ]
+      }
+    },
+    {
+      "id": "STATPEARLS-ANATOMY-THORAX-2023",
+      "resource_type": "authoritative_reference",
+      "theory_only": true,
+      "title": "Anatomy, Thorax",
+      "authors": [
+        "Aurimas Kudzinskas",
+        "Avery L. Callahan"
+      ],
+      "published_year": 2023,
+      "publisher": "StatPearls Publishing / NCBI Bookshelf",
+      "publisher_url": "https://www.ncbi.nlm.nih.gov/books/NBK557710/",
+      "access_url": "https://www.ncbi.nlm.nih.gov/books/NBK557710/",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Authoritative NCBI Bookshelf record checked; used only for theoretical regional/tissue anatomy or histology.",
+        "sources": [
+          "https://www.ncbi.nlm.nih.gov/books/NBK557710/"
+        ]
+      }
+    },
+    {
+      "id": "STATPEARLS-ANATOMY-ABDOMEN-2023",
+      "resource_type": "authoritative_reference",
+      "theory_only": true,
+      "title": "Anatomy, Abdomen and Pelvis: Abdomen",
+      "authors": [
+        "Christian I. Wade",
+        "Matthew J. Streitz"
+      ],
+      "published_year": 2023,
+      "publisher": "StatPearls Publishing / NCBI Bookshelf",
+      "publisher_url": "https://www.ncbi.nlm.nih.gov/books/NBK553104/",
+      "access_url": "https://www.ncbi.nlm.nih.gov/books/NBK553104/",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Authoritative NCBI Bookshelf record checked; used only for theoretical regional/tissue anatomy or histology.",
+        "sources": [
+          "https://www.ncbi.nlm.nih.gov/books/NBK553104/"
+        ]
+      }
+    },
+    {
+      "id": "STATPEARLS-ANATOMY-PELVIS-2023",
+      "resource_type": "authoritative_reference",
+      "theory_only": true,
+      "title": "Anatomy, Abdomen and Pelvis, Pelvis",
+      "authors": [
+        "Shazia R. Chaudhry",
+        "Ahmed Nahian",
+        "Khalid Chaudhry"
+      ],
+      "published_year": 2023,
+      "publisher": "StatPearls Publishing / NCBI Bookshelf",
+      "publisher_url": "https://www.ncbi.nlm.nih.gov/books/NBK482258/",
+      "access_url": "https://www.ncbi.nlm.nih.gov/books/NBK482258/",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Authoritative NCBI Bookshelf record checked; used only for theoretical regional/tissue anatomy or histology.",
+        "sources": [
+          "https://www.ncbi.nlm.nih.gov/books/NBK482258/"
+        ]
+      }
+    },
+    {
+      "id": "STATPEARLS-ANATOMY-UPPER-LIMB-2023",
+      "resource_type": "authoritative_reference",
+      "theory_only": true,
+      "title": "Anatomy, Shoulder and Upper Limb, Arm Structure and Function",
+      "authors": [
+        "Stephen D. Forro",
+        "Akul Munjal",
+        "Jason B. Lowe"
+      ],
+      "published_year": 2023,
+      "publisher": "StatPearls Publishing / NCBI Bookshelf",
+      "publisher_url": "https://www.ncbi.nlm.nih.gov/books/NBK507841/",
+      "access_url": "https://www.ncbi.nlm.nih.gov/books/NBK507841/",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Authoritative NCBI Bookshelf record checked; used only for theoretical regional/tissue anatomy or histology.",
+        "sources": [
+          "https://www.ncbi.nlm.nih.gov/books/NBK507841/"
+        ]
+      }
+    },
+    {
+      "id": "STATPEARLS-ANATOMY-LOWER-LIMB-NERVES-2023",
+      "resource_type": "authoritative_reference",
+      "theory_only": true,
+      "title": "Anatomy, Bony Pelvis and Lower Limb: Nerves",
+      "authors": [
+        "Kevin T. Spence",
+        "Stephen D. Forro"
+      ],
+      "published_year": 2023,
+      "publisher": "StatPearls Publishing / NCBI Bookshelf",
+      "publisher_url": "https://www.ncbi.nlm.nih.gov/books/NBK532304/",
+      "access_url": "https://www.ncbi.nlm.nih.gov/books/NBK532304/",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Authoritative NCBI Bookshelf record checked; used only for theoretical regional/tissue anatomy or histology.",
+        "sources": [
+          "https://www.ncbi.nlm.nih.gov/books/NBK532304/"
+        ]
+      }
+    },
+    {
+      "id": "STATPEARLS-ANATOMY-HEAD-NECK-2023",
+      "resource_type": "authoritative_reference",
+      "theory_only": true,
+      "title": "Anatomy, Head and Neck, Neck",
+      "authors": [
+        "Zachary K. Roesch",
+        "Prasanna Tadi"
+      ],
+      "published_year": 2023,
+      "publisher": "StatPearls Publishing / NCBI Bookshelf",
+      "publisher_url": "https://www.ncbi.nlm.nih.gov/books/NBK542313/",
+      "access_url": "https://www.ncbi.nlm.nih.gov/books/NBK542313/",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Authoritative NCBI Bookshelf record checked; used only for theoretical regional/tissue anatomy or histology.",
+        "sources": [
+          "https://www.ncbi.nlm.nih.gov/books/NBK542313/"
+        ]
+      }
+    },
+    {
+      "id": "STATPEARLS-ANATOMY-NECK-TRIANGLE-2026",
+      "resource_type": "authoritative_reference",
+      "theory_only": true,
+      "title": "Anatomy, Head and Neck, Neck Triangle",
+      "authors": [
+        "James Stathakios",
+        "Felix Jozsa"
+      ],
+      "published_year": 2026,
+      "publisher": "StatPearls Publishing / NCBI Bookshelf",
+      "publisher_url": "https://www.ncbi.nlm.nih.gov/books/NBK554398/",
+      "access_url": "https://www.ncbi.nlm.nih.gov/books/NBK554398/",
+      "verification_status": "verified",
+      "verified_on": "2026-09-27",
+      "verification_evidence": {
+        "checked_on": "2026-09-27",
+        "scope": "Authoritative NCBI Bookshelf record checked; used only for theoretical regional/tissue anatomy or histology.",
+        "sources": [
+          "https://www.ncbi.nlm.nih.gov/books/NBK554398/"
         ]
       }
     }
