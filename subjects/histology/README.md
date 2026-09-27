@@ -240,7 +240,7 @@
 
 <div dir="ltr" align="left">
 
-⁦Fereshteh Sadat Younesi⁩، ⁦Andrew E. Miller⁩، ⁦Thomas H. Barker⁩، ⁦Fabio M. V. Rossi⁩، ⁦Boris Hinz⁩، ⁦Nature Reviews Molecular Cell Biology⁩، ⁦2024⁩، ⁦DOI: 10.1038/s41580-024-00716-0⁩
+⁦Nature Reviews Molecular Cell Biology⁩، ⁦2024⁩، ⁦DOI: 10.1038/s41580-024-00716-0⁩
 
 </div>
 
@@ -293,7 +293,7 @@
 
 <div dir="ltr" align="left">
 
-⁦Siyu Zhu⁩، ⁦Wei Chen⁩، ⁦Alasdair Masson⁩، ⁦Yi-Ping Li⁩، ⁦Cell Discovery⁩، ⁦2024⁩، ⁦DOI: 10.1038/s41421-024-00689-6⁩
+⁦Cell Discovery⁩، ⁦2024⁩، ⁦DOI: 10.1038/s41421-024-00689-6⁩
 
 </div>
 

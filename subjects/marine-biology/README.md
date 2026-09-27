@@ -191,7 +191,7 @@
 
 <div dir="ltr" align="left">
 
-⁦Parvez Chowdhury⁩، ⁦Saadullah Jan Khan⁩، ⁦Md Afsar Ahmed Sumon⁩، ⁦Mohamed Ahmed Abu El-Regal⁩، ⁦Khambou Tayyamath⁩، ⁦Hien Van Doan⁩، ⁦Discover Animals⁩، ⁦2026⁩، ⁦DOI: 10.1007/s44338-025-00113-7⁩
+⁦Discover Animals⁩، ⁦2026⁩، ⁦DOI: 10.1007/s44338-025-00113-7⁩
 
 </div>
 
@@ -509,7 +509,7 @@
 
 <div dir="ltr" align="left">
 
-⁦Huw J. Griffiths⁩، ⁦Vonda J. Cummings⁩، ⁦Anton Van de Putte⁩، ⁦Rowan J. Whittle⁩، ⁦Catherine L. Waller⁩، ⁦Nature Reviews Earth & Environment⁩، ⁦2024⁩، ⁦DOI: 10.1038/s43017-024-00583-5⁩
+⁦Nature Reviews Earth & Environment⁩، ⁦2024⁩، ⁦DOI: 10.1038/s43017-024-00583-5⁩
 
 </div>
 
