@@ -99,5 +99,6 @@ The current reference-quality subjects are:
 - **Embryology / جنین‌شناسی**
 - **Histology / بافت‌شناسی**
 - **Anatomy / آناتومی**
+- **Virology / ویروس‌شناسی**
 
 New subjects should reuse this architecture instead of introducing a parallel resource model.
