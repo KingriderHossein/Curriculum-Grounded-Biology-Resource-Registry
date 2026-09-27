@@ -6186,13 +6186,14 @@
         "source": "Official Open Book Publishers cover",
         "source_url": "https://www.openbookpublishers.com/books/10.11647/obp.0291",
         "visual_reviewed_on": "2026-09-27",
-        "visual_review_status": "user_supplied_cover_matched"
+        "visual_review_status": "title_and_edition_checked",
+        "expected_sha256": "c4f9545b15cc5442f2512e321ef82382c8ba05a340b9090762ff4481be423d47"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-27",
       "verification_evidence": {
         "checked_on": "2026-09-27",
-        "scope": "Official Open Book Publishers metadata was used to verify title, authors, publication date, paperback ISBN, DOI, open-access availability and theory-focused systems-biology contents. The cover was visually matched to the user-provided image.",
+        "scope": "Official Open Book Publishers metadata verified title, authors, publication date, paperback ISBN, DOI, open-access availability and theory-focused systems-biology contents. The official cover was visually matched to the user-provided image and the exact reviewed bytes are SHA-256 locked.",
         "sources": [
           "https://www.openbookpublishers.com/books/10.11647/obp.0291"
         ]
@@ -6219,13 +6220,14 @@
         "source": "VitalSource cover for the Garland Science 3rd Edition; Routledge/CRC Press is the bibliographic authority",
         "source_url": "https://www.vitalsource.com/products/a-first-course-in-systems-biology-eberhard-voit-melissa-l-kemp-v9781040165553",
         "visual_reviewed_on": "2026-09-27",
-        "visual_review_status": "user_supplied_cover_matched"
+        "visual_review_status": "title_and_edition_checked",
+        "expected_sha256": "5134e0b42e76eecf5d49b0ae58ffd1564badd6d3df9f20a111b732a7eb5b927a"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-27",
       "verification_evidence": {
         "checked_on": "2026-09-27",
-        "scope": "Routledge/CRC Press verified the Third Edition, authorship, 2025 copyright/publication identity and scope; VitalSource independently maps the displayed cover to print ISBN 9781032515434 and the 3rd Edition. The cover was visually matched to the user-provided image.",
+        "scope": "Routledge/CRC Press verified the Third Edition, authorship, 2025 identity and scope; VitalSource independently maps the cover to print ISBN 9781032515434 and 3rd Edition. The cover was visually matched to the user-provided image and the exact reviewed bytes are SHA-256 locked.",
         "sources": [
           "https://www.routledge.com/A-First-Course-in-Systems-Biology/Voit-Kemp/p/book/9781032515434",
           "https://www.vitalsource.com/products/a-first-course-in-systems-biology-eberhard-voit-melissa-l-kemp-v9781040165553"
