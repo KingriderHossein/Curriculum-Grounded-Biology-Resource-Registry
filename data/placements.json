@@ -9941,6 +9941,59 @@
         "how_to_use": "یک خط زمانی از spillover تا endemicity بسازید و در هر مرحله نوع فشار انتخابی، تغییر ویروسی و وضعیت immunity میزبان را کنار هم قرار دهید.",
         "next_step": "پس از تکامل ویروس‌های جانوری، به ویروس‌های پروکاریوتی بروید تا شکل متفاوتی از هم‌تکاملی virus–host را مقایسه کنید."
       }
+    },
+    {
+      "id": "VIROLOGY::REVIEW-TEMPERATE-PHAGE-LIFECYCLE-2026",
+      "resource_id": "REVIEW-TEMPERATE-PHAGE-LIFECYCLE-2026",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "prokaryotic-viruses"
+      ],
+      "coverage_concept_ids": [
+        "VR02",
+        "VR05",
+        "VR06",
+        "VR07",
+        "VR09",
+        "VR10",
+        "VR11"
+      ],
+      "selection_rationale": "A current synthesis of temperate phage lytic and lysogenic cycles, prophage biology, transduction and phage-host co-evolution that provides the main framework for bacterial viruses.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که چرخه lytic را می‌شناسد اما می‌خواهد lysogeny، prophage و نقش فاژ در تکامل باکتری را عمیق‌تر بفهمد.",
+        "why": "چرخه temperate phage را از یک دوگانه ساده lytic/lysogenic فراتر می‌برد و آن را به انتقال ژن و هم‌تکاملی میزبان وصل می‌کند.",
+        "how_to_use": "یک نقشه تصمیم برای ورود به lytic یا lysogenic state بسازید و سپس prophage induction، transduction و اثر بر fitness باکتری را به آن اضافه کنید.",
+        "next_step": "پس از فاژهای باکتریایی، منبع archaeal virus entry and egress را بخوانید تا تنوع ویروس‌های پروکاریوتی را خارج از مدل کلاسیک فاژ ببینید."
+      }
+    },
+    {
+      "id": "VIROLOGY::REVIEW-ARCHAEAL-VIRUS-ENTRY-EGRESS-2024",
+      "resource_id": "REVIEW-ARCHAEAL-VIRUS-ENTRY-EGRESS-2024",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "prokaryotic-viruses"
+      ],
+      "coverage_concept_ids": [
+        "VR01",
+        "VR03",
+        "VR04",
+        "VR06",
+        "VR07",
+        "VR11"
+      ],
+      "selection_rationale": "A complementary review of the unusual structural diversity and cell-entry and egress mechanisms of archaeal viruses, expanding prokaryotic virology beyond bacteriophage paradigms.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که فاژهای باکتریایی را مطالعه کرده و می‌خواهد بداند ویروس‌های آرکی چه ساختارها و راهبردهای متفاوتی دارند.",
+        "why": "ویروس‌های آرکی شکل‌ها و سازوکارهای entry/egress متنوعی دارند و نشان می‌دهند مدل‌های کلاسیک باکتریوفاژ کل virosphere پروکاریوتی را توضیح نمی‌دهند.",
+        "how_to_use": "ساختار ویریون، گیرنده یا سطح میزبان، مسیر ورود و شیوه خروج را با فاژهای باکتریایی در یک جدول مقایسه کنید.",
+        "next_step": "سپس وارد Plant Virology شوید تا اثر نوع میزبان بر انتقال، دفاع و تکامل ویروس را در یک سیستم یوکاریوتی متفاوت بررسی کنید."
+      }
     }
   ]
 }
