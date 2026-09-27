@@ -7911,7 +7911,10 @@
       "cover": {
         "url": "https://covers.vitalsource.com/vbid/9781683673583/width/200",
         "source": "VitalSource exact-edition cover; ASM Press/Wiley remains bibliographic authority",
-        "source_url": "https://www.vitalsource.com/products/principles-of-virology-jane-flint-vincent-r-v9781683673583"
+        "source_url": "https://www.vitalsource.com/products/principles-of-virology-jane-flint-vincent-r-v9781683673583",
+        "expected_sha256": "2fbbb6fcbbae586ebfecf6ccc46fb489e2c04bdccc42d26d7afcf232cc72b902",
+        "visual_reviewed_on": "2026-09-27",
+        "visual_review_status": "title_and_edition_checked"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-27",
@@ -7942,7 +7945,10 @@
       "cover": {
         "url": "https://covers.vitalsource.com/vbid/9781119885887/width/200",
         "source": "VitalSource exact-edition cover; Wiley-Blackwell remains bibliographic authority",
-        "source_url": "https://www.vitalsource.com/products/fundamentals-of-molecular-virology-christopher-d-richardson-v9781119885887"
+        "source_url": "https://www.vitalsource.com/products/fundamentals-of-molecular-virology-christopher-d-richardson-v9781119885887",
+        "expected_sha256": "1baeeba9c9850ccd1b8b72005d1fec186b00e759957d368e78193fa1ba27551b",
+        "visual_reviewed_on": "2026-09-27",
+        "visual_review_status": "title_and_edition_checked"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-27",
@@ -7973,7 +7979,10 @@
       "cover": {
         "url": "https://covers.vitalsource.com/vbid/9781975221195/width/200",
         "source": "VitalSource exact-edition cover; Wolters Kluwer remains bibliographic authority",
-        "source_url": "https://www.vitalsource.com/products/fields-virology-peter-m-howley-david-m-v9781975221195"
+        "source_url": "https://www.vitalsource.com/products/fields-virology-peter-m-howley-david-m-v9781975221195",
+        "expected_sha256": "e2293a7707ba9ef6dcd5d4a750c6d22f47f8b565eed48131029229b10d991a8f",
+        "visual_reviewed_on": "2026-09-27",
+        "visual_review_status": "title_and_edition_checked"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-27",
