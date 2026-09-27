@@ -5051,14 +5051,17 @@
       "cover": {
         "url": "https://neurobiology.northwestern.edu/courses/undergraduate-courses/2026-2027/class-schedules/fall-2026-class-schedule/26-202_book.jpg",
         "source": "Northwestern University Neurobiology course page image of the Jones & Bartlett Learning 5th edition; exact title/edition visually cross-checked against the publisher record",
-        "source_url": "https://neurobiology.northwestern.edu/courses/undergraduate-courses/2026-2027/class-schedules/fall-2026-class-schedule/"
+        "source_url": "https://neurobiology.northwestern.edu/courses/undergraduate-courses/2026-2027/class-schedules/fall-2026-class-schedule/",
+        "expected_sha256": "9b26182897d2ec1239de74b64a5407d349d84068bb5feafc4d07b5703eadad96",
+        "visual_reviewed_on": "2026-09-27",
+        "visual_review_status": "title_and_edition_checked"
       },
       "theory_only": true,
-      "verification_status": "provisional",
+      "verification_status": "verified",
       "verified_on": "2026-09-27",
       "verification_evidence": {
         "checked_on": "2026-09-27",
-        "scope": "Bibliographic identity matches the Jones & Bartlett Learning Fifth Edition record (print ISBN 9781284286878). The former VitalSource image endpoint returned a generic placeholder in the cover audit and was replaced. Exact-byte locking for the replacement image is pending the next audit run.",
+        "scope": "Bibliographic identity matches the Jones & Bartlett Learning Fifth Edition record (print ISBN 9781284286878). The former VitalSource endpoint returned a generic placeholder and was replaced. The replacement cover was visually reviewed from the CI artifact and exact bytes were locked by SHA-256; this is not full-text scientific certification.",
         "sources": [
           "https://www.jblearning.com/catalog/productdetails/9781284286878",
           "https://samples.jblearning.com/9781284286878/OR-9383354299-FLYR.pdf",
