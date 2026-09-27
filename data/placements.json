@@ -10084,6 +10084,54 @@
         "how_to_use": "چهار ستون برای viral lysis، biogeochemical cycling، auxiliary metabolic genes و lateral gene transfer بسازید و اثر هرکدام را بر ecosystem function خلاصه کنید.",
         "next_step": "پس از مقیاس اکوسیستم، وارد شاخه انکولوژی ویروسی و ضدویروس‌ها شوید تا اثر ویروس و کنترل آن را در سطح بیماری مزمن و مداخله مولکولی بررسی کنید."
       }
+    },
+    {
+      "id": "VIROLOGY::REVIEW-DEFECTIVE-ONCOVIRUSES-2025",
+      "resource_id": "REVIEW-DEFECTIVE-ONCOVIRUSES-2025",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "viral-oncology-antivirals"
+      ],
+      "coverage_concept_ids": [
+        "VR07",
+        "VR09",
+        "VR13"
+      ],
+      "selection_rationale": "A current cross-virus review of human oncoviruses focusing on persistence, integration, defective viral genomes, immune evasion and their functional contribution to tumor evolution.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بفهمد چرا حضور یک ویروس در تومور با «ایجاد سرطان» یکسان نیست و چه سازوکارهایی واقعاً به oncogenesis کمک می‌کنند.",
+        "why": "هفت oncovirus انسانی را در یک چارچوب مقایسه‌ای قرار می‌دهد و persistence، integration، mutation و immune evasion را به انتخاب کلونال و پیشرفت تومور وصل می‌کند.",
+        "how_to_use": "برای هر oncovirus مشخص کنید ژنوم ویروسی در سلول چگونه باقی می‌ماند، کدام عملکردهای ویروسی حفظ یا از دست می‌روند و این تغییر چگونه به fitness سلول توموری کمک می‌کند.",
+        "next_step": "سپس منبع antiviral drug discovery را بخوانید تا از سازوکار بیماری به منطق انتخاب target و مهار چرخه ویروسی بروید."
+      }
+    },
+    {
+      "id": "VIROLOGY::REVIEW-ANTIVIRAL-DRUG-DISCOVERY-2026",
+      "resource_id": "REVIEW-ANTIVIRAL-DRUG-DISCOVERY-2026",
+      "subject_id": "VIROLOGY",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "current_update",
+      "branch_ids": [
+        "viral-oncology-antivirals"
+      ],
+      "coverage_concept_ids": [
+        "VR05",
+        "VR06",
+        "VR07",
+        "VR10",
+        "VR12"
+      ],
+      "selection_rationale": "A current review linking viral and host targets to modern antiviral discovery, resistance, broad-spectrum strategies and emerging structure- and mechanism-guided approaches.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که چرخه ویروس را می‌داند و می‌خواهد بفهمد یک مرحله یا پروتئین چگونه به antiviral target تبدیل می‌شود.",
+        "why": "داروی ضدویروسی را به‌صورت فهرست داروها آموزش نمی‌دهد؛ target selection، resistance، broad-spectrum design و محدودیت‌های کشف دارو را در یک چارچوب قرار می‌دهد.",
+        "how_to_use": "برای هر target مشخص کنید ویروسی است یا میزبان، در کدام مرحله چرخه قرار دارد، چه مزیت انتخابی دارد و مقاومت چگونه می‌تواند ایجاد شود.",
+        "next_step": "پس از این شاخه، مسیر تخصصی ویروس‌شناسی کامل است و می‌توانید بر اساس سؤال پژوهشی خود یکی از نه شاخه را عمیق‌تر دنبال کنید."
+      }
     }
   ]
 }
