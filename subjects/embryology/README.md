@@ -2,7 +2,7 @@
 
 # جنین‌شناسی — ⁦Embryology⁩
 
-> **وضعیت:** ⁦Complete⁩ — مسیر نظری شامل ۴ مرحله عمومی، ۹ شاخه تخصصی و ۱۳ جایگاه منبع است.
+> **وضعیت:** ⁦Complete⁩ — مسیر نظری شامل ۴ مرحله عمومی، ۹ شاخه تخصصی و ۲۲ جایگاه منبع است.
 
 این مسیر بر تکوین جنین انسان از لقاح تا شکل‌گیری دستگاه‌های اصلی تمرکز دارد. جنین‌شناسی در این Registry با Developmental Biology یکسان نیست: این درس سازمان زمانی و آناتومیک تکوین انسان را دنبال می‌کند، در حالی که Developmental Biology بر سازوکارهای عمومی و مقایسه‌ای تکوین تمرکز دارد.
 
@@ -133,27 +133,29 @@
 
 # شاخه‌های تخصصی
 
-این ۹ شاخه برای پوشش نظری متوازن درس انتخاب شده‌اند. هر شاخه یک منبع مرجع یا مرور معتبر دارد تا مسیر عمومی به مطالعه تخصصی متصل شود.
+این ۹ شاخه برای پوشش نظری متوازن درس انتخاب شده‌اند. هر شاخه دو منبع با نقش متفاوت دارد: ابتدا منبع مرجع شاخه و سپس منبع تکمیلی یا به‌روزرسانی جدید.
 
-| شاخه | منبع پیشنهادی |
+| شاخه | ترتیب پیشنهادی |
 |---|---|
-| جنین‌زایی اولیه و لانه‌گزینی | ⁦Epigenome dynamics in early mammalian embryogenesis⁩ |
-| جفت و بافت‌های خارج‌جنینی | ⁦Origin, fate and function of extraembryonic tissues during mammalian development⁩ |
-| گاسترولاسیون و تعیین محورهای بدن | ⁦Nodal Signaling: A Paradigm for TGFβ Signaling in Embryonic Development⁩ |
-| نورولاسیون و تکوین عصبی | ⁦Early spinal cord development: from neural tube formation to neurogenesis⁩ |
-| تاج عصبی و تکوین کرانیوفاسیال | ⁦Neural crest gene regulatory networks as drivers of development, diversification and disease⁩ |
-| تکوین قلب و عروق | ⁦Coordination of cardiogenesis in vivo and in vitro⁩ |
-| تکوین دستگاه تنفسی و گوارشی | ⁦The molecular and cellular choreography of early mammalian lung development⁩ |
-| تکوین ادراری–تناسلی و رده زایشی | ⁦Mechanisms of human germ cell development⁩ |
-| تکوین اسکلتی–عضلانی و اندام‌ها | ⁦Cellular and molecular control of vertebrate somitogenesis⁩ |
+| جنین‌زایی اولیه و لانه‌گزینی | ⁦Epigenome dynamics in early mammalian embryogenesis⁩ ← ⁦The maternal-to-zygotic transition: reprogramming of the cytoplasm and nucleus⁩ |
+| جفت و بافت‌های خارج‌جنینی | ⁦Origin, fate and function of extraembryonic tissues during mammalian development⁩ ← ⁦Decoding the molecular pathways governing trophoblast migration and placental development; a literature review⁩ |
+| گاسترولاسیون و تعیین محورهای بدن | ⁦Nodal Signaling: A Paradigm for TGFβ Signaling in Embryonic Development⁩ ← ⁦Challenges and Opportunities in Spatiotemporal Models of Mammalian Gastrulation⁩ |
+| نورولاسیون و تکوین عصبی | ⁦Early spinal cord development: from neural tube formation to neurogenesis⁩ ← ⁦Approaches to embryonic neurodevelopment: from neural cell to neural tube formation through mathematical models⁩ |
+| تاج عصبی و تکوین کرانیوفاسیال | ⁦Neural crest gene regulatory networks as drivers of development, diversification and disease⁩ ← ⁦Origin stories of neural crest roles in craniofacial development: A tale of the meninges⁩ |
+| تکوین قلب و عروق | ⁦Coordination of cardiogenesis in vivo and in vitro⁩ ← ⁦Early heart development: examining the dynamics of function-form emergence⁩ |
+| تکوین دستگاه تنفسی و گوارشی | ⁦The molecular and cellular choreography of early mammalian lung development⁩ ← ⁦Morphogenesis of the Vertebrate Intestine: From Form to Function⁩ |
+| تکوین ادراری–تناسلی و رده زایشی | ⁦Mechanisms of human germ cell development⁩ ← ⁦Ureter development and associated congenital anomalies⁩ |
+| تکوین اسکلتی–عضلانی و اندام‌ها | ⁦Cellular and molecular control of vertebrate somitogenesis⁩ ← ⁦Measuring and manipulating mechanical forces during development⁩ |
 
 ---
 
 <details>
 <summary><strong>1. جنین‌زایی اولیه و لانه‌گزینی</strong></summary>
 
+### منبع مرجع شاخه
 
-### ⁦Epigenome dynamics in early mammalian embryogenesis⁩
+
+#### ⁦Epigenome dynamics in early mammalian embryogenesis⁩
 
 **مناسب برای:** دانشجویی که جنین‌زایی اولیه را می‌داند و دنبال لایه تنظیم اپی‌ژنتیک است.
 
@@ -172,6 +174,30 @@
 [صفحه رسمی منبع](https://www.nature.com/articles/s41576-025-00831-4)
 
 
+---
+
+### منبع تکمیلی
+
+
+#### ⁦The maternal-to-zygotic transition: reprogramming of the cytoplasm and nucleus⁩
+
+**مناسب برای:** دانشجویی که منبع مرجع شاخه «جنین‌زایی اولیه و لانه‌گزینی» را خوانده و به زاویه مکمل نیاز دارد.
+
+**دلیل انتخاب:** گذار مادری–زیگوتی زاویه مکملی برای فهم بازبرنامه‌ریزی هسته و سیتوپلاسم در آغاز جنین‌زایی می‌دهد.
+
+**شیوه مطالعه:** رویدادهای MZT را روی خط زمانی کلیواژ تا فعال‌شدن ژنوم زیگوت قرار دهید.
+
+**ادامه مسیر:** دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید.
+
+<div dir="ltr" align="left">
+
+⁦Mina L. Kojima⁩، ⁦Caroline Hoppe⁩، ⁦Antonio J. Giraldez⁩، ⁦Nature Reviews Genetics⁩، ⁦2025⁩، ⁦DOI: 10.1038/s41576-024-00792-0⁩
+
+</div>
+
+[صفحه رسمی منبع](https://www.nature.com/articles/s41576-024-00792-0)
+
+
 </details>
 
 ---
@@ -179,8 +205,10 @@
 <details>
 <summary><strong>2. جفت و بافت‌های خارج‌جنینی</strong></summary>
 
+### منبع مرجع شاخه
 
-### ⁦Origin, fate and function of extraembryonic tissues during mammalian development⁩
+
+#### ⁦Origin, fate and function of extraembryonic tissues during mammalian development⁩
 
 **مناسب برای:** دانشجویی که می‌خواهد جفت و بافت‌های خارج‌جنینی را از منشأ تا عملکرد دنبال کند.
 
@@ -199,6 +227,30 @@
 [صفحه رسمی منبع](https://www.nature.com/articles/s41580-024-00809-w)
 
 
+---
+
+### منبع تکمیلی
+
+
+#### ⁦Decoding the molecular pathways governing trophoblast migration and placental development; a literature review⁩
+
+**مناسب برای:** دانشجویی که منبع مرجع شاخه «جفت و بافت‌های خارج‌جنینی» را خوانده و به زاویه مکمل نیاز دارد.
+
+**دلیل انتخاب:** این مرور مهاجرت و تمایز تروفوبلاست را به مسیرهای سیگنالینگ و شکل‌گیری جفت متصل می‌کند.
+
+**شیوه مطالعه:** Wnt، Notch، TGF-β و VEGF را به مرحله و رفتار تروفوبلاست نگاشت کنید.
+
+**ادامه مسیر:** دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید.
+
+<div dir="ltr" align="left">
+
+⁦Lianlian Liu⁩، ⁦Lin Tang⁩، ⁦Shuai Chen⁩، ⁦Lianwen Zheng⁩، ⁦Xiaoyan Ma⁩، ⁦Frontiers in Endocrinology⁩، ⁦2024⁩، ⁦DOI: 10.3389/fendo.2024.1486608⁩
+
+</div>
+
+[صفحه رسمی منبع](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2024.1486608/full)
+
+
 </details>
 
 ---
@@ -206,8 +258,10 @@
 <details>
 <summary><strong>3. گاسترولاسیون و تعیین محورهای بدن</strong></summary>
 
+### منبع مرجع شاخه
 
-### ⁦Nodal Signaling: A Paradigm for TGFβ Signaling in Embryonic Development⁩
+
+#### ⁦Nodal Signaling: A Paradigm for TGFβ Signaling in Embryonic Development⁩
 
 **مناسب برای:** دانشجویی که می‌خواهد تعیین محور و گاسترولاسیون را مکانیزمی بفهمد.
 
@@ -226,6 +280,30 @@
 [صفحه رسمی منبع](https://www.annualreviews.org/content/journals/10.1146/annurev-cellbio-112122-030209)
 
 
+---
+
+### منبع تکمیلی
+
+
+#### ⁦Challenges and Opportunities in Spatiotemporal Models of Mammalian Gastrulation⁩
+
+**مناسب برای:** دانشجویی که منبع مرجع شاخه «گاسترولاسیون و تعیین محورهای بدن» را خوانده و به زاویه مکمل نیاز دارد.
+
+**دلیل انتخاب:** مدل‌های فضایی–زمانی گاسترولاسیون مکمل فهم هماهنگی تعیین سرنوشت و مورفوژنز هستند.
+
+**شیوه مطالعه:** زمان، موقعیت و هویت سلولی را به‌عنوان سه محور یک مدل واحد بازسازی کنید.
+
+**ادامه مسیر:** دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید.
+
+<div dir="ltr" align="left">
+
+⁦Hernan Rubinstein⁩، ⁦Yoav Mayshar⁩، ⁦Yonatan Stelzer⁩، ⁦Annual Review of Cell and Developmental Biology⁩، ⁦2025⁩، ⁦DOI: 10.1146/annurev-cellbio-101323-125216⁩
+
+</div>
+
+[صفحه رسمی منبع](https://www.annualreviews.org/content/journals/10.1146/annurev-cellbio-101323-125216)
+
+
 </details>
 
 ---
@@ -233,8 +311,10 @@
 <details>
 <summary><strong>4. نورولاسیون و تکوین عصبی</strong></summary>
 
+### منبع مرجع شاخه
 
-### ⁦Early spinal cord development: from neural tube formation to neurogenesis⁩
+
+#### ⁦Early spinal cord development: from neural tube formation to neurogenesis⁩
 
 **مناسب برای:** دانشجویی که نورولاسیون پایه را خوانده و دنبال تداوم آن تا نوروجنز است.
 
@@ -253,6 +333,30 @@
 [صفحه رسمی منبع](https://www.nature.com/articles/s41583-025-00906-5)
 
 
+---
+
+### منبع تکمیلی
+
+
+#### ⁦Approaches to embryonic neurodevelopment: from neural cell to neural tube formation through mathematical models⁩
+
+**مناسب برای:** دانشجویی که منبع مرجع شاخه «نورولاسیون و تکوین عصبی» را خوانده و به زاویه مکمل نیاز دارد.
+
+**دلیل انتخاب:** مرور مدل‌های نوروتکوینی پلی میان تشکیل سلول عصبی، لوله عصبی و صورت‌بندی کمی فرایند ایجاد می‌کند.
+
+**شیوه مطالعه:** مراحل زیستی را جدا از مفروضات مدل‌سازی فهرست و سپس ارتباط آن‌ها را مشخص کنید.
+
+**ادامه مسیر:** دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید.
+
+<div dir="ltr" align="left">
+
+⁦Ali H. Rafati⁩، ⁦Sâmia Joca⁩، ⁦Regina T. Vontell⁩، ⁦Briefings in Bioinformatics⁩، ⁦2024⁩، ⁦DOI: 10.1093/bib/bbae265⁩
+
+</div>
+
+[صفحه رسمی منبع](https://academic.oup.com/bib/article/25/4/bbae265/7689910)
+
+
 </details>
 
 ---
@@ -260,8 +364,10 @@
 <details>
 <summary><strong>5. تاج عصبی و تکوین کرانیوفاسیال</strong></summary>
 
+### منبع مرجع شاخه
 
-### ⁦Neural crest gene regulatory networks as drivers of development, diversification and disease⁩
+
+#### ⁦Neural crest gene regulatory networks as drivers of development, diversification and disease⁩
 
 **مناسب برای:** دانشجویی که مشتقات تاج عصبی را می‌شناسد و دنبال منطق تنظیمی آن است.
 
@@ -280,6 +386,30 @@
 [صفحه رسمی منبع](https://www.nature.com/articles/s41580-026-00949-1)
 
 
+---
+
+### منبع تکمیلی
+
+
+#### ⁦Origin stories of neural crest roles in craniofacial development: A tale of the meninges⁩
+
+**مناسب برای:** دانشجویی که منبع مرجع شاخه «تاج عصبی و تکوین کرانیوفاسیال» را خوانده و به زاویه مکمل نیاز دارد.
+
+**دلیل انتخاب:** این مرور نقش‌های تاج عصبی را در تکوین کرانیوفاسیال از زاویه مننژها تکمیل می‌کند.
+
+**شیوه مطالعه:** مشتقات تاج عصبی را به بافت هدف و نقش سیگنال‌دهی آن‌ها وصل کنید.
+
+**ادامه مسیر:** دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید.
+
+<div dir="ltr" align="left">
+
+⁦Diana Rigueur⁩، ⁦Julia C. Boughner⁩، ⁦Differentiation⁩، ⁦2025⁩، ⁦DOI: 10.1016/j.diff.2025.100880⁩
+
+</div>
+
+[صفحه رسمی منبع](https://doi.org/10.1016/j.diff.2025.100880)
+
+
 </details>
 
 ---
@@ -287,8 +417,10 @@
 <details>
 <summary><strong>6. تکوین قلب و عروق</strong></summary>
 
+### منبع مرجع شاخه
 
-### ⁦Coordination of cardiogenesis in vivo and in vitro⁩
+
+#### ⁦Coordination of cardiogenesis in vivo and in vitro⁩
 
 **مناسب برای:** دانشجویی که مراحل قلب‌زایی را خوانده و دنبال هماهنگی سلولی و بافتی است.
 
@@ -307,6 +439,30 @@
 [صفحه رسمی منبع](https://www.nature.com/articles/s41580-025-00878-5)
 
 
+---
+
+### منبع تکمیلی
+
+
+#### ⁦Early heart development: examining the dynamics of function-form emergence⁩
+
+**مناسب برای:** دانشجویی که منبع مرجع شاخه «تکوین قلب و عروق» را خوانده و به زاویه مکمل نیاز دارد.
+
+**دلیل انتخاب:** تمرکز بر ظهور هم‌زمان فرم و عملکرد، تصویر مکملی از مراحل اولیه قلب‌زایی می‌دهد.
+
+**شیوه مطالعه:** رویداد مورفولوژیک و تغییر عملکردی متناظر را روی یک خط زمانی قرار دهید.
+
+**ادامه مسیر:** دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید.
+
+<div dir="ltr" align="left">
+
+⁦Noémie Combémorel⁩، ⁦Natasha Cavell⁩، ⁦Richard C. V. Tyser⁩، ⁦Biochemical Society Transactions⁩، ⁦2024⁩، ⁦DOI: 10.1042/BST20230546⁩
+
+</div>
+
+[صفحه رسمی منبع](https://doi.org/10.1042/BST20230546)
+
+
 </details>
 
 ---
@@ -314,8 +470,10 @@
 <details>
 <summary><strong>7. تکوین دستگاه تنفسی و گوارشی</strong></summary>
 
+### منبع مرجع شاخه
 
-### ⁦The molecular and cellular choreography of early mammalian lung development⁩
+
+#### ⁦The molecular and cellular choreography of early mammalian lung development⁩
 
 **مناسب برای:** دانشجویی که مشتقات لوله گوارش و جوانه تنفسی را می‌داند.
 
@@ -334,6 +492,30 @@
 [صفحه رسمی منبع](https://www.degruyterbrill.com/document/doi/10.1515/mr-2023-0064/html)
 
 
+---
+
+### منبع تکمیلی
+
+
+#### ⁦Morphogenesis of the Vertebrate Intestine: From Form to Function⁩
+
+**مناسب برای:** دانشجویی که منبع مرجع شاخه «تکوین دستگاه تنفسی و گوارشی» را خوانده و به زاویه مکمل نیاز دارد.
+
+**دلیل انتخاب:** مورفوژنز روده الگوی مکملی برای فهم تبدیل لوله ساده جنینی به اندام چندلایه و عملکردی است.
+
+**شیوه مطالعه:** تشکیل لوله، چرخش، عدم تقارن و الگوسازی شعاعی را مرحله‌بندی کنید.
+
+**ادامه مسیر:** دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید.
+
+<div dir="ltr" align="left">
+
+⁦Bhargav D. Sanketi⁩، ⁦Liqing Huang⁩، ⁦Natasza A. Kurpios⁩، ⁦Annual Review of Cell and Developmental Biology⁩، ⁦2025⁩، ⁦DOI: 10.1146/annurev-cellbio-101123-044600⁩
+
+</div>
+
+[صفحه رسمی منبع](https://www.annualreviews.org/content/journals/10.1146/annurev-cellbio-101123-044600)
+
+
 </details>
 
 ---
@@ -341,8 +523,10 @@
 <details>
 <summary><strong>8. تکوین ادراری–تناسلی و رده زایشی</strong></summary>
 
+### منبع مرجع شاخه
 
-### ⁦Mechanisms of human germ cell development⁩
+
+#### ⁦Mechanisms of human germ cell development⁩
 
 **مناسب برای:** دانشجویی که تکوین دستگاه تناسلی را خوانده و دنبال رده زایشی است.
 
@@ -361,6 +545,30 @@
 [صفحه رسمی منبع](https://www.nature.com/articles/s41580-025-00893-6)
 
 
+---
+
+### منبع تکمیلی
+
+
+#### ⁦Ureter development and associated congenital anomalies⁩
+
+**مناسب برای:** دانشجویی که منبع مرجع شاخه «تکوین ادراری–تناسلی و رده زایشی» را خوانده و به زاویه مکمل نیاز دارد.
+
+**دلیل انتخاب:** تکوین حالب نمونه دقیقی از هماهنگی اپی‌تلیوم و مزانشیم در دستگاه ادراری و منشأ ناهنجاری‌ها است.
+
+**شیوه مطالعه:** جوانه حالبی، مزانشیم و اتصال به مثانه را در یک زنجیره علّی ترسیم کنید.
+
+**ادامه مسیر:** دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید.
+
+<div dir="ltr" align="left">
+
+⁦Andreas Kispert⁩، ⁦Nature Reviews Nephrology⁩، ⁦2025⁩، ⁦DOI: 10.1038/s41581-025-00951-4⁩
+
+</div>
+
+[صفحه رسمی منبع](https://www.nature.com/articles/s41581-025-00951-4)
+
+
 </details>
 
 ---
@@ -368,8 +576,10 @@
 <details>
 <summary><strong>9. تکوین اسکلتی–عضلانی و اندام‌ها</strong></summary>
 
+### منبع مرجع شاخه
 
-### ⁦Cellular and molecular control of vertebrate somitogenesis⁩
+
+#### ⁦Cellular and molecular control of vertebrate somitogenesis⁩
 
 **مناسب برای:** دانشجویی که مشتقات سومیت را می‌داند و می‌خواهد منطق تشکیل قطعه‌ای بدن را بفهمد.
 
@@ -386,6 +596,30 @@
 </div>
 
 [صفحه رسمی منبع](https://www.nature.com/articles/s41580-024-00709-z)
+
+
+---
+
+### منبع تکمیلی
+
+
+#### ⁦Measuring and manipulating mechanical forces during development⁩
+
+**مناسب برای:** دانشجویی که منبع مرجع شاخه «تکوین اسکلتی–عضلانی و اندام‌ها» را خوانده و به زاویه مکمل نیاز دارد.
+
+**دلیل انتخاب:** نیروهای مکانیکی زاویه مکملی برای فهم شکل‌گیری بافت‌ها و اندام‌ها فراتر از الگوهای ژنی فراهم می‌کنند.
+
+**شیوه مطالعه:** برای هر رویداد مورفوژنتیک، منبع نیرو، بافت پاسخ‌دهنده و تغییر شکل را مشخص کنید.
+
+**ادامه مسیر:** دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید.
+
+<div dir="ltr" align="left">
+
+⁦Clémentine Villeneuve⁩، ⁦Kaitlin P. McCreery⁩، ⁦Sara A. Wickström⁩، ⁦Nature Cell Biology⁩، ⁦2025⁩، ⁦DOI: 10.1038/s41556-025-01632-x⁩
+
+</div>
+
+[صفحه رسمی منبع](https://www.nature.com/articles/s41556-025-01632-x)
 
 
 </details>

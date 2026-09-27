@@ -2,7 +2,7 @@
 
 # بافت‌شناسی — ⁦Histology⁩
 
-> **وضعیت:** ⁦Complete⁩ — مسیر نظری شامل ۴ مرحله عمومی، ۹ شاخه تخصصی و ۱۳ جایگاه منبع است.
+> **وضعیت:** ⁦Complete⁩ — مسیر نظری شامل ۴ مرحله عمومی، ۹ شاخه تخصصی و ۲۲ جایگاه منبع است.
 
 این نقشه‌راه بافت‌شناسی را به‌عنوان مطالعه ریزساختار بافت‌ها و اندام‌ها و رابطه ساختار–عملکرد آن‌ها سازمان می‌دهد. آموزش آماده‌سازی لام، رنگ‌آمیزی، میکروسکوپی عملی و تشخیص پاتولوژی خارج از دامنه این مسیر است.
 
@@ -129,27 +129,29 @@
 
 # شاخه‌های تخصصی
 
-این ۹ شاخه برای پوشش نظری متوازن درس انتخاب شده‌اند. هر شاخه یک منبع مرجع یا مرور معتبر دارد تا مسیر عمومی به مطالعه تخصصی متصل شود.
+این ۹ شاخه برای پوشش نظری متوازن درس انتخاب شده‌اند. هر شاخه دو منبع با نقش متفاوت دارد: ابتدا منبع مرجع شاخه و سپس منبع تکمیلی یا به‌روزرسانی جدید.
 
-| شاخه | منبع پیشنهادی |
+| شاخه | ترتیب پیشنهادی |
 |---|---|
-| اپی‌تلیوم، سدها و اتصالات سلولی | ⁦Adherens junctions as molecular regulators of emergent tissue mechanics⁩ |
-| بافت همبند و ماتریکس خارج‌سلولی | ⁦Mechanisms of assembly and remodelling of the extracellular matrix⁩ |
-| غضروف و استخوان | ⁦Metabolic regulation of skeletal cell fate and function⁩ |
-| بافت عضلانی | ⁦The importance of comparative physiology: mechanisms, diversity and adaptation in skeletal muscle physiology and mechanics⁩ |
-| بافت عصبی و گلیا | ⁦Astrocytes and microglia in the coordination of CNS development and homeostasis⁩ |
-| خون و بافت‌های خون‌ساز | ⁦Bone marrow niches for hematopoietic stem cells: life span dynamics and adaptation to acute stress⁩ |
-| قلب، عروق و اندوتلیوم | ⁦Microenvironmental determinants of endothelial cell heterogeneity⁩ |
-| بافت دستگاه تنفسی | ⁦Histology, Lung⁩ |
-| پوست و دستگاه پوششی | ⁦Histology, Skin⁩ |
+| اپی‌تلیوم، سدها و اتصالات سلولی | ⁦Adherens junctions as molecular regulators of emergent tissue mechanics⁩ ← ⁦Shaping epithelial tissues by stem cell mechanics in development and cancer⁩ |
+| بافت همبند و ماتریکس خارج‌سلولی | ⁦Mechanisms of assembly and remodelling of the extracellular matrix⁩ ← ⁦Fibroblast and myofibroblast activation in normal tissue repair and fibrosis⁩ |
+| غضروف و استخوان | ⁦Metabolic regulation of skeletal cell fate and function⁩ ← ⁦Cell signaling and transcriptional regulation of osteoblast lineage commitment, differentiation, bone formation, and homeostasis⁩ |
+| بافت عضلانی | ⁦The importance of comparative physiology: mechanisms, diversity and adaptation in skeletal muscle physiology and mechanics⁩ ← ⁦Roles of Femoral Biarticular and Monoarticular Muscles in Cat Walking: A Comparative Review With Dogs, Horses, and Humans⁩ |
+| بافت عصبی و گلیا | ⁦Astrocytes and microglia in the coordination of CNS development and homeostasis⁩ ← ⁦Microglial states revisited: from homeostasis to disease⁩ |
+| خون و بافت‌های خون‌ساز | ⁦Bone marrow niches for hematopoietic stem cells: life span dynamics and adaptation to acute stress⁩ ← ⁦The role of the haematopoietic stem cell niche in development and ageing⁩ |
+| قلب، عروق و اندوتلیوم | ⁦Microenvironmental determinants of endothelial cell heterogeneity⁩ ← ⁦Dissecting endothelial cell heterogeneity with new tools⁩ |
+| بافت دستگاه تنفسی | ⁦Histology, Lung⁩ ← ⁦A single-cell atlas of lung homeostasis reveals dynamic changes during development and aging⁩ |
+| پوست و دستگاه پوششی | ⁦Histology, Skin⁩ ← ⁦Topographical variations in the skin barrier and their role in disease pathogenesis⁩ |
 
 ---
 
 <details>
 <summary><strong>1. اپی‌تلیوم، سدها و اتصالات سلولی</strong></summary>
 
+### منبع مرجع شاخه
 
-### ⁦Adherens junctions as molecular regulators of emergent tissue mechanics⁩
+
+#### ⁦Adherens junctions as molecular regulators of emergent tissue mechanics⁩
 
 **مناسب برای:** دانشجویی که ساختار اپی‌تلیوم را می‌داند و دنبال منطق اتصالات سلولی است.
 
@@ -168,6 +170,30 @@
 [صفحه رسمی منبع](https://www.nature.com/articles/s41580-023-00688-7)
 
 
+---
+
+### منبع تکمیلی
+
+
+#### ⁦Shaping epithelial tissues by stem cell mechanics in development and cancer⁩
+
+**مناسب برای:** دانشجویی که منبع مرجع شاخه «اپی‌تلیوم، سدها و اتصالات سلولی» را خوانده و به زاویه مکمل نیاز دارد.
+
+**دلیل انتخاب:** مکانیک سلول‌های بنیادی اپی‌تلیال نشان می‌دهد چگونه نیرو و سیگنالینگ معماری بافت را می‌سازند و حفظ می‌کنند.
+
+**شیوه مطالعه:** نیروهای سلولی، اتصال‌ها و تغییر شکل بافتی را در یک نقشه علت–معلولی قرار دهید.
+
+**ادامه مسیر:** دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید.
+
+<div dir="ltr" align="left">
+
+⁦Vincent F. Fiore⁩، ⁦Jorge Almagro⁩، ⁦Elaine Fuchs⁩، ⁦Nature Reviews Molecular Cell Biology⁩، ⁦2025⁩، ⁦DOI: 10.1038/s41580-024-00821-0⁩
+
+</div>
+
+[صفحه رسمی منبع](https://www.nature.com/articles/s41580-024-00821-0)
+
+
 </details>
 
 ---
@@ -175,8 +201,10 @@
 <details>
 <summary><strong>2. بافت همبند و ماتریکس خارج‌سلولی</strong></summary>
 
+### منبع مرجع شاخه
 
-### ⁦Mechanisms of assembly and remodelling of the extracellular matrix⁩
+
+#### ⁦Mechanisms of assembly and remodelling of the extracellular matrix⁩
 
 **مناسب برای:** دانشجویی که بافت همبند را فراتر از نام‌بردن فیبرها می‌خواهد بفهمد.
 
@@ -195,6 +223,30 @@
 [صفحه رسمی منبع](https://www.nature.com/articles/s41580-024-00767-3)
 
 
+---
+
+### منبع تکمیلی
+
+
+#### ⁦Fibroblast and myofibroblast activation in normal tissue repair and fibrosis⁩
+
+**مناسب برای:** دانشجویی که منبع مرجع شاخه «بافت همبند و ماتریکس خارج‌سلولی» را خوانده و به زاویه مکمل نیاز دارد.
+
+**دلیل انتخاب:** فعال‌شدن فیبروبلاست و میوفیبروبلاست نقش سلولی بافت همبند را در نگهداری، ترمیم و فیبروز روشن می‌کند.
+
+**شیوه مطالعه:** حالت پایه، ترمیمی و فیبروتیک فیبروبلاست را با ECM تولیدی مقایسه کنید.
+
+**ادامه مسیر:** دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید.
+
+<div dir="ltr" align="left">
+
+⁦Fereshteh Sadat Younesi⁩، ⁦Andrew E. Miller⁩، ⁦Thomas H. Barker⁩، ⁦Fabio M. V. Rossi⁩، ⁦Boris Hinz⁩، ⁦Nature Reviews Molecular Cell Biology⁩، ⁦2024⁩، ⁦DOI: 10.1038/s41580-024-00716-0⁩
+
+</div>
+
+[صفحه رسمی منبع](https://www.nature.com/articles/s41580-024-00716-0)
+
+
 </details>
 
 ---
@@ -202,8 +254,10 @@
 <details>
 <summary><strong>3. غضروف و استخوان</strong></summary>
 
+### منبع مرجع شاخه
 
-### ⁦Metabolic regulation of skeletal cell fate and function⁩
+
+#### ⁦Metabolic regulation of skeletal cell fate and function⁩
 
 **مناسب برای:** دانشجویی که ریزساختار استخوان را می‌شناسد و دنبال زیست‌شناسی سلولی آن است.
 
@@ -222,6 +276,30 @@
 [صفحه رسمی منبع](https://www.nature.com/articles/s41574-024-00969-x)
 
 
+---
+
+### منبع تکمیلی
+
+
+#### ⁦Cell signaling and transcriptional regulation of osteoblast lineage commitment, differentiation, bone formation, and homeostasis⁩
+
+**مناسب برای:** دانشجویی که منبع مرجع شاخه «غضروف و استخوان» را خوانده و به زاویه مکمل نیاز دارد.
+
+**دلیل انتخاب:** مرور تبار استئوبلاست، سیگنالینگ و تنظیم رونویسی مکملی برای ریزساختار پویا و هم‌ایستایی استخوان است.
+
+**شیوه مطالعه:** تمایز استئوبلاست را به تولید ماتریکس، معدنی‌شدن و هم‌ایستایی متصل کنید.
+
+**ادامه مسیر:** دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید.
+
+<div dir="ltr" align="left">
+
+⁦Siyu Zhu⁩، ⁦Wei Chen⁩، ⁦Alasdair Masson⁩، ⁦Yi-Ping Li⁩، ⁦Cell Discovery⁩، ⁦2024⁩، ⁦DOI: 10.1038/s41421-024-00689-6⁩
+
+</div>
+
+[صفحه رسمی منبع](https://www.nature.com/articles/s41421-024-00689-6)
+
+
 </details>
 
 ---
@@ -229,8 +307,10 @@
 <details>
 <summary><strong>4. بافت عضلانی</strong></summary>
 
+### منبع مرجع شاخه
 
-### ⁦The importance of comparative physiology: mechanisms, diversity and adaptation in skeletal muscle physiology and mechanics⁩
+
+#### ⁦The importance of comparative physiology: mechanisms, diversity and adaptation in skeletal muscle physiology and mechanics⁩
 
 **مناسب برای:** دانشجویی که انواع بافت عضلانی را می‌داند و می‌خواهد ساختار را به عملکرد وصل کند.
 
@@ -249,6 +329,30 @@
 [صفحه رسمی منبع](https://doi.org/10.1242/jeb.245158)
 
 
+---
+
+### منبع تکمیلی
+
+
+#### ⁦Roles of Femoral Biarticular and Monoarticular Muscles in Cat Walking: A Comparative Review With Dogs, Horses, and Humans⁩
+
+**مناسب برای:** دانشجویی که منبع مرجع شاخه «بافت عضلانی» را خوانده و به زاویه مکمل نیاز دارد.
+
+**دلیل انتخاب:** مقایسه عضلات تک‌مفصلی و دومفصلی در حرکت، رابطه معماری عضله با عملکرد را تکمیل می‌کند.
+
+**شیوه مطالعه:** آرایش عضله را به مفصل‌های درگیر و نقش مکانیکی در چرخه حرکت نگاشت کنید.
+
+**ادامه مسیر:** دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید.
+
+<div dir="ltr" align="left">
+
+⁦Tsutomu Miyake⁩، ⁦Hiroshi Koie⁩، ⁦Kanto Nishikawa⁩، ⁦Arito Yozu⁩، ⁦Naoto Kobayashi⁩، ⁦Journal of Morphology⁩، ⁦2025⁩، ⁦DOI: 10.1002/jmor.70110⁩
+
+</div>
+
+[صفحه رسمی منبع](https://onlinelibrary.wiley.com/doi/10.1002/jmor.70110)
+
+
 </details>
 
 ---
@@ -256,8 +360,10 @@
 <details>
 <summary><strong>5. بافت عصبی و گلیا</strong></summary>
 
+### منبع مرجع شاخه
 
-### ⁦Astrocytes and microglia in the coordination of CNS development and homeostasis⁩
+
+#### ⁦Astrocytes and microglia in the coordination of CNS development and homeostasis⁩
 
 **مناسب برای:** دانشجویی که بافت عصبی را بیش از نورون‌ها می‌خواهد بفهمد.
 
@@ -276,6 +382,30 @@
 [صفحه رسمی منبع](https://onlinelibrary.wiley.com/doi/10.1111/jnc.16006)
 
 
+---
+
+### منبع تکمیلی
+
+
+#### ⁦Microglial states revisited: from homeostasis to disease⁩
+
+**مناسب برای:** دانشجویی که منبع مرجع شاخه «بافت عصبی و گلیا» را خوانده و به زاویه مکمل نیاز دارد.
+
+**دلیل انتخاب:** حالت‌های مختلف میکروگلیا نشان می‌دهند یک نوع سلولی بافت عصبی چگونه با زمینه بافتی تغییر می‌کند.
+
+**شیوه مطالعه:** حالت هم‌ایستا و حالت‌های فعال را از نظر مورفولوژی، محیط و عملکرد مقایسه کنید.
+
+**ادامه مسیر:** دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید.
+
+<div dir="ltr" align="left">
+
+⁦Bart J. L. Eggen⁩، ⁦Susanne M. Kooistra⁩، ⁦Nature Reviews Neuroscience⁩، ⁦2026⁩، ⁦DOI: 10.1038/s41583-026-01066-w⁩
+
+</div>
+
+[صفحه رسمی منبع](https://www.nature.com/articles/s41583-026-01066-w)
+
+
 </details>
 
 ---
@@ -283,8 +413,10 @@
 <details>
 <summary><strong>6. خون و بافت‌های خون‌ساز</strong></summary>
 
+### منبع مرجع شاخه
 
-### ⁦Bone marrow niches for hematopoietic stem cells: life span dynamics and adaptation to acute stress⁩
+
+#### ⁦Bone marrow niches for hematopoietic stem cells: life span dynamics and adaptation to acute stress⁩
 
 **مناسب برای:** دانشجویی که ساختمان مغز استخوان را می‌شناسد و دنبال سازمان عملکردی آن است.
 
@@ -303,6 +435,30 @@
 [صفحه رسمی منبع](https://ashpublications.org/blood/article/144/1/21/515641/Bone-marrow-niches-for-hematopoietic-stem-cells)
 
 
+---
+
+### منبع تکمیلی
+
+
+#### ⁦The role of the haematopoietic stem cell niche in development and ageing⁩
+
+**مناسب برای:** دانشجویی که منبع مرجع شاخه «خون و بافت‌های خون‌ساز» را خوانده و به زاویه مکمل نیاز دارد.
+
+**دلیل انتخاب:** تحول niche خون‌ساز از تکوین تا پیری، بعد زمانی ریزمعماری مغز استخوان را تکمیل می‌کند.
+
+**شیوه مطالعه:** تغییر ترکیب niche را در تکوین، بزرگسالی و پیری با پیامد HSC مقایسه کنید.
+
+**ادامه مسیر:** دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید.
+
+<div dir="ltr" align="left">
+
+⁦Terri L. Cain⁩، ⁦Marta Derecka⁩، ⁦Shannon McKinney-Freeman⁩، ⁦Nature Reviews Molecular Cell Biology⁩، ⁦2025⁩، ⁦DOI: 10.1038/s41580-024-00770-8⁩
+
+</div>
+
+[صفحه رسمی منبع](https://www.nature.com/articles/s41580-024-00770-8)
+
+
 </details>
 
 ---
@@ -310,8 +466,10 @@
 <details>
 <summary><strong>7. قلب، عروق و اندوتلیوم</strong></summary>
 
+### منبع مرجع شاخه
 
-### ⁦Microenvironmental determinants of endothelial cell heterogeneity⁩
+
+#### ⁦Microenvironmental determinants of endothelial cell heterogeneity⁩
 
 **مناسب برای:** دانشجویی که اندوتلیوم را یک لایه یکنواخت تصور می‌کند.
 
@@ -330,6 +488,30 @@
 [صفحه رسمی منبع](https://www.nature.com/articles/s41580-024-00825-w)
 
 
+---
+
+### منبع تکمیلی
+
+
+#### ⁦Dissecting endothelial cell heterogeneity with new tools⁩
+
+**مناسب برای:** دانشجویی که منبع مرجع شاخه «قلب، عروق و اندوتلیوم» را خوانده و به زاویه مکمل نیاز دارد.
+
+**دلیل انتخاب:** ابزارهای جدید برای تفکیک ناهمگنی اندوتلیال مکملی برای فهم تفاوت عروقی میان بافت‌ها هستند.
+
+**شیوه مطالعه:** نوع عروق، فنوتیپ اندوتلیال و ابزار آشکارساز آن را در یک جدول قرار دهید.
+
+**ادامه مسیر:** دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید.
+
+<div dir="ltr" align="left">
+
+⁦Cell Regeneration⁩، ⁦2025⁩، ⁦DOI: 10.1186/s13619-025-00223-3⁩
+
+</div>
+
+[صفحه رسمی منبع](https://cellregeneration.springeropen.com/articles/10.1186/s13619-025-00223-3)
+
+
 </details>
 
 ---
@@ -337,8 +519,10 @@
 <details>
 <summary><strong>8. بافت دستگاه تنفسی</strong></summary>
 
+### منبع مرجع شاخه
 
-### ⁦Histology, Lung⁩
+
+#### ⁦Histology, Lung⁩
 
 **مناسب برای:** دانشجویی که می‌خواهد ریزساختار مجاری تنفسی تا آلوئول را یکجا مرور کند.
 
@@ -357,6 +541,30 @@
 [صفحه رسمی منبع](https://www.ncbi.nlm.nih.gov/books/NBK534789/)
 
 
+---
+
+### منبع تکمیلی
+
+
+#### ⁦A single-cell atlas of lung homeostasis reveals dynamic changes during development and aging⁩
+
+**مناسب برای:** دانشجویی که منبع مرجع شاخه «بافت دستگاه تنفسی» را خوانده و به زاویه مکمل نیاز دارد.
+
+**دلیل انتخاب:** اطلس تک‌سلولی ریه، انواع سلولی و تغییرات آن‌ها در تکوین و پیری را به ریزساختار کلاسیک اضافه می‌کند.
+
+**شیوه مطالعه:** انواع سلولی اطلس را به جایگاه آناتومیک در مجاری یا آلوئول‌ها نگاشت کنید.
+
+**ادامه مسیر:** دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید.
+
+<div dir="ltr" align="left">
+
+⁦Communications Biology⁩، ⁦2024⁩، ⁦DOI: 10.1038/s42003-024-06111-x⁩
+
+</div>
+
+[صفحه رسمی منبع](https://www.nature.com/articles/s42003-024-06111-x)
+
+
 </details>
 
 ---
@@ -364,8 +572,10 @@
 <details>
 <summary><strong>9. پوست و دستگاه پوششی</strong></summary>
 
+### منبع مرجع شاخه
 
-### ⁦Histology, Skin⁩
+
+#### ⁦Histology, Skin⁩
 
 **مناسب برای:** دانشجویی که لایه‌های پوست و ضمائم را می‌خواهد منظم مرور کند.
 
@@ -382,6 +592,30 @@
 </div>
 
 [صفحه رسمی منبع](https://www.ncbi.nlm.nih.gov/books/NBK537325/)
+
+
+---
+
+### منبع تکمیلی
+
+
+#### ⁦Topographical variations in the skin barrier and their role in disease pathogenesis⁩
+
+**مناسب برای:** دانشجویی که منبع مرجع شاخه «پوست و دستگاه پوششی» را خوانده و به زاویه مکمل نیاز دارد.
+
+**دلیل انتخاب:** تفاوت‌های موضعی سد پوست نشان می‌دهد ریزساختار پوست در نواحی بدن یکنواخت نیست.
+
+**شیوه مطالعه:** ناحیه پوستی، ویژگی سد و پیامد عملکردی را مقایسه کنید.
+
+**ادامه مسیر:** دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید.
+
+<div dir="ltr" align="left">
+
+⁦Journal of the European Academy of Dermatology and Venereology⁩، ⁦2025⁩، ⁦DOI: 10.1111/jdv.20463⁩
+
+</div>
+
+[صفحه رسمی منبع](https://doi.org/10.1111/jdv.20463)
 
 
 </details>

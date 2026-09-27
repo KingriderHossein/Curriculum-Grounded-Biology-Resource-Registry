@@ -2,7 +2,7 @@
 
 # آناتومی — ⁦Anatomy⁩
 
-> **وضعیت:** ⁦Complete⁩ — مسیر نظری شامل ۴ مرحله عمومی، ۹ شاخه تخصصی و ۱۳ جایگاه منبع است.
+> **وضعیت:** ⁦Complete⁩ — مسیر نظری شامل ۴ مرحله عمومی، ۹ شاخه تخصصی و ۲۲ جایگاه منبع است.
 
 این مسیر آناتومی ماکروسکوپی انسان را از زبان و جهت‌یابی آناتومیک تا نواحی بدن و روابط فضایی ساختارها دنبال می‌کند. آموزش تشریح عملی، مهارت‌های بالینی، تکنیک‌های تصویربرداری و پروتکل‌های آموزشی کاداور خارج از دامنه Registry هستند.
 
@@ -129,27 +129,29 @@
 
 # شاخه‌های تخصصی
 
-این ۹ شاخه برای پوشش نظری متوازن درس انتخاب شده‌اند. هر شاخه یک منبع مرجع یا مرور معتبر دارد تا مسیر عمومی به مطالعه تخصصی متصل شود.
+این ۹ شاخه برای پوشش نظری متوازن درس انتخاب شده‌اند. هر شاخه دو منبع با نقش متفاوت دارد: ابتدا منبع مرجع شاخه و سپس منبع تکمیلی یا به‌روزرسانی جدید.
 
-| شاخه | منبع پیشنهادی |
+| شاخه | ترتیب پیشنهادی |
 |---|---|
-| پشت و ستون مهره‌ها | ⁦Anatomy, Back, Vertebral Column⁩ |
-| قفسه سینه | ⁦Anatomy, Thorax⁩ |
-| شکم | ⁦Anatomy, Abdomen and Pelvis: Abdomen⁩ |
-| لگن و پرینه | ⁦Anatomy, Abdomen and Pelvis, Pelvis⁩ |
-| اندام فوقانی | ⁦Anatomy, Shoulder and Upper Limb, Arm Structure and Function⁩ |
-| اندام تحتانی و مسیرهای نوروواسکولار | ⁦Anatomy, Bony Pelvis and Lower Limb: Nerves⁩ |
-| سر و گردن | ⁦Anatomy, Head and Neck, Neck⁩ |
-| نورواناتومی | ⁦Principles of Neural Science⁩ |
-| آناتومی سطحی و توپوگرافیک | ⁦Anatomy, Head and Neck, Neck Triangle⁩ |
+| پشت و ستون مهره‌ها | ⁦Anatomy, Back, Vertebral Column⁩ ← ⁦Anatomy, Back, Muscles⁩ |
+| قفسه سینه | ⁦Anatomy, Thorax⁩ ← ⁦Anatomy, Thorax, Heart⁩ |
+| شکم | ⁦Anatomy, Abdomen and Pelvis: Abdomen⁩ ← ⁦Anatomy, Abdomen and Pelvis: Abdominal Wall⁩ |
+| لگن و پرینه | ⁦Anatomy, Abdomen and Pelvis, Pelvis⁩ ← ⁦Anatomy, Abdomen and Pelvis: Pelvic Floor⁩ |
+| اندام فوقانی | ⁦Anatomy, Shoulder and Upper Limb, Arm Structure and Function⁩ ← ⁦Anatomy, Shoulder and Upper Limb, Brachial Plexus⁩ |
+| اندام تحتانی و مسیرهای نوروواسکولار | ⁦Anatomy, Bony Pelvis and Lower Limb: Nerves⁩ ← ⁦Anatomy, Abdomen and Pelvis: Femoral Region⁩ |
+| سر و گردن | ⁦Anatomy, Head and Neck, Neck⁩ ← ⁦Anatomy, Head and Neck: Carotid Sheath⁩ |
+| نورواناتومی | ⁦Principles of Neural Science⁩ ← ⁦Neuroanatomy, Mesencephalon Midbrain⁩ |
+| آناتومی سطحی و توپوگرافیک | ⁦Anatomy, Head and Neck, Neck Triangle⁩ ← ⁦Anatomy, Skin, Dermatomes⁩ |
 
 ---
 
 <details>
 <summary><strong>1. پشت و ستون مهره‌ها</strong></summary>
 
+### منبع مرجع شاخه
 
-### ⁦Anatomy, Back, Vertebral Column⁩
+
+#### ⁦Anatomy, Back, Vertebral Column⁩
 
 **مناسب برای:** دانشجویی که می‌خواهد ستون مهره‌ها را پس از متن اصلی جمع‌بندی کند.
 
@@ -168,6 +170,30 @@
 [صفحه رسمی منبع](https://www.ncbi.nlm.nih.gov/books/NBK525969/)
 
 
+---
+
+### منبع تکمیلی
+
+
+#### ⁦Anatomy, Back, Muscles⁩
+
+**مناسب برای:** دانشجویی که منبع مرجع شاخه «پشت و ستون مهره‌ها» را خوانده و به زاویه مکمل نیاز دارد.
+
+**دلیل انتخاب:** مرور عضلات پشت، ستون مهره را با لایه‌های عضلانی و روابط سطحی تکمیل می‌کند.
+
+**شیوه مطالعه:** عضلات را بر اساس لایه، اتصال و عصب‌گیری سازمان دهید.
+
+**ادامه مسیر:** دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید.
+
+<div dir="ltr" align="left">
+
+⁦Brandi Henson⁩، ⁦Bhavana Kadiyala⁩، ⁦Mary Ann Edens⁩، ⁦StatPearls Publishing / NCBI Bookshelf⁩، ⁦2023⁩
+
+</div>
+
+[صفحه رسمی منبع](https://www.ncbi.nlm.nih.gov/books/NBK537074/)
+
+
 </details>
 
 ---
@@ -175,8 +201,10 @@
 <details>
 <summary><strong>2. قفسه سینه</strong></summary>
 
+### منبع مرجع شاخه
 
-### ⁦Anatomy, Thorax⁩
+
+#### ⁦Anatomy, Thorax⁩
 
 **مناسب برای:** دانشجویی که برای مرور ناحیه‌ای توراکس به متن کوتاه نیاز دارد.
 
@@ -195,6 +223,30 @@
 [صفحه رسمی منبع](https://www.ncbi.nlm.nih.gov/books/NBK557710/)
 
 
+---
+
+### منبع تکمیلی
+
+
+#### ⁦Anatomy, Thorax, Heart⁩
+
+**مناسب برای:** دانشجویی که منبع مرجع شاخه «قفسه سینه» را خوانده و به زاویه مکمل نیاز دارد.
+
+**دلیل انتخاب:** آناتومی قلب جزئیات مکملی از روابط درون توراکس و مسیرهای عروقی فراهم می‌کند.
+
+**شیوه مطالعه:** سطوح، حفره‌ها، عروق بزرگ و روابط پریکاردی را در نمای سه‌بعدی کنار هم بگذارید.
+
+**ادامه مسیر:** دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید.
+
+<div dir="ltr" align="left">
+
+⁦Ibraheem Rehman⁩، ⁦Afzal Rehman⁩، ⁦StatPearls Publishing / NCBI Bookshelf⁩، ⁦2023⁩
+
+</div>
+
+[صفحه رسمی منبع](https://www.ncbi.nlm.nih.gov/books/NBK470256/)
+
+
 </details>
 
 ---
@@ -202,8 +254,10 @@
 <details>
 <summary><strong>3. شکم</strong></summary>
 
+### منبع مرجع شاخه
 
-### ⁦Anatomy, Abdomen and Pelvis: Abdomen⁩
+
+#### ⁦Anatomy, Abdomen and Pelvis: Abdomen⁩
 
 **مناسب برای:** دانشجویی که روابط احشای شکم را می‌خواهد فشرده مرور کند.
 
@@ -222,6 +276,30 @@
 [صفحه رسمی منبع](https://www.ncbi.nlm.nih.gov/books/NBK553104/)
 
 
+---
+
+### منبع تکمیلی
+
+
+#### ⁦Anatomy, Abdomen and Pelvis: Abdominal Wall⁩
+
+**مناسب برای:** دانشجویی که منبع مرجع شاخه «شکم» را خوانده و به زاویه مکمل نیاز دارد.
+
+**دلیل انتخاب:** دیواره شکم چارچوب سطحی–لایه‌ای مکملی برای روابط احشایی داخل شکم می‌دهد.
+
+**شیوه مطالعه:** از پوست تا صفاق لایه‌ها را به ترتیب و همراه با عصب‌گیری و عروق بازسازی کنید.
+
+**ادامه مسیر:** دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید.
+
+<div dir="ltr" align="left">
+
+⁦William Flynn⁩، ⁦Paula Vickerton⁩، ⁦StatPearls Publishing / NCBI Bookshelf⁩، ⁦2023⁩
+
+</div>
+
+[صفحه رسمی منبع](https://www.ncbi.nlm.nih.gov/books/NBK551649/)
+
+
 </details>
 
 ---
@@ -229,8 +307,10 @@
 <details>
 <summary><strong>4. لگن و پرینه</strong></summary>
 
+### منبع مرجع شاخه
 
-### ⁦Anatomy, Abdomen and Pelvis, Pelvis⁩
+
+#### ⁦Anatomy, Abdomen and Pelvis, Pelvis⁩
 
 **مناسب برای:** دانشجویی که هندسه لگن و روابط احشای لگنی برایش دشوار است.
 
@@ -249,6 +329,30 @@
 [صفحه رسمی منبع](https://www.ncbi.nlm.nih.gov/books/NBK482258/)
 
 
+---
+
+### منبع تکمیلی
+
+
+#### ⁦Anatomy, Abdomen and Pelvis: Pelvic Floor⁩
+
+**مناسب برای:** دانشجویی که منبع مرجع شاخه «لگن و پرینه» را خوانده و به زاویه مکمل نیاز دارد.
+
+**دلیل انتخاب:** کف لگن زاویه مکملی برای فهم مرزها، عضلات و حمایت از احشای لگنی است.
+
+**شیوه مطالعه:** عضلات، فاسیا و سوراخ‌های عبوری را روی یک مقطع شماتیک مشخص کنید.
+
+**ادامه مسیر:** دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید.
+
+<div dir="ltr" align="left">
+
+⁦Bruno Bordoni⁩، ⁦Kavin Sugumar⁩، ⁦Stephen W. Leslie⁩، ⁦StatPearls Publishing / NCBI Bookshelf⁩، ⁦2026⁩
+
+</div>
+
+[صفحه رسمی منبع](https://www.ncbi.nlm.nih.gov/books/NBK482200/)
+
+
 </details>
 
 ---
@@ -256,8 +360,10 @@
 <details>
 <summary><strong>5. اندام فوقانی</strong></summary>
 
+### منبع مرجع شاخه
 
-### ⁦Anatomy, Shoulder and Upper Limb, Arm Structure and Function⁩
+
+#### ⁦Anatomy, Shoulder and Upper Limb, Arm Structure and Function⁩
 
 **مناسب برای:** دانشجویی که می‌خواهد مسیر ساختارهای اندام فوقانی را تثبیت کند.
 
@@ -276,6 +382,30 @@
 [صفحه رسمی منبع](https://www.ncbi.nlm.nih.gov/books/NBK507841/)
 
 
+---
+
+### منبع تکمیلی
+
+
+#### ⁦Anatomy, Shoulder and Upper Limb, Brachial Plexus⁩
+
+**مناسب برای:** دانشجویی که منبع مرجع شاخه «اندام فوقانی» را خوانده و به زاویه مکمل نیاز دارد.
+
+**دلیل انتخاب:** شبکه بازویی محور عصبی مکملی برای سازمان آناتومی اندام فوقانی فراهم می‌کند.
+
+**شیوه مطالعه:** ریشه تا شاخه انتهایی را همراه با قلمرو حرکتی و حسی ترسیم کنید.
+
+**ادامه مسیر:** دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید.
+
+<div dir="ltr" align="left">
+
+⁦Marlon L. Bayot⁩، ⁦Ali Nassereddin⁩، ⁦Matthew A. Varacallo⁩، ⁦StatPearls Publishing / NCBI Bookshelf⁩، ⁦2023⁩
+
+</div>
+
+[صفحه رسمی منبع](https://www.ncbi.nlm.nih.gov/books/NBK500016/)
+
+
 </details>
 
 ---
@@ -283,8 +413,10 @@
 <details>
 <summary><strong>6. اندام تحتانی و مسیرهای نوروواسکولار</strong></summary>
 
+### منبع مرجع شاخه
 
-### ⁦Anatomy, Bony Pelvis and Lower Limb: Nerves⁩
+
+#### ⁦Anatomy, Bony Pelvis and Lower Limb: Nerves⁩
 
 **مناسب برای:** دانشجویی که مسیرهای عصبی اندام تحتانی برایش پراکنده است.
 
@@ -303,6 +435,30 @@
 [صفحه رسمی منبع](https://www.ncbi.nlm.nih.gov/books/NBK532304/)
 
 
+---
+
+### منبع تکمیلی
+
+
+#### ⁦Anatomy, Abdomen and Pelvis: Femoral Region⁩
+
+**مناسب برای:** دانشجویی که منبع مرجع شاخه «اندام تحتانی و مسیرهای نوروواسکولار» را خوانده و به زاویه مکمل نیاز دارد.
+
+**دلیل انتخاب:** ناحیه فمورال روابط فضایی عروق، اعصاب و فاسیا را در اندام تحتانی تکمیل می‌کند.
+
+**شیوه مطالعه:** مثلث فمورال و مسیر ساختارها را با مرزهای ناحیه‌ای بازسازی کنید.
+
+**ادامه مسیر:** دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید.
+
+<div dir="ltr" align="left">
+
+⁦Derek T. Clar⁩، ⁦Tafline C. Arbor⁩، ⁦Bruno Bordoni⁩، ⁦StatPearls Publishing / NCBI Bookshelf⁩، ⁦2024⁩
+
+</div>
+
+[صفحه رسمی منبع](https://www.ncbi.nlm.nih.gov/books/NBK538501/)
+
+
 </details>
 
 ---
@@ -310,8 +466,10 @@
 <details>
 <summary><strong>7. سر و گردن</strong></summary>
 
+### منبع مرجع شاخه
 
-### ⁦Anatomy, Head and Neck, Neck⁩
+
+#### ⁦Anatomy, Head and Neck, Neck⁩
 
 **مناسب برای:** دانشجویی که تراکم ساختارهای سر و گردن را سخت می‌یابد.
 
@@ -330,6 +488,30 @@
 [صفحه رسمی منبع](https://www.ncbi.nlm.nih.gov/books/NBK542313/)
 
 
+---
+
+### منبع تکمیلی
+
+
+#### ⁦Anatomy, Head and Neck: Carotid Sheath⁩
+
+**مناسب برای:** دانشجویی که منبع مرجع شاخه «سر و گردن» را خوانده و به زاویه مکمل نیاز دارد.
+
+**دلیل انتخاب:** غلاف کاروتید یک محور توپوگرافیک برای روابط عروقی و عصبی گردن فراهم می‌کند.
+
+**شیوه مطالعه:** محتویات غلاف و روابط آن با فاسیا و ساختارهای مجاور را رسم کنید.
+
+**ادامه مسیر:** دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید.
+
+<div dir="ltr" align="left">
+
+⁦Darren H. Garner⁩، ⁦Michael W. Kortz⁩، ⁦Stephen Baker⁩، ⁦StatPearls Publishing / NCBI Bookshelf⁩، ⁦2023⁩
+
+</div>
+
+[صفحه رسمی منبع](https://www.ncbi.nlm.nih.gov/books/NBK519577/)
+
+
 </details>
 
 ---
@@ -337,12 +519,14 @@
 <details>
 <summary><strong>8. نورواناتومی</strong></summary>
 
+### منبع مرجع شاخه
+
 
 <p align="center">
   <img src="https://www.mheducation.com/cover-images/Webp_400-wide/1259642232.webp" width="155" alt="Principles of Neural Science 6th Edition cover">
 </p>
 
-### ⁦Principles of Neural Science⁩ — ⁦6th Edition⁩
+#### ⁦Principles of Neural Science⁩ — ⁦6th Edition⁩
 
 **مناسب برای:** دانشجویی که آناتومی پایه دستگاه عصبی را می‌داند و دنبال مرجع عمیق‌تر است.
 
@@ -361,6 +545,30 @@
 [صفحه رسمی منبع](https://www.mheducation.com/highered/mhp/product/principles-neural-science-sixth-edition.html)
 
 
+---
+
+### منبع تکمیلی
+
+
+#### ⁦Neuroanatomy, Mesencephalon Midbrain⁩
+
+**مناسب برای:** دانشجویی که منبع مرجع شاخه «نورواناتومی» را خوانده و به زاویه مکمل نیاز دارد.
+
+**دلیل انتخاب:** مرور میان‌مغز یک مطالعه ناحیه‌ای مکمل برای تثبیت روابط ساختاری CNS است.
+
+**شیوه مطالعه:** سطوح، هسته‌ها و راه‌های عبوری را در مقاطع عرضی ساده برچسب‌گذاری کنید.
+
+**ادامه مسیر:** دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید.
+
+<div dir="ltr" align="left">
+
+⁦Francheska Caminero⁩، ⁦Marco Cascella⁩، ⁦StatPearls Publishing / NCBI Bookshelf⁩، ⁦2024⁩
+
+</div>
+
+[صفحه رسمی منبع](https://www.ncbi.nlm.nih.gov/books/NBK551509/)
+
+
 </details>
 
 ---
@@ -368,8 +576,10 @@
 <details>
 <summary><strong>9. آناتومی سطحی و توپوگرافیک</strong></summary>
 
+### منبع مرجع شاخه
 
-### ⁦Anatomy, Head and Neck, Neck Triangle⁩
+
+#### ⁦Anatomy, Head and Neck, Neck Triangle⁩
 
 **مناسب برای:** دانشجویی که می‌خواهد آناتومی سطحی و مرزبندی‌های ناحیه‌ای را با یک مثال روشن تمرین کند.
 
@@ -386,6 +596,30 @@
 </div>
 
 [صفحه رسمی منبع](https://www.ncbi.nlm.nih.gov/books/NBK554398/)
+
+
+---
+
+### منبع تکمیلی
+
+
+#### ⁦Anatomy, Skin, Dermatomes⁩
+
+**مناسب برای:** دانشجویی که منبع مرجع شاخه «آناتومی سطحی و توپوگرافیک» را خوانده و به زاویه مکمل نیاز دارد.
+
+**دلیل انتخاب:** درماتوم‌ها نمونه‌ای روشن از نگاشت ساختار عصبی عمقی به سطح بدن هستند.
+
+**شیوه مطالعه:** نقشه درماتومی را با ریشه‌های نخاعی و نشانه‌های سطحی مقایسه کنید.
+
+**ادامه مسیر:** دو منبع شاخه را کنار هم مقایسه کنید و یک جمع‌بندی مکانیزمی یا ساختاری از نقاط مشترک و تفاوت‌ها بسازید.
+
+<div dir="ltr" align="left">
+
+⁦Patrick A. Whitman⁩، ⁦Marjorie V. Launico⁩، ⁦Oluwaseun O. Adigun⁩، ⁦StatPearls Publishing / NCBI Bookshelf⁩، ⁦2023⁩
+
+</div>
+
+[صفحه رسمی منبع](https://www.ncbi.nlm.nih.gov/books/NBK535401/)
 
 
 </details>

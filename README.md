@@ -33,10 +33,10 @@
 | [زیست‌شناسی سامانه‌ها ⁦Systems Biology⁩](subjects/systems-biology/README.md) | ۶ منبع | ۹ شاخه | ۲۴ |
 | [علوم اعصاب ⁦Neuroscience⁩](subjects/neuroscience/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
 | [هماتولوژی ⁦Hematology⁩](subjects/hematology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
-| [زیست‌شناسی دریایی ⁦Marine Biology⁩](subjects/marine-biology/README.md) | ۴ منبع | ۹ شاخه | ۱۳ |
-| [جنین‌شناسی ⁦Embryology⁩](subjects/embryology/README.md) | ۴ منبع | ۹ شاخه | ۱۳ |
-| [بافت‌شناسی ⁦Histology⁩](subjects/histology/README.md) | ۴ منبع | ۹ شاخه | ۱۳ |
-| [آناتومی ⁦Anatomy⁩](subjects/anatomy/README.md) | ۴ منبع | ۹ شاخه | ۱۳ |
+| [زیست‌شناسی دریایی ⁦Marine Biology⁩](subjects/marine-biology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
+| [جنین‌شناسی ⁦Embryology⁩](subjects/embryology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
+| [بافت‌شناسی ⁦Histology⁩](subjects/histology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
+| [آناتومی ⁦Anatomy⁩](subjects/anatomy/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
 
 
 ---
