@@ -8425,6 +8425,497 @@
           "https://www.nature.com/articles/s41392-025-02539-7"
         ]
       }
+    },
+    {
+      "id": "BOOK-INTRODUCTORY-PHYSICS-BIO-SCIENTISTS-2018",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Introductory Physics for Biological Scientists",
+      "authors": [
+        "Christof M. Aegerter"
+      ],
+      "published_year": 2018,
+      "edition": "1st Edition",
+      "isbn": "9781108423342",
+      "publisher": "Cambridge University Press",
+      "publisher_url": "https://www.cambridge.org/core/books/introductory-physics-for-biological-scientists/1532D24C96DC4746F9CF7DE7C7DFBD89",
+      "purchase_url": "https://www.vitalsource.com/products/introductory-physics-for-biological-scientists-christof-m-aegerter-v9781108534475",
+      "cover": {
+        "url": "https://covers.vitalsource.com/vbid/9781108534475/width/320?style=preview",
+        "source": "VitalSource exact-title cover; Cambridge University Press remains bibliographic authority",
+        "source_url": "https://www.vitalsource.com/products/introductory-physics-for-biological-scientists-christof-m-aegerter-v9781108534475",
+        "expected_sha256": "b28170917828cf1638d341c399b68279d500d4c0b0108e334215519ad95ecc4e",
+        "visual_reviewed_on": "2026-09-28",
+        "visual_review_status": "title_and_edition_checked"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-28",
+      "verification_evidence": {
+        "checked_on": "2026-09-28",
+        "scope": "Title, author, 2018 publication, Cambridge University Press identity and print ISBN 9781108423342 were checked against Cambridge and VitalSource. The selected cover was visually reviewed against the resource identity and its decoded bytes were hash-locked from the repository cover audit.",
+        "sources": [
+          "https://www.cambridge.org/core/books/introductory-physics-for-biological-scientists/1532D24C96DC4746F9CF7DE7C7DFBD89",
+          "https://www.vitalsource.com/products/introductory-physics-for-biological-scientists-christof-m-aegerter-v9781108534475"
+        ]
+      }
+    },
+    {
+      "id": "BOOK-QUANTITATIVE-BIOSYSTEMS2-2019",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Quantitative Understanding of Biosystems: An Introduction to Biophysics",
+      "authors": [
+        "Thomas M. Nordlund",
+        "Peter M. Hoffmann"
+      ],
+      "published_year": 2019,
+      "edition": "2nd Edition",
+      "isbn": "9781138633414",
+      "publisher": "CRC Press",
+      "publisher_url": "https://www.routledge.com/Quantitative-Understanding-of-Biosystems-An-Introduction-to-Biophysics-Second-Edition/Nordlund-Hoffmann/p/book/9780367779917",
+      "purchase_url": "https://www.vitalsource.com/products/quantitative-understanding-of-biosystems-thomas-m-nordlund-v9781351801171",
+      "cover": {
+        "url": "https://covers.vitalsource.com/vbid/9781351801171/width/320?style=preview",
+        "source": "VitalSource exact-edition cover; CRC Press/Routledge remains bibliographic authority",
+        "source_url": "https://www.vitalsource.com/products/quantitative-understanding-of-biosystems-thomas-m-nordlund-v9781351801171",
+        "expected_sha256": "7df26001853718ddcf19346aaba961fa2478aa06e00220dd200c298b350b447d",
+        "visual_reviewed_on": "2026-09-28",
+        "visual_review_status": "title_and_edition_checked"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-28",
+      "verification_evidence": {
+        "checked_on": "2026-09-28",
+        "scope": "Title, authors, Second Edition, 2019 publication and print ISBN 9781138633414 were checked against CRC Press/Routledge and VitalSource. The selected cover was visually reviewed against the resource identity and its decoded bytes were hash-locked from the repository cover audit.",
+        "sources": [
+          "https://www.routledge.com/Quantitative-Understanding-of-Biosystems-An-Introduction-to-Biophysics-Second-Edition/Nordlund-Hoffmann/p/book/9780367779917",
+          "https://www.vitalsource.com/products/quantitative-understanding-of-biosystems-thomas-m-nordlund-v9781351801171"
+        ]
+      }
+    },
+    {
+      "id": "BOOK-PHYSICAL-BIOLOGY-CELL2-2013",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Physical Biology of the Cell",
+      "authors": [
+        "Rob Phillips",
+        "Jane Kondev",
+        "Julie Theriot",
+        "Hernan Garcia"
+      ],
+      "published_year": 2013,
+      "edition": "2nd Edition",
+      "isbn": "9780815344506",
+      "publisher": "Garland Science",
+      "publisher_url": "https://www.routledge.com/Physical-Biology-of-the-Cell-2nd-Edition/author/p/book/9780429168833",
+      "purchase_url": "https://www.vitalsource.com/products/physical-biology-of-the-cell-rob-phillips-jane-kondev-v9781134111657",
+      "cover": {
+        "url": "https://covers.vitalsource.com/vbid/9781134111657/width/320?style=preview",
+        "source": "VitalSource exact-edition cover; Garland Science/Routledge remains bibliographic authority",
+        "source_url": "https://www.vitalsource.com/products/physical-biology-of-the-cell-rob-phillips-jane-kondev-v9781134111657",
+        "expected_sha256": "4e80cbfeb16135684abdae1ddd7eee4efa79cb25dff8d772ffc5a32baef7a6ae",
+        "visual_reviewed_on": "2026-09-28",
+        "visual_review_status": "title_and_edition_checked"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-28",
+      "verification_evidence": {
+        "checked_on": "2026-09-28",
+        "scope": "Title, authors, Second Edition, 2013 publication and print ISBN 9780815344506 were checked against Garland Science/Routledge and VitalSource. The selected cover was visually reviewed against the resource identity and its decoded bytes were hash-locked from the repository cover audit.",
+        "sources": [
+          "https://www.routledge.com/Physical-Biology-of-the-Cell-2nd-Edition/author/p/book/9780429168833",
+          "https://www.vitalsource.com/products/physical-biology-of-the-cell-rob-phillips-jane-kondev-v9781134111657"
+        ]
+      }
+    },
+    {
+      "id": "BOOK-BIOPHYSICS-SEARCHING-PRINCIPLES-2012",
+      "resource_type": "textbook",
+      "theory_only": true,
+      "title": "Biophysics: Searching for Principles",
+      "authors": [
+        "William Bialek"
+      ],
+      "published_year": 2012,
+      "edition": "1st Edition",
+      "isbn": "9780691138916",
+      "publisher": "Princeton University Press",
+      "publisher_url": "https://assets.press.princeton.edu/catalogs/cog13.pdf",
+      "purchase_url": "https://www.vitalsource.com/products/biophysics-william-bialek-v9781400845576",
+      "cover": {
+        "url": "https://covers.vitalsource.com/vbid/9781400845576/width/320?style=preview",
+        "source": "VitalSource exact-title cover; Princeton University Press remains bibliographic authority",
+        "source_url": "https://www.vitalsource.com/products/biophysics-william-bialek-v9781400845576",
+        "expected_sha256": "fc0fa4a57402622e006ae806ecdcf4ba64d6d6d1401a5de05d41e623c69a6adb",
+        "visual_reviewed_on": "2026-09-28",
+        "visual_review_status": "title_and_edition_checked"
+      },
+      "verification_status": "verified",
+      "verified_on": "2026-09-28",
+      "verification_evidence": {
+        "checked_on": "2026-09-28",
+        "scope": "Title, author, original 2012 publication and hardcover ISBN 9780691138916 were checked against Princeton University Press catalog material and Princeton/VitalSource metadata. The selected cover was visually reviewed against the resource identity and its decoded bytes were hash-locked from the repository cover audit.",
+        "sources": [
+          "https://assets.press.princeton.edu/catalogs/cog13.pdf",
+          "https://collaborate.princeton.edu/en/publications/biophysics-searching-for-principles/",
+          "https://www.vitalsource.com/products/biophysics-william-bialek-v9781400845576"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-PROTEIN-FOLDING-COLLAPSE-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Collapse and Protein Folding: Should We Be Surprised That Biothermodynamics Works So Well?",
+      "authors": [
+        "Tobin R. Sosnick",
+        "Michael C. Baxa"
+      ],
+      "published_year": 2025,
+      "journal": "Annual Review of Biophysics",
+      "doi": "10.1146/annurev-biophys-080124-123012",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-080124-123012",
+      "verification_status": "verified",
+      "verified_on": "2026-09-28",
+      "verification_evidence": {
+        "checked_on": "2026-09-28",
+        "scope": "Title, authors, journal, volume year and DOI checked against the Annual Reviews article record.",
+        "sources": [
+          "https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-080124-123012"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-PROTEIN-DYNAMICS-NMR-FRET-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "NMR and Single-Molecule FRET Insights into Fast Protein Motions and Their Relation to Function",
+      "authors": [
+        "Paul Schanda",
+        "Gilad Haran"
+      ],
+      "published_year": 2024,
+      "journal": "Annual Review of Biophysics",
+      "doi": "10.1146/annurev-biophys-070323-022428",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-070323-022428",
+      "verification_status": "verified",
+      "verified_on": "2026-09-28",
+      "verification_evidence": {
+        "checked_on": "2026-09-28",
+        "scope": "Title, authors, journal, volume year and DOI checked against the Annual Reviews article record.",
+        "sources": [
+          "https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-070323-022428"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-CHROMATIN-PHYSICOCHEMISTRY-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "From Nucleosomes to Compartments: Physicochemical Interactions Underlying Chromatin Organization",
+      "authors": [
+        "Shuming Liu",
+        "Advait Athreya",
+        "Zhuohan Lao",
+        "Bin Zhang"
+      ],
+      "published_year": 2024,
+      "journal": "Annual Review of Biophysics",
+      "doi": "10.1146/annurev-biophys-030822-032650",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-030822-032650",
+      "verification_status": "verified",
+      "verified_on": "2026-09-28",
+      "verification_evidence": {
+        "checked_on": "2026-09-28",
+        "scope": "Title, authors, journal, volume year and DOI checked against the Annual Reviews article record.",
+        "sources": [
+          "https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-030822-032650"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-RNA-ATOMISTIC-DYNAMICS-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "RNA Dynamics and Interactions Revealed Through Atomistic Simulations",
+      "authors": [
+        "Olivier Languin-Cattoën",
+        "Giovanni Bussi"
+      ],
+      "published_year": 2026,
+      "journal": "Annual Review of Physical Chemistry",
+      "doi": "10.1146/annurev-physchem-082624-013453",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-physchem-082624-013453",
+      "verification_status": "verified",
+      "verified_on": "2026-09-28",
+      "verification_evidence": {
+        "checked_on": "2026-09-28",
+        "scope": "Title, authors, journal, volume year and DOI checked against the Annual Reviews article record.",
+        "sources": [
+          "https://www.annualreviews.org/content/journals/10.1146/annurev-physchem-082624-013453"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-SECONDARY-ACTIVE-TRANSPORT-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Ion and lipid orchestration of secondary active transport",
+      "authors": [
+        "David Drew",
+        "Olga Boudker"
+      ],
+      "published_year": 2024,
+      "journal": "Nature",
+      "doi": "10.1038/s41586-024-07062-3",
+      "publisher_url": "https://www.nature.com/articles/s41586-024-07062-3",
+      "verification_status": "verified",
+      "verified_on": "2026-09-28",
+      "verification_evidence": {
+        "checked_on": "2026-09-28",
+        "scope": "Title, authors, publication year, article type and DOI checked against the Nature version-of-record page.",
+        "sources": [
+          "https://www.nature.com/articles/s41586-024-07062-3"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-BACTERIAL-ELECTROPHYSIOLOGY-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Bacterial Electrophysiology",
+      "authors": [
+        "Wei-Chang Lo",
+        "Ekaterina Krasnopeeva",
+        "Teuta Pilizota"
+      ],
+      "published_year": 2024,
+      "journal": "Annual Review of Biophysics",
+      "doi": "10.1146/annurev-biophys-030822-032215",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-030822-032215",
+      "verification_status": "verified",
+      "verified_on": "2026-09-28",
+      "verification_evidence": {
+        "checked_on": "2026-09-28",
+        "scope": "Title, authors, journal, volume year and DOI checked against the Annual Reviews article record.",
+        "sources": [
+          "https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-030822-032215"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-POTASSIUM-BALL-CHAIN-2023",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Ball-and-Chain Inactivation in Potassium Channels",
+      "authors": [
+        "Nattakan Sukomon",
+        "Chen Fan",
+        "Crina M. Nimigean"
+      ],
+      "published_year": 2023,
+      "journal": "Annual Review of Biophysics",
+      "doi": "10.1146/annurev-biophys-100322-072921",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-100322-072921",
+      "verification_status": "verified",
+      "verified_on": "2026-09-28",
+      "verification_evidence": {
+        "checked_on": "2026-09-28",
+        "scope": "Title, authors, journal, volume year and DOI checked against the Annual Reviews article record.",
+        "sources": [
+          "https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-100322-072921"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-SINGLE-CELL-MECHANICS-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Single-Cell Mechanics: Structural Determinants and Functional Relevance",
+      "authors": [
+        "Marta Urbanska",
+        "Jochen Guck"
+      ],
+      "published_year": 2024,
+      "journal": "Annual Review of Biophysics",
+      "doi": "10.1146/annurev-biophys-030822-030629",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-030822-030629",
+      "verification_status": "verified",
+      "verified_on": "2026-09-28",
+      "verification_evidence": {
+        "checked_on": "2026-09-28",
+        "scope": "Title, authors, journal, volume year and DOI checked against the Annual Reviews article record.",
+        "sources": [
+          "https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-030822-030629"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-BIOLOGICAL-RIGIDITY-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Rigidity and Mechanical Response in Biological Structures",
+      "authors": [
+        "Kelly Aspinwall",
+        "Tyler Hain",
+        "M. Lisa Manning"
+      ],
+      "published_year": 2026,
+      "journal": "Annual Review of Biophysics",
+      "doi": "10.1146/annurev-biophys-021424-014456",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-021424-014456",
+      "verification_status": "verified",
+      "verified_on": "2026-09-28",
+      "verification_evidence": {
+        "checked_on": "2026-09-28",
+        "scope": "Title, authors, journal, volume year and DOI checked against the Annual Reviews article record.",
+        "sources": [
+          "https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-021424-014456"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-SQUIRMERS-CILIA-FLUID-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Fluid Dynamics of Squirmers and Ciliated Microorganisms",
+      "authors": [
+        "Takuji Ishikawa"
+      ],
+      "published_year": 2024,
+      "journal": "Annual Review of Fluid Mechanics",
+      "doi": "10.1146/annurev-fluid-121021-042929",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-fluid-121021-042929",
+      "verification_status": "verified",
+      "verified_on": "2026-09-28",
+      "verification_evidence": {
+        "checked_on": "2026-09-28",
+        "scope": "Title, author, journal, volume year and DOI checked against the Annual Reviews article record.",
+        "sources": [
+          "https://www.annualreviews.org/content/journals/10.1146/annurev-fluid-121021-042929"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-MICROCIRCULATION-BLOOD-FLOW-2017",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Blood Flow in the Microcirculation",
+      "authors": [
+        "Timothy W. Secomb"
+      ],
+      "published_year": 2017,
+      "journal": "Annual Review of Fluid Mechanics",
+      "doi": "10.1146/annurev-fluid-010816-060302",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-fluid-010816-060302",
+      "verification_status": "verified",
+      "verified_on": "2026-09-28",
+      "verification_evidence": {
+        "checked_on": "2026-09-28",
+        "scope": "Title, author, journal, volume year and DOI checked against the Annual Reviews article record.",
+        "sources": [
+          "https://www.annualreviews.org/content/journals/10.1146/annurev-fluid-010816-060302"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-NONEQUILIBRIUM-BIOCHEMICAL-NETWORKS-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Nonequilibrium Thermodynamics for Biochemical Networks: Energetic Principles of Cellular Function",
+      "authors": [
+        "Yuhai Tu"
+      ],
+      "published_year": 2026,
+      "journal": "Annual Review of Biophysics",
+      "doi": "10.1146/annurev-biophys-021424-112247",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-021424-112247",
+      "verification_status": "verified",
+      "verified_on": "2026-09-28",
+      "verification_evidence": {
+        "checked_on": "2026-09-28",
+        "scope": "Title, author, journal, volume year and DOI checked against the Annual Reviews article record.",
+        "sources": [
+          "https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-021424-112247"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-STOCHASTIC-INTRACELLULAR-TRANSPORT-2024",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Emergent Spatiotemporal Organization in Stochastic Intracellular Transport Dynamics",
+      "authors": [
+        "Kunaal Joshi",
+        "Harrison M. York",
+        "Charles S. Wright",
+        "Rudro R. Biswas",
+        "Senthil Arumugam",
+        "Srividya Iyer-Biswas"
+      ],
+      "published_year": 2024,
+      "journal": "Annual Review of Biophysics",
+      "doi": "10.1146/annurev-biophys-030422-044448",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-030422-044448",
+      "verification_status": "verified",
+      "verified_on": "2026-09-28",
+      "verification_evidence": {
+        "checked_on": "2026-09-28",
+        "scope": "Title, authors, journal, volume year and DOI checked against the Annual Reviews volume/article record.",
+        "sources": [
+          "https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-030422-044448"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-DYNAMIC-SUBCELLULAR-IMAGING-2026",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Imaging Dynamic Subcellular Organization at High Spatiotemporal Resolution",
+      "authors": [
+        "Francesca W. van Tartwijk",
+        "Liuba Dvinskikh",
+        "Edward N. Ward",
+        "Meng Lu",
+        "Clemens F. Kaminski"
+      ],
+      "published_year": 2026,
+      "journal": "Annual Review of Biophysics",
+      "doi": "10.1146/annurev-biophys-021424-011728",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-021424-011728",
+      "verification_status": "verified",
+      "verified_on": "2026-09-28",
+      "verification_evidence": {
+        "checked_on": "2026-09-28",
+        "scope": "Title, authors, journal, volume year and DOI checked against the Annual Reviews article record.",
+        "sources": [
+          "https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-021424-011728"
+        ]
+      }
+    },
+    {
+      "id": "REVIEW-DEER-PROTEIN-MODELING-2025",
+      "resource_type": "review_article",
+      "theory_only": true,
+      "title": "Protein Modeling with DEER Spectroscopy",
+      "authors": [
+        "Maxx H. Tessmer",
+        "Stefan Stoll"
+      ],
+      "published_year": 2025,
+      "journal": "Annual Review of Biophysics",
+      "doi": "10.1146/annurev-biophys-030524-013431",
+      "publisher_url": "https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-030524-013431",
+      "verification_status": "verified",
+      "verified_on": "2026-09-28",
+      "verification_evidence": {
+        "checked_on": "2026-09-28",
+        "scope": "Title, authors, journal, volume year and DOI checked against the Annual Reviews article record.",
+        "sources": [
+          "https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-030524-013431"
+        ]
+      }
     }
   ]
 }

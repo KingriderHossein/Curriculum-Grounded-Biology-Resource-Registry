@@ -2241,6 +2241,119 @@
         "theory_only": true
       },
       "completed_on": "2026-09-27"
+    },
+    {
+      "id": "BIOPHYSICS",
+      "fa_name": "بیوفیزیک",
+      "en_name": "Biophysics",
+      "scope": "theoretical",
+      "roadmap_stages": [
+        "foundation",
+        "core",
+        "intermediate",
+        "advanced",
+        "specialized"
+      ],
+      "concepts": [
+        {
+          "id": "BPH01",
+          "label": "مقیاس‌ها، واحدها، تحلیل ابعادی و مرتبه بزرگی در سامانه‌های زیستی"
+        },
+        {
+          "id": "BPH02",
+          "label": "ترمودینامیک زیستی، انرژی آزاد، پتانسیل شیمیایی و تعادل"
+        },
+        {
+          "id": "BPH03",
+          "label": "مکانیک آماری، آنتروپی، نوسانات حرارتی و توزیع‌های احتمالی"
+        },
+        {
+          "id": "BPH04",
+          "label": "حرکت براونی، انتشار، فرایندهای تصادفی و انتقال مولکولی"
+        },
+        {
+          "id": "BPH05",
+          "label": "نیروهای مولکولی، الکترواستاتیک، اثر آب‌گریزی، اتصال و همکاری‌پذیری"
+        },
+        {
+          "id": "BPH06",
+          "label": "ساختار و دینامیک ماکرومولکول‌ها، فیزیک پلیمرها و تاخوردگی"
+        },
+        {
+          "id": "BPH07",
+          "label": "بیوفیزیک غشا، اسمز، نفوذپذیری و گرادیان‌های الکتروشیمیایی"
+        },
+        {
+          "id": "BPH08",
+          "label": "زیست‌الکتریسیته، پتانسیل غشا، کانال‌های یونی و تحریک‌پذیری"
+        },
+        {
+          "id": "BPH09",
+          "label": "سینتیک، سامانه‌های دور از تعادل و تبدیل انرژی در زیست"
+        },
+        {
+          "id": "BPH10",
+          "label": "اسکلت سلولی، موتورهای مولکولی و ماده فعال"
+        },
+        {
+          "id": "BPH11",
+          "label": "مکانیک سلول و بافت، ویسکوالاستیسیته و مکانوتراسن‌داکشن"
+        },
+        {
+          "id": "BPH12",
+          "label": "مکانیک سیالات و جریان‌ها در سامانه‌های زیستی"
+        },
+        {
+          "id": "BPH13",
+          "label": "اصول فیزیکی اندازه‌گیری، تصویربرداری و طیف‌سنجی زیستی"
+        }
+      ],
+      "branches": [
+        {
+          "id": "molecular-biophysics-folding-dynamics",
+          "label": "بیوفیزیک مولکولی، تاخوردگی و دینامیک ماکرومولکول‌ها"
+        },
+        {
+          "id": "nucleic-acid-biophysics",
+          "label": "بیوفیزیک DNA، RNA و پلیمرهای زیستی"
+        },
+        {
+          "id": "membrane-biophysics-transport",
+          "label": "بیوفیزیک غشا و انتقال"
+        },
+        {
+          "id": "bioelectricity-excitable-systems",
+          "label": "زیست‌الکتریسیته و سامانه‌های تحریک‌پذیر"
+        },
+        {
+          "id": "cytoskeleton-molecular-motors-active-matter",
+          "label": "اسکلت سلولی، موتورهای مولکولی و ماده فعال"
+        },
+        {
+          "id": "cell-tissue-mechanics-mechanobiology",
+          "label": "مکانیک سلولی، بافتی و مکانوبیولوژی"
+        },
+        {
+          "id": "biological-fluid-dynamics",
+          "label": "دینامیک سیالات زیستی"
+        },
+        {
+          "id": "statistical-nonequilibrium-biophysics",
+          "label": "بیوفیزیک آماری، تصادفی و دور از تعادل"
+        },
+        {
+          "id": "biophysical-imaging-spectroscopy",
+          "label": "مبانی فیزیکی تصویربرداری و طیف‌سنجی زیستی"
+        }
+      ],
+      "status": "complete",
+      "completed_on": "2026-09-28",
+      "completion_criteria": {
+        "general_roadmap_resources": 4,
+        "specialized_branches_required": 9,
+        "student_guidance_required": true,
+        "theory_only": true
+      }
     }
   ]
 }

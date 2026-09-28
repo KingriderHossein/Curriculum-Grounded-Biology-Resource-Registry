@@ -10132,6 +10132,543 @@
         "how_to_use": "برای هر target مشخص کنید ویروسی است یا میزبان، در کدام مرحله چرخه قرار دارد، چه مزیت انتخابی دارد و مقاومت چگونه می‌تواند ایجاد شود.",
         "next_step": "پس از این شاخه، مسیر تخصصی ویروس‌شناسی کامل است و می‌توانید بر اساس سؤال پژوهشی خود یکی از نه شاخه را عمیق‌تر دنبال کنید."
       }
+    },
+    {
+      "id": "BIOPHYSICS::BOOK-INTRODUCTORY-PHYSICS-BIO-SCIENTISTS-2018",
+      "resource_id": "BOOK-INTRODUCTORY-PHYSICS-BIO-SCIENTISTS-2018",
+      "subject_id": "BIOPHYSICS",
+      "learning_stage": "foundation",
+      "role": "foundation",
+      "coverage_concept_ids": [
+        "BPH01",
+        "BPH02",
+        "BPH04",
+        "BPH07",
+        "BPH08",
+        "BPH11",
+        "BPH12",
+        "BPH13"
+      ],
+      "selection_rationale": "A biology-oriented physics text that repairs the quantitative prerequisites needed for biophysics, including scale, mechanics, transport, thermodynamics, electricity, fluids and physical measurement, without assuming a physics-major background.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که زیست‌شناسی را می‌داند اما در فیزیک پایه، تحلیل ابعادی، ترمودینامیک، الکتریسیته یا مکانیک احساس ضعف می‌کند.",
+        "why": "این منبع فیزیک را با مسئله‌ها و مثال‌های زیستی پیوند می‌دهد و شکاف میان فیزیک عمومی و ورود به بیوفیزیک را پر می‌کند.",
+        "how_to_use": "مطالعه را انتخابی انجام دهید؛ روی واحدها و مقیاس، انرژی و ترمودینامیک، انتشار و انتقال، الکتریسیته، سیالات و اصول اندازه‌گیری تمرکز کنید و تمرین‌های کمی اصلی را حل کنید.",
+        "next_step": "پس از تثبیت پیش‌نیازهای کمی، وارد Quantitative Understanding of Biosystems شوید."
+      }
+    },
+    {
+      "id": "BIOPHYSICS::BOOK-QUANTITATIVE-BIOSYSTEMS2-2019",
+      "resource_id": "BOOK-QUANTITATIVE-BIOSYSTEMS2-2019",
+      "subject_id": "BIOPHYSICS",
+      "learning_stage": "core",
+      "role": "core",
+      "coverage_concept_ids": [
+        "BPH01",
+        "BPH02",
+        "BPH03",
+        "BPH04",
+        "BPH05",
+        "BPH06",
+        "BPH07",
+        "BPH08",
+        "BPH09",
+        "BPH10",
+        "BPH11",
+        "BPH12"
+      ],
+      "selection_rationale": "A dedicated introductory biophysics textbook that provides a coherent first full pass from molecular interactions and statistical physics to membranes, transport, molecular machines and cell-scale physical behavior.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که پیش‌نیازهای فیزیک و زیست پایه را دارد و می‌خواهد برای نخستین بار بیوفیزیک را به‌صورت منظم و کمی یاد بگیرد.",
+        "why": "این کتاب به‌جای ارائه مجموعه‌ای پراکنده از مثال‌های فیزیکی، مفاهیم اصلی بیوفیزیک را در یک مسیر آموزشی واحد به هم متصل می‌کند.",
+        "how_to_use": "فصل‌ها را به‌ترتیب مسیر کتاب بخوانید و برای هر مبحث سه چیز را ثبت کنید: کمیت‌های اصلی، مدل یا معادله مرکزی و معنای زیستی آن.",
+        "next_step": "پس از این دور، برای دید مدل‌محورتر در مقیاس سلول و مولکول به Physical Biology of the Cell بروید."
+      }
+    },
+    {
+      "id": "BIOPHYSICS::BOOK-PHYSICAL-BIOLOGY-CELL2-2013",
+      "resource_id": "BOOK-PHYSICAL-BIOLOGY-CELL2-2013",
+      "subject_id": "BIOPHYSICS",
+      "learning_stage": "intermediate",
+      "role": "intermediate_reference",
+      "coverage_concept_ids": [
+        "BPH01",
+        "BPH02",
+        "BPH03",
+        "BPH04",
+        "BPH05",
+        "BPH06",
+        "BPH07",
+        "BPH08",
+        "BPH09",
+        "BPH10",
+        "BPH11",
+        "BPH12"
+      ],
+      "selection_rationale": "A model-centered physical biology text that deepens the quantitative interpretation of cellular systems through statistical mechanics, elasticity, membrane physics, biological electricity, molecular motors and dynamical models.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که اصول عمومی بیوفیزیک را یک بار آموخته و اکنون می‌خواهد آن‌ها را در مدل‌های واقعی‌تر سلولی و مولکولی به کار بگیرد.",
+        "why": "قدرت اصلی کتاب در تبدیل پدیده‌های زیستی به مدل‌های کمی قابل‌تحلیل است؛ بنابراین برای دور دوم و عمیق‌تر از یادگیری مناسب‌تر است.",
+        "how_to_use": "هر فصل را با تمرکز بر فرایند مدل‌سازی بخوانید: فرض‌ها را مشخص کنید، کمیت‌های قابل‌اندازه‌گیری را جدا کنید، معادلات را به پدیده زیستی برگردانید و محدودیت مدل را بنویسید.",
+        "next_step": "پس از تسلط بر این سطح، برای تمرکز بر اصول نظری عمومی‌تر و استدلال پژوهشی به Biophysics: Searching for Principles بروید."
+      }
+    },
+    {
+      "id": "BIOPHYSICS::BOOK-BIOPHYSICS-SEARCHING-PRINCIPLES-2012",
+      "resource_id": "BOOK-BIOPHYSICS-SEARCHING-PRINCIPLES-2012",
+      "subject_id": "BIOPHYSICS",
+      "learning_stage": "advanced",
+      "role": "advanced_reference",
+      "coverage_concept_ids": [
+        "BPH01",
+        "BPH03",
+        "BPH04",
+        "BPH05",
+        "BPH06",
+        "BPH08",
+        "BPH09"
+      ],
+      "selection_rationale": "An advanced theoretical treatment that looks for general physical principles in biological systems, emphasizing quantitative reasoning, fluctuations, inference and principled model construction rather than broad introductory coverage.",
+      "student_guidance_fa": {
+        "best_for": "دانشجوی پیشرفته‌ای که با فیزیک، احتمال و مدل‌سازی کمی راحت است و می‌خواهد از سطح کاربرد فرمول‌ها به سطح استخراج اصول عمومی در زیست برسد.",
+        "why": "این کتاب یک مرجع مقدماتی نیست؛ ارزش آن در نوع استدلال نظری و ساخت مدل‌هایی است که از جزئیات یک سامانه خاص فراتر می‌روند.",
+        "how_to_use": "آن را مسئله‌محور بخوانید. پیش از دنبال‌کردن مشتق‌ها، سؤال فیزیکی هر بخش، فرض‌های مدل، کمیت قابل پیش‌بینی و نوع شواهد لازم برای آزمون مدل را مشخص کنید.",
+        "next_step": "پس از این مرحله، وارد شاخه تخصصی موردنظر شوید و منابع مروری همان شاخه را کنار این چارچوب نظری مطالعه کنید."
+      }
+    },
+    {
+      "id": "BIOPHYSICS::REVIEW-PROTEIN-FOLDING-COLLAPSE-2025",
+      "resource_id": "REVIEW-PROTEIN-FOLDING-COLLAPSE-2025",
+      "subject_id": "BIOPHYSICS",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "molecular-biophysics-folding-dynamics"
+      ],
+      "coverage_concept_ids": [
+        "BPH02",
+        "BPH03",
+        "BPH05",
+        "BPH06",
+        "BPH09"
+      ],
+      "selection_rationale": "A principle-centered review of protein collapse and folding that connects hydrophobic driving forces, entropy, cooperativity and free-energy landscapes to macromolecular organization.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد تاخوردگی پروتئین را از دید انرژی آزاد، آنتروپی و برهم‌کنش‌های مولکولی بفهمد.",
+        "why": "منبع، تاخوردگی را به یک مسئله بیوفیزیکی درباره نیروهای محرک و landscape انرژی تبدیل می‌کند، نه صرفاً توصیف ساختار پروتئین.",
+        "how_to_use": "هنگام مطالعه، نیروهای محرک، متغیرهای ترمودینامیکی و مراحل collapse و folding را جدا کنید و رابطه آن‌ها را در یک نقشه مفهومی بنویسید.",
+        "next_step": "سپس منبع NMR/FRET را بخوانید تا از تصویر ترمودینامیکی به دینامیک زمانی پروتئین برسید."
+      }
+    },
+    {
+      "id": "BIOPHYSICS::REVIEW-PROTEIN-DYNAMICS-NMR-FRET-2024",
+      "resource_id": "REVIEW-PROTEIN-DYNAMICS-NMR-FRET-2024",
+      "subject_id": "BIOPHYSICS",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "molecular-biophysics-folding-dynamics"
+      ],
+      "coverage_concept_ids": [
+        "BPH04",
+        "BPH05",
+        "BPH06",
+        "BPH09",
+        "BPH13"
+      ],
+      "selection_rationale": "A complementary review linking rapid conformational fluctuations to protein function through NMR and single-molecule FRET, emphasizing timescales and dynamic ensembles.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که ساختار و تاخوردگی پروتئین را می‌داند و اکنون می‌خواهد نقش نوسانات و ensembleهای ساختاری را بفهمد.",
+        "why": "این منبع نشان می‌دهد عملکرد پروتئین فقط به یک ساختار ثابت وابسته نیست و باید حرکت در چند مقیاس زمانی را نیز در نظر گرفت.",
+        "how_to_use": "تمرکز را روی مفهوم timescale، exchange و conformational ensemble بگذارید؛ جزئیات عملی کار با دستگاه را دنبال نکنید.",
+        "next_step": "پس از آن می‌توانید وارد شاخه بیوفیزیک اسیدهای نوکلئیک یا روش‌های تصویربرداری/طیف‌سنجی شوید."
+      }
+    },
+    {
+      "id": "BIOPHYSICS::REVIEW-CHROMATIN-PHYSICOCHEMISTRY-2024",
+      "resource_id": "REVIEW-CHROMATIN-PHYSICOCHEMISTRY-2024",
+      "subject_id": "BIOPHYSICS",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "nucleic-acid-biophysics"
+      ],
+      "coverage_concept_ids": [
+        "BPH02",
+        "BPH03",
+        "BPH05",
+        "BPH06",
+        "BPH09"
+      ],
+      "selection_rationale": "A physical framework for chromatin organization from nucleosome-scale interactions to higher-order compartments, integrating polymer, electrostatic and phase-organizing ideas.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد سازمان فضایی کروماتین را با زبان فیزیک پلیمرها و برهم‌کنش‌های بین‌مولکولی تحلیل کند.",
+        "why": "منبع، اتصال DNA و پروتئین‌ها را به سازمان چندمقیاسی کروماتین و compartmentها پیوند می‌دهد.",
+        "how_to_use": "مقیاس‌های سازمان را از نوکلئوزوم تا compartment جدا کنید و برای هر مقیاس، نیروها و محدودیت‌های فیزیکی غالب را بنویسید.",
+        "next_step": "سپس مرور شبیه‌سازی RNA را بخوانید تا دینامیک یک پلیمر زیستی دیگر را در مقیاس اتمی مقایسه کنید."
+      }
+    },
+    {
+      "id": "BIOPHYSICS::REVIEW-RNA-ATOMISTIC-DYNAMICS-2026",
+      "resource_id": "REVIEW-RNA-ATOMISTIC-DYNAMICS-2026",
+      "subject_id": "BIOPHYSICS",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "nucleic-acid-biophysics"
+      ],
+      "coverage_concept_ids": [
+        "BPH03",
+        "BPH04",
+        "BPH05",
+        "BPH06",
+        "BPH09"
+      ],
+      "selection_rationale": "A complementary account of RNA conformational dynamics and intermolecular interactions at atomistic resolution, useful for connecting energy landscapes to nucleic-acid motion.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مبانی ساختار RNA را می‌داند و می‌خواهد رابطه بین حرکت اتمی، ensemble و برهم‌کنش RNA را درک کند.",
+        "why": "RNA سامانه‌ای بسیار دینامیک است و این مرور نشان می‌دهد چگونه مدل‌های اتمی برای فهم حالت‌های مختلف آن به کار می‌روند.",
+        "how_to_use": "روی مفاهیم force field، sampling، conformational ensemble و محدودیت شبیه‌سازی تمرکز کنید، نه اجرای نرم‌افزار.",
+        "next_step": "پس از این شاخه، می‌توانید بیوفیزیک غشا یا بیوفیزیک آماری را دنبال کنید."
+      }
+    },
+    {
+      "id": "BIOPHYSICS::REVIEW-SECONDARY-ACTIVE-TRANSPORT-2024",
+      "resource_id": "REVIEW-SECONDARY-ACTIVE-TRANSPORT-2024",
+      "subject_id": "BIOPHYSICS",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "membrane-biophysics-transport"
+      ],
+      "coverage_concept_ids": [
+        "BPH02",
+        "BPH04",
+        "BPH05",
+        "BPH07",
+        "BPH08",
+        "BPH09"
+      ],
+      "selection_rationale": "A mechanistic review of secondary active transport that connects ion gradients, lipid environment, conformational coupling and free-energy transduction across membranes.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بفهمد چگونه گرادیان یونی می‌تواند انتقال یک مولکول دیگر را از نظر انرژی هدایت کند.",
+        "why": "منبع رابطه مستقیم میان گرادیان الکتروشیمیایی، ساختار ناقل و coupling انرژی را نشان می‌دهد.",
+        "how_to_use": "برای هر نمونه، منبع انرژی، جهت جریان یون، ماده منتقل‌شونده و چرخه تغییر شکل ناقل را مشخص کنید.",
+        "next_step": "سپس مرور ABC transporter را برای مقایسه با انتقال اولیه وابسته به ATP بخوانید."
+      }
+    },
+    {
+      "id": "BIOPHYSICS::REVIEW-ABC-TRANSPORTERS-2023",
+      "resource_id": "REVIEW-ABC-TRANSPORTERS-2023",
+      "subject_id": "BIOPHYSICS",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "membrane-biophysics-transport"
+      ],
+      "coverage_concept_ids": [
+        "BPH05",
+        "BPH07",
+        "BPH08",
+        "BPH09"
+      ],
+      "selection_rationale": "A complementary structural-mechanistic review of ABC transporters that illustrates ATP-driven conformational cycles and coupling between chemical and transport work.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که انتقال ثانویه را فهمیده و می‌خواهد آن را با سامانه‌های انتقال فعال اولیه مقایسه کند.",
+        "why": "این منبع نشان می‌دهد انرژی ATP چگونه به تغییر شکل پروتئین و جابه‌جایی ماده در غشا متصل می‌شود.",
+        "how_to_use": "چرخه ATP binding، hydrolysis و تغییر حالت ناقل را به‌صورت یک چرخه انرژی رسم کنید و آن را با secondary active transport مقایسه کنید.",
+        "next_step": "بعد از این مقایسه، وارد شاخه زیست‌الکتریسیته شوید."
+      }
+    },
+    {
+      "id": "BIOPHYSICS::REVIEW-BACTERIAL-ELECTROPHYSIOLOGY-2024",
+      "resource_id": "REVIEW-BACTERIAL-ELECTROPHYSIOLOGY-2024",
+      "subject_id": "BIOPHYSICS",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "bioelectricity-excitable-systems"
+      ],
+      "coverage_concept_ids": [
+        "BPH04",
+        "BPH07",
+        "BPH08",
+        "BPH09"
+      ],
+      "selection_rationale": "A broad electrophysiology review showing how membrane potential, ion transport and electrical signaling principles operate in bacterial cells.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد زیست‌الکتریسیته را فراتر از نورون و عضله و به‌عنوان یک اصل عمومی سلولی ببیند.",
+        "why": "سامانه‌های باکتریایی کمک می‌کنند مفهوم membrane potential، ion flux و electrical state از زمینه جانوری جدا و عمومی‌تر فهمیده شود.",
+        "how_to_use": "تمرکز را روی منشأ پتانسیل غشا، نوع یون‌ها، کانال‌ها و پیامدهای فیزیولوژیک تغییر ولتاژ بگذارید.",
+        "next_step": "سپس مقاله غیرفعال‌سازی کانال پتاسیمی را برای ورود به مکانیزم gating بخوانید."
+      }
+    },
+    {
+      "id": "BIOPHYSICS::REVIEW-POTASSIUM-BALL-CHAIN-2023",
+      "resource_id": "REVIEW-POTASSIUM-BALL-CHAIN-2023",
+      "subject_id": "BIOPHYSICS",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "bioelectricity-excitable-systems"
+      ],
+      "coverage_concept_ids": [
+        "BPH05",
+        "BPH07",
+        "BPH08",
+        "BPH09"
+      ],
+      "selection_rationale": "A focused ion-channel review that exposes the physical basis of voltage-dependent channel inactivation and gating kinetics through the ball-and-chain mechanism.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که اصول پتانسیل غشا و کانال یونی را می‌داند و می‌خواهد وارد جزئیات فیزیکی gating شود.",
+        "why": "یک نمونه مکانیزمی روشن از این است که ساختار مولکولی چگونه kinetics جریان یونی را کنترل می‌کند.",
+        "how_to_use": "رابطه بین ساختار، حالت باز/بسته، زمان غیرفعال‌سازی و اثر آن بر جریان یونی را در یک نمودار حالت خلاصه کنید.",
+        "next_step": "پس از این شاخه، مطالعه مکانیک مولکولی و موتورهای سلولی مسیر طبیعی بعدی است."
+      }
+    },
+    {
+      "id": "BIOPHYSICS::REVIEW-CYTOSKELETAL-FILAMENTS-2025",
+      "resource_id": "REVIEW-CYTOSKELETAL-FILAMENTS-2025",
+      "subject_id": "BIOPHYSICS",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "cytoskeleton-molecular-motors-active-matter"
+      ],
+      "coverage_concept_ids": [
+        "BPH03",
+        "BPH05",
+        "BPH10",
+        "BPH11"
+      ],
+      "selection_rationale": "A mechanics-focused review of single cytoskeletal filaments covering bending, stretching, force generation and material response at the filament scale.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد اسکلت سلولی را به‌عنوان یک سامانه مکانیکی و نه فقط مجموعه‌ای از پروتئین‌ها مطالعه کند.",
+        "why": "خواص مکانیکی اکتین، میکروتوبول و فیلامان‌ها پایه فهم شکل سلول و تولید نیرو هستند.",
+        "how_to_use": "برای هر فیلامان، کمیت‌هایی مانند stiffness، persistence length و نوع بار مکانیکی را با نقش زیستی آن مرتبط کنید.",
+        "next_step": "سپس مرور kinesin را بخوانید تا ببینید موتور مولکولی چگونه روی این بستر مکانیکی کار می‌کند."
+      }
+    },
+    {
+      "id": "BIOPHYSICS::REVIEW-KINESIN-2025",
+      "resource_id": "REVIEW-KINESIN-2025",
+      "subject_id": "BIOPHYSICS",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "cytoskeleton-molecular-motors-active-matter"
+      ],
+      "coverage_concept_ids": [
+        "BPH04",
+        "BPH09",
+        "BPH10",
+        "BPH11"
+      ],
+      "selection_rationale": "A complementary mechanistic review of kinesin motors linking ATP turnover, conformational change, stepping, processivity and force production.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مکانیک فیلامان‌ها را فهمیده و اکنون می‌خواهد تبدیل انرژی شیمیایی به حرکت جهت‌دار را بررسی کند.",
+        "why": "کینزین نمونه کلاسیک coupling میان ATP، حرکت مولکولی و نیروی مکانیکی است.",
+        "how_to_use": "چرخه شیمیایی ATP را کنار چرخه مکانیکی stepping قرار دهید و نقاط coupling بین این دو را مشخص کنید.",
+        "next_step": "پس از این شاخه، مکانیک کل سلول و بافت را دنبال کنید."
+      }
+    },
+    {
+      "id": "BIOPHYSICS::REVIEW-SINGLE-CELL-MECHANICS-2024",
+      "resource_id": "REVIEW-SINGLE-CELL-MECHANICS-2024",
+      "subject_id": "BIOPHYSICS",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "cell-tissue-mechanics-mechanobiology"
+      ],
+      "coverage_concept_ids": [
+        "BPH03",
+        "BPH05",
+        "BPH10",
+        "BPH11"
+      ],
+      "selection_rationale": "A broad review of the structural determinants and functional implications of single-cell mechanical properties, connecting cytoskeleton, cortex and cell material behavior.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد از مکانیک اجزای سلولی به رفتار مکانیکی کل سلول برسد.",
+        "why": "این منبع رابطه میان ساختار داخلی سلول، سفتی، تغییر شکل و عملکرد را در یک چارچوب واحد بررسی می‌کند.",
+        "how_to_use": "خواص مکانیکی را در سه سطح ساختار، کمیت فیزیکی و پیامد زیستی دسته‌بندی کنید؛ وارد جزئیات پروتکل اندازه‌گیری نشوید.",
+        "next_step": "سپس مرور rigidity را برای تعمیم مفهوم پاسخ مکانیکی به ساختارهای پیچیده‌تر بخوانید."
+      }
+    },
+    {
+      "id": "BIOPHYSICS::REVIEW-BIOLOGICAL-RIGIDITY-2026",
+      "resource_id": "REVIEW-BIOLOGICAL-RIGIDITY-2026",
+      "subject_id": "BIOPHYSICS",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "cell-tissue-mechanics-mechanobiology"
+      ],
+      "coverage_concept_ids": [
+        "BPH03",
+        "BPH09",
+        "BPH11"
+      ],
+      "selection_rationale": "A complementary review of rigidity and mechanical response in biological structures, useful for understanding collective material behavior and transitions in cellular and tissue-scale systems.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مفهوم سفتی سلول را می‌داند و می‌خواهد آن را به رفتار جمعی و شبکه‌ای ساختارهای زیستی گسترش دهد.",
+        "why": "مفهوم rigidity پلی میان مکانیک تک‌سلول و پاسخ مکانیکی شبکه‌ها و بافت‌ها ایجاد می‌کند.",
+        "how_to_use": "روی تفاوت stiffness و rigidity، نقش connectivity و شرایط گذار مکانیکی تمرکز کنید و نمونه‌های زیستی را با مدل فیزیکی مرتبط کنید.",
+        "next_step": "برای دیدن اثر محیط سیال بر سامانه‌های زیستی، شاخه دینامیک سیالات را ادامه دهید."
+      }
+    },
+    {
+      "id": "BIOPHYSICS::REVIEW-SQUIRMERS-CILIA-FLUID-2024",
+      "resource_id": "REVIEW-SQUIRMERS-CILIA-FLUID-2024",
+      "subject_id": "BIOPHYSICS",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "biological-fluid-dynamics"
+      ],
+      "coverage_concept_ids": [
+        "BPH01",
+        "BPH04",
+        "BPH11",
+        "BPH12"
+      ],
+      "selection_rationale": "A fluid-mechanics review of microswimmers and ciliated microorganisms emphasizing low-Reynolds-number hydrodynamics, propulsion and fluid-structure interaction.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بفهمد حرکت در مقیاس میکروسکوپی چرا با شهود مکانیک سیالات روزمره متفاوت است.",
+        "why": "این منبع نقش عدد رینولدز پایین، ویسکوزیته و حرکت مژک‌ها را در تولید حرکت زیستی روشن می‌کند.",
+        "how_to_use": "ابتدا scaling و Reynolds number را استخراج کنید، سپس بررسی کنید هر نوع حرکت چگونه محدودیت‌های هیدرودینامیکی را دور می‌زند.",
+        "next_step": "سپس مرور جریان خون میکروسیرکولاسیون را برای مقایسه با جریان زیستی در مقیاس بزرگ‌تر بخوانید."
+      }
+    },
+    {
+      "id": "BIOPHYSICS::REVIEW-MICROCIRCULATION-BLOOD-FLOW-2017",
+      "resource_id": "REVIEW-MICROCIRCULATION-BLOOD-FLOW-2017",
+      "subject_id": "BIOPHYSICS",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "biological-fluid-dynamics"
+      ],
+      "coverage_concept_ids": [
+        "BPH01",
+        "BPH11",
+        "BPH12"
+      ],
+      "selection_rationale": "A complementary review of microcirculatory blood flow showing how vessel geometry, cellular deformability and non-Newtonian effects shape transport in biological fluids.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مبانی hydrodynamics زیستی را می‌داند و می‌خواهد اثر سلول‌ها و هندسه عروق را در جریان خون بفهمد.",
+        "why": "خون نمونه‌ای مهم از سیال زیستی پیچیده است که رفتار آن با یک سیال نیوتنی ساده کاملاً توضیح داده نمی‌شود.",
+        "how_to_use": "پارامترهای هندسی، ویسکوزیته مؤثر، تغییر شکل گلبول و مقاومت جریان را با هم مقایسه کنید.",
+        "next_step": "بعد از این شاخه، بیوفیزیک آماری و دور از تعادل را برای تحلیل عمومی‌تر انتقال ادامه دهید."
+      }
+    },
+    {
+      "id": "BIOPHYSICS::REVIEW-NONEQUILIBRIUM-BIOCHEMICAL-NETWORKS-2026",
+      "resource_id": "REVIEW-NONEQUILIBRIUM-BIOCHEMICAL-NETWORKS-2026",
+      "subject_id": "BIOPHYSICS",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "statistical-nonequilibrium-biophysics"
+      ],
+      "coverage_concept_ids": [
+        "BPH02",
+        "BPH03",
+        "BPH09"
+      ],
+      "selection_rationale": "A theoretical review of nonequilibrium thermodynamics in biochemical networks, connecting free-energy consumption, fluxes, dissipation and cellular function.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که ترمودینامیک تعادلی را می‌داند و می‌خواهد بفهمد چرا سلول زنده اساساً یک سامانه دور از تعادل است.",
+        "why": "منبع نشان می‌دهد حفظ flux و عملکرد سلولی به مصرف انرژی و dissipation وابسته است.",
+        "how_to_use": "برای هر مدل، ورودی انرژی، flux، میزان dissipation و خروجی عملکردی را مشخص کنید و آن را با حالت تعادل مقایسه کنید.",
+        "next_step": "سپس منبع انتقال تصادفی درون‌سلولی را برای دیدن نقش noise و سازمان فضایی بخوانید."
+      }
+    },
+    {
+      "id": "BIOPHYSICS::REVIEW-STOCHASTIC-INTRACELLULAR-TRANSPORT-2024",
+      "resource_id": "REVIEW-STOCHASTIC-INTRACELLULAR-TRANSPORT-2024",
+      "subject_id": "BIOPHYSICS",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "statistical-nonequilibrium-biophysics"
+      ],
+      "coverage_concept_ids": [
+        "BPH03",
+        "BPH04",
+        "BPH09",
+        "BPH10"
+      ],
+      "selection_rationale": "A complementary review showing how stochastic transport processes can generate organized intracellular patterns and dynamics through nonequilibrium mechanisms.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که مفهوم noise و فرایند تصادفی را می‌داند و می‌خواهد اثر آن‌ها را در سازمان فضایی سلول ببیند.",
+        "why": "این منبع نشان می‌دهد تصادف صرفاً مزاحمت نیست و می‌تواند بخشی از سازوکار ایجاد الگوی زمانی و مکانی باشد.",
+        "how_to_use": "متغیرهای تصادفی، مکانیسم انتقال و پدیده emergent هر مدل را از هم جدا کنید و به ارتباط آن با nonequilibrium توجه کنید.",
+        "next_step": "پس از این شاخه، برای بررسی نحوه مشاهده این دینامیک‌ها وارد تصویربرداری و طیف‌سنجی شوید."
+      }
+    },
+    {
+      "id": "BIOPHYSICS::REVIEW-DYNAMIC-SUBCELLULAR-IMAGING-2026",
+      "resource_id": "REVIEW-DYNAMIC-SUBCELLULAR-IMAGING-2026",
+      "subject_id": "BIOPHYSICS",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "branch_reference",
+      "branch_ids": [
+        "biophysical-imaging-spectroscopy"
+      ],
+      "coverage_concept_ids": [
+        "BPH01",
+        "BPH04",
+        "BPH06",
+        "BPH13"
+      ],
+      "selection_rationale": "A concept-focused review of high-spatiotemporal-resolution imaging that links physical resolution limits, labeling strategies and dynamic biological organization without serving as an instrument protocol.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که می‌خواهد بداند تصویربرداری چگونه محدودیت‌های مکانی و زمانی مشاهده پدیده‌های زیرسلولی را تعیین می‌کند.",
+        "why": "منبع میان سؤال زیستی، resolution و نوع اطلاعات قابل استخراج ارتباط برقرار می‌کند.",
+        "how_to_use": "روی trade-off میان spatial resolution، temporal resolution و perturbation تمرکز کنید؛ مراحل اجرایی دستگاه را وارد مسیر مطالعه نکنید.",
+        "next_step": "سپس مرور DEER را برای نمونه‌ای طیف‌سنجی‌محور از استنباط ساختار و فاصله بخوانید."
+      }
+    },
+    {
+      "id": "BIOPHYSICS::REVIEW-DEER-PROTEIN-MODELING-2025",
+      "resource_id": "REVIEW-DEER-PROTEIN-MODELING-2025",
+      "subject_id": "BIOPHYSICS",
+      "learning_stage": "specialized",
+      "role": "specialized",
+      "branch_role": "complementary_reference",
+      "branch_ids": [
+        "biophysical-imaging-spectroscopy"
+      ],
+      "coverage_concept_ids": [
+        "BPH05",
+        "BPH06",
+        "BPH13"
+      ],
+      "selection_rationale": "A complementary spectroscopy review illustrating how DEER-derived distance information constrains protein structural models and how physical observables map to molecular structure.",
+      "student_guidance_fa": {
+        "best_for": "دانشجویی که اصول کلی اندازه‌گیری را می‌داند و می‌خواهد نمونه‌ای روشن از تبدیل داده فیزیکی به مدل ساختاری را بررسی کند.",
+        "why": "DEER نمونه خوبی است برای فهم این‌که یک observable فیزیکی چگونه به محدودیت فاصله‌ای و سپس مدل ساختار تبدیل می‌شود.",
+        "how_to_use": "زنجیره inference را دنبال کنید: observable → distance distribution → structural constraint → model؛ جزئیات اجرای آزمایش خارج از دامنه است.",
+        "next_step": "با این مرحله، مسیر تخصصی بیوفیزیک کامل می‌شود و می‌توانید شاخه‌ای را برای مطالعه عمیق‌تر انتخاب کنید."
+      }
     }
   ]
 }
