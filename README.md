@@ -38,6 +38,7 @@
 | [بافت‌شناسی ⁦Histology⁩](subjects/histology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
 | [آناتومی ⁦Anatomy⁩](subjects/anatomy/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
 | [ویروس‌شناسی ⁦Virology⁩](subjects/virology/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
+| [بیوفیزیک ⁦Biophysics⁩](subjects/biophysics/README.md) | ۴ منبع | ۹ شاخه | ۲۲ |
 
 
 ---
@@ -899,6 +900,49 @@
 </table>
 
 [مشاهده نقشه‌راه ویروس‌شناسی](subjects/virology/README.md)
+
+---
+
+## بیوفیزیک
+
+این مسیر بیوفیزیک را از زبان کمی و ترمودینامیک تا مدل‌سازی فیزیکی سلول و مولکول، زیست‌الکتریسیته، مکانیک سلول و بافت، سیالات زیستی و سامانه‌های دور از تعادل دنبال می‌کند. آموزش عملی دستگاه‌ها، پروتکل‌های آزمایشگاهی و اجرای روش‌های تصویربرداری یا طیف‌سنجی خارج از دامنه Registry هستند.
+
+- بیوفیزیک مولکولی، تاخوردگی و دینامیک ماکرومولکول‌ها؛
+- بیوفیزیک DNA، RNA و پلیمرهای زیستی؛
+- بیوفیزیک غشا و انتقال؛
+- زیست‌الکتریسیته و سامانه‌های تحریک‌پذیر؛
+- اسکلت سلولی، موتورهای مولکولی و ماده فعال؛
+- مکانیک سلولی، بافتی و مکانوبیولوژی؛
+- دینامیک سیالات زیستی؛
+- بیوفیزیک آماری، تصادفی و دور از تعادل؛
+- مبانی فیزیکی تصویربرداری و طیف‌سنجی زیستی؛
+
+### کتاب‌های اصلی مسیر
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://covers.vitalsource.com/vbid/9781351801171/width/320?style=preview" width="145" alt="Quantitative Understanding of Biosystems: An Introduction to Biophysics cover"><br>
+<b>Quantitative Understanding of Biosystems: An Introduction to Biophysics</b><br>
+منبع اصلی · 2nd Edition<br>
+<a href="https://www.vitalsource.com/products/quantitative-understanding-of-biosystems-thomas-m-nordlund-v9781351801171">ناشر / خرید</a>
+</td>
+<td align="center" width="33%">
+<img src="https://covers.vitalsource.com/vbid/9781134111657/width/320?style=preview" width="145" alt="Physical Biology of the Cell cover"><br>
+<b>Physical Biology of the Cell</b><br>
+منبع تکمیلی · 2nd Edition<br>
+<a href="https://www.vitalsource.com/products/physical-biology-of-the-cell-rob-phillips-jane-kondev-v9781134111657">ناشر / خرید</a>
+</td>
+<td align="center" width="33%">
+<img src="https://covers.vitalsource.com/vbid/9781400845576/width/320?style=preview" width="145" alt="Biophysics: Searching for Principles cover"><br>
+<b>Biophysics: Searching for Principles</b><br>
+منبع پیشرفته · 1st Edition<br>
+<a href="https://www.vitalsource.com/products/biophysics-william-bialek-v9781400845576">ناشر / خرید</a>
+</td>
+</tr>
+</table>
+
+[مشاهده نقشه‌راه بیوفیزیک](subjects/biophysics/README.md)
 
 ---
 
