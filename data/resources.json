@@ -8443,13 +8443,16 @@
       "cover": {
         "url": "https://covers.vitalsource.com/vbid/9781108534475/width/320?style=preview",
         "source": "VitalSource exact-title cover; Cambridge University Press remains bibliographic authority",
-        "source_url": "https://www.vitalsource.com/products/introductory-physics-for-biological-scientists-christof-m-aegerter-v9781108534475"
+        "source_url": "https://www.vitalsource.com/products/introductory-physics-for-biological-scientists-christof-m-aegerter-v9781108534475",
+        "expected_sha256": "b28170917828cf1638d341c399b68279d500d4c0b0108e334215519ad95ecc4e",
+        "visual_reviewed_on": "2026-09-28",
+        "visual_review_status": "title_and_edition_checked"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-28",
       "verification_evidence": {
         "checked_on": "2026-09-28",
-        "scope": "Title, author, 2018 publication, Cambridge University Press identity and print ISBN 9781108423342 were checked against Cambridge and VitalSource. Cover-byte identity remains to be locked by the repository cover audit.",
+        "scope": "Title, author, 2018 publication, Cambridge University Press identity and print ISBN 9781108423342 were checked against Cambridge and VitalSource. The selected cover was visually reviewed against the resource identity and its decoded bytes were hash-locked from the repository cover audit.",
         "sources": [
           "https://www.cambridge.org/core/books/introductory-physics-for-biological-scientists/1532D24C96DC4746F9CF7DE7C7DFBD89",
           "https://www.vitalsource.com/products/introductory-physics-for-biological-scientists-christof-m-aegerter-v9781108534475"
@@ -8474,13 +8477,16 @@
       "cover": {
         "url": "https://covers.vitalsource.com/vbid/9781351801171/width/320?style=preview",
         "source": "VitalSource exact-edition cover; CRC Press/Routledge remains bibliographic authority",
-        "source_url": "https://www.vitalsource.com/products/quantitative-understanding-of-biosystems-thomas-m-nordlund-v9781351801171"
+        "source_url": "https://www.vitalsource.com/products/quantitative-understanding-of-biosystems-thomas-m-nordlund-v9781351801171",
+        "expected_sha256": "7df26001853718ddcf19346aaba961fa2478aa06e00220dd200c298b350b447d",
+        "visual_reviewed_on": "2026-09-28",
+        "visual_review_status": "title_and_edition_checked"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-28",
       "verification_evidence": {
         "checked_on": "2026-09-28",
-        "scope": "Title, authors, Second Edition, 2019 publication and print ISBN 9781138633414 were checked against CRC Press/Routledge and VitalSource. Cover-byte identity remains to be locked by the repository cover audit.",
+        "scope": "Title, authors, Second Edition, 2019 publication and print ISBN 9781138633414 were checked against CRC Press/Routledge and VitalSource. The selected cover was visually reviewed against the resource identity and its decoded bytes were hash-locked from the repository cover audit.",
         "sources": [
           "https://www.routledge.com/Quantitative-Understanding-of-Biosystems-An-Introduction-to-Biophysics-Second-Edition/Nordlund-Hoffmann/p/book/9780367779917",
           "https://www.vitalsource.com/products/quantitative-understanding-of-biosystems-thomas-m-nordlund-v9781351801171"
@@ -8507,13 +8513,16 @@
       "cover": {
         "url": "https://covers.vitalsource.com/vbid/9781134111657/width/320?style=preview",
         "source": "VitalSource exact-edition cover; Garland Science/Routledge remains bibliographic authority",
-        "source_url": "https://www.vitalsource.com/products/physical-biology-of-the-cell-rob-phillips-jane-kondev-v9781134111657"
+        "source_url": "https://www.vitalsource.com/products/physical-biology-of-the-cell-rob-phillips-jane-kondev-v9781134111657",
+        "expected_sha256": "4e80cbfeb16135684abdae1ddd7eee4efa79cb25dff8d772ffc5a32baef7a6ae",
+        "visual_reviewed_on": "2026-09-28",
+        "visual_review_status": "title_and_edition_checked"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-28",
       "verification_evidence": {
         "checked_on": "2026-09-28",
-        "scope": "Title, authors, Second Edition, 2013 publication and print ISBN 9780815344506 were checked against Garland Science/Routledge and VitalSource. Cover-byte identity remains to be locked by the repository cover audit.",
+        "scope": "Title, authors, Second Edition, 2013 publication and print ISBN 9780815344506 were checked against Garland Science/Routledge and VitalSource. The selected cover was visually reviewed against the resource identity and its decoded bytes were hash-locked from the repository cover audit.",
         "sources": [
           "https://www.routledge.com/Physical-Biology-of-the-Cell-2nd-Edition/author/p/book/9780429168833",
           "https://www.vitalsource.com/products/physical-biology-of-the-cell-rob-phillips-jane-kondev-v9781134111657"
@@ -8537,13 +8546,16 @@
       "cover": {
         "url": "https://covers.vitalsource.com/vbid/9781400845576/width/320?style=preview",
         "source": "VitalSource exact-title cover; Princeton University Press remains bibliographic authority",
-        "source_url": "https://www.vitalsource.com/products/biophysics-william-bialek-v9781400845576"
+        "source_url": "https://www.vitalsource.com/products/biophysics-william-bialek-v9781400845576",
+        "expected_sha256": "fc0fa4a57402622e006ae806ecdcf4ba64d6d6d1401a5de05d41e623c69a6adb",
+        "visual_reviewed_on": "2026-09-28",
+        "visual_review_status": "title_and_edition_checked"
       },
       "verification_status": "verified",
       "verified_on": "2026-09-28",
       "verification_evidence": {
         "checked_on": "2026-09-28",
-        "scope": "Title, author, original 2012 publication and hardcover ISBN 9780691138916 were checked against Princeton University Press catalog material and Princeton/VitalSource metadata. Cover-byte identity remains to be locked by the repository cover audit.",
+        "scope": "Title, author, original 2012 publication and hardcover ISBN 9780691138916 were checked against Princeton University Press catalog material and Princeton/VitalSource metadata. The selected cover was visually reviewed against the resource identity and its decoded bytes were hash-locked from the repository cover audit.",
         "sources": [
           "https://assets.press.princeton.edu/catalogs/cog13.pdf",
           "https://collaborate.princeton.edu/en/publications/biophysics-searching-for-principles/",
